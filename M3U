@@ -2239,28 +2239,7 @@ https://cdn.hkdtmb.com/hls/96b/index.m3u8
 
 #EXTINF:-1 -------------------------------------------分割线---------------------------------------------------------
 
-#EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="HKDTMB无IP限制",翡翠台
-http://206.253.166.166:80/hkdtmb/81/index.m3u8
-#EXTINF:-1 tvg-id="416" tvg-name="J2" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBJ2.png" group-title="HKDTMB无IP限制",J2
-http://206.253.166.166:80/hkdtmb/82/index.m3u8
-#EXTINF:-1 tvg-id="127" tvg-name="明珠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB明珠台.png" group-title="HKDTMB无IP限制",明珠台
-http://206.253.166.166:80/hkdtmb/84/index.m3u8
-#EXTINF:-1 tvg-id="130" tvg-name="无线新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" group-title="HKDTMB无IP限制",无线新闻
-http://206.253.166.166:80/hkdtmb/83/index.m3u8
-#EXTINF:-1 tvg-id="133" tvg-name="无线财经" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvbfinanceinformationchannel.png" group-title="HKDTMB无IP限制",无线财经·资讯台
-http://206.253.166.166:80/hkdtmb/85/index.m3u8
-#EXTINF:-1 tvg-id="408" tvg-name="ViuTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png" group-title="HKDTMB无IP限制",ViuTV
-http://206.253.166.166:80/hkdtmb/99/index.m3u8
-#EXTINF:-1 tvg-id="408" tvg-name="ViuTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png" group-title="HKDTMB无IP限制",ViuTV Six
-http://206.253.166.166:80/hkdtmb/96/index.m3u8
-#EXTINF:-1 tvg-id="7117" tvg-name="香港国际财经台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hkguojicaijing.png" group-title="HKDTMB无IP限制",香港国际财经台
-http://206.253.166.166:80/hkdtmb/76/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="HKDTMB无IP限制",RHK31
-http://206.253.166.166:80/hkdtmb/31/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="HKDTMB无IP限制",RHK32
-http://206.253.166.166:80/hkdtmb/32/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="HKDTMB无IP限制",RHK33
-http://206.253.166.166:80/hkdtmb/33/index.m3u8
+
 
 #EXTINF:-1 -------------------------------------------分割线---------------------------------------------------------
 
