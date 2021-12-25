@@ -2358,76 +2358,6 @@ http://iptv.tvfix.org/hls/starsports.m3u8
 
 #EXTINF:-1 -------------------------------------------分割线---------------------------------------------------------
 
-#EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="港澳台122",凤凰资讯
-http://anan.jxin122.top/cj.php?id=99&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
-#EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="港澳台122",凤凰资讯台
-http://ott.js.chinamobile.com/TVOD/3/224/3221228098/index.m3u8
-#EXTINF:-1 tvg-id="143" tvg-name="凤凰香港" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png" group-title="港澳台122",凤凰香港台
-http://ott.js.chinamobile.com/TVOD/3/224/3221228060/index.m3u8
-#EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="港澳台122",凤凰中文台
-http://ott.js.chinamobile.com/TVOD/3/224/3221228057/index.m3u8
-#EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港澳台122",翡翠台
-http://anan.jxin122.top/cj.php?id=78&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
-#EXTINF:-1 tvg-id="416" tvg-name="J2" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBJ2.png" group-title="港澳台122",TVBJ2
-http://anan.jxin122.top/cj.php?id=74&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
-#EXTINF:-1 tvg-id="127" tvg-name="明珠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB明珠台.png" group-title="港澳台122",明珠台
-http://anan.jxin122.top/cj.php?id=77&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
-#EXTINF:-1 tvg-id="130" tvg-name="无线新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" group-title="港澳台122",无线新闻
-http://anan.jxin122.top/cj.php?id=73&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
-#EXTINF:-1 tvg-id="133" tvg-name="无线财经" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvbfinanceinformationchannel.png" group-title="港澳台122",无线财经
-http://anan.jxin122.top/cj.php?id=79&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
-#EXTINF:-1 tvg-id="7122" tvg-name="有线新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/youxianxinwen.png" group-title="港澳台122",有线新闻台
-http://anan.jxin122.top/cj.php?id=62&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
-#EXTINF:-1 tvg-id="131" tvg-name="TVB星河频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB星河.png" group-title="港澳台122",TVB星河
-http://anan.jxin122.top/cj.php?id=76&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台122",RHK31
-http://anan.jxin122.top/cj.php?id=96&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台122",RHK32
-http://anan.jxin122.top/cj.php?id=97&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
-#EXTINF:-1 tvg-id="408" tvg-name="ViuTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png" group-title="港澳台122",VIUTV
-http://anan.jxin122.top/cj.php?id=94&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
-#EXTINF:-1 tvg-id="6028" tvg-name="中视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/中视.png" group-title="港澳台122",中视
-http://anan.jxin122.top/cj.php?id=47&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
-#EXTINF:-1 tvg-id="6030" tvg-name="华视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CTS.png" group-title="港澳台122",华视
-http://anan.jxin122.top/cj.php?id=46&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
-#EXTINF:-1 tvg-id="7135" tvg-name="民视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/民视.png" group-title="港澳台122",民视
-http://anan.jxin122.top/cj.php?id=44&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
-#EXTINF:-1 tvg-id="6031" tvg-name="公视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/PublicTV.png" group-title="港澳台122",公视
-http://anan.jxin122.top/cj.php?id=43&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
-#EXTINF:-1 tvg-id="6047" tvg-name="三立台湾台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETTaiwan.png" group-title="港澳台122",三立台湾台
-http://anan.jxin122.top/cj.php?id=24&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
-#EXTINF:-1 tvg-id="6239" tvg-name="三立综合台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETZonghe.png" group-title="港澳台122",三立综合台
-http://anan.jxin122.top/cj.php?id=26&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
-#EXTINF:-1 tvg-id="6239" tvg-name="三立综合台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETZonghe.png" group-title="港澳台122",三立综合台
-http://anan.jxin122.top/cj.php?id=26&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
-#EXTINF:-1 tvg-id="6071" tvg-name="民视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FTVNews.png" group-title="港澳台122",民视新闻
-http://anan.jxin122.top/cj.php?id=5&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
-#EXTINF:-1 tvg-id="6076" tvg-name="非凡新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/UniqueNews.png" group-title="港澳台122",非凡新闻
-http://anan.jxin122.top/cj.php?id=6&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
-#EXTINF:-1 tvg-id="6068" tvg-name="年代新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/年代ERANewsHD.png" group-title="港澳台122",年代新闻
-http://anan.jxin122.top/cj.php?id=7&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
-#EXTINF:-1 tvg-id="6090" tvg-name="纬来体育台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandSportsHD.png" group-title="港澳台122",纬来体育
-http://anan.jxin122.top/cj.php?id=11&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
-#EXTINF:-1 tvg-id="6082" tvg-name="LSTime电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/LSTIME.png" group-title="港澳台122",龙祥年代
-http://anan.jxin122.top/cj.php?id=13&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
-#EXTINF:-1 tvg-id="6084" tvg-name="东森洋片台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCWesternMovies.png" group-title="港澳台122",东森洋片
-http://anan.jxin122.top/cj.php?id=28&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
-#EXTINF:-1 tvg-id="6080" tvg-name="东森电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCMovies.png" group-title="港澳台122",东森电影
-http://anan.jxin122.top/cj.php?id=29&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
-#EXTINF:-1 tvg-id="6057" tvg-name="中天娱乐台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiEntertainment.png" group-title="港澳台122",中天娱乐
-http://anan.jxin122.top/cj.php?id=40&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
-#EXTINF:-1 tvg-id="6054" tvg-name="中天综合台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiVariety.png" group-title="港澳台122",中天综合
-http://anan.jxin122.top/cj.php?id=41&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台122",中天新闻
-http://anan.jxin122.top/cj.php?id=42&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台122",中天亚洲台
-http://anan.jxin122.top/cj.php?id=39&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
-#EXTINF:-1 tvg-id="6050" tvg-name="东森综合台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCVariety.png" group-title="港澳台122",东森综合
-http://anan.jxin122.top/cj.php?id=32&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
-#EXTINF:-1 tvg-id="6069" tvg-name="东森新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCNews.png" group-title="港澳台122",东森新闻
-http://anan.jxin122.top/cj.php?id=33&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
-#EXTINF:-1 tvg-id="6074" tvg-name="TVBS" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS.png" group-title="港澳台122",TVBS
-http://anan.jxin122.top/cj.php?id=37&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
 
 
 #EXTINF:-1 -------------------------------------------分割线---------------------------------------------------------
@@ -3685,128 +3615,124 @@ http://121.51.249.99/txdirect.hls.huya.com/src/1199561158071-1199561158071-54343
 
 
 #EXTINF:-1 group-title="NewTV未来电视" tvg-logo="https://www.hualigs.cn/image/6152b44210edc.jpg",NewTV潮妈辣婆
-http://117.148.179.43/PLTV/88888888/224/3221229725/index.m3u8
-#EXTINF:-1 group-title="NewTV未来电视" tvg-logo="https://www.hualigs.cn/image/6152b44210edc.jpg",NewTV潮妈辣婆
-http://117.148.179.16/PLTV/88888888/224/3221229031/index.m3u8
+http://39.134.66.66/PLTV/88888888/224/3221225542/index.m3u8
 #EXTINF:-1 group-title="NewTV未来电视" tvg-logo="https://www.hualigs.cn/image/6152b441e38e3.jpg",NewTV动作电影
-http://117.148.179.15/PLTV/88888888/224/3221229034/index.m3u8
-#EXTINF:-1 group-title="NewTV未来电视" tvg-logo="https://www.hualigs.cn/image/6152b441e38e3.jpg",NewTV动作电影
-http://117.148.179.44/PLTV/88888888/224/3221229672/index.m3u8
+http://223.110.243.162/ott.js.chinamobile.com/PLTV/3/224/3221227606/index.m3u8
 #EXTINF:-1 group-title="NewTV未来电视" tvg-logo="https://www.hualigs.cn/image/6152b441d5f5a.jpg",NewTV古装剧场
-http://112.15.230.59/PLTV/88888888/224/3221229710/index.m3u8
-#EXTINF:-1 group-title="NewTV未来电视" tvg-logo="https://www.hualigs.cn/image/6152b441d5f5a.jpg",NewTV古装剧场
-http://117.148.179.51/PLTV/88888888/224/3221229011/index.m3u8
+http://39.134.66.66/PLTV/88888888/224/3221225524/index.m3u8
 #EXTINF:-1 group-title="NewTV未来电视" tvg-logo="https://www.hualigs.cn/image/6152b4428f069.jpg",NewTV怡伴健康
-http://117.148.179.32/PLTV/88888888/224/3221229016/index.m3u8
-#EXTINF:-1 group-title="NewTV未来电视" tvg-logo="https://www.hualigs.cn/image/6152b4428f069.jpg",NewTV怡伴健康
-http://117.148.179.37/PLTV/88888888/224/3221229692/index.m3u8
+http://39.134.66.66/PLTV/88888888/224/3221225571/index.m3u8
 #EXTINF:-1 group-title="NewTV未来电视" tvg-logo="https://www.hualigs.cn/image/6152b44266305.jpg",NewTV军旅剧场
-http://117.148.179.52/PLTV/88888888/224/3221229004/index.m3u8
-#EXTINF:-1 group-title="NewTV未来电视" tvg-logo="https://www.hualigs.cn/image/6152b44266305.jpg",NewTV军旅剧场
-http://117.148.179.37/PLTV/88888888/224/3221229698/index.m3u8
+http://39.134.66.66/PLTV/88888888/224/3221225560/index.m3u8
 #EXTINF:-1 group-title="NewTV未来电视" tvg-logo="https://www.hualigs.cn/image/6152b4426d72a.jpg",NewTV精品大剧
-http://117.148.179.37/PLTV/88888888/224/3221229713/index.m3u8
+http://223.110.243.151/ott.js.chinamobile.com/PLTV/3/224/3221227618/index.m3u8
 #EXTINF:-1 group-title="NewTV未来电视" tvg-logo="https://www.hualigs.cn/image/6152b4426d72a.jpg",NewTV精品大剧
-http://117.148.179.49/PLTV/88888888/224/3221229017/index.m3u8
+http://39.134.66.66/PLTV/88888888/224/3221225536/index.m3u8
 #EXTINF:-1 group-title="NewTV未来电视" tvg-logo="https://www.hualigs.cn/image/6152b4426cd7e.jpg",NewTV精品纪录
-http://117.148.179.43/PLTV/88888888/224/3221229707/index.m3u8
-#EXTINF:-1 group-title="NewTV未来电视" tvg-logo="https://www.hualigs.cn/image/6152b4426cd7e.jpg",NewTV精品纪录
-http://117.148.179.21/PLTV/88888888/224/3221229013/index.m3u8
+http://39.134.66.66/PLTV/88888888/224/3221225545/index.m3u8
 #EXTINF:-1 group-title="NewTV未来电视" tvg-logo="https://www.hualigs.cn/image/6152b44266d96.jpg",NewTV精品体育
-http://117.148.179.37/PLTV/88888888/224/3221229719/index.m3u8
-#EXTINF:-1 group-title="NewTV未来电视" tvg-logo="https://www.hualigs.cn/image/6152b44266d96.jpg",NewTV精品体育
-http://117.148.179.47/PLTV/88888888/224/3221229026/index.m3u8
+http://39.134.66.66/PLTV/88888888/224/3221225526/index.m3u8
 #EXTINF:-1 group-title="NewTV未来电视" tvg-logo="https://www.hualigs.cn/image/6152b44278137.jpg",NewTV金牌综艺
-http://117.148.179.40/PLTV/88888888/224/3221229704/index.m3u8
-#EXTINF:-1 group-title="NewTV未来电视" tvg-logo="https://www.hualigs.cn/image/6152b44278137.jpg",NewTV金牌综艺
-http://117.148.179.35/PLTV/88888888/224/3221229002/index.m3u8
+http://39.134.66.66/PLTV/88888888/224/3221225525/index.m3u8
 #EXTINF:-1 group-title="NewTV未来电视" tvg-logo="https://www.hualigs.cn/image/6152b44264046.jpg",NewTV军事评论
-http://117.148.179.43/PLTV/88888888/224/3221229716/index.m3u8
-#EXTINF:-1 group-title="NewTV未来电视" tvg-logo="https://www.hualigs.cn/image/6152b44264046.jpg",NewTV军事评论
-http://117.148.179.51/PLTV/88888888/224/3221229008/index.m3u8
+http://39.134.66.66/PLTV/88888888/224/3221225535/index.m3u8
+#EXTINF:-1 group-title="NewTV未来电视" tvg-logo="",NewTV精品电影
+http://183.207.249.14/PLTV/3/224/3221225567/index.m3u8
+#EXTINF:-1 group-title="NewTV未来电视" tvg-logo="",NewTV动画王国
+http://183.207.249.15/PLTV/3/224/3221225555/index.m3u8
 #EXTINF:-1 group-title="NewTV未来电视" tvg-logo="https://www.hualigs.cn/image/6152b442743c8.jpg",NewTV惊悚悬疑
-http://117.148.179.43/PLTV/88888888/224/3221229701/index.m3u8
+http://223.110.243.154/ott.js.chinamobile.com/PLTV/3/224/3221227615/index.m3u8
 #EXTINF:-1 group-title="NewTV未来电视" tvg-logo="https://www.hualigs.cn/image/6152b442743c8.jpg",NewTV惊悚悬疑
-http://117.148.179.51/PLTV/88888888/224/3221229001/index.m3u8
+http://223.110.243.154/ott.js.chinamobile.com/PLTV/3/224/3221227536/index.m3u8
 #EXTINF:-1 group-title="NewTV未来电视" tvg-logo="https://www.hualigs.cn/image/6152b4427ea36.jpg",NewTV家庭剧场
-http://117.148.179.52/PLTV/88888888/224/3221229007/index.m3u8
-#EXTINF:-1 group-title="NewTV未来电视" tvg-logo="https://www.hualigs.cn/image/6152b4427ea36.jpg",NewTV家庭剧场
-http://117.148.179.37/PLTV/88888888/224/3221229695/index.m3u8
+http://39.134.66.66/PLTV/88888888/224/3221225538/index.m3u8
 #EXTINF:-1 group-title="NewTV未来电视" tvg-logo="https://www.hualigs.cn/image/6152b442a20a7.jpg",NewTV农业致富
-http://117.148.179.45/PLTV/88888888/224/3221229029/index.m3u8
-#EXTINF:-1 group-title="NewTV未来电视" tvg-logo="https://www.hualigs.cn/image/6152b442a20a7.jpg",NewTV农业致富
-http://117.148.179.24/PLTV/88888888/224/3221229666/index.m3u8
+http://39.134.66.66/PLTV/88888888/224/3221225552/index.m3u8
 #EXTINF:-1 group-title="NewTV未来电视" tvg-logo="https://www.hualigs.cn/image/6152b4429ab67.jpg",NewTV武搏世界
-http://112.15.230.38/PLTV/88888888/224/3221229722/index.m3u8
-#EXTINF:-1 group-title="NewTV未来电视" tvg-logo="https://www.hualigs.cn/image/6152b4429ab67.jpg",NewTV武搏世界
-http://117.148.179.16/PLTV/88888888/224/3221229041/index.m3u8
+http://39.134.66.66/PLTV/88888888/224/3221225547/index.m3u8
 #EXTINF:-1 group-title="NewTV未来电视" tvg-logo="https://www.hualigs.cn/image/6152b442952e4.jpg",NewTV炫舞未来
-http://117.148.179.45/PLTV/88888888/224/3221229155/index.m3u8
-#EXTINF:-1 group-title="NewTV未来电视" tvg-logo="https://www.hualigs.cn/image/6152b442952e4.jpg",NewTV炫舞未来
-http://117.148.179.37/PLTV/88888888/224/3221229669/index.m3u8
+http://39.134.66.66/PLTV/88888888/224/3221225646/index.m3u8
 #EXTINF:-1 group-title="NewTV未来电视" tvg-logo="https://www.hualigs.cn/image/6152b442850a3.jpg",NewTV中国功夫
-http://117.148.179.47/PLTV/88888888/224/3221229019/index.m3u8
-#EXTINF:-1 group-title="NewTV未来电视" tvg-logo="https://www.hualigs.cn/image/6152b442850a3.jpg",NewTV中国功夫
-http://117.148.179.37/PLTV/88888888/224/3221229663/index.m3u8
+http://39.134.66.66/PLTV/88888888/224/3221225604/index.m3u8
 #EXTINF:-1 group-title="NewTV未来电视" tvg-logo="https://www.hualigs.cn/image/6152b4423992c.jpg",NewTV爱情喜剧
-http://112.15.230.34/PLTV/88888888/224/3221229731/index.m3u8
-#EXTINF:-1 group-title="NewTV未来电视" tvg-logo="https://www.hualigs.cn/image/6152b4423992c.jpg",NewTV爱情喜剧
-http://117.148.179.45/PLTV/88888888/224/3221229014/index.m3u8
-#EXTINF:-1 group-title="NewTV未来电视" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/d/de/NEWTV.PNG/440px-NEWTV.PNG",NewTV精品综合
-http://117.148.179.40/PLTV/88888888/224/3221229005/index.m3u8
-#EXTINF:-1 group-title="NewTV未来电视" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/d/de/NEWTV.PNG/440px-NEWTV.PNG",NewTV精品综合
-http://117.148.179.37/PLTV/88888888/224/3221229660/index.m3u8
-#EXTINF:-1 group-title="NewTV未来电视" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/d/de/NEWTV.PNG/440px-NEWTV.PNG",NewTV热播精选
-http://117.148.179.15/PLTV/88888888/224/3221229062/index.m3u8
-#EXTINF:-1 group-title="NewTV未来电视" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/d/de/NEWTV.PNG/440px-NEWTV.PNG",NewTV热播精选
-http://117.148.179.37/PLTV/88888888/224/3221229654/index.m3u8
+http://39.134.66.66/PLTV/88888888/224/3221225533/index.m3u8
+#EXTINF:-1 group-title="NewTV未来电视" tvg-logo="",NewTV超级体育
+http://39.134.66.66/PLTV/88888888/224/3221225635/index.m3u8
+#EXTINF:-1 group-title="NewTV未来电视" tvg-logo="",NewTV超级综艺
+http://39.134.66.66/PLTV/88888888/224/3221225642/index.m3u8
+#EXTINF:-1 group-title="NewTV未来电视" tvg-logo="",NewTV超级电视剧
+http://39.134.66.66/PLTV/88888888/224/3221225637/index.m3u8
+#EXTINF:-1 group-title="NewTV未来电视" tvg-logo="",NewTV超级电影
+http://39.134.66.66/PLTV/88888888/224/3221225644/index.m3u8
+
+
 
 #EXTINF:-1 ---------------------------------------分割线---------------------------------------------------------------
 
 
 
-#EXTINF:-1 group-title="IHOT爱系列" tvg-logo="https://www.hualigs.cn/image/6153d999ab890.jpg",IHOT爱谍战
-http://117.148.179.13/PLTV/88888888/224/3221230092/index.m3u8
-#EXTINF:-1 group-title="IHOT爱系列" tvg-logo="https://www.hualigs.cn/image/6153d999ab890.jpg",IHOT爱谍战
-http://117.148.179.50/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230092/index.m3u8
 #EXTINF:-1 group-title="IHOT爱系列" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/IHOT16/IHOT16.jpg?1",IHOT爱经典
-http://117.148.179.34/PLTV/88888888/224/3221230101/index.m3u8
-#EXTINF:-1 group-title="IHOT爱系列" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/IHOT16/IHOT16.jpg?1",IHOT爱经典
-http://117.148.179.50/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230101/index.m3u8
+http://39.134.134.87/000000001000/6000000006000060630/1.m3u8
 #EXTINF:-1 group-title="IHOT爱系列" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/IHOT14/IHOT14.jpg?1",IHOT爱历史
-http://117.148.179.28/PLTV/88888888/224/3221230100/index.m3u8
-#EXTINF:-1 group-title="IHOT爱系列" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/IHOT14/IHOT14.jpg?1",IHOT爱历史
-http://117.148.179.50/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230100/index.m3u8
+http://39.134.134.87/000000001000/6000000006000150630/1.m3u8
 #EXTINF:-1 group-title="IHOT爱系列" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/IHOT7/IHOT7.jpg?1",IHOT爱旅行
-http://117.148.179.34/PLTV/88888888/224/3221230052/index.m3u8
-#EXTINF:-1 group-title="IHOT爱系列" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/IHOT7/IHOT7.jpg?1",IHOT爱旅行
-http://117.148.179.50/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230052/index.m3u8
+http://39.134.134.87/000000001000/6000000006000250630/1.m3u8
 #EXTINF:-1 group-title="IHOT爱系列" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/IHOT6/IHOT6.jpg?1",IHOT爱美食
-http://117.148.179.39/PLTV/88888888/224/3221230115/index.m3u8
-#EXTINF:-1 group-title="IHOT爱系列" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/IHOT6/IHOT6.jpg?1",IHOT爱美食
-http://117.148.179.50/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230115/index.m3u8
+http://39.134.134.87/000000001000/6000000006000120630/1.m3u8
 #EXTINF:-1 group-title="IHOT爱系列" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/IHOT8/IHOT8.jpg?1",IHOT爱赛车
-http://117.148.179.36/PLTV/88888888/224/3221230032/index.m3u8
-#EXTINF:-1 group-title="IHOT爱系列" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/IHOT8/IHOT8.jpg?1",IHOT爱赛车
-http://117.148.179.50/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230032/index.m3u8
+http://39.134.134.87/000000001000/6000000006000240630/1.m3u8
 #EXTINF:-1 group-title="IHOT爱系列" tvg-logo="https://www.hualigs.cn/image/6153d999cbfa5.jpg",IHOT爱时尚
-http://117.148.179.24/PLTV/88888888/224/3221230109/index.m3u8
-#EXTINF:-1 group-title="IHOT爱系列" tvg-logo="https://www.hualigs.cn/image/6153d999cbfa5.jpg",IHOT爱时尚
-http://117.148.179.50/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230109/index.m3u8
+http://39.134.134.87/000000001000/6000000006000140630/1.m3u8
 #EXTINF:-1 group-title="IHOT爱系列" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/IHOT12/IHOT12.jpg?1",IHOT爱探索
-http://117.148.179.39/PLTV/88888888/224/3221230112/index.m3u8
-#EXTINF:-1 group-title="IHOT爱系列" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/IHOT12/IHOT12.jpg?1",IHOT爱探索
-http://117.148.179.50/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230112/index.m3u8
+http://39.134.134.87/000000001000/6000000006000300630/1.m3u8
 #EXTINF:-1 group-title="IHOT爱系列" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/IHOT5/IHOT5.jpg?1",IHOT爱体育
-http://117.148.179.41/PLTV/88888888/224/3221230034/index.m3u8
-#EXTINF:-1 group-title="IHOT爱系列" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/IHOT5/IHOT5.jpg?1",IHOT爱体育
-http://117.148.179.27/PLTV/88888888/224/3221230103/index.m3u8
-#EXTINF:-1 group-title="IHOT爱系列" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/IHOT5/IHOT5.jpg?1",IHOT爱体育
-http://117.148.179.50/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230034/index.m3u8
+http://39.134.134.87/000000001000/6000000006000290630/1.m3u8
 #EXTINF:-1 group-title="IHOT爱系列" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/IHOT17/IHOT17.jpg?1",IHOT爱悬疑
-http://117.148.179.41/PLTV/88888888/224/3221230098/index.m3u8
-#EXTINF:-1 group-title="IHOT爱系列" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/IHOT17/IHOT17.jpg?1",IHOT爱悬疑
-http://117.148.179.50/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230098/index.m3u8
+http://39.134.134.87/000000001000/6000000006000050630/1.m3u8
+#EXTINF:-1 group-title="IHOT爱系列",iHOT爱都市
+http://39.134.134.87/000000001000/6000000006000080630/1.m3u8
+#EXTINF:-1 group-title="IHOT爱系列",iHOT爱科学
+http://39.134.134.87/000000001000/6000000006000160630/1.m3u8
+#EXTINF:-1 group-title="IHOT爱系列",iHOT爱动漫
+http://39.134.134.87/000000001000/6000000006000280630/1.m3u8
+#EXTINF:-1 group-title="IHOT爱系列",iHOT爱喜剧
+http://39.134.134.87/000000001000/6000000006000010630/1.m3u8
+#EXTINF:-1 group-title="IHOT爱系列",iHOT爱浪漫
+http://39.134.134.87/000000001000/6000000006000040630/1.m3u8
+#EXTINF:-1 group-title="IHOT爱系列",iHOT爱院线
+http://39.134.134.87/000000001000/6000000006000030630/1.m3u8
+#EXTINF:-1 group-title="IHOT爱系列",iHOT爱科幻
+http://39.134.134.87/000000001000/6000000006000020630/1.m3u8
+#EXTINF:-1 group-title="IHOT爱系列",iHOT爱谍战
+http://39.134.134.87/000000001000/6000000006000070630/1.m3u8
+#EXTINF:-1 group-title="IHOT爱系列",iHOT爱家庭
+http://39.134.134.87/000000001000/6000000006000090630/1.m3u8
+#EXTINF:-1 group-title="IHOT爱系列",iHOT爱青春
+http://39.134.134.87/000000001000/6000000006000100630/1.m3u8
+#EXTINF:-1 group-title="IHOT爱系列",iHOT爱奇谈
+http://39.134.134.87/000000001000/6000000006000270630/1.m3u8
+#EXTINF:-1 group-title="IHOT爱系列",iHOT爱玩具
+http://39.134.134.87/000000001000/6000000006000220630/1.m3u8
+#EXTINF:-1 group-title="IHOT爱系列",iHOT爱电竞
+http://39.134.134.87/000000001000/6000000006000230630/1.m3u8
+#EXTINF:-1 group-title="IHOT爱系列",iHOT爱世界
+http://39.134.134.87/000000001000/6000000006000210630/1.m3u8
+#EXTINF:-1 group-title="IHOT爱系列",iHOT爱怀旧
+http://39.134.134.87/000000001000/6000000006000260630/1.m3u8
+#EXTINF:-1 group-title="IHOT爱系列",iHOT爱江湖
+http://39.134.134.87/000000001000/6000000006000110630/1.m3u8
+#EXTINF:-1 group-title="IHOT爱系列",iHOT爱娱乐
+http://39.134.134.87/000000001000/6000000006000130630/1.m3u8
+#EXTINF:-1 group-title="IHOT爱系列",iHOT爱解密
+http://39.134.134.87/000000001000/6000000006000200630/1.m3u8
+#EXTINF:-1 group-title="IHOT爱系列",iHOT爱军武
+http://39.134.134.87/000000001000/6000000006000170630/1.m3u8
+#EXTINF:-1 group-title="IHOT爱系列",iHOT爱幼教
+http://39.134.134.87/000000001000/6000000006000180630/1.m3u8
+#EXTINF:-1 group-title="IHOT爱系列",iHOT爱猎奇
+http://39.134.134.87/000000001000/6000000006000190630/1.m3u8
+
+
 
 #EXTINF:-1 ---------------------------------------分割线---------------------------------------------------------------
 
