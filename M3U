@@ -1803,7 +1803,10 @@ http://39.130.202.81:6610/gitv_live/G_JINYINGJS-HD/G_JINYINGJS-HD.m3u8
 
 
 #EXTINF:-1 -------------------------------------------分割线---------------------------------------------------------
-
+#EXTINF:-1 tvg-logo="https://www.hualigs.cn/image/61c86d69ea31c.jpg" group-title="体育频道",ESPN US
+https://d1iahah7i76psj.cloudfront.net/hls/espn/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/nba_tv_us.png" group-title="体育频道", NBA TV
+http://84.22.33.214:80/nbatv/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育频道",CBS Sports FHD
 http://dai.google.com/linear/hls/event/9Lq0ERvoSR-z9AwvFS-xYA/master.m3u8
 #EXTINF:-1 tvg-id="1987" tvg-name="五星体育频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/wuxingtiyu.png" group-title="体育频道",五星体育
@@ -4150,5 +4153,4 @@ http://vstreams.tv:2082/rb0zYNF5GQ/FGWoCyPvwt/1170831
 http://vstreams.tv:2082/rb0zYNF5GQ/FGWoCyPvwt/1170832
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.hualigs.cn/image/61bc8a375e503.jpg" group-title="亚洲体育频道",Astro SuperSport 4 HD
 http://vstreams.tv:2082/rb0zYNF5GQ/FGWoCyPvwt/1170833
-
 
