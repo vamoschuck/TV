@@ -1805,7 +1805,7 @@ http://39.130.202.81:6610/gitv_live/G_JINYINGJS-HD/G_JINYINGJS-HD.m3u8
 #EXTINF:-1 -------------------------------------------分割线---------------------------------------------------------
 #EXTINF:-1 tvg-logo="https://www.hualigs.cn/image/61c86d69ea31c.jpg" group-title="体育频道",ESPN US
 https://d1iahah7i76psj.cloudfront.net/hls/espn/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/nba_tv_us.png" group-title="体育频道", NBA TV
+#EXTINF:-1 tvg-logo="https://www.hualigs.cn/image/61c913564dd99.jpg" group-title="体育频道", NBA TV
 http://84.22.33.214:80/nbatv/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育频道",CBS Sports FHD
 http://dai.google.com/linear/hls/event/9Lq0ERvoSR-z9AwvFS-xYA/master.m3u8
@@ -3883,52 +3883,7 @@ http://112.49.51.41/r/baiducdncmn2.inter.iqiyi.com/tslive/c57_lb_239_720P_t10/c5
 http://112.49.51.41/r/baiducdncmn2.inter.iqiyi.com/tslive/c56_lb_183_600_t10/c56_lb_183_600_t10.m3u8
 #EXTINF:-1 group-title="IQIYI轮播" tvg-logo="https://www.hualigs.cn/image/6159c4d73ed7f.jpg",爱奇艺-戏曲影院
 http://112.49.51.41/r/baiducdncmn2.inter.iqiyi.com/tslive/c56_lb_245_600_t10/c56_lb_245_600_t10.m3u8
-#EXTINF:-1 group-title="IQIYI轮播" tvg-logo="https://www.hualigs.cn/image/6159c4d73ed7f.jpg",国剧修复
-http://r3r1953403.qicp.vip/iqy.php?id=180049922
-#EXTINF:-1 group-title="IQIYI轮播" tvg-logo="https://www.hualigs.cn/image/6159c4d73ed7f.jpg",收视冠军
-http://r3r1953403.qicp.vip/iqy.php?id=380067022
-#EXTINF:-1 group-title="IQIYI轮播" tvg-logo="https://www.hualigs.cn/image/6159c4d73ed7f.jpg",脱口秀
-http://r3r1953403.qicp.vip/iqy.php?id=180056622
-#EXTINF:-1 group-title="IQIYI轮播" tvg-logo="https://www.hualigs.cn/image/6159c4d73ed7f.jpg",特种兵
-http://r3r1953403.qicp.vip/iqy.php?id=180057122
-#EXTINF:-1 group-title="IQIYI轮播" tvg-logo="https://www.hualigs.cn/image/6159c4d73ed7f.jpg",动作电影
-http://r3r1953403.qicp.vip/iqy.php?id=380068422
-#EXTINF:-1 group-title="IQIYI轮播" tvg-logo="https://www.hualigs.cn/image/6159c4d73ed7f.jpg",科学探索
-http://r3r1953403.qicp.vip/iqy.php?id=180055122
-#EXTINF:-1 group-title="IQIYI轮播" tvg-logo="https://www.hualigs.cn/image/6159c4d73ed7f.jpg",重磅综艺
-http://r3r1953403.qicp.vip/iqy.php?id=180052822
-#EXTINF:-1 group-title="IQIYI轮播" tvg-logo="https://www.hualigs.cn/image/6159c4d73ed7f.jpg",梦想改造家
-http://r3r1953403.qicp.vip/iqy.php?id=180050022
-#EXTINF:-1 group-title="IQIYI轮播" tvg-logo="https://www.hualigs.cn/image/6159c4d73ed7f.jpg",激情燃烧岁月
-http://r3r1953403.qicp.vip/iqy.php?id=180048022
-#EXTINF:-1 group-title="IQIYI轮播" tvg-logo="https://www.hualigs.cn/image/6159c4d73ed7f.jpg",蜡笔小新
-http://r3r1953403.qicp.vip/iqy.php?id=180056722
-#EXTINF:-1 group-title="IQIYI轮播" tvg-logo="https://www.hualigs.cn/image/6159c4d73ed7f.jpg",豆瓣高分
-http://r3r1953403.qicp.vip/iqy.php?id=180055822
-#EXTINF:-1 group-title="IQIYI轮播" tvg-logo="https://www.hualigs.cn/image/6159c4d73ed7f.jpg",神探狄仁杰
-http://r3r1953403.qicp.vip/iqy.php?id=180056822
 
-#EXTINF:-1 group-title="IQIYI轮播" tvg-logo="https://www.hualigs.cn/image/6159c4d73ed7f.jpg",喜羊羊
-http://r3r1953403.qicp.vip/iqy.php?id=180054422
-#EXTINF:-1 group-title="IQIYI轮播" tvg-logo="https://www.hualigs.cn/image/6159c4d73ed7f.jpg",倪大红
-http://r3r1953403.qicp.vip/iqy.php?id=180062022
-#EXTINF:-1 group-title="IQIYI轮播" tvg-logo="https://www.hualigs.cn/image/6159c4d73ed7f.jpg",炊事班的故事
-http://r3r1953403.qicp.vip/iqy.php?id=180056322
-#EXTINF:-1 group-title="IQIYI轮播" tvg-logo="https://www.hualigs.cn/image/6159c4d73ed7f.jpg",王凯
-http://r3r1953403.qicp.vip/iqy.php?id=180057422
-#EXTINF:-1 group-title="IQIYI轮播" tvg-logo="https://www.hualigs.cn/image/6159c4d73ed7f.jpg",我和我的祖国
-http://r3r1953403.qicp.vip/iqy.php?id=180048122
-#EXTINF:-1 group-title="IQIYI轮播" tvg-logo="https://www.hualigs.cn/image/6159c4d73ed7f.jpg",老剧超清修复
-http://r3r1953403.qicp.vip/iqy.php?id=180054522
-#EXTINF:-1 group-title="IQIYI轮播" tvg-logo="https://www.hualigs.cn/image/6159c4d73ed7f.jpg",日韩影院
-http://r3r1953403.qicp.vip/iqy.php?id=380068322
-
-#EXTINF:-1 group-title="IQIYI轮播" tvg-logo="https://www.hualigs.cn/image/6159c4d73ed7f.jpg",青春剧场
-http://r3r1953403.qicp.vip/iqy.php?id=180063722
-#EXTINF:-1 group-title="IQIYI轮播" tvg-logo="https://www.hualigs.cn/image/6159c4d73ed7f.jpg",军事观察
-http://r3r1953403.qicp.vip/iqy.php?id=380069122
-#EXTINF:-1 group-title="IQIYI轮播" tvg-logo="https://www.hualigs.cn/image/6159c4d73ed7f.jpg",小猪佩奇
-http://r3r1953403.qicp.vip/iqy.php?id=180048722
 
 #EXTINF:-1 ---------------------------------------分割线---------------------------------------------------------------
 
@@ -4153,3 +4108,10 @@ http://vstreams.tv:2082/rb0zYNF5GQ/FGWoCyPvwt/1170831
 http://vstreams.tv:2082/rb0zYNF5GQ/FGWoCyPvwt/1170832
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.hualigs.cn/image/61bc8a375e503.jpg" group-title="亚洲体育频道",Astro SuperSport 4 HD
 http://vstreams.tv:2082/rb0zYNF5GQ/FGWoCyPvwt/1170833
+
+
+
+#EXTINF:-1 group-title="短期赛事直播",Setanta SPORT
+https://bal.varcdn1.ru/lb/setanta1/index.m3u8
+#EXTINF:-1 group-title="短期赛事直播",估计是英国频道
+http://45.148.26.176/hls/M1.m3u8
