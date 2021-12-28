@@ -1803,11 +1803,10 @@ http://39.130.202.81:6610/gitv_live/G_JINYINGJS-HD/G_JINYINGJS-HD.m3u8
 
 
 #EXTINF:-1 -------------------------------------------分割线---------------------------------------------------------
-#EXTINF:-1 tvg-logo="https://www.hualigs.cn/image/61c86d69ea31c.jpg" group-title="体育频道",ESPN US
-https://d1iahah7i76psj.cloudfront.net/hls/espn/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.hualigs.cn/image/61c913564dd99.jpg" group-title="体育频道", NBA TV
 http://84.22.33.214:80/nbatv/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育频道",CBS Sports FHD
+#EXTINF:-1 tvg-logo="https://www.hualigs.cn/image/61caacb6e8514.jpg" group-title="体育频道",CBS Sports FHD
 http://dai.google.com/linear/hls/event/9Lq0ERvoSR-z9AwvFS-xYA/master.m3u8
 #EXTINF:-1 tvg-id="1987" tvg-name="五星体育频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/wuxingtiyu.png" group-title="体育频道",五星体育
 http://140.207.241.2:8080/live/program/live/ssty/4000000/mnf.m3u8
@@ -2182,8 +2181,16 @@ http://seb.sason.top/sc/tvbsxw_fhd.m3u8
 http://58.99.33.16:1935/liveedge17/live_244_3.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="7182" tvg-name="智林体育" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/智林体育台.png" group-title="港澳台",智林体育台
 http://58.99.33.16:1935/liveedge17/live_122_3.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="691" tvg-name="国家地理频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/natgeo.png" group-title="港澳台",国家地理
+http://v.mp.haue.edu.cn/hls/natlgeo.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",Channel V
+http://v.mp.haue.edu.cn/hls/channelv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",星空卫视
-https://liveanevia.mncnow.id/live/eds/XingKongTV/sa_dash_vmx/XingKongTV.mpd
+http://v.mp.haue.edu.cn/hls/startv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",星视体育
+http://v.mp.haue.edu.cn/hls/starsports.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",探索发现
+http://v.mp.haue.edu.cn/hls/discovery.m3u8
 
 #EXTINF:-1 -------------------------------------------分割线---------------------------------------------------------
 
@@ -3780,237 +3787,37 @@ http://vstreams.tv:2082/rb0zYNF5GQ/FGWoCyPvwt/1170833
 
 
 
-#EXTINF:-1 group-title="短期赛事直播",Setanta SPORT
-https://bal.varcdn1.ru/lb/setanta1/index.m3u8
-#EXTINF:-1 group-title="短期赛事直播",估计是英国频道
-http://45.148.26.176/hls/M1.m3u8
 
-#EXTM3U
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="RSTP测试外部播放器",CCTV-1 综合
-rtsp://183.252.166.199/PLTV/88888888/224/3221226834/48356507.smil
-#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="RSTP测试外部播放器",CCTV-2 财经
-rtsp://183.252.166.199/PLTV/88888888/224/3221226655/40417429.smil
-#EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="RSTP测试外部播放器",CCTV-4 国际
-rtsp://183.252.166.199/PLTV/88888888/224/3221226633/40417241.smil
-#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="RSTP测试外部播放器",CCTV-5+ 体育赛事
-rtsp://183.252.166.199/PLTV/88888888/224/3221226714/40417236.smil
-#EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="RSTP测试外部播放器",CCTV-7 国防军事
-rtsp://183.252.166.199/PLTV/88888888/224/3221226645/40426612.smil
-#EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" group-title="RSTP测试外部播放器",CCTV-9 纪录
-rtsp://183.252.166.199/PLTV/88888888/224/3221226637/40417257.smil
-#EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" group-title="RSTP测试外部播放器",CCTV-10 科教
-rtsp://183.252.166.199/PLTV/88888888/224/3221226718/40417274.smil
-#EXTINF:-1 tvg-id="12" tvg-name="CCTV11" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png" group-title="RSTP测试外部播放器",CCTV-11
-rtsp://183.252.176.54:554/PLTV/88888888/224/3221225996/10000100000000060000000002296743_0.smil
-#EXTINF:-1 tvg-id="12" tvg-name="CCTV11" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png" group-title="RSTP测试外部播放器",CCTV-11 戏曲
-rtsp://183.252.176.54:554/PLTV/88888888/224/3221225996/10000100000000060000000002296743_0.smil
-#EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" group-title="RSTP测试外部播放器",CCTV-12 社会与法
-rtsp://183.252.166.199/PLTV/88888888/224/3221226659/40417266.smil
-#EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="RSTP测试外部播放器",CCTV-13 新闻
-rtsp://183.252.166.199/PLTV/88888888/224/3221226104/10000100000000060000000002298296_0.smil
-#EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="RSTP测试外部播放器",CCTV-14 少儿
-rtsp://183.252.166.199/PLTV/88888888/224/3221226641/40418077.smil
-#EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="RSTP测试外部播放器",CCTV-15 音乐
-rtsp://183.252.166.199/PLTV/88888888/224/3221225998/10000100000000060000000002296745_0.smil
-#EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="RSTP测试外部播放器",CCTV-15 音乐
-rtsp://183.252.176.54:554/PLTV/88888888/224/3221225998/10000100000000060000000002296745_0.smil
-#EXTINF:-1 tvg-id="51" tvg-name="吉林卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jilin.png" group-title="RSTP测试外部播放器",吉林卫视
-rtsp://183.252.166.199/PLTV/88888888/224/3221226792/48616745.smil
-#EXTINF:-1 tvg-id="51" tvg-name="吉林卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jilin.png" group-title="RSTP测试外部播放器",吉林卫视 
-rtsp://183.252.166.199/PLTV/88888888/224/3221226792/48616745.smil
-#EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="RSTP测试外部播放器",北京卫视 
-rtsp://183.252.166.199/PLTV/88888888/224/3221226092/10000100000000060000000002296930_0.smil
-#EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="RSTP测试外部播放器",北京卫视
-rtsp://183.252.176.54:554/PLTV/88888888/224/3221226092/10000100000000060000000002296930_0.smil
-#EXTINF:-1 tvg-id="41" tvg-name="东南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongnan.png" group-title="RSTP测试外部播放器",东南卫视 
-rtsp://183.252.166.199/PLTV/88888888/224/3221226121/10000100000000060000000002358085_0.smil
-#EXTINF:-1 tvg-id="41" tvg-name="东南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongnan.png" group-title="RSTP测试外部播放器",东南卫视
-rtsp://183.252.176.54:554/PLTV/88888888/224/3221226121/10000100000000060000000002358085_0.smil
-#EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="RSTP测试外部播放器",东方卫视 
-rtsp://183.252.166.199/PLTV/88888888/224/3221226041/10000100000000060000000002296882_0.smil
-#EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="RSTP测试外部播放器",东方卫视
-rtsp://183.252.176.54:554/PLTV/88888888/224/3221226041/10000100000000060000000002296882_0.smil
-#EXTINF:-1 tvg-id="44" tvg-name="贵州卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guizhou.png" group-title="RSTP测试外部播放器",贵州卫视
-rtsp://183.252.166.199/PLTV/88888888/224/3221226126/10000100000000060000000002434541_0.smil
-#EXTINF:-1 tvg-id="44" tvg-name="贵州卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guizhou.png" group-title="RSTP测试外部播放器",贵州卫视
-rtsp://183.252.166.199:554/PLTV/88888888/224/3221226126/10000100000000060000000002434541_0.smil
-#EXTINF:-1 tvg-id="44" tvg-name="贵州卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guizhou.png" group-title="RSTP测试外部播放器",贵州卫视
-rtsp://183.252.176.54:554/PLTV/88888888/224/3221226126/10000100000000060000000002434541_0.smil
-#EXTINF:-1 tvg-id="59" tvg-name="青海卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/qinghai.png" group-title="RSTP测试外部播放器",青海卫视
-rtsp://183.252.176.54:554/PLTV/88888888/224/3221226078/10000100000000060000000002296920_0.smil
-#EXTINF:-1 tvg-id="55" tvg-name="陕西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi.png" group-title="RSTP测试外部播放器",陕西卫视
-rtsp://183.252.176.54:554/PLTV/88888888/224/3221226110/10000100000000060000000002310152_0.smil
-#EXTINF:-1 tvg-id="48" tvg-name="湖北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hubei.png" group-title="RSTP测试外部播放器",湖北卫视 
-rtsp://183.252.166.199/PLTV/88888888/224/3221226091/10000100000000060000000002296929_0.smil
-#EXTINF:-1 tvg-id="48" tvg-name="湖北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hubei.png" group-title="RSTP测试外部播放器",湖北卫视
-rtsp://183.252.176.54:554/PLTV/88888888/224/3221226091/10000100000000060000000002296929_0.smil
-#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="RSTP测试外部播放器",湖南卫视 
-rtsp://183.252.166.199/PLTV/88888888/224/3221226082/10000100000000060000000002296924_0.smil
-#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="RSTP测试外部播放器",湖南卫视
-rtsp://183.252.176.54:554/PLTV/88888888/224/3221226082/10000100000000060000000002296924_0.smil
-#EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="RSTP测试外部播放器",浙江卫视 
-rtsp://183.252.166.199/PLTV/88888888/224/3221226040/10000100000000060000000002296881_0.smil
-#EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="RSTP测试外部播放器",浙江卫视
-rtsp://183.252.176.54:554/PLTV/88888888/224/3221226040/10000100000000060000000002296881_0.smil
-#EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="RSTP测试外部播放器",江苏卫视 
-rtsp://183.252.166.199/PLTV/88888888/224/3221226038/10000100000000060000000002296879_0.smil
-#EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="RSTP测试外部播放器",江苏卫视
-rtsp://183.252.176.54:554/PLTV/88888888/224/3221226038/10000100000000060000000002296879_0.smil
-#EXTINF:-1 tvg-id="50" tvg-name="江西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangxi.png" group-title="RSTP测试外部播放器",江西卫视 
-rtsp://183.252.166.199/PLTV/88888888/224/3221226687/42186801.smil
-#EXTINF:-1 tvg-id="38" tvg-name="山东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png" group-title="RSTP测试外部播放器",山东卫视 
-rtsp://183.252.166.199/PLTV/88888888/224/3221226090/10000100000000060000000002296928_0.smil
-#EXTINF:-1 tvg-id="38" tvg-name="山东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png" group-title="RSTP测试外部播放器",山东卫视
-rtsp://183.252.176.54:554/PLTV/88888888/224/3221226090/10000100000000060000000002296928_0.smil
-#EXTINF:-1 tvg-id="37" tvg-name="旅游卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/lvyou.png" group-title="RSTP测试外部播放器",海南卫视
-rtsp://183.252.166.199/PLTV/88888888/224/3221226048/10000100000000060000000002296889_0.smil
-#EXTINF:-1 tvg-id="37" tvg-name="旅游卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/lvyou.png" group-title="RSTP测试外部播放器",海南卫视 
-rtsp://183.252.166.199/PLTV/88888888/224/3221226048/10000100000000060000000002296889_0.smil
-#EXTINF:-1 tvg-id="37" tvg-name="旅游卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/lvyou.png" group-title="RSTP测试外部播放器",海南卫视
-rtsp://183.252.176.54:554/PLTV/88888888/224/3221226048/10000100000000060000000002296889_0.smil
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="RSTP测试外部播放器",海峡卫视
-rtsp://183.252.166.199/PLTV/88888888/224/3221226128/10000100000000060000000002434539_0.smil
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="RSTP测试外部播放器",海峡卫视 
-rtsp://183.252.166.199/PLTV/88888888/224/3221226128/10000100000000060000000002434539_0.smil
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="RSTP测试外部播放器",海峡卫视
-rtsp://183.252.176.54:554/PLTV/88888888/224/3221226128/10000100000000060000000002434539_0.smil
-#EXTINF:-1 tvg-id="33" tvg-name="广东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="RSTP测试外部播放器",广东卫视 
-rtsp://183.252.166.199/PLTV/88888888/224/3221226089/10000100000000060000000002296927_0.smil
-#EXTINF:-1 tvg-id="33" tvg-name="广东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="RSTP测试外部播放器",广东卫视
-rtsp://183.252.176.54:554/PLTV/88888888/224/3221226089/10000100000000060000000002296927_0.smil
-#EXTINF:-1 tvg-id="43" tvg-name="广西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangxi.png" group-title="RSTP测试外部播放器",广西卫视
-rtsp://183.252.176.54:554/PLTV/88888888/224/3221226070/10000100000000060000000002296911_0.smil
-#EXTINF:-1 tvg-id="53" tvg-name="宁夏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/ningxia.png" group-title="RSTP测试外部播放器",宁夏卫视
-rtsp://183.252.176.54:554/PLTV/88888888/224/3221226075/10000100000000060000000002296916_0.smil
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="RSTP测试外部播放器",福建卫视
-rtsp://183.252.176.54:554/PLTV/88888888/224/3221226121/10000100000000060000000002358085_0.smil
-#EXTINF:-1 tvg-id="58" tvg-name="云南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="RSTP测试外部播放器",云南卫视
-rtsp://183.252.166.199/PLTV/88888888/224/3221226108/10000100000000060000000002310150_0.smil
-#EXTINF:-1 tvg-id="58" tvg-name="云南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="RSTP测试外部播放器",云南卫视
-rtsp://183.252.176.54:554/PLTV/88888888/224/3221226108/10000100000000060000000002310150_0.smil
-#EXTINF:-1 tvg-id="68" tvg-name="厦门卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xiamen.png" group-title="RSTP测试外部播放器",厦门卫视
-rtsp://183.252.176.54:554/PLTV/88888888/224/3221226124/10000100000000060000000002358105_0.smil
-#EXTINF:-1 tvg-id="45" tvg-name="河北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hebei.png" group-title="RSTP测试外部播放器",河北卫视 
-rtsp://183.252.166.199/PLTV/88888888/224/3221226111/10000100000000060000000002310153_0.smil
-#EXTINF:-1 tvg-id="45" tvg-name="河北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hebei.png" group-title="RSTP测试外部播放器",河北卫视
-rtsp://183.252.176.54:554/PLTV/88888888/224/3221226111/10000100000000060000000002310153_0.smil
-#EXTINF:-1 tvg-id="47" tvg-name="河南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/henan.png" group-title="RSTP测试外部播放器",河南卫视 
-rtsp://183.252.166.199/PLTV/88888888/224/3221226076/10000100000000060000000002296917_0.smil
-#EXTINF:-1 tvg-id="47" tvg-name="河南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/henan.png" group-title="RSTP测试外部播放器",河南卫视
-rtsp://183.252.176.54:554/PLTV/88888888/224/3221226076/10000100000000060000000002296917_0.smil
-#EXTINF:-1 tvg-id="40" tvg-name="重庆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png" group-title="RSTP测试外部播放器",重庆卫视 
-rtsp://183.252.166.199/PLTV/88888888/224/3221226753/45949735.smil
-#EXTINF:-1 tvg-id="46" tvg-name="黑龙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png" group-title="RSTP测试外部播放器",黑龙江卫视 
-rtsp://183.252.166.199/PLTV/88888888/224/3221226087/10000100000000060000000002296926_0.smil
-#EXTINF:-1 tvg-id="46" tvg-name="黑龙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png" group-title="RSTP测试外部播放器",黑龙江卫视
-rtsp://183.252.176.54:554/PLTV/88888888/224/3221226087/10000100000000060000000002296926_0.smil
-#EXTINF:-1 tvg-id="56" tvg-name="四川卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sichuan.png" group-title="RSTP测试外部播放器",四川卫视 
-rtsp://183.252.166.199/PLTV/88888888/224/3221226806/45949301.smil
-#EXTINF:-1 tvg-id="1956" tvg-name="七彩戏剧" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/qicaixiju.png" group-title="RSTP测试外部播放器",七彩戏剧
-rtsp://183.252.176.54:554/PLTV/88888888/224/3221226054/10000100000000060000000002296895_0.smil
-#EXTINF:-1 tvg-id="6010" tvg-name="嘉佳卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jiajiakt.png" group-title="RSTP测试外部播放器",嘉佳卡通
-rtsp://183.252.176.54:554/PLTV/88888888/224/3221226046/10000100000000060000000002296680_0.smil
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="RSTP测试外部播放器",东方财经
-rtsp://183.252.176.54:554/PLTV/88888888/224/3221226057/10000100000000060000000002296898_0.smil
-#EXTINF:-1 tvg-id="1977" tvg-name="欢笑剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/huanxiao.png" group-title="RSTP测试外部播放器",欢笑剧场
-rtsp://183.252.166.199/PLTV/88888888/224/3221226717/45278772.smil
-#EXTINF:-1 tvg-id="1977" tvg-name="欢笑剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/huanxiao.png" group-title="RSTP测试外部播放器",欢笑剧场4K
-rtsp://183.252.166.199/PLTV/88888888/224/3221226717/45278772.smil
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="RSTP测试外部播放器",中国气象
-rtsp://183.252.176.54:554/PLTV/88888888/224/3221226073/10000100000000060000000002296914_0.smil
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="RSTP测试外部播放器",港剧风云
-rtsp://183.252.176.54:554/PLTV/88888888/224/3221226022/10000100000000060000000002296864_0.smil
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="RSTP测试外部播放器",8M1080
-rtsp://183.252.166.199/PLTV/88888888/224/3221226121/10000100000000060000000002358085_0.smil
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="RSTP测试外部播放器",BesTv影院1
-rtsp://183.252.166.199/PLTV/88888888/224/3221226757/45949783.smil
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="RSTP测试外部播放器",Bestv动画1
-rtsp://183.252.166.199/PLTV/88888888/224/3221226756/45973923.smil
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="RSTP测试外部播放器",Bestv动画2
-rtsp://183.252.166.199/PLTV/88888888/224/3221226917/57526342.smil
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="RSTP测试外部播放器",Bestv影院2
-rtsp://183.252.166.199/PLTV/88888888/224/3221226816/48629572.smil
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="RSTP测试外部播放器",Bestv影院3
-rtsp://183.252.166.199/PLTV/88888888/224/3221226748/45950069.smil
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="RSTP测试外部播放器",Bestv影院4
-rtsp://183.252.166.199/PLTV/88888888/224/3221226797/47878049.smil
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="RSTP测试外部播放器",Bestv电视剧1
-rtsp://183.252.166.199/PLTV/88888888/224/3221226761/45973212.smil
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="RSTP测试外部播放器",Bestv电视剧2
-rtsp://183.252.166.199/PLTV/88888888/224/3221226022/10000100000000060000000002296864_0.smil
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="RSTP测试外部播放器",Bestv电视剧3
-rtsp://183.252.166.199/PLTV/88888888/224/3221226752/45973624.smil
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="RSTP测试外部播放器",乡村公共台
-rtsp://183.252.176.54:554/PLTV/88888888/224/3221226113/10000100000000060000000002358064_0.smil
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="RSTP测试外部播放器",福建乡村振兴公共
-rtsp://183.252.166.199/PLTV/88888888/224/3221226113/10000100000000060000000002358064_0.smil
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="RSTP测试外部播放器",福建体育
-rtsp://183.252.166.199/PLTV/88888888/224/3221226127/10000100000000060000000002434540_0.smil
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="RSTP测试外部播放器",福建体育
-rtsp://183.252.176.54:554/PLTV/88888888/224/3221226127/10000100000000060000000002434540_0.smil
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="RSTP测试外部播放器",福建公共
-rtsp://183.252.166.199/PLTV/88888888/224/3221226113/10000100000000060000000002358064_0.smil
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="RSTP测试外部播放器",福建公共
-rtsp://183.252.176.54:554/PLTV/88888888/224/3221226113/10000100000000060000000002358064_0.smil
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="RSTP测试外部播放器",福建少儿
-rtsp://183.252.166.199/PLTV/88888888/224/3221226120/10000100000000060000000002358082_0.smil
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="RSTP测试外部播放器",福建少儿
-rtsp://183.252.176.54:554/PLTV/88888888/224/3221226120/10000100000000060000000002358082_0.smil
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="RSTP测试外部播放器",福建新闻
-rtsp://183.252.166.199/PLTV/88888888/224/3221226116/10000100000000060000000002358068_0.smil
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="RSTP测试外部播放器",福建新闻
-rtsp://183.252.176.54:554/PLTV/88888888/224/3221226116/10000100000000060000000002358068_0.smil
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="RSTP测试外部播放器",福建旅游
-rtsp://183.252.166.199/PLTV/88888888/224/3221226125/10000100000000060000000002358191_0.smil
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="RSTP测试外部播放器",福建旅游
-rtsp://183.252.176.54:554/PLTV/88888888/224/3221226125/10000100000000060000000002358191_0.smil
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="RSTP测试外部播放器",福建海峡
-rtsp://183.252.176.54:554/PLTV/88888888/224/3221226128/10000100000000060000000002434539_0.smil
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="RSTP测试外部播放器",福建海峡
-rtsp://183.252.166.199/PLTV/88888888/224/3221226128/10000100000000060000000002434539_0.smil
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="RSTP测试外部播放器",福建电视剧
-rtsp://183.252.166.199/PLTV/88888888/224/3221226115/10000100000000060000000002358067_0.smil
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="RSTP测试外部播放器",福建电视剧
-rtsp://183.252.176.54:554/PLTV/88888888/224/3221226115/10000100000000060000000002358067_0.smil
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="RSTP测试外部播放器",福建经济
-rtsp://183.252.166.199/PLTV/88888888/224/3221226117/10000100000000060000000002358072_0.smil
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="RSTP测试外部播放器",福建经济生活
-rtsp://183.252.176.54:554/PLTV/88888888/224/3221226117/10000100000000060000000002358072_0.smil
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="RSTP测试外部播放器",福建综合
-rtsp://183.252.166.199/PLTV/88888888/224/3221226826/47882539.smil
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="RSTP测试外部播放器",炫动卡通
-rtsp://183.252.166.199/PLTV/88888888/224/3221226060/10000100000000060000000002296901_0.smil
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="RSTP测试外部播放器",金色频道
-rtsp://183.252.176.54:554/PLTV/88888888/224/3221226056/10000100000000060000000002296897_0.smil
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="RSTP测试外部播放器",法治天地
-rtsp://183.252.176.54:554/PLTV/88888888/224/3221226059/10000100000000060000000002296900_0.smil
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="RSTP测试外部播放器",导视
-rtsp://183.252.176.54:554/PLTV/88888888/224/3221226099/10000100000000060000000002298270_0.smil
-#EXTINF:-1 tvg-id="72" tvg-name="三沙卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sansha.png" group-title="RSTP测试外部播放器",三沙卫视
-rtsp://183.252.166.199/PLTV/88888888/224/3221226819/57526516.smil
-#EXTINF:-1 tvg-id="55" tvg-name="陕西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi.png" group-title="RSTP测试外部播放器",陕西卫视
-rtsp://183.252.166.199/PLTV/88888888/224/3221226110/10000100000000060000000002310152_0.smil
-#EXTINF:-1 tvg-id="60" tvg-name="南方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/nanfang.png" group-title="RSTP测试外部播放器",南方卫视
-rtsp://183.252.166.199/PLTV/88888888/224/3221226788/48356344.smil
-#EXTINF:-1 tvg-id="54" tvg-name="山西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi_.png" group-title="RSTP测试外部播放器",山西卫视
-rtsp://183.252.166.199/PLTV/88888888/224/3221226842/48628662.smil
-#EXTINF:-1 tvg-id="61" tvg-name="兵团卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/bingtuan.png" group-title="RSTP测试外部播放器",兵团卫视
-rtsp://183.252.166.199/PLTV/88888888/224/3221226804/48628997.smil
-#EXTINF:-1 tvg-id="71" tvg-name="西藏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xizang.png" group-title="RSTP测试外部播放器",西藏卫视
-rtsp://183.252.166.199/PLTV/88888888/224/3221226808/48629336.smil
-#EXTINF:-1 tvg-id="43" tvg-name="广西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangxi.png" group-title="RSTP测试外部播放器",广西卫视
-rtsp://183.252.166.199/PLTV/88888888/224/3221226070/10000100000000060000000002296911_0.smil
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="RSTP测试外部播放器",福建少儿
-rtsp://183.252.166.199/PLTV/88888888/224/3221226120/10000100000000060000000002358082_0.smil
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="RSTP测试外部播放器",福建旅游
-rtsp://183.252.166.199/PLTV/88888888/224/3221226125/10000100000000060000000002358191_0.smil
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="RSTP测试外部播放器",福建电视剧
-rtsp://183.252.166.199/PLTV/88888888/224/3221226115/10000100000000060000000002358067_0.smil
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="RSTP测试外部播放器",福建经济
-rtsp://183.252.166.199/PLTV/88888888/224/3221226117/10000100000000060000000002358072_0.smil
-#EXTINF:-1 tvg-id="58" tvg-name="云南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="RSTP测试外部播放器",云南卫视
-rtsp://183.252.166.199/PLTV/88888888/224/3221226108/10000100000000060000000002310150_0.smil
-#EXTINF:-1 tvg-id="68" tvg-name="厦门卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xiamen.png" group-title="RSTP测试外部播放器",厦门卫视
-rtsp://183.252.166.199/PLTV/88888888/224/3221226124/10000100000000060000000002358105_0.smil
-#EXTINF:-1 tvg-id="68" tvg-name="厦门卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xiamen.png" group-title="RSTP测试外部播放器",厦门卫视
-rtsp://183.252.176.54:554/PLTV/88888888/224/3221226124/10000100000000060000000002358105_0.smil
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV测试",卡通剧场 高清
+http://live.scuec.edu.cn:8080/hls/ktjchd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV测试",大众影视 高清
+http://live.scuec.edu.cn:8080/hls/dzyshd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV测试",家庭影院 高清
+http://live.scuec.edu.cn:8080/hls/jtyyhd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV测试",家庭剧场 高清
+http://live.scuec.edu.cn:8080/hls/jtjchd.m3u8
+#EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="IPTV测试",CGTN纪实 高清
+http://live.scuec.edu.cn:8080/hls/cgtndochd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV测试",足球频道 高清
+http://live.scuec.edu.cn:8080/hls/zqhd.m3u8
+#EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="IPTV测试",凤凰资讯 高清
+http://live.scuec.edu.cn:8080/hls/fhzxhd.m3u8
+#EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="IPTV测试",凤凰中文 高清
+http://live.scuec.edu.cn:8080/hls/fhzwhd.m3u8
+#EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="IPTV测试",凤凰中文
+http://live.scuec.edu.cn:8080/hls/fhzw.m3u8
+#EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="IPTV测试",凤凰资讯
+http://live.scuec.edu.cn:8080/hls/fhzx.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV测试",凤凰电影
+http://live.scuec.edu.cn:8080/hls/fhdy.m3u8
+#EXTINF:-1 tvg-id="6037" tvg-name="Discovery" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DiscoveryHD.png" group-title="IPTV测试",Discovery
+http://live.scuec.edu.cn:8080/hls/discovery.m3u8
+#EXTINF:-1 tvg-id="691" tvg-name="国家地理频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/natgeo.png" group-title="IPTV测试",国家地理
+http://live.scuec.edu.cn:8080/hls/natlgeo.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV测试",ChannelV
+http://live.scuec.edu.cn:8080/hls/channelv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV测试",星空卫视
+http://live.scuec.edu.cn:8080/hls/startv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV测试",StarSports
+http://live.scuec.edu.cn:8080/hls/starsports.m3u8
