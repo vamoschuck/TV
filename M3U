@@ -3789,35 +3789,3 @@ http://vstreams.tv:2082/rb0zYNF5GQ/FGWoCyPvwt/1170833
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV测试",卡通剧场 高清
-http://live.scuec.edu.cn:8080/hls/ktjchd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV测试",大众影视 高清
-http://live.scuec.edu.cn:8080/hls/dzyshd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV测试",家庭影院 高清
-http://live.scuec.edu.cn:8080/hls/jtyyhd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV测试",家庭剧场 高清
-http://live.scuec.edu.cn:8080/hls/jtjchd.m3u8
-#EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="IPTV测试",CGTN纪实 高清
-http://live.scuec.edu.cn:8080/hls/cgtndochd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV测试",足球频道 高清
-http://live.scuec.edu.cn:8080/hls/zqhd.m3u8
-#EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="IPTV测试",凤凰资讯 高清
-http://live.scuec.edu.cn:8080/hls/fhzxhd.m3u8
-#EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="IPTV测试",凤凰中文 高清
-http://live.scuec.edu.cn:8080/hls/fhzwhd.m3u8
-#EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="IPTV测试",凤凰中文
-http://live.scuec.edu.cn:8080/hls/fhzw.m3u8
-#EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="IPTV测试",凤凰资讯
-http://live.scuec.edu.cn:8080/hls/fhzx.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV测试",凤凰电影
-http://live.scuec.edu.cn:8080/hls/fhdy.m3u8
-#EXTINF:-1 tvg-id="6037" tvg-name="Discovery" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DiscoveryHD.png" group-title="IPTV测试",Discovery
-http://live.scuec.edu.cn:8080/hls/discovery.m3u8
-#EXTINF:-1 tvg-id="691" tvg-name="国家地理频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/natgeo.png" group-title="IPTV测试",国家地理
-http://live.scuec.edu.cn:8080/hls/natlgeo.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV测试",ChannelV
-http://live.scuec.edu.cn:8080/hls/channelv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV测试",星空卫视
-http://live.scuec.edu.cn:8080/hls/startv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV测试",StarSports
-http://live.scuec.edu.cn:8080/hls/starsports.m3u8
