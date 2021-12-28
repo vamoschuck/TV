@@ -2015,8 +2015,12 @@ https://dai.google.com/linear/hls/event/d4zeSI-dTuqizFrByjs3OA/master.m3u8
 
 
 #EXTINF:-1 -------------------------------------------分割线---------------------------------------------------------
-
-
+#EXTINF:-1 group-title="赛事直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",咪咕视频 英超-5
+http://117.148.129.10/PLTV/88888888/224/3221232011/index.m3u8
+#EXTINF:-1 group-title="赛事直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",咪咕视频 英超-6
+http://117.148.129.10/PLTV/88888888/224/3221232033/index.m3u8
+#EXTINF:-1 group-title="赛事直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",咪咕视频 英超-7
+http://117.148.129.10/PLTV/88888888/224/3221232042/index.m3u8
 #EXTINF:-1 group-title="赛事直播",咪咕视频
 http://39.134.66.66/PLTV/88888888/224/3221225613/index.m3u8
 #EXTINF:-1 group-title="赛事直播",咪咕视频
