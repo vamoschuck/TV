@@ -3849,15 +3849,15 @@ https://unifi-live04.secureswiftcontent.com/UnifiHD/live11.mpd
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="印尼新马测试",Unifi Sport 2
 https://unifi-live04.secureswiftcontent.com/UnifiHD/live12.mpd
 
-#EXTINF:-1 tvg-logo="https://www.hualigs.cn/image/6176034314c53.jpg" group-title="亚洲体育频道", True Premier Football 1
+#EXTINF:-1 tvg-logo="https://www.hualigs.cn/image/61cae54680a8d.jpg" group-title="亚洲体育频道", True Premier Football 1
 https://www.livedoomovie.com/02_PremierHD1_720p/chunklist.m3u8
-#EXTINF:-1  tvg-logo="https://www.hualigs.cn/image/61760343253b6.jpg" group-title="亚洲体育频道",True Premier Football 2
+#EXTINF:-1  tvg-logo="https://www.hualigs.cn/image/61cae5468dcd1.jpg" group-title="亚洲体育频道",True Premier Football 2
 https://www.livedoomovie.com/02_PremierHD2_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://www.hualigs.cn/image/617603431ef44.jpg" group-title="亚洲体育频道",True Premier Football 3
+#EXTINF:-1 tvg-logo="https://www.hualigs.cn/image/61cae598f17d5.jpg" group-title="亚洲体育频道",True Premier Football 3
 https://www.livedoomovie.com/02_PremierHD3_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://www.hualigs.cn/image/61bc969e21c5f.jpg" group-title="亚洲体育频道",True Premier Football 4
+#EXTINF:-1 tvg-logo="https://www.hualigs.cn/image/61cae598f1cbe.jpg" group-title="亚洲体育频道",True Premier Football 4
 https://www.livedoomovie.com/02_PremierHD4_720p/chunklist.m3u8
-#EXTINF:-1  tvg-logo="https://www.hualigs.cn/image/61bc969e1e1b2.jpg" group-title="亚洲体育频道",True Premier Football 5
+#EXTINF:-1  tvg-logo="https://www.hualigs.cn/image/61cae598f39e9.jpg" group-title="亚洲体育频道",True Premier Football 5
 https://www.livedoomovie.com/02_PremierHD5_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.hualigs.cn/image/61bdb7a98aefc.jpg" group-title="亚洲体育频道",True Sports HD
 https://www.livedoomovie.com/02_2sporthd1_720p/chunklist.m3u8
@@ -3873,9 +3873,9 @@ https://www.livedoomovie.com/02_sport5_480p/chunklist.m3u8
 https://www.livedoomovie.com/02_sport6_480p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.hualigs.cn/image/61bc882f8cb3b.jpg" group-title="亚洲体育频道",True Sports 7
 https://www.livedoomovie.com/02_sport7_480p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="亚洲体育频道",Fox Sports HD
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2021/09/29/186c1140-20f3-11ec-92df-47614181eee6_webp_320.jpg" group-title="亚洲体育频道",Fox Sports HD
 https://www.livedoomovie.com/02_foxsport_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="亚洲体育频道",Fox Sports 3
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2021/09/29/1b2c69c0-20f3-11ec-92df-47614181eee6_webp_320.jpg" group-title="亚洲体育频道",Fox Sports 3
 https://www.livedoomovie.com/02_FoxSport3_TH_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f1/BT_Sport_1_2019.svg/revision/latest/scale-to-width-down/250?cb=20191227182608" group-title="亚洲体育频道",BT SPORT HD1
 https://www.livedoomovie.com/02_BTSPORTHD_1_720p/chunklist.m3u8
@@ -3883,9 +3883,9 @@ https://www.livedoomovie.com/02_BTSPORTHD_1_720p/chunklist.m3u8
 https://www.livedoomovie.com/02_BTSPORTHD_2_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="亚洲体育频道",NBA HD
 https://www.livedoomovie.com/02_nbahd_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="亚洲体育频道",True Tennis HD
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2017/10/18/5efbe446-0718-476e-9b93-f42da7d98e81.png" group-title="亚洲体育频道",True Tennis HD
 https://www.livedoomovie.com/02_TennisHD_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="亚洲体育频道",Golf Channel
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1020624523354345472/WZ1ZVRGa_400x400.jpg" group-title="亚洲体育频道",Golf Channel
 https://www.livedoomovie.com/02_golfhd_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="亚洲体育频道",SPORTTV 1
 https://www.livedoomovie.com/02_SPORTTV_1_720p/chunklist.m3u8
