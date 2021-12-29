@@ -2410,36 +2410,63 @@ http://v.mp.haue.edu.cn/hls/discovery.m3u8
 
 #EXTINF:-1 -------------------------------------------分割线---------------------------------------------------------
 
-#EXTINF:-1 tvg-id="31" tvg-name="港台電視31" tvg-logo="https://www.hkdtmb.com/png_logo/31.png" group-title="HKDTMB限HKIP",港台电视31
+#EXTINF:-1 tvg-id="31" tvg-name="港台電視31" tvg-logo="https://www.hkdtmb.com/png_logo/31.png" group-title="仅限香港IP播放",港台电视31
 https://cdn.hkdtmb.com/hls/31/index.m3u8
-#EXTINF:-1 tvg-id="32" tvg-name="港台電視32" tvg-logo="https://www.hkdtmb.com/png_logo/32.png" group-title="HKDTMB限HKIP",港台电视32
+#EXTINF:-1 tvg-id="31" tvg-name="港台電視31" tvg-logo="https://www.hkdtmb.com/png_logo/31.png" group-title="仅限香港IP播放",港台电视31
+http://livetv.dnsfor.me:80/channel.1.m3u8
+#EXTINF:-1 tvg-id="32" tvg-name="港台電視32" tvg-logo="https://www.hkdtmb.com/png_logo/32.png" group-title="仅限香港IP播放",港台电视32
 https://cdn.hkdtmb.com/hls/32/index.m3u8
-#EXTINF:-1 tvg-id="33" tvg-name="港台電視33" tvg-logo="https://www.hkdtmb.com/png_logo/33.png" group-title="HKDTMB限HKIP",港台电视33
+#EXTINF:-1 tvg-id="32" tvg-name="港台電視32" tvg-logo="https://www.hkdtmb.com/png_logo/32.png" group-title="仅限香港IP播放",港台电视32
+http://livetv.dnsfor.me:80/channel.2.m3u8
+#EXTINF:-1 tvg-id="33" tvg-name="港台電視33" tvg-logo="https://www.hkdtmb.com/png_logo/33.png" group-title="仅限香港IP播放",港台电视33
 https://cdn.hkdtmb.com/hls/33/index.m3u8
-#EXTINF:-1 tvg-id="7118" tvg-name="香港开电视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hongkongkai.png" group-title="HKDTMB限HKIP",香港开电视
+#EXTINF:-1 tvg-id="7118" tvg-name="香港开电视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hongkongkai.png" group-title="仅限香港IP播放",香港开电视
 https://cdn.hkdtmb.com/hls/77/index.m3u8
-#EXTINF:-1 tvg-id="7117" tvg-name="香港国际财经台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hkguojicaijing.png" group-title="HKDTMB限HKIP",香港国际财经台
+#EXTINF:-1 tvg-id="7118" tvg-name="香港开电视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hongkongkai.png" group-title="仅限香港IP播放",香港开电视
+http://livetv.dnsfor.me:80/channel.9.m3u8
+#EXTINF:-1 tvg-id="7118" tvg-name="香港开电视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hongkongkai.png" group-title="仅限香港IP播放",香港开电视
+http://media.fantv.hk/m3u8/archive/channel2.m3u8
+#EXTINF:-1 tvg-id="7117" tvg-name="香港国际财经台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hkguojicaijing.png" group-title="仅限香港IP播放",香港国际财经台
 https://cdn.hkdtmb.com/hls/76/index.m3u8
-#EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="HKDTMB限HKIP",翡翠台
+#EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="仅限香港IP播放",翡翠台
 https://cdn.hkdtmb.com/hls/81/index.m3u8
-#EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="HKDTMB限HKIP",翡翠台 (中英字幕)
+#EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="仅限香港IP播放",翡翠台 (中英字幕)
 https://cdn.hkdtmb.com/hls/81b/index.m3u8
-#EXTINF:-1 tvg-id="416" tvg-name="J2" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBJ2.png" group-title="HKDTMB限HKIP",J2台
+#EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="仅限香港IP播放",翡翠台
+http://livetv.dnsfor.me:80/channel.18.m3u8
+#EXTINF:-1 tvg-id="416" tvg-name="J2" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBJ2.png" group-title="仅限香港IP播放",J2台
 https://cdn.hkdtmb.com/hls/82/index.m3u8
-#EXTINF:-1 tvg-id="130" tvg-name="无线新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" group-title="HKDTMB限HKIP",无线新闻台
+#EXTINF:-1 tvg-id="416" tvg-name="J2" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBJ2.png" group-title="仅限香港IP播放",J2台
+http://livetv.dnsfor.me:80/channel.19.m3u8
+#EXTINF:-1 tvg-id="130" tvg-name="无线新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" group-title="仅限香港IP播放",无线新闻台
 https://cdn.hkdtmb.com/hls/83/index.m3u8
-#EXTINF:-1 tvg-id="127" tvg-name="明珠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB明珠台.png" group-title="HKDTMB限HKIP",明珠台
+#EXTINF:-1 tvg-id="130" tvg-name="无线新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" group-title="仅限香港IP播放",无线新闻台
+http://livetv.dnsfor.me:80/channel.10.m3u8
+#EXTINF:-1 tvg-id="127" tvg-name="明珠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB明珠台.png" group-title="仅限香港IP播放",明珠台
 https://cdn.hkdtmb.com/hls/84/index.m3u8
-#EXTINF:-1 tvg-id="127" tvg-name="明珠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB明珠台.png" group-title="HKDTMB限HKIP",明珠台 (粤语声道)
+#EXTINF:-1 tvg-id="127" tvg-name="明珠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB明珠台.png" group-title="仅限香港IP播放",明珠台 (粤语声道)
 https://cdn.hkdtmb.com/hls/84b/index.m3u8
-#EXTINF:-1 tvg-id="133" tvg-name="无线财经" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvbfinanceinformationchannel.png" group-title="HKDTMB限HKIP",无线财经·资讯台
+#EXTINF:-1 tvg-id="133" tvg-name="无线财经" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvbfinanceinformationchannel.png" group-title="仅限香港IP播放",无线财经·资讯台
 https://cdn.hkdtmb.com/hls/85/index.m3u8
-#EXTINF:-1 tvg-id="408" tvg-name="ViuTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png" group-title="HKDTMB限HKIP",ViuTV
+#EXTINF:-1 tvg-id="133" tvg-name="无线财经" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvbfinanceinformationchannel.png" group-title="仅限香港IP播放",无线财经资讯台
+http://livetv.dnsfor.me:80/channel.11.m3u8
+#EXTINF:-1 tvg-id="408" tvg-name="ViuTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png" group-title="仅限香港IP播放",ViuTV
 https://cdn.hkdtmb.com/hls/99/index.m3u8
-#EXTINF:-1 tvg-id="96" tvg-name="ViuTV" tvg-logo="https://www.hkdtmb.com/png_logo/96.png" group-title="HKDTMB限HKIP",ViuTV Six
+#EXTINF:-1 tvg-id="408" tvg-name="ViuTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png" group-title="仅限香港IP播放",VIU TV
+http://livetv.dnsfor.me:80/channel.20.m3u8
+#EXTINF:-1 tvg-id="96" tvg-name="ViuTV" tvg-logo="https://www.hkdtmb.com/png_logo/96.png" group-title="仅限香港IP播放",ViuTV Six
 https://cdn.hkdtmb.com/hls/96/index.m3u8
-#EXTINF:-1 tvg-id="96" tvg-name="ViuTV" tvg-logo="https://www.hkdtmb.com/png_logo/96.png" group-title="HKDTMB限HKIP",ViuTV Six (第二声度)
+#EXTINF:-1 tvg-id="96" tvg-name="ViuTV" tvg-logo="https://www.hkdtmb.com/png_logo/96.png" group-title="仅限香港IP播放",ViuTV Six (第二声度)
 https://cdn.hkdtmb.com/hls/96b/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="仅限香港IP播放",Now直播台
+http://livetv.dnsfor.me:80/channel.3.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="仅限香港IP播放",Now新闻台
+http://livetv.dnsfor.me:80/channel.4.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="仅限香港IP播放",Now Sports Prime 630
+http://livetv.dnsfor.me:80/channel.12.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="仅限香港IP播放",亚旅卫视
+http://livetv.dnsfor.me:80/channel.24.m3u8
+
 
 
 #EXTINF:-1 -------------------------------------------分割线---------------------------------------------------------
