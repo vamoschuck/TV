@@ -3018,8 +3018,6 @@ http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
 #EXTINF:-1 group-title="英语新闻" tvg-logo="https://www.hualigs.cn/image/615551b68fe67.jpg",ABC Australia HD
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
-#EXTINF:-1 group-title="英语新闻" tvg-logo="https://www.hualigs.cn/image/6155549e6b7a4.jpg",ABC News US FHD
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-abcnews/CDN/master.m3u8
 #EXTINF:-1 group-title="英语新闻" tvg-logo="https://www.hualigs.cn/image/6155549e6b7a4.jpg",ABC News US HD
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 #EXTINF:-1 group-title="英语新闻" tvg-logo="https://www.hualigs.cn/image/61556780f381e.jpg",BBC World News HD
@@ -3044,15 +3042,13 @@ https://cbsn-us-cedexis.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d56
 https://live.chdrstatic.com/cbn/index.m3u8
 #EXTINF:-1 group-title="英语新闻" tvg-logo="https://www.hualigs.cn/image/6155941083b2a.jpg",DW FHD
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
-#EXTINF:-1 group-title="英语新闻" tvg-logo="https://www.hualigs.cn/image/6155941083b2a.jpg",DW  HD
-https://m-c010-j2apps.s.llnwi.net/hls_hd/8024.DWEnglishHD.in.m3u8
 #EXTINF:-1 group-title="英语新闻" tvg-logo="https://www.hualigs.cn/image/615594101c9b1.jpg",Euronews HD
 https://d1mpprlbe8tn2j.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/euronewsLive/87O7AhxRUdeeIVqf/ewnsabren_eng.m3u8
-#EXTINF:-1 group-title="英语新闻" tvg-logo="https://www.hualigs.cn/image/6155567acfc1a.jpg",france24 FHD
+#EXTINF:-1 group-title="英语新闻" tvg-logo="https://www.hualigs.cn/image/6155567acfc1a.jpg",France24 FHD
 http://static.france24.com:80/live/F24_FR_HI_HLS/live_tv.m3u8
-#EXTINF:-1 group-title="英语新闻" tvg-logo="https://www.hualigs.cn/image/6155567acfc1a.jpg",france24 FHD
+#EXTINF:-1 group-title="英语新闻" tvg-logo="https://www.hualigs.cn/image/6155567acfc1a.jpg",France24 FHD
 http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master.m3u8
-#EXTINF:-1 group-title="英语新闻" tvg-logo="https://www.hualigs.cn/image/6155567acfc1a.jpg",france24
+#EXTINF:-1 group-title="英语新闻" tvg-logo="https://www.hualigs.cn/image/6155567acfc1a.jpg",France24
 http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
 #EXTINF:-1 group-title="英语新闻" tvg-logo="https://www.hualigs.cn/image/615691c3949a7.jpg",Fox News Channel HD
 http://1111296894.rsc.cdn77.org/ls-54548-2/mono.m3u8
@@ -3075,9 +3071,7 @@ https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/sycc-live/th/playlist.m3u
 #EXTINF:-1 group-title="英语新闻" tvg-logo="https://www.hualigs.cn/image/61554e11f2db6.jpg",NHKWorld 华语世界 HD
 https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
 #EXTINF:-1 group-title="英语新闻" tvg-logo="https://www.hualigs.cn/image/61554bc599811.jpg",SkyNews HD
-http://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u8?serverSideAds=true
-#EXTINF:-1 group-title="英语新闻" tvg-logo="https://www.hualigs.cn/image/61554bc599811.jpg",SkyNews HD
-https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u8
+
 #EXTINF:-1 group-title="英语新闻" tvg-logo="https://www.hualigs.cn/image/61554bc568623.jpg",Sky News Extra 1
 https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8
 #EXTINF:-1 group-title="英语新闻" tvg-logo="https://www.hualigs.cn/image/61554bc568623.jpg",Sky News Extra 2
