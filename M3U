@@ -2121,13 +2121,24 @@ https://edgesports-sportstribal.amagi.tv/playlist.m3u8
 https://dai.google.com/linear/hls/event/d4zeSI-dTuqizFrByjs3OA/master.m3u8
 
 
-
+#EXTINF:-1 group-title="赛事直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",咪咕视频 足球？
+http://39.134.39.39/PLTV/88888888/224/3221226403/index.m3u8
+#EXTINF:-1 group-title="赛事直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",咪咕视频 英超-1
+http://39.134.39.39/PLTV/88888888/224/3221226110/index.m3u8
+#EXTINF:-1 group-title="赛事直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",咪咕视频 英超-2
+http://39.134.39.39/PLTV/88888888/224/3221226221/index.m3u8
+#EXTINF:-1 group-title="赛事直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",咪咕视频 英超-3
+http://39.134.39.39/PLTV/88888888/224/3221226340/index.m3u8
+#EXTINF:-1 group-title="赛事直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",咪咕视频 英超-4
+http://39.134.39.39/PLTV/88888888/224/3221226102/index.m3u8
 #EXTINF:-1 group-title="赛事直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",咪咕视频 英超-5
 http://117.148.129.10/PLTV/88888888/224/3221232011/index.m3u8
 #EXTINF:-1 group-title="赛事直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",咪咕视频 英超-6
 http://117.148.129.10/PLTV/88888888/224/3221232033/index.m3u8
 #EXTINF:-1 group-title="赛事直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",咪咕视频 英超-7
 http://117.148.129.10/PLTV/88888888/224/3221232042/index.m3u8
+#EXTINF:-1 group-title="赛事直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",咪咕视频 英超-8
+http://39.134.39.39/PLTV/88888888/224/3221226125/index.m3u8
 #EXTINF:-1 group-title="赛事直播",咪咕视频
 http://39.134.66.66/PLTV/88888888/224/3221225613/index.m3u8
 #EXTINF:-1 group-title="赛事直播",咪咕视频
@@ -2138,20 +2149,16 @@ http://39.134.66.66/PLTV/88888888/224/3221225619/index.m3u8
 http://39.134.66.66/PLTV/88888888/224/3221225620/index.m3u8
 #EXTINF:-1 group-title="赛事直播",咪咕视频 NBA
 http://117.148.129.10/PLTV/88888888/224/3221231966/index.m3u8
+#EXTINF:-1 group-title="赛事直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",咪咕视频 NBA
+http://39.134.39.39/PLTV/88888888/224/3221226108/index.m3u8
 #EXTINF:-1 group-title="赛事直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",咪咕视频
 http://39.134.39.39/PLTV/88888888/224/3221226104/index.m3u8
 #EXTINF:-1 group-title="赛事直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",咪咕视频
 http://39.134.39.39/PLTV/88888888/224/3221226106/index.m3u8
-#EXTINF:-1 group-title="赛事直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",咪咕视频 NBA
-http://39.134.39.39/PLTV/88888888/224/3221226108/index.m3u8
-#EXTINF:-1 group-title="赛事直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",咪咕视频 英超-1
-http://39.134.39.39/PLTV/88888888/224/3221226110/index.m3u8
 #EXTINF:-1 group-title="赛事直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",咪咕视频
 http://39.134.39.39/PLTV/88888888/224/3221226112/index.m3u8
 #EXTINF:-1 group-title="赛事直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",咪咕视频
 http://39.134.39.39/PLTV/88888888/224/3221226123/index.m3u8
-#EXTINF:-1 group-title="赛事直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",咪咕视频 英超-8
-http://39.134.39.39/PLTV/88888888/224/3221226125/index.m3u8
 #EXTINF:-1 group-title="赛事直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",咪咕视频
 http://39.134.39.39/PLTV/88888888/224/3221226196/index.m3u8
 #EXTINF:-1 group-title="赛事直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",咪咕视频 国内赛事
@@ -2160,8 +2167,6 @@ http://39.134.39.39/PLTV/88888888/224/3221226215/index.m3u8
 http://39.134.39.39/PLTV/88888888/224/3221226217/index.m3u8
 #EXTINF:-1 group-title="赛事直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",咪咕视频
 http://39.134.39.39/PLTV/88888888/224/3221226219/index.m3u8
-#EXTINF:-1 group-title="赛事直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",咪咕视频 英超-2
-http://39.134.39.39/PLTV/88888888/224/3221226221/index.m3u8
 #EXTINF:-1 group-title="赛事直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",咪咕视频 咪咕汇 音乐
 http://39.134.39.39/PLTV/88888888/224/3221226223/index.m3u8
 #EXTINF:-1 group-title="赛事直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",咪咕视频
@@ -2180,8 +2185,6 @@ http://39.134.39.39/PLTV/88888888/224/3221226332/index.m3u8
 http://39.134.39.39/PLTV/88888888/224/3221226334/index.m3u8
 #EXTINF:-1 group-title="赛事直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",咪咕视频
 http://39.134.39.39/PLTV/88888888/224/3221226336/index.m3u8
-#EXTINF:-1 group-title="赛事直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",咪咕视频 英超-3 27
-http://39.134.39.39/PLTV/88888888/224/3221226340/index.m3u8
 #EXTINF:-1 group-title="赛事直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",咪咕视频
 http://39.134.39.39/PLTV/88888888/224/3221226355/index.m3u8
 #EXTINF:-1 group-title="赛事直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",咪咕视频
@@ -2228,14 +2231,11 @@ http://39.134.39.39/PLTV/88888888/224/3221226397/index.m3u8
 http://39.134.39.39/PLTV/88888888/224/3221226401/index.m3u8
 #EXTINF:-1 group-title="赛事直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",咪咕视频
 http://39.134.39.39/PLTV/88888888/224/3221226188/index.m3u8
-#EXTINF:-1 group-title="赛事直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",咪咕视频 英超-4
-http://39.134.39.39/PLTV/88888888/224/3221226102/index.m3u8
 #EXTINF:-1 group-title="赛事直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",咪咕视频
 http://39.134.39.39/PLTV/88888888/224/3221226190/index.m3u8
 #EXTINF:-1 group-title="赛事直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",咪咕视频
 http://39.134.39.39/PLTV/88888888/224/3221226352/index.m3u8
-#EXTINF:-1 group-title="赛事直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",咪咕视频
-http://39.134.39.39/PLTV/88888888/224/3221226403/index.m3u8
+
 
 
 
@@ -4019,6 +4019,7 @@ http://vstreams.tv:2082/rb0zYNF5GQ/FGWoCyPvwt/1170831
 http://vstreams.tv:2082/rb0zYNF5GQ/FGWoCyPvwt/1170832
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.hualigs.cn/image/61bc8a375e503.jpg" group-title="亚洲体育频道",Astro SuperSport 4 HD
 http://vstreams.tv:2082/rb0zYNF5GQ/FGWoCyPvwt/1170833
+
 
 
 
