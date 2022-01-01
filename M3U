@@ -2428,54 +2428,79 @@ http://v.mp.haue.edu.cn/hls/discovery.m3u8
 
 
 
-#EXTINF:-1 tvg-id="31" tvg-name="港台電視31" tvg-logo="https://www.hkdtmb.com/png_logo/31.png" group-title="仅限香港IP播放",港台电视31
-https://cdn.hkdtmb.com/hls/31/index.m3u8
+
 #EXTINF:-1 tvg-id="31" tvg-name="港台電視31" tvg-logo="https://www.hkdtmb.com/png_logo/31.png" group-title="仅限香港IP播放",港台电视31
 http://livetv.dnsfor.me:80/channel.1.m3u8
 #EXTINF:-1 tvg-id="32" tvg-name="港台電視32" tvg-logo="https://www.hkdtmb.com/png_logo/32.png" group-title="仅限香港IP播放",港台电视32
-https://cdn.hkdtmb.com/hls/32/index.m3u8
-#EXTINF:-1 tvg-id="32" tvg-name="港台電視32" tvg-logo="https://www.hkdtmb.com/png_logo/32.png" group-title="仅限香港IP播放",港台电视32
 http://livetv.dnsfor.me:80/channel.2.m3u8
-#EXTINF:-1 tvg-id="33" tvg-name="港台電視33" tvg-logo="https://www.hkdtmb.com/png_logo/33.png" group-title="仅限香港IP播放",港台电视33
-https://cdn.hkdtmb.com/hls/33/index.m3u8
 #EXTINF:-1 tvg-id="7118" tvg-name="香港开电视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hongkongkai.png" group-title="仅限香港IP播放",香港开电视
 https://cdn.hkdtmb.com/hls/77/index.m3u8
+#EXTINF:-1 tvg-id="7118" tvg-name="香港开电视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hongkongkai.png" group-title="仅限香港IP播放",香港开电视
+https://cdn.hkyoutv.com/hls/77/index.m3u8
 #EXTINF:-1 tvg-id="7118" tvg-name="香港开电视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hongkongkai.png" group-title="仅限香港IP播放",香港开电视
 http://livetv.dnsfor.me:80/channel.9.m3u8
 #EXTINF:-1 tvg-id="7118" tvg-name="香港开电视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hongkongkai.png" group-title="仅限香港IP播放",香港开电视
 http://media.fantv.hk/m3u8/archive/channel2.m3u8
+#EXTINF:-1 tvg-id="7118" tvg-name="香港开电视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hongkongkai.png" group-title="仅限香港IP播放",香港开电视
+http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
 #EXTINF:-1 tvg-id="7117" tvg-name="香港国际财经台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hkguojicaijing.png" group-title="仅限香港IP播放",香港国际财经台
 https://cdn.hkdtmb.com/hls/76/index.m3u8
+#EXTINF:-1 tvg-id="7117" tvg-name="香港国际财经台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hkguojicaijing.png" group-title="仅限香港IP播放",香港国际财经台
+https://cdn.hkyoutv.com/hls/76/index.m3u8
+#EXTINF:-1 tvg-id="7117" tvg-name="香港国际财经台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hkguojicaijing.png" group-title="仅限香港IP播放",香港国际财经台
+http://uc6.i-cable.com/live_freedirect/opentvhd002_h.live/playlist.m3u8
 #EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="仅限香港IP播放",翡翠台
 https://cdn.hkdtmb.com/hls/81/index.m3u8
+#EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="仅限香港IP播放",翡翠台
+https://cdn.hkyoutv.com/hls/81/index.m3u8
 #EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="仅限香港IP播放",翡翠台 (中英字幕)
 https://cdn.hkdtmb.com/hls/81b/index.m3u8
+#EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="仅限香港IP播放",翡翠台 (中英字幕)
+https://cdn.hkyoutv.com/hls/81b/index.m3u8
 #EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="仅限香港IP播放",翡翠台
 http://livetv.dnsfor.me:80/channel.18.m3u8
 #EXTINF:-1 tvg-id="416" tvg-name="J2" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBJ2.png" group-title="仅限香港IP播放",J2台
 https://cdn.hkdtmb.com/hls/82/index.m3u8
 #EXTINF:-1 tvg-id="416" tvg-name="J2" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBJ2.png" group-title="仅限香港IP播放",J2台
+https://cdn.hkyoutv.com/hls/82/index.m3u8
+#EXTINF:-1 tvg-id="416" tvg-name="J2" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBJ2.png" group-title="仅限香港IP播放",J2台
 http://livetv.dnsfor.me:80/channel.19.m3u8
 #EXTINF:-1 tvg-id="130" tvg-name="无线新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" group-title="仅限香港IP播放",无线新闻台
 https://cdn.hkdtmb.com/hls/83/index.m3u8
 #EXTINF:-1 tvg-id="130" tvg-name="无线新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" group-title="仅限香港IP播放",无线新闻台
+https://cdn.hkyoutv.com/hls/83/index.m3u8
+#EXTINF:-1 tvg-id="130" tvg-name="无线新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" group-title="仅限香港IP播放",无线新闻台
 http://livetv.dnsfor.me:80/channel.10.m3u8
+#EXTINF:-1 tvg-id="130" tvg-name="无线新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" group-title="仅限香港IP播放",无线新闻台
+https://bcovlive-a.akamaihd.net/38974baa695d47bbb231665ca52b8b3c/us-west-2/5324042807001/95ea73e414b14b7ea6406050a5293f17/playlist_ssaiM.m3u8
+#EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/378800000515620839/621dfe1a3a58fd2a4971dac155c830d1_400x400.png" group-title="仅限香港IP播放",無線電視J1台
+https://bcovlive-a.akamaihd.net/f23dfe49b06b45d8878b55b4b6909595/us-west-2/5324042807001/4a3bca5b047b4564b18bb12dfa26ba62/playlist_ssaiM.m3u8
 #EXTINF:-1 tvg-id="127" tvg-name="明珠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB明珠台.png" group-title="仅限香港IP播放",明珠台
 https://cdn.hkdtmb.com/hls/84/index.m3u8
+#EXTINF:-1 tvg-id="127" tvg-name="明珠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB明珠台.png" group-title="仅限香港IP播放",明珠台
+https://cdn.hkyoutv.com/hls/84/index.m3u8
 #EXTINF:-1 tvg-id="127" tvg-name="明珠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB明珠台.png" group-title="仅限香港IP播放",明珠台 (粤语声道)
 https://cdn.hkdtmb.com/hls/84b/index.m3u8
+#EXTINF:-1 tvg-id="127" tvg-name="明珠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB明珠台.png" group-title="仅限香港IP播放",明珠台 (粤语声道)
+https://cdn.hkyoutv.com/hls/84b/index.m3u8
 #EXTINF:-1 tvg-id="133" tvg-name="无线财经" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvbfinanceinformationchannel.png" group-title="仅限香港IP播放",无线财经·资讯台
 https://cdn.hkdtmb.com/hls/85/index.m3u8
+#EXTINF:-1 tvg-id="133" tvg-name="无线财经" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvbfinanceinformationchannel.png" group-title="仅限香港IP播放",无线财经·资讯台
+https://cdn.hkyoutv.com/hls/85/index.m3u8
 #EXTINF:-1 tvg-id="133" tvg-name="无线财经" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvbfinanceinformationchannel.png" group-title="仅限香港IP播放",无线财经资讯台
 http://livetv.dnsfor.me:80/channel.11.m3u8
 #EXTINF:-1 tvg-id="408" tvg-name="ViuTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png" group-title="仅限香港IP播放",ViuTV
 https://cdn.hkdtmb.com/hls/99/index.m3u8
+#EXTINF:-1 tvg-id="408" tvg-name="ViuTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png" group-title="仅限香港IP播放",ViuTV
+https://cdn.hkyoutv.com/hls/96/index.m3u8
 #EXTINF:-1 tvg-id="408" tvg-name="ViuTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png" group-title="仅限香港IP播放",VIU TV
 http://livetv.dnsfor.me:80/channel.20.m3u8
 #EXTINF:-1 tvg-id="96" tvg-name="ViuTV" tvg-logo="https://www.hkdtmb.com/png_logo/96.png" group-title="仅限香港IP播放",ViuTV Six
 https://cdn.hkdtmb.com/hls/96/index.m3u8
 #EXTINF:-1 tvg-id="96" tvg-name="ViuTV" tvg-logo="https://www.hkdtmb.com/png_logo/96.png" group-title="仅限香港IP播放",ViuTV Six (第二声度)
 https://cdn.hkdtmb.com/hls/96b/index.m3u8
+#EXTINF:-1 tvg-id="96" tvg-name="ViuTV" tvg-logo="https://www.hkdtmb.com/png_logo/96.png" group-title="仅限香港IP播放",ViuTV Six (第二声度)
+https://cdn.hkyoutv.com/hls/96/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="仅限香港IP播放",Now直播台
 http://livetv.dnsfor.me:80/channel.3.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="仅限香港IP播放",Now新闻台
@@ -2484,6 +2509,8 @@ http://livetv.dnsfor.me:80/channel.4.m3u8
 http://livetv.dnsfor.me:80/channel.12.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="仅限香港IP播放",亚旅卫视
 http://livetv.dnsfor.me:80/channel.24.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="仅限香港IP播放",亚旅卫视
+http://hls.jingchangkan.tv/jingchangkan/156722438_0HaM/index.m3u8
 
 
 
@@ -3034,14 +3061,10 @@ http://211.23.114.106:8507/http/61.221.81.94:8088/hls/76/818/ch62.m3u8?token=
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="台湾211",大爱
 http://211.23.114.106:8507/http/61.221.81.94:8088/hls/76/818/ch63.m3u8?token=
 
-#EXTINF:-1 group-title="大马 ASTRO",MY - ASTRO RIA HD
-https://nonton.site:8443/BobbySugara/RQFE8dHJ3v/37332
 #EXTINF:-1 group-title="大马 ASTRO",MY - ASTRO PRIMA HD
 https://nonton.site:8443/BobbySugara/RQFE8dHJ3v/37333
 #EXTINF:-1 group-title="大马 ASTRO",MY - ASTRO OASIS HD
 https://nonton.site:8443/BobbySugara/RQFE8dHJ3v/37334
-#EXTINF:-1 group-title="大马 ASTRO",MY - ASTRO WARNA HD
-https://nonton.site:8443/BobbySugara/RQFE8dHJ3v/37335
 #EXTINF:-1 group-title="大马 ASTRO",MY - ASTRO NAURA
 https://nonton.site:8443/BobbySugara/RQFE8dHJ3v/37336
 #EXTINF:-1 group-title="大马 ASTRO",MY - TV ALHIJRAH
@@ -3054,8 +3077,6 @@ https://nonton.site:8443/BobbySugara/RQFE8dHJ3v/37339
 https://nonton.site:8443/BobbySugara/RQFE8dHJ3v/37342
 #EXTINF:-1 group-title="大马 ASTRO",MY - ZEE Tamil HD
 https://nonton.site:8443/BobbySugara/RQFE8dHJ3v/37343
-#EXTINF:-1 group-title="大马 ASTRO",MY - VINMEEN HD
-https://nonton.site:8443/BobbySugara/RQFE8dHJ3v/37344
 #EXTINF:-1 group-title="大马 ASTRO",MY - STAR VIJAY HD
 https://nonton.site:8443/BobbySugara/RQFE8dHJ3v/37345
 #EXTINF:-1 group-title="大马 ASTRO",MY - COLORS TAMIL
@@ -3068,8 +3089,6 @@ https://nonton.site:8443/BobbySugara/RQFE8dHJ3v/37349
 https://nonton.site:8443/BobbySugara/RQFE8dHJ3v/37350
 #EXTINF:-1 group-title="大马 ASTRO",MY - XIAO TAI YANG HD
 https://nonton.site:8443/BobbySugara/RQFE8dHJ3v/37351
-#EXTINF:-1 group-title="大马 ASTRO",MY - AEC HD
-https://nonton.site:8443/BobbySugara/RQFE8dHJ3v/37352
 #EXTINF:-1 group-title="大马 ASTRO",MY - SHUANG XING HD
 https://nonton.site:8443/BobbySugara/RQFE8dHJ3v/37353
 #EXTINF:-1 group-title="大马 ASTRO",MY - QUAN JIA HD
