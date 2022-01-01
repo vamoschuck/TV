@@ -2139,6 +2139,8 @@ http://117.148.129.10/PLTV/88888888/224/3221232033/index.m3u8
 http://117.148.129.10/PLTV/88888888/224/3221232042/index.m3u8
 #EXTINF:-1 group-title="赛事直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",咪咕视频 英超-8
 http://39.134.39.39/PLTV/88888888/224/3221226125/index.m3u8
+#EXTINF:-1 group-title="赛事直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",咪咕视频 英超-9
+http://39.134.39.39/PLTV/88888888/224/3221226196/index.m3u8
 #EXTINF:-1 group-title="赛事直播",咪咕视频
 http://39.134.66.66/PLTV/88888888/224/3221225613/index.m3u8
 #EXTINF:-1 group-title="赛事直播",咪咕视频
@@ -2159,8 +2161,6 @@ http://39.134.39.39/PLTV/88888888/224/3221226106/index.m3u8
 http://39.134.39.39/PLTV/88888888/224/3221226112/index.m3u8
 #EXTINF:-1 group-title="赛事直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",咪咕视频
 http://39.134.39.39/PLTV/88888888/224/3221226123/index.m3u8
-#EXTINF:-1 group-title="赛事直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",咪咕视频
-http://39.134.39.39/PLTV/88888888/224/3221226196/index.m3u8
 #EXTINF:-1 group-title="赛事直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",咪咕视频 国内赛事
 http://39.134.39.39/PLTV/88888888/224/3221226215/index.m3u8
 #EXTINF:-1 group-title="赛事直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",咪咕视频 国内赛事
@@ -3215,6 +3215,372 @@ https://nonton.site:8443/BobbySugara/RQFE8dHJ3v/37460
 https://nonton.site:8443/BobbySugara/RQFE8dHJ3v/37467
 #EXTINF:-1 group-title="大马 ASTRO",MY - Astro Aura HD
 https://nonton.site:8443/BobbySugara/RQFE8dHJ3v/37468
+
+#EXTINF:-1 group-title="ASTRO | 限制IP播放", TV 1
+http://iptv.tvmalaysia.cc:80/penang175/penang175/7177
+#EXTINF:-1 group-title="ASTRO | 限制IP播放", TV 2
+https://rtmlive05.secureswiftcontent.com/rtmchannel/05-1080.m3u8
+#EXTINF:-1 group-title="ASTRO | 限制IP播放", TV 3
+http://iptv.tvmalaysia.cc:80/penang175/penang175/7266
+#EXTINF:-1 group-title="ASTRO | 限制IP播放", TV 3 HD
+http://iptv.tvmalaysia.cc:80/penang175/penang175/8750
+#EXTINF:-1 group-title="ASTRO | 限制IP播放", TV 9
+http://iptv.tvmalaysia.cc:80/penang175/penang175/7185
+#EXTINF:-1 group-title="ASTRO | 限制IP播放", RTM Sports
+http://iptv.tvmalaysia.cc:80/penang175/penang175/7186
+#EXTINF:-1 group-title="ASTRO | 限制IP播放", TV IKIM
+http://iptv.tvmalaysia.cc:80/penang175/penang175/7192
+#EXTINF:-1 group-title="ASTRO | 限制IP播放", Berita RTM
+http://iptv.tvmalaysia.cc:80/penang175/penang175/7191
+#EXTINF:-1 group-title="ASTRO | 限制IP播放", BERNAMA
+http://iptv.tvmalaysia.cc:80/penang175/penang175/7190
+#EXTINF:-1 group-title="ASTRO | 限制IP播放", RTB MALAYSIA
+http://iptv.tvmalaysia.cc:80/penang175/penang175/7188
+#EXTINF:-1 group-title="ASTRO | 限制IP播放", ASTRO Ria HD
+http://iptv.tvmalaysia.cc:80/penang175/penang175/6730
+#EXTINF:-1 group-title="ASTRO | 限制IP播放", ASTRO Prima HD
+http://iptv.tvmalaysia.cc:80/penang175/penang175/6727
+#EXTINF:-1 group-title="ASTRO | 限制IP播放", ASTRO Warna HD
+http://iptv.tvmalaysia.cc:80/penang175/penang175/6740
+#EXTINF:-1 group-title="ASTRO | 限制IP播放", Astro Citra HD (subtitle)
+http://iptv.tvmalaysia.cc:80/penang175/penang175/7267
+#EXTINF:-1 group-title="ASTRO | 限制IP播放", Astro Boo
+http://iptv.tvmalaysia.cc:80/penang175/penang175/8872
+#EXTINF:-1 group-title="ASTRO | 限制IP播放", ASTRO Naura HD
+http://iptv.tvmalaysia.cc:80/penang175/penang175/6724
+#EXTINF:-1 group-title="ASTRO | 限制IP播放", Awesome TV
+http://iptv.tvmalaysia.cc:80/penang175/penang175/9016
+#EXTINF:-1 group-title="ASTRO | 限制IP播放", ASTRO Oasis HD
+http://iptv.tvmalaysia.cc:80/penang175/penang175/6725
+#EXTINF:-1 group-title="ASTRO | 限制IP播放", ASTRO Aura HD
+http://iptv.tvmalaysia.cc:80/penang175/penang175/6713
+#EXTINF:-1 group-title="ASTRO | 限制IP播放", ASTRO Rania HD
+http://iptv.tvmalaysia.cc:80/penang175/penang175/6729
+#EXTINF:-1 group-title="ASTRO | 限制IP播放", ASTRO Awani HD
+http://iptv.tvmalaysia.cc:80/penang175/penang175/6714
+#EXTINF:-1 group-title="ASTRO | 限制IP播放", ASTRO Ceria HD
+http://iptv.tvmalaysia.cc:80/penang175/penang175/6715
+#EXTINF:-1 group-title="ASTRO | 限制IP播放", ABC Australia
+http://iptv.tvmalaysia.cc:80/penang175/penang175/6692
+#EXTINF:-1 group-title="ASTRO | 限制IP播放", Asian Food Network HD
+http://iptv.tvmalaysia.cc:80/penang175/penang175/6693
+#EXTINF:-1 group-title="ASTRO | 限制IP播放", Al-Jazzera HD
+http://iptv.tvmalaysia.cc:80/penang175/penang175/6694
+#EXTINF:-1 group-title="ASTRO | 限制IP播放", Animal Planet HD
+http://iptv.tvmalaysia.cc:80/penang175/penang175/6695
+#EXTINF:-1 group-title="ASTRO | 限制IP播放", Animax
+http://iptv.tvmalaysia.cc:80/penang175/penang175/6696
+#EXTINF:-1 group-title="ASTRO | 限制IP播放", Aniplus HD
+http://iptv.tvmalaysia.cc:80/penang175/penang175/6697
+#EXTINF:-1 group-title="ASTRO | 限制IP播放", ASTRO Adithya
+http://iptv.tvmalaysia.cc:80/penang175/penang175/6700
+#EXTINF:-1 group-title="ASTRO | 限制IP播放", ASTRO AEC HD
+http://iptv.tvmalaysia.cc:80/penang175/penang175/6701
+#EXTINF:-1 group-title="ASTRO | 限制IP播放", ASTRO AOD 351 HD
+http://iptv.tvmalaysia.cc:80/penang175/penang175/6702
+#EXTINF:-1 group-title="ASTRO | 限制IP播放", ASTRO AOD 352 HD
+http://iptv.tvmalaysia.cc:80/penang175/penang175/6703
+#EXTINF:-1 group-title="ASTRO | 限制IP播放", ASTRO AOD 353 HD
+http://iptv.tvmalaysia.cc:80/penang175/penang175/6704
+#EXTINF:-1 group-title="ASTRO | 限制IP播放", ASTRO AOD 354 HD
+http://iptv.tvmalaysia.cc:80/penang175/penang175/6705
+#EXTINF:-1 group-title="ASTRO | 限制IP播放", ASTRO AOD 355 HD
+http://iptv.tvmalaysia.cc:80/penang175/penang175/6706
+#EXTINF:-1 group-title="ASTRO | 限制IP播放", ASTRO Colors Tamil
+http://iptv.tvmalaysia.cc:80/penang175/penang175/6716
+#EXTINF:-1 group-title="ASTRO | 限制IP播放", ASTRO Zee Tamil HD
+http://iptv.tvmalaysia.cc:80/penang175/penang175/6742
+#EXTINF:-1 group-title="ASTRO | 限制IP播放", ASTRO GO Shop 2
+http://iptv.tvmalaysia.cc:80/penang175/penang175/6718
+#EXTINF:-1 group-title="ASTRO | 限制IP播放", ASTRO Vinmeen HD
+http://iptv.tvmalaysia.cc:80/penang175/penang175/6739
+#EXTINF:-1 group-title="ASTRO | 限制IP播放", ASTRO Vaanavil HD
+http://iptv.tvmalaysia.cc:80/penang175/penang175/6738
+#EXTINF:-1 group-title="ASTRO | 限制IP播放", Makkal TV
+http://iptv.tvmalaysia.cc:80/penang175/penang175/6806
+#EXTINF:-1 group-title="ASTRO | 限制IP播放", ASTRO Sun TV HD
+http://iptv.tvmalaysia.cc:80/penang175/penang175/6733
+#EXTINF:-1 group-title="ASTRO | 限制IP播放", ASTRO Star Vijay HD
+http://iptv.tvmalaysia.cc:80/penang175/penang175/6732
+#EXTINF:-1 group-title="ASTRO | 限制IP播放", Jaya Max
+http://iptv.tvmalaysia.cc:80/penang175/penang175/6802
+#EXTINF:-1 group-title="ASTRO | 限制IP播放", Chutti TV
+http://iptv.tvmalaysia.cc:80/penang175/penang175/6762
+#EXTINF:-1 group-title="ASTRO | 限制IP播放", ASTRO iQIYI HD
+http://iptv.tvmalaysia.cc:80/penang175/penang175/6723
+#EXTINF:-1 group-title="ASTRO | 限制IP播放", ASTRO Hua Hee Dai HD
+http://iptv.tvmalaysia.cc:80/penang175/penang175/6722
+#EXTINF:-1 group-title="ASTRO | 限制IP播放", ASTRO Hello
+http://iptv.tvmalaysia.cc:80/penang175/penang175/6721
+#EXTINF:-1 group-title="ASTRO | 限制IP播放", ASTRO Oh!K HD
+http://iptv.tvmalaysia.cc:80/penang175/penang175/6726
+#EXTINF:-1 group-title="ASTRO | 限制IP播放", ASTRO Quan Jia HD
+http://iptv.tvmalaysia.cc:80/penang175/penang175/6728
+#EXTINF:-1 group-title="ASTRO | 限制IP播放", ASTRO Shuang Xing HD
+http://iptv.tvmalaysia.cc:80/penang175/penang175/6731
+#EXTINF:-1 group-title="ASTRO | 限制IP播放", ASTRO Tutor TV PT3
+http://iptv.tvmalaysia.cc:80/penang175/penang175/6734
+#EXTINF:-1 group-title="ASTRO | 限制IP播放", ASTRO Tutor TV SPM
+http://iptv.tvmalaysia.cc:80/penang175/penang175/6735
+#EXTINF:-1 group-title="ASTRO | 限制IP播放", ASTRO Tutor TV UPSR
+http://iptv.tvmalaysia.cc:80/penang175/penang175/6736
+#EXTINF:-1 group-title="ASTRO | 限制IP播放", ASTRO TVIQ
+http://iptv.tvmalaysia.cc:80/penang175/penang175/6737
+#EXTINF:-1 group-title="ASTRO | 限制IP播放", ASTRO Xiao Tai Yang HD
+http://iptv.tvmalaysia.cc:80/penang175/penang175/6741
+
+#EXTM3U
+#EXTINF:-1 group-title="ASTRO | PPT流畅度",RIA BACKUP
+http://iptv.tvmalaysia.cc:80/174726/174726/9031
+#EXTINF:-1 group-title="ASTRO | PPT流畅度",ASTRO Ria HD
+http://iptv.tvmalaysia.cc:80/174726/174726/6730
+#EXTINF:-1 group-title="ASTRO | PPT流畅度",ASTRO Prima HD
+http://iptv.tvmalaysia.cc:80/174726/174726/6727
+#EXTINF:-1 group-title="ASTRO | PPT流畅度",ASTRO Warna HD
+http://iptv.tvmalaysia.cc:80/174726/174726/6740
+#EXTINF:-1 group-title="ASTRO | PPT流畅度",ASTRO Naura HD
+http://iptv.tvmalaysia.cc:80/174726/174726/6724
+#EXTINF:-1 group-title="ASTRO | PPT流畅度",Awesome TV
+http://iptv.tvmalaysia.cc:80/174726/174726/9016
+#EXTINF:-1 group-title="ASTRO | PPT流畅度",ASTRO Oasis HD
+http://iptv.tvmalaysia.cc:80/174726/174726/6725
+#EXTINF:-1 group-title="ASTRO | PPT流畅度",ASTRO Aura HD
+http://iptv.tvmalaysia.cc:80/174726/174726/6713
+#EXTINF:-1 group-title="ASTRO | PPT流畅度",ASTRO Rania HD
+http://iptv.tvmalaysia.cc:80/174726/174726/6729
+#EXTINF:-1 group-title="ASTRO | PPT流畅度",ASTRO Awani HD
+http://iptv.tvmalaysia.cc:80/174726/174726/6714
+#EXTINF:-1 group-title="ASTRO | PPT流畅度",ASTRO Ceria HD
+http://iptv.tvmalaysia.cc:80/174726/174726/6715
+#EXTINF:-1 group-title="ASTRO | PPT流畅度",Asian Food Network HD
+http://iptv.tvmalaysia.cc:80/174726/174726/6693
+#EXTINF:-1 group-title="ASTRO | PPT流畅度",Al-Jazzera HD
+http://iptv.tvmalaysia.cc:80/174726/174726/6694
+#EXTINF:-1 group-title="ASTRO | PPT流畅度",Animax
+http://iptv.tvmalaysia.cc:80/174726/174726/6696
+#EXTINF:-1 group-title="ASTRO | PPT流畅度",ASTRO AEC HD
+http://iptv.tvmalaysia.cc:80/174726/174726/6701
+#EXTINF:-1 group-title="ASTRO | PPT流畅度",ASTRO AOD 351 HD
+http://iptv.tvmalaysia.cc:80/174726/174726/6702
+#EXTINF:-1 group-title="ASTRO | PPT流畅度",ASTRO AOD 353 HD
+http://iptv.tvmalaysia.cc:80/174726/174726/6704
+#EXTINF:-1 group-title="ASTRO | PPT流畅度",ASTRO AOD 354 HD
+http://iptv.tvmalaysia.cc:80/174726/174726/6705
+#EXTINF:-1 group-title="ASTRO | PPT流畅度",ASTRO AOD 355 HD
+http://iptv.tvmalaysia.cc:80/174726/174726/6706
+#EXTINF:-1 group-title="ASTRO | PPT流畅度",ASTRO Colors Tamil
+http://iptv.tvmalaysia.cc:80/174726/174726/6716
+#EXTINF:-1 group-title="ASTRO | PPT流畅度",ASTRO Vaanavil HD
+http://iptv.tvmalaysia.cc:80/174726/174726/6738
+#EXTINF:-1 group-title="ASTRO | PPT流畅度",Makkal TV
+http://iptv.tvmalaysia.cc:80/174726/174726/6806
+#EXTINF:-1 group-title="ASTRO | PPT流畅度",ASTRO Star Vijay HD
+http://iptv.tvmalaysia.cc:80/174726/174726/6732
+#EXTINF:-1 group-title="ASTRO | PPT流畅度",Jaya Max
+http://iptv.tvmalaysia.cc:80/174726/174726/6802
+#EXTINF:-1 group-title="ASTRO | PPT流畅度",ASTRO Oh!K HD
+http://iptv.tvmalaysia.cc:80/174726/174726/6726
+#EXTINF:-1 group-title="ASTRO | PPT流畅度",Bernama News
+http://iptv.tvmalaysia.cc:80/174726/174726/6750
+#EXTINF:-1 group-title="ASTRO | PPT流畅度",Bloomberg TV
+http://iptv.tvmalaysia.cc:80/174726/174726/6751
+#EXTINF:-1 group-title="ASTRO | PPT流畅度",BollyOne HD
+http://iptv.tvmalaysia.cc:80/174726/174726/6754
+#EXTINF:-1 group-title="ASTRO | PPT流畅度",Cartoon Network HD
+http://iptv.tvmalaysia.cc:80/174726/174726/6757
+#EXTINF:-1 group-title="ASTRO | PPT流畅度",DMAX HD
+http://iptv.tvmalaysia.cc:80/174726/174726/6778
+#EXTINF:-1 group-title="ASTRO | PPT流畅度",Discovery Asia
+http://iptv.tvmalaysia.cc:80/174726/174726/6772
+#EXTINF:-1 group-title="ASTRO | PPT流畅度",Colors HD
+http://iptv.tvmalaysia.cc:80/174726/174726/6769
+#EXTINF:-1 group-title="ASTRO | PPT流畅度",Colors Cineplex
+http://iptv.tvmalaysia.cc:80/174726/174726/6768
+#EXTINF:-1 group-title="ASTRO | PPT流畅度",tvN Movies
+http://iptv.tvmalaysia.cc:80/174726/174726/6845
+#EXTINF:-1 group-title="ASTRO | PPT流畅度",tvN HD
+http://iptv.tvmalaysia.cc:80/174726/174726/6844
+#EXTINF:-1 group-title="ASTRO | PPT流畅度",TVB Classic
+http://iptv.tvmalaysia.cc:80/174726/174726/6839
+#EXTINF:-1 group-title="ASTRO | PPT流畅度",Sun Music
+http://iptv.tvmalaysia.cc:80/174726/174726/6831
+#EXTINF:-1 group-title="ASTRO | PPT流畅度",One HD
+http://iptv.tvmalaysia.cc:80/174726/174726/6817
+#EXTINF:-1 group-title="ASTRO | PPT流畅度",Nickelodeon HD
+http://iptv.tvmalaysia.cc:80/174726/174726/6814
+#EXTINF:-1 group-title="ASTRO | PPT流畅度",Nick Jr
+http://iptv.tvmalaysia.cc:80/174726/174726/6813
+#EXTINF:-1 group-title="ASTRO | PPT流畅度",KBS World HD
+http://iptv.tvmalaysia.cc:80/174726/174726/6803
+#EXTINF:-1 group-title="ASTRO | PPT流畅度",HGTV HD
+http://iptv.tvmalaysia.cc:80/174726/174726/6798
+#EXTINF:-1 group-title="ASTRO | PPT流畅度",HBO HD
+http://iptv.tvmalaysia.cc:80/174726/174726/6797
+#EXTINF:-1 group-title="ASTRO | PPT流畅度",TV 1
+http://iptv.tvmalaysia.cc:80/174726/174726/7177
+#EXTINF:-1 group-title="ASTRO | PPT流畅度",TV 3
+http://iptv.tvmalaysia.cc:80/174726/174726/7266
+#EXTINF:-1 group-title="ASTRO | PPT流畅度",TV 3 HD
+http://iptv.tvmalaysia.cc:80/174726/174726/8750
+#EXTINF:-1 group-title="ASTRO | PPT流畅度",TV 9
+http://iptv.tvmalaysia.cc:80/174726/174726/7185
+#EXTINF:-1 group-title="ASTRO | PPT流畅度",BERNAMA
+http://iptv.tvmalaysia.cc:80/174726/174726/7190
+#EXTINF:-1 group-title="ASTRO | PPT流畅度",Galaxy Premium
+http://iptv.tvmalaysia.cc:80/174726/174726/8838
+#EXTINF:-1 group-title="ASTRO | PPT流畅度",Galaxy
+http://iptv.tvmalaysia.cc:80/174726/174726/8839
+#EXTINF:-1 group-title="ASTRO | PPT流畅度",HBO FHD
+http://iptv.tvmalaysia.cc:80/174726/174726/7067
+#EXTINF:-1 group-title="ASTRO | PPT流畅度",HBO Signature FHD
+http://iptv.tvmalaysia.cc:80/174726/174726/7069
+#EXTINF:-1 group-title="ASTRO | PPT流畅度",HBO Family FHD
+http://iptv.tvmalaysia.cc:80/174726/174726/7070
+#EXTINF:-1 group-title="ASTRO | PPT流畅度",Hits Movies
+http://iptv.tvmalaysia.cc:80/174726/174726/7066
+#EXTINF:-1 group-title="ASTRO | PPT流畅度",Red By HBO HD
+http://iptv.tvmalaysia.cc:80/174726/174726/7071
+#EXTINF:-1 group-title="ASTRO | PPT流畅度",Warner TV HD
+http://iptv.tvmalaysia.cc:80/174726/174726/7072
+#EXTINF:-1 group-title="ASTRO | PPT流畅度",tVN movies HD
+http://iptv.tvmalaysia.cc:80/174726/174726/7074
+#EXTINF:-1 group-title="ASTRO | PPT流畅度",National Geographic HD
+http://iptv.tvmalaysia.cc:80/174726/174726/7075
+#EXTINF:-1 group-title="ASTRO | PPT流畅度",Nat Geo Wild HD
+http://iptv.tvmalaysia.cc:80/174726/174726/7081
+#EXTINF:-1 group-title="ASTRO | PPT流畅度",Nat Geo People HD
+http://iptv.tvmalaysia.cc:80/174726/174726/7080
+#EXTINF:-1 group-title="ASTRO | PPT流畅度",History FHD
+http://iptv.tvmalaysia.cc:80/174726/174726/7079
+#EXTINF:-1 group-title="ASTRO | PPT流畅度",Discovery Channel HD
+http://iptv.tvmalaysia.cc:80/174726/174726/7078
+#EXTINF:-1 group-title="ASTRO | PPT流畅度",Animal Planet
+http://iptv.tvmalaysia.cc:80/174726/174726/7077
+#EXTINF:-1 group-title="ASTRO | PPT流畅度",HGTV
+http://iptv.tvmalaysia.cc:80/174726/174726/7076
+#EXTINF:-1 group-title="ASTRO | PPT流畅度",Era FM
+http://iptv.tvmalaysia.cc:80/174726/174726/7169
+#EXTINF:-1 group-title="ASTRO | PPT流畅度",Hot FM
+http://iptv.tvmalaysia.cc:80/174726/174726/7170
+#EXTINF:-1 group-title="ASTRO | PPT流畅度",Hitz FM
+http://iptv.tvmalaysia.cc:80/174726/174726/7171
+#EXTINF:-1 group-title="ASTRO | PPT流畅度",Sinar FM
+http://iptv.tvmalaysia.cc:80/174726/174726/7172
+#EXTINF:-1 group-title="ASTRO | PPT流畅度",THR GEGAR
+http://iptv.tvmalaysia.cc:80/174726/174726/7174
+#EXTINF:-1 group-title="ASTRO | PPT流畅度",Cinema World
+http://iptv.tvmalaysia.cc:80/174726/174726/7219
+#EXTINF:-1 group-title="ASTRO | PPT流畅度",Thrill
+http://iptv.tvmalaysia.cc:80/174726/174726/7220
+#EXTINF:-1 group-title="ASTRO | PPT流畅度",Fox Crime
+http://iptv.tvmalaysia.cc:80/174726/174726/7225
+#EXTINF:-1 group-title="ASTRO | PPT流畅度",KiX
+http://iptv.tvmalaysia.cc:80/174726/174726/7229
+#EXTINF:-1 group-title="ASTRO | PPT流畅度",Celestial Classic Movies.
+http://iptv.tvmalaysia.cc:80/174726/174726/7222
+#EXTINF:-1 group-title="ASTRO | PPT流畅度",Celestial Movies
+http://iptv.tvmalaysia.cc:80/174726/174726/7235
+#EXTINF:-1 group-title="ASTRO | PPT流畅度",WLT JADE
+http://iptv.tvmalaysia.cc:80/174726/174726/8836
+#EXTINF:-1 group-title="ASTRO | PPT流畅度",Blue Ant Extreme
+http://iptv.tvmalaysia.cc:80/174726/174726/8861
+#EXTINF:-1 group-title="ASTRO | PPT流畅度",Sony One
+http://iptv.tvmalaysia.cc:80/174726/174726/8863
+#EXTINF:-1 group-title="ASTRO | PPT流畅度",TvN
+http://iptv.tvmalaysia.cc:80/174726/174726/8865
+#EXTINF:-1 group-title="ASTRO | PPT流畅度",STARZ KIDS&FAMILY
+http://iptv.tvmalaysia.cc:80/174726/174726/8991
+#EXTINF:-1 group-title="ASTRO | PPT流畅度",Star Movies HD
+http://iptv.tvmalaysia.cc:80/174726/174726/8997
+#EXTINF:-1 group-title="ASTRO | PPT流畅度",Movies Now
+http://iptv.tvmalaysia.cc:80/174726/174726/8999
+#EXTINF:-1 group-title="ASTRO | PPT流畅度",Crime & Investigation.
+http://iptv.tvmalaysia.cc:80/174726/174726/9009
+#EXTINF:-1 group-title="ASTRO | PPT流畅度",Fox Family Movie
+http://iptv.tvmalaysia.cc:80/174726/174726/9027
+#EXTINF:-1 group-title="ASTRO | PPT流畅度",ASTRO Arena HD
+http://iptv.tvmalaysia.cc:80/174726/174726/6707
+#EXTINF:-1 group-title="ASTRO | PPT流畅度",Arena 2
+http://iptv.tvmalaysia.cc:80/174726/174726/9028
+#EXTINF:-1 group-title="ASTRO | PPT流畅度",ASTRO SUPERSPORT HD
+http://iptv.tvmalaysia.cc:80/174726/174726/6708
+#EXTINF:-1 group-title="ASTRO | PPT流畅度",ASSP 1
+http://iptv.tvmalaysia.cc:80/174726/174726/9024
+#EXTINF:-1 group-title="ASTRO | PPT流畅度",ASTRO SUPERSPORT 2 HD
+http://iptv.tvmalaysia.cc:80/174726/174726/6710
+#EXTINF:-1 group-title="ASTRO | PPT流畅度",ASTRO SUPERSPORT 3 HD
+http://iptv.tvmalaysia.cc:80/174726/174726/6711
+#EXTINF:-1 group-title="ASTRO | PPT流畅度",ASSP 3 (LIVE EPL ONLY)
+http://iptv.tvmalaysia.cc:80/174726/174726/9020
+#EXTINF:-1 group-title="ASTRO | PPT流畅度",ASTRO SUPERSPORT 4 HD
+http://iptv.tvmalaysia.cc:80/174726/174726/6712
+#EXTINF:-1 group-title="ASTRO | PPT流畅度",ASSP 4
+http://iptv.tvmalaysia.cc:80/174726/174726/9026
+#EXTINF:-1 group-title="ASTRO | PPT流畅度",Astro Supersport 5
+http://iptv.tvmalaysia.cc:80/174726/174726/9029
+#EXTINF:-1 group-title="ASTRO | PPT流畅度",FOX Sports HD
+http://iptv.tvmalaysia.cc:80/174726/174726/6793
+#EXTINF:-1 group-title="ASTRO | PPT流畅度",beIN MAX
+http://iptv.tvmalaysia.cc:80/174726/174726/6748
+#EXTINF:-1 group-title="ASTRO | PPT流畅度",beIN MAX 2
+http://iptv.tvmalaysia.cc:80/174726/174726/7195
+#EXTINF:-1 group-title="ASTRO | PPT流畅度",WWE Network
+http://iptv.tvmalaysia.cc:80/174726/174726/6849
+#EXTINF:-1 group-title="ASTRO | PPT流畅度",Rugby Pass TV
+http://iptv.tvmalaysia.cc:80/174726/174726/6821
+#EXTINF:-1 group-title="ASTRO | PPT流畅度",TSN 1
+http://iptv.tvmalaysia.cc:80/174726/174726/8923
+#EXTINF:-1 group-title="ASTRO | PPT流畅度",TSN 2
+http://iptv.tvmalaysia.cc:80/174726/174726/8924
+#EXTINF:-1 group-title="ASTRO | PPT流畅度",TSN 4
+http://iptv.tvmalaysia.cc:80/174726/174726/8926
+#EXTINF:-1 group-title="ASTRO | PPT流畅度",TSN 3
+http://iptv.tvmalaysia.cc:80/174726/174726/8925
+#EXTINF:-1 group-title="ASTRO | PPT流畅度",DSTV: SuperSport Grandstand
+http://iptv.tvmalaysia.cc:80/174726/174726/6572
+#EXTINF:-1 group-title="ASTRO | PPT流畅度",DSTV: SuperSport PSL
+http://iptv.tvmalaysia.cc:80/174726/174726/6573
+#EXTINF:-1 group-title="ASTRO | PPT流畅度",DSTV: SuperSport Premier League
+http://iptv.tvmalaysia.cc:80/174726/174726/6574
+#EXTINF:-1 group-title="ASTRO | PPT流畅度",DSTV: SuperSport La Liga
+http://iptv.tvmalaysia.cc:80/174726/174726/6575
+#EXTINF:-1 group-title="ASTRO | PPT流畅度",DSTV: SuperSport Football
+http://iptv.tvmalaysia.cc:80/174726/174726/6576
+#EXTINF:-1 group-title="ASTRO | PPT流畅度",DSTV: SuperSport Variety 1
+http://iptv.tvmalaysia.cc:80/174726/174726/6577
+#EXTINF:-1 group-title="ASTRO | PPT流畅度",DSTV: SuperSport Variety 3
+http://iptv.tvmalaysia.cc:80/174726/174726/6579
+#EXTINF:-1 group-title="ASTRO | PPT流畅度",DSTV: SuperSport Variety 4
+http://iptv.tvmalaysia.cc:80/174726/174726/6580
+#EXTINF:-1 group-title="ASTRO | PPT流畅度",DSTV: Supersport Blitz
+http://iptv.tvmalaysia.cc:80/174726/174726/6584
+#EXTINF:-1 group-title="ASTRO | PPT流畅度",DSTV: SuperSport MáXimo
+http://iptv.tvmalaysia.cc:80/174726/174726/6585
+#EXTINF:-1 group-title="ASTRO | PPT流畅度",DSTV: SuperSport Rugby
+http://iptv.tvmalaysia.cc:80/174726/174726/6582
+#EXTINF:-1 group-title="ASTRO | PPT流畅度",DSTV: SuperSport Action
+http://iptv.tvmalaysia.cc:80/174726/174726/6581
+#EXTINF:-1 group-title="ASTRO | PPT流畅度",DSTV: SuperSport Motorsport
+http://iptv.tvmalaysia.cc:80/174726/174726/7142
+#EXTINF:-1 group-title="ASTRO | PPT流畅度",BT Sport 1
+http://iptv.tvmalaysia.cc:80/174726/174726/6610
+#EXTINF:-1 group-title="ASTRO | PPT流畅度",BT Sport 2
+http://iptv.tvmalaysia.cc:80/174726/174726/6611
+#EXTINF:-1 group-title="ASTRO | PPT流畅度",UK: Sky Sports News
+http://iptv.tvmalaysia.cc:80/174726/174726/6614
+#EXTINF:-1 group-title="ASTRO | PPT流畅度",UK: Sky Sports F1
+http://iptv.tvmalaysia.cc:80/174726/174726/6617
+#EXTINF:-1 group-title="ASTRO | PPT流畅度",UK: Sky Sports Golf
+http://iptv.tvmalaysia.cc:80/174726/174726/6618
+#EXTINF:-1 group-title="ASTRO | PPT流畅度",UK: Sky Sports Football
+http://iptv.tvmalaysia.cc:80/174726/174726/6620
+#EXTINF:-1 group-title="ASTRO | PPT流畅度",UK: Sky Sports Cricket
+http://iptv.tvmalaysia.cc:80/174726/174726/6619
+#EXTINF:-1 group-title="ASTRO | PPT流畅度",MUTV
+http://iptv.tvmalaysia.cc:80/174726/174726/7236
+#EXTINF:-1 group-title="ASTRO | PPT流畅度",LFC TV
+http://iptv.tvmalaysia.cc:80/174726/174726/7237
+
 
 #EXTINF:-1 group-title="英语新闻" tvg-logo="https://www.hualigs.cn/image/6155602517945.jpg",AL Jazeera FHD
 http://live-hls-web-aje.getaj.net/AJE/01.m3u8
