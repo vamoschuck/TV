@@ -2234,6 +2234,14 @@ http://39.130.202.81:6610/gitv_live/G_JINYINGJS-HD/G_JINYINGJS-HD.m3u8
 http://84.22.33.214:80/nbatv/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.hualigs.cn/image/61caacb6e8514.jpg" group-title="体育频道",CBS Sports FHD
 http://dai.google.com/linear/hls/event/9Lq0ERvoSR-z9AwvFS-xYA/master.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/Ws3p8ld.png" group-title="体育频道", Sony Six HD
+http://103.161.2.142/hls/sonysix.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/WZbjRM3.png" group-title="体育频道", Sony Ten 1 HD
+http://103.161.2.142/hls/sonyten1.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/p5DzCDr.png" group-title="体育频道", Sony Ten 2 HD
+http://103.161.2.142/hls/sonyten2.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/rU424bI.png" group-title="体育频道", Sony Ten 3
+http://103.161.2.142/hls/sonyten3.m3u8
 #EXTINF:-1 tvg-id="1987" tvg-name="五星体育频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/wuxingtiyu.png" group-title="体育频道",五星体育
 http://140.207.241.2:8080/live/program/live/ssty/4000000/mnf.m3u8
 #EXTINF:-1 tvg-id="1987" tvg-name="五星体育频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/wuxingtiyu.png" group-title="体育频道",五星体育
