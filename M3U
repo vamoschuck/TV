@@ -2441,50 +2441,34 @@ http://39.134.39.39/PLTV/88888888/224/3221226352/index.m3u8
 
 
 
-#EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="广东豆谷",翡翠台
-http://tyzb8081.weetai.cn:80/iptv-cdn/公众号=太阳视界/tyzb01.php?id=1350_1500
-#EXTINF:-1 tvg-id="127" tvg-name="明珠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB明珠台.png" group-title="广东豆谷",明珠台
-http://tyzb8081.weetai.cn:80/iptv-cdn/公众号=太阳视界/tyzb01.php?id=1351_1500
-#EXTINF:-1 tvg-id="6244" tvg-name="求索记录" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/QSJL.png" group-title="广东豆谷",求索纪录HD
-http://tyzb8081.weetai.cn:80/iptv-cdn/公众号=太阳视界/tyzb01.php?id=QSJLHD_7000
-#EXTINF:-1 tvg-id="6240" tvg-name="求索科学" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/QSKX.png" group-title="广东豆谷",求索科学HD
-http://tyzb8081.weetai.cn:80/iptv-cdn/公众号=太阳视界/tyzb01.php?id=qiusuokexueHD_7000
-#EXTINF:-1 tvg-id="6242" tvg-name="求索动物" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/QSDW.png" group-title="广东豆谷",求索动物HD
-http://tyzb8081.weetai.cn:80/iptv-cdn/公众号=太阳视界/tyzb01.php?id=QSDWHD_7000
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="广东豆谷",求索生活HD
-http://tyzb8081.weetai.cn:80/iptv-cdn/公众号=太阳视界/tyzb01.php?id=QSSHHD_7000
-#EXTINF:-1 tvg-id="7252" tvg-name="广东经济" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTVECO.png" group-title="广东豆谷",广东经济HD
-http://tyzb8081.weetai.cn:80/iptv-cdn/公众号=太阳视界/tyzb01.php?id=GDjingjikejiaoHD_7000
-#EXTINF:-1 tvg-id="6013" tvg-name="广东体育" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTV3.png" group-title="广东豆谷",广东体育HD
-http://tyzb8081.weetai.cn:80/iptv-cdn/公众号=太阳视界/tyzb01.php?id=gdsportsHD_7000
-#EXTINF:-1 tvg-id="7125" tvg-name="珠江频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/zhujiang.png" group-title="广东豆谷",广东珠江HD
-http://tyzb8081.weetai.cn:80/iptv-cdn/公众号=太阳视界/tyzb01.php?id=gdzhujiangHD_7500
-#EXTINF:-1 tvg-id="6013" tvg-name="广东体育" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTV3.png" group-title="广东豆谷",广东体育HD
-http://tyzb8081.weetai.cn:80/iptv-cdn/公众号=太阳视界/tyzb01.php?id=gdsportsHD_3000
-#EXTINF:-1 tvg-id="60" tvg-name="南方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/nanfang.png" group-title="广东豆谷",南方卫视
-http://tyzb8081.weetai.cn:80/iptv-cdn/公众号=太阳视界/tyzb01.php?id=gdnanfang_1500
-#EXTINF:-1 tvg-id="7125" tvg-name="珠江频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/zhujiang.png" group-title="广东豆谷",广东珠江
-http://tyzb8081.weetai.cn:80/iptv-cdn/公众号=太阳视界/tyzb01.php?id=gdzhujiang_1500
-#EXTINF:-1 tvg-id="6014" tvg-name="广东公共" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTV4.png" group-title="广东豆谷",广东公共
-http://tyzb8081.weetai.cn:80/iptv-cdn/公众号=太阳视界/tyzb01.php?id=gdpublic_1500
-#EXTINF:-1 tvg-id="6016" tvg-name="广东新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTV6.png" group-title="广东豆谷",广东新闻
-http://tyzb8081.weetai.cn:80/iptv-cdn/公众号=太阳视界/tyzb01.php?id=gdnews_1500
-#EXTINF:-1 tvg-id="7250" tvg-name="广东影视" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTVMOV.png" group-title="广东豆谷",广东影视
-http://tyzb8081.weetai.cn:80/iptv-cdn/公众号=太阳视界/tyzb01.php?id=gdyingshi_1500
-#EXTINF:-1 tvg-id="6013" tvg-name="广东体育" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTV3.png" group-title="广东豆谷",广东体育
-http://tyzb8081.weetai.cn:80/iptv-cdn/公众号=太阳视界/tyzb01.php?id=gdsports_1500
-#EXTINF:-1 tvg-id="7253" tvg-name="广东少儿" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTVSHAO.png" group-title="广东豆谷",广东少儿
-http://tyzb8081.weetai.cn:80/iptv-cdn/公众号=太阳视界/tyzb01.php?id=gdshaoer_1500
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="广东豆谷",广州竞赛
-http://tyzb8081.weetai.cn:80/iptv-cdn/公众号=太阳视界/tyzb01.php?id=gzcompetition_1500
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="广东豆谷",广州综合
-http://tyzb8081.weetai.cn:80/iptv-cdn/公众号=太阳视界/tyzb01.php?id=guangzhou_1500
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="广东豆谷",广州新闻
-http://tyzb8081.weetai.cn:80/iptv-cdn/公众号=太阳视界/tyzb01.php?id=gznews_1500
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="广东豆谷",广州经济
-http://tyzb8081.weetai.cn:80/iptv-cdn/公众号=太阳视界/tyzb01.php?id=gzeconomic_1500
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="广东豆谷",广州影视
-http://tyzb8081.weetai.cn:80/iptv-cdn/公众号=太阳视界/tyzb01.php?id=gzfilms_1500
+#EXTINF:-1 tvg-id="6013" tvg-name="广东体育" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTV3.png" group-title="地方",广东体育
+http://116.199.5.51:8114/00000000/index.m3u8?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Fsv_chan_hls_se_idx=8&Fsv_cid=0&Fsv_ctype=LIVES&Fsv_ctype=LIVES&Fsv_filetype=1&Fsv_otype=1&Fsv_otype=1&Fsv_rate_id=0&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=
+#EXTINF:-1 tvg-id="60" tvg-name="南方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/nanfang.png" group-title="小明上广州",南方卫视
+http://hongyanqiang.top/chudian.php?id=nfws
+#EXTINF:-1 tvg-id="6014" tvg-name="广东公共" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTV4.png" group-title="小明上广州",广东公共
+http://hongyanqiang.top/chudian.php?id=gdgg
+#EXTINF:-1 tvg-id="6016" tvg-name="广东新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTV6.png" group-title="小明上广州",广东新闻
+http://hongyanqiang.top/chudian.php?id=gdxw
+#EXTINF:-1 tvg-id="7250" tvg-name="广东影视" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTVMOV.png" group-title="小明上广州",广东影视
+http://hongyanqiang.top/chudian.php?id=gdys
+#EXTINF:-1 tvg-id="7253" tvg-name="广东少儿" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTVSHAO.png" group-title="小明上广州",广东少儿
+http://hongyanqiang.top/chudian.php?id=gdse
+#EXTINF:-1 tvg-id="6013" tvg-name="广东体育" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTV3.png" group-title="小明上广州",广东体育
+http://hongyanqiang.top/chudian.php?id=gdty
+#EXTINF:-1 tvg-id="6017" tvg-name="广东国际" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTV8.png" group-title="小明上广州",广东国际
+http://hongyanqiang.top/chudian.php?id=gdgj
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="小明上广州",南国都市
+http://ye23.win/iptv/gztv.php?id=shenghuo
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="小明上广州",广州竞赛
+http://ye23.win/iptv/gztv.php?id=jingsai
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="小明上广州",广州综合
+http://ye23.win/iptv/gztv.php?id=zhonghe
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="小明上广州",广州新闻
+http://ye23.win/iptv/gztv.php?id=xinwen
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="小明上广州",广州法制
+http://ye23.win/iptv/gztv.php?id=fazhi
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="小明上广州",广州影视
+http://aplay.gztv.com/sec/yingshi.m3u8
 
 
 
