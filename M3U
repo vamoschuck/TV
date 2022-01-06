@@ -1665,44 +1665,6 @@ http://223.110.251.219:6610/gitv/live1/G_ZHEJIANG-CQ/G_ZHEJIANG-CQ/1.m3u8
 http://223.110.251.219:6610/gitv/live1/G_CHONGQING/G_CHONGQING/.m3u8
 
 
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视标清-海外专用",CCTV1综合
-https://cctvtxyh5ca.liveplay.myqcloud.com/live/cctv1_2_hd.m3u8
-#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="央视标清-海外专用",CCTV2财经
-https://cctvtxyh5ca.liveplay.myqcloud.com/live/cctv2_2_hd/index.m3u8
-#EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="央视标清-海外专用",CCTV3综艺
-https://cctvtxyh5ca.liveplay.myqcloud.com/live/cctv3_2_hd/index.m3u8
-#EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="央视标清-海外专用",CCTV4亚洲
-http://cctvalih5ca.v.myalicdn.com/live/cctv4_2/index.m3u8
-#EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="央视标清-海外专用",CCTV4美洲
-http://cctvalih5ca.v.myalicdn.com:80/live/cctvamerica_2/index.m3u8
-#EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="央视标清-海外专用",CCTV4欧洲
-http://cctvalih5ca.v.myalicdn.com:80/live/cctveurope_2/index.m3u8
-#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="央视标清-海外专用",CCTV5体育
-http://cctvalih5ca.v.myalicdn.com:80/live/cctv5_2/index.m3u8
-#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="央视标清-海外专用",CCTV5+体育赛事
-http://cctvalih5ca.v.myalicdn.com:80/live/cctv5plus_2/index.m3u8
-#EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="央视标清-海外专用",CCTV6电影
-http://cctvalih5ca.v.myalicdn.com/live/cctv6_2/index.m3u8
-#EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="央视标清-海外专用",CCTV7国防军事
-http://cctvalih5ca.v.myalicdn.com/live/cctv7_2/index.m3u8
-#EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="央视标清-海外专用",CCTV8电视剧
-http://cctvalih5ca.v.myalicdn.com/live/cctv8_2/index.m3u8
-#EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" group-title="央视标清-海外专用",CCTV9纪录
-http://cctvalih5ca.v.myalicdn.com/live/cctvjilu_2/index.m3u8
-#EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" group-title="央视标清-海外专用",CCTV10科教
-http://cctvalih5ca.v.myalicdn.com/live/cctv10_2/index.m3u8
-#EXTINF:-1 tvg-id="12" tvg-name="CCTV11" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png" group-title="央视标清-海外专用",CCTV11戏曲
-http://cctvalih5ca.v.myalicdn.com/live/cctv11_2/index.m3u8
-#EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" group-title="央视标清-海外专用",CCTV12社会与法
-http://cctvalih5ca.v.myalicdn.com/live/cctv12_2/index.m3u8
-#EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="央视标清-海外专用",CCTV13新闻
-http://cctvalih5ca.v.myalicdn.com/live/cctv13_2/index.m3u8
-#EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="央视标清-海外专用",CCTV14少儿
-http://cctvalih5ca.v.myalicdn.com/live/cctvchild_2/index.m3u8
-#EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="央视标清-海外专用",CCTV15音乐
-http://cctvalih5ca.v.myalicdn.com:80/live/cctv15_2/index.m3u8
-#EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="央视标清-海外专用",CCTV17农业农村
-http://cctvalih5ca.v.myalicdn.com/live/cctv17_2/index.m3u8
 
 
 
@@ -2292,6 +2254,21 @@ https://edgesports-sportstribal.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/9661e155-c5b8-43f3-9e1c-0e87cb75ae94-small3x1_STIRR_Logo_0320_EdgeSport_1920x1080_EPG.png?cb=c81e728d9d4c2f636f067f89cc14862c" group-title="体育频道",EDGEsport (STIRR)
 https://dai.google.com/linear/hls/event/d4zeSI-dTuqizFrByjs3OA/master.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.hualigs.cn/image/61d66bb629992.jpg" group-title="BEIN体育-随时失效",BEIN SPORTS 1 HD
+http://195.230.23.8:25461/goldsfree3/goldstv.com/3149
+#EXTINF:-1 tvg-logo="https://www.hualigs.cn/image/61bde9700cb00.jpg" group-title="BEIN体育-随时失效",BEIN SPORTS 2 HD
+http://195.230.23.8:25461/goldsfree3/goldstv.com/3150
+#EXTINF:-1 tvg-logo="https://www.hualigs.cn/image/61d66b0b979c3.jpg" group-title="BEIN体育-随时失效",BEIN SPORTS 3 HD
+http://195.230.23.8:25461/goldsfree3/goldstv.com/3151
+#EXTINF:-1 tvg-logo="https://www.hualigs.cn/image/61d66b0ba6c4d.jpg" group-title="BEIN体育-随时失效",BEIN SPORTS 4 HD
+http://195.230.23.8:25461/goldsfree3/goldstv.com/3152
+#EXTINF:-1 tvg-logo="https://www.hualigs.cn/image/61d66b0c1826f.jpg" group-title="BEIN体育-随时失效",BEIN SPORTS 5 HD
+http://195.230.23.8:25461/goldsfree3/goldstv.com/3153
+#EXTINF:-1 tvg-logo="https://www.hualigs.cn/image/61d66b0bbdc1e.jpg" group-title="BEIN体育-随时失效",BEIN SPORTS 6 HD
+http://195.230.23.8:25461/goldsfree3/goldstv.com/3154
+#EXTINF:-1 tvg-logo="https://www.hualigs.cn/image/61d66b0c2015c.jpg" group-title="BEIN体育-随时失效",BEIN OLYMPIC HD
+http://195.230.23.8:25461/goldsfree3/goldstv.com/3155
+
 
 #EXTINF:-1 group-title="赛事直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",咪咕视频 西甲-1
 http://39.134.66.66/PLTV/88888888/224/3221225620/index.m3u8
@@ -2846,7 +2823,7 @@ rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH40/40
 rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH41/41
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台RTMP",NEWS
 rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH42/42
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台RTMP",NEWS
+#EXTINF:-1 tvg-id="7183" tvg-name="aljazeera" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/aljazeera.png" group-title="港澳台RTMP",半岛国际新闻台
 rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH43/43
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台RTMP",NEWS
 rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH44/44
@@ -3237,7 +3214,7 @@ http://211.23.114.106:8507/http/61.221.81.94:8088/hls/76/818/ch63.m3u8?token=
 
 
 
-#EXTINF:-1 group-title="英语新闻" tvg-logo="https://www.hualigs.cn/image/6155602517945.jpg",AL Jazeera FHD
+#EXTINF:-1 tvg-id="7183" tvg-name="aljazeera" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/aljazeera.png" group-title="英语新闻",AL Jazeera FHD
 http://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:-1 group-title="英语新闻" tvg-logo="https://www.hualigs.cn/image/61554ceba2b55.jpg",ArirangTV FHD
 http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
