@@ -2132,7 +2132,10 @@ http://39.130.202.81:6610/gitv_live/G_JINYINGJS-HD/G_JINYINGJS-HD.m3u8
 
 
 
+
 #EXTINF:-1 tvg-logo="https://www.hualigs.cn/image/61c913564dd99.jpg" group-title="体育频道", NBA TV
+https://iptv.jmsooo.com/live/nbatv/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.hualigs.cn/image/61c913564dd99.jpg" group-title="体育频道", NBA TV（备）
 http://84.22.33.214:80/nbatv/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.hualigs.cn/image/61caacb6e8514.jpg" group-title="体育频道",CBS Sports FHD
 http://dai.google.com/linear/hls/event/9Lq0ERvoSR-z9AwvFS-xYA/master.m3u8
@@ -3292,6 +3295,190 @@ http://211.23.114.106:8507/http/61.221.81.94:8088/hls/76/818/ch61.m3u8?token=
 http://211.23.114.106:8507/http/61.221.81.94:8088/hls/76/818/ch62.m3u8?token=
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="台湾211",大爱
 http://211.23.114.106:8507/http/61.221.81.94:8088/hls/76/818/ch63.m3u8?token=
+
+
+#EXTINF:-1 group-title="马来西亚临时",Celestial Classic Movies.
+http://iptv.tvmalaysia.cc:80/kl570/kl570/7222
+#EXTINF:-1 group-title="马来西亚临时",Celestial Movies
+http://iptv.tvmalaysia.cc:80/kl570/kl570/7235
+#EXTINF:-1 group-title="马来西亚临时",TVB Classic
+http://iptv.tvmalaysia.cc:80/kl570/kl570/6839
+#EXTINF:-1 group-title="马来西亚临时",HBO FHD
+http://iptv.tvmalaysia.cc:80/kl570/kl570/7067
+#EXTINF:-1 group-title="马来西亚临时",HBO Signature FHD
+http://iptv.tvmalaysia.cc:80/kl570/kl570/7069
+#EXTINF:-1 group-title="马来西亚临时",HBO Family FHD
+http://iptv.tvmalaysia.cc:80/kl570/kl570/7070
+#EXTINF:-1 group-title="马来西亚临时",Hits Movies
+http://iptv.tvmalaysia.cc:80/kl570/kl570/7066
+#EXTINF:-1 group-title="马来西亚临时",Red By HBO HD
+http://iptv.tvmalaysia.cc:80/kl570/kl570/7071
+#EXTINF:-1 group-title="马来西亚临时",Warner TV HD
+http://iptv.tvmalaysia.cc:80/kl570/kl570/7072
+#EXTINF:-1 group-title="马来西亚临时",tvN HD
+http://iptv.tvmalaysia.cc:80/kl570/kl570/6844
+#EXTINF:-1 group-title="马来西亚临时",tvN movies
+http://iptv.tvmalaysia.cc:80/kl570/kl570/7074
+#EXTINF:-1 group-title="马来西亚临时",ASTRO SUPERSPORT HD
+http://iptv.tvmalaysia.cc:80/kl570/kl570/6708
+#EXTINF:-1 group-title="马来西亚临时",ASSP 1
+http://iptv.tvmalaysia.cc:80/kl570/kl570/9024
+#EXTINF:-1 group-title="马来西亚临时",ASTRO SUPERSPORT 2 HD
+http://iptv.tvmalaysia.cc:80/kl570/kl570/6710
+#EXTINF:-1 group-title="马来西亚临时",ASSP 2
+http://iptv.tvmalaysia.cc:80/kl570/kl570/9025
+#EXTINF:-1 group-title="马来西亚临时",ASTRO SUPERSPORT 3 HD
+http://iptv.tvmalaysia.cc:80/kl570/kl570/6711
+#EXTINF:-1 group-title="马来西亚临时",ASSP 3 (LIVE EPL ONLY)
+http://iptv.tvmalaysia.cc:80/kl570/kl570/9020
+#EXTINF:-1 group-title="马来西亚临时",ASTRO SUPERSPORT 4 HD
+http://iptv.tvmalaysia.cc:80/kl570/kl570/6712
+#EXTINF:-1 group-title="马来西亚临时",Astro Supersport 5
+http://iptv.tvmalaysia.cc:80/kl570/kl570/9029
+#EXTINF:-1 group-title="马来西亚临时",WWE Network
+http://iptv.tvmalaysia.cc:80/kl570/kl570/6849
+#EXTINF:-1 group-title="马来西亚临时",Rugby Pass TV
+http://iptv.tvmalaysia.cc:80/kl570/kl570/6821
+#EXTINF:-1 group-title="马来西亚临时",TSN 1
+http://iptv.tvmalaysia.cc:80/kl570/kl570/8923
+#EXTINF:-1 group-title="马来西亚临时",TSN 3
+http://iptv.tvmalaysia.cc:80/kl570/kl570/8925
+#EXTINF:-1 group-title="马来西亚临时",DSTV: SuperSport Premier League
+http://iptv.tvmalaysia.cc:80/kl570/kl570/6574
+#EXTINF:-1 group-title="马来西亚临时",DSTV: SuperSport Motorsport
+http://iptv.tvmalaysia.cc:80/kl570/kl570/7142
+#EXTINF:-1 group-title="马来西亚临时",BT Sport 1
+http://iptv.tvmalaysia.cc:80/kl570/kl570/6610
+#EXTINF:-1 group-title="马来西亚临时",BT Sport 2
+http://iptv.tvmalaysia.cc:80/kl570/kl570/6611
+#EXTINF:-1 group-title="马来西亚临时",BT Sport 3
+http://iptv.tvmalaysia.cc:80/kl570/kl570/6612
+#EXTINF:-1 group-title="马来西亚临时",UK: Sky Sports News
+http://iptv.tvmalaysia.cc:80/kl570/kl570/6614
+#EXTINF:-1 group-title="马来西亚临时",UK: Sky Sports F1
+http://iptv.tvmalaysia.cc:80/kl570/kl570/6617
+#EXTINF:-1 group-title="马来西亚临时",UK: Sky Sports Golf
+http://iptv.tvmalaysia.cc:80/kl570/kl570/6618
+#EXTINF:-1 group-title="马来西亚临时",UK: Sky Sports Football
+http://iptv.tvmalaysia.cc:80/kl570/kl570/6620
+#EXTINF:-1 group-title="马来西亚临时",UK: Sky Sports Cricket
+http://iptv.tvmalaysia.cc:80/kl570/kl570/6619
+#EXTINF:-1 group-title="马来西亚临时",MUTV
+http://iptv.tvmalaysia.cc:80/kl570/kl570/7236
+#EXTINF:-1 group-title="马来西亚临时",LFC TV
+http://iptv.tvmalaysia.cc:80/kl570/kl570/7237
+#EXTINF:-1 group-title="马来西亚临时",FS 1
+http://iptv.tvmalaysia.cc:80/kl570/kl570/9003
+#EXTINF:-1 group-title="马来西亚临时",ASTRO Prima HD
+http://iptv.tvmalaysia.cc:80/kl570/kl570/6727
+#EXTINF:-1 group-title="马来西亚临时",Astro Citra HD (subtitle)
+http://iptv.tvmalaysia.cc:80/kl570/kl570/7267
+#EXTINF:-1 group-title="马来西亚临时",ASTRO Naura HD
+http://iptv.tvmalaysia.cc:80/kl570/kl570/6724
+#EXTINF:-1 group-title="马来西亚临时",ASTRO Oasis HD
+http://iptv.tvmalaysia.cc:80/kl570/kl570/6725
+#EXTINF:-1 group-title="马来西亚临时",ASTRO Aura HD
+http://iptv.tvmalaysia.cc:80/kl570/kl570/6713
+#EXTINF:-1 group-title="马来西亚临时",ASTRO Awani HD
+http://iptv.tvmalaysia.cc:80/kl570/kl570/6714
+#EXTINF:-1 group-title="马来西亚临时",ASTRO Ceria HD
+http://iptv.tvmalaysia.cc:80/kl570/kl570/6715
+#EXTINF:-1 group-title="马来西亚临时",Al-Jazzera HD
+http://iptv.tvmalaysia.cc:80/kl570/kl570/6694
+#EXTINF:-1 group-title="马来西亚临时",ASTRO Colors Tamil
+http://iptv.tvmalaysia.cc:80/kl570/kl570/6716
+#EXTINF:-1 group-title="马来西亚临时",ASTRO Vaanavil HD
+http://iptv.tvmalaysia.cc:80/kl570/kl570/6738
+#EXTINF:-1 group-title="马来西亚临时",ASTRO Oh!K HD
+http://iptv.tvmalaysia.cc:80/kl570/kl570/6726
+#EXTINF:-1 group-title="马来西亚临时",Bloomberg TV
+http://iptv.tvmalaysia.cc:80/kl570/kl570/6751
+#EXTINF:-1 group-title="马来西亚临时",BollyOne HD
+http://iptv.tvmalaysia.cc:80/kl570/kl570/6754
+#EXTINF:-1 group-title="马来西亚临时",Cartoon Network HD
+http://iptv.tvmalaysia.cc:80/kl570/kl570/6757
+#EXTINF:-1 group-title="马来西亚临时",DMAX HD
+http://iptv.tvmalaysia.cc:80/kl570/kl570/6778
+#EXTINF:-1 group-title="马来西亚临时",TV-AlHijrah
+http://iptv.tvmalaysia.cc:80/kl570/kl570/6834
+#EXTINF:-1 group-title="马来西亚临时",Sun Music
+http://iptv.tvmalaysia.cc:80/kl570/kl570/6831
+#EXTINF:-1 group-title="马来西亚临时",One HD
+http://iptv.tvmalaysia.cc:80/kl570/kl570/6817
+#EXTINF:-1 group-title="马来西亚临时",Nickelodeon HD
+http://iptv.tvmalaysia.cc:80/kl570/kl570/6814
+#EXTINF:-1 group-title="马来西亚临时",Nick Jr
+http://iptv.tvmalaysia.cc:80/kl570/kl570/6813
+#EXTINF:-1 group-title="马来西亚临时",KBS World HD
+http://iptv.tvmalaysia.cc:80/kl570/kl570/6803
+#EXTINF:-1 group-title="马来西亚临时",HGTV HD
+http://iptv.tvmalaysia.cc:80/kl570/kl570/6798
+#EXTINF:-1 group-title="马来西亚临时",TV 1
+http://iptv.tvmalaysia.cc:80/kl570/kl570/7177
+#EXTINF:-1 group-title="马来西亚临时",TV 3
+http://iptv.tvmalaysia.cc:80/kl570/kl570/7266
+#EXTINF:-1 group-title="马来西亚临时",Galaxy Premium
+http://iptv.tvmalaysia.cc:80/kl570/kl570/8838
+#EXTINF:-1 group-title="马来西亚临时",National Geographic HD
+http://iptv.tvmalaysia.cc:80/kl570/kl570/7075
+#EXTINF:-1 group-title="马来西亚临时",Nat Geo Wild HD
+http://iptv.tvmalaysia.cc:80/kl570/kl570/7081
+#EXTINF:-1 group-title="马来西亚临时",Nat Geo People HD
+http://iptv.tvmalaysia.cc:80/kl570/kl570/7080
+#EXTINF:-1 group-title="马来西亚临时",History FHD
+http://iptv.tvmalaysia.cc:80/kl570/kl570/7079
+#EXTINF:-1 group-title="马来西亚临时",Discovery Channel HD
+http://iptv.tvmalaysia.cc:80/kl570/kl570/7078
+#EXTINF:-1 group-title="马来西亚临时",Animal Planet
+http://iptv.tvmalaysia.cc:80/kl570/kl570/7077
+#EXTINF:-1 group-title="马来西亚临时",HGTV
+http://iptv.tvmalaysia.cc:80/kl570/kl570/7076
+#EXTINF:-1 group-title="马来西亚临时",Era FM
+http://iptv.tvmalaysia.cc:80/kl570/kl570/7169
+#EXTINF:-1 group-title="马来西亚临时",Hot FM
+http://iptv.tvmalaysia.cc:80/kl570/kl570/7170
+#EXTINF:-1 group-title="马来西亚临时",Hitz FM
+http://iptv.tvmalaysia.cc:80/kl570/kl570/7171
+#EXTINF:-1 group-title="马来西亚临时",Sinar FM
+http://iptv.tvmalaysia.cc:80/kl570/kl570/7172
+#EXTINF:-1 group-title="马来西亚临时",THR GEGAR
+http://iptv.tvmalaysia.cc:80/kl570/kl570/7174
+#EXTINF:-1 group-title="马来西亚临时",Cinema World
+http://iptv.tvmalaysia.cc:80/kl570/kl570/7219
+#EXTINF:-1 group-title="马来西亚临时",Thrill
+http://iptv.tvmalaysia.cc:80/kl570/kl570/7220
+#EXTINF:-1 group-title="马来西亚临时",Fox Crime
+http://iptv.tvmalaysia.cc:80/kl570/kl570/7225
+#EXTINF:-1 group-title="马来西亚临时",KiX
+http://iptv.tvmalaysia.cc:80/kl570/kl570/7229
+#EXTINF:-1 group-title="马来西亚临时",Sony One
+http://iptv.tvmalaysia.cc:80/kl570/kl570/8863
+#EXTINF:-1 group-title="马来西亚临时",STARZ KIDS&FAMILY
+http://iptv.tvmalaysia.cc:80/kl570/kl570/8991
+#EXTINF:-1 group-title="马来西亚临时",மக்கள் தொலைக்காட்சி
+http://iptv.tvmalaysia.cc:80/kl570/kl570/8995
+#EXTINF:-1 group-title="马来西亚临时",Crime & Investigation.
+http://iptv.tvmalaysia.cc:80/kl570/kl570/9009
+#EXTINF:-1 group-title="马来西亚临时",Fox Family Movie
+http://iptv.tvmalaysia.cc:80/kl570/kl570/9027
+#EXTINF:-1 group-title="马来西亚临时",ASTRO Arena HD
+http://iptv.tvmalaysia.cc:80/kl570/kl570/6707
+#EXTINF:-1 group-title="马来西亚临时",Arena 2
+http://iptv.tvmalaysia.cc:80/kl570/kl570/9028
+#EXTINF:-1 group-title="马来西亚临时",Disney XD FHD
+http://iptv.tvmalaysia.cc:80/kl570/kl570/7198
+#EXTINF:-1 group-title="马来西亚临时",Boomerang
+http://iptv.tvmalaysia.cc:80/kl570/kl570/7199
+#EXTINF:-1 group-title="马来西亚临时",Nickelodeon
+http://iptv.tvmalaysia.cc:80/kl570/kl570/7201
+#EXTINF:-1 group-title="马来西亚临时",Universal Kids FHD
+http://iptv.tvmalaysia.cc:80/kl570/kl570/7205
+#EXTINF:-1 group-title="马来西亚临时",Trans 7
+http://iptv.tvmalaysia.cc:80/kl570/kl570/8844
+#EXTINF:-1 group-title="马来西亚临时",Metro TV
+http://iptv.tvmalaysia.cc:80/kl570/kl570/8848
+#EXTINF:-1 group-title="马来西亚临时",CNN Indonesia
+http://iptv.tvmalaysia.cc:80/kl570/kl570/8851
 
 
 
