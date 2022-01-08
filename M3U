@@ -1,7 +1,6 @@
 #EXTM3U url-tvg="http://epg.51zmt.top:8000/e.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
 
-#EXTINF:-1   group-title="临时直播",高山学园 vs 青森山田
-https://tver2-cdn-live-b.ntv.co.jp/104712aaaf6246c281b706bbf6e894b6/ap-southeast-1/5229431797001/profile_0/5a44c828cb4441a68182e6b62848c449/chunklist_ssaiV.m3u8
+
 #EXTINF:-1  tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="陕西移动-回看",CCTV1
 http://111.20.33.93/TVOD/88888893/224/3221226231/index.m3u8
 #EXTINF:-1  tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="陕西移动-回看",CCTV2
@@ -1036,6 +1035,20 @@ http://39.134.71.75/ott.js.chinamobile.com/TVOD/3/224/3221228123/index.m3u8
 http://39.134.71.75/ott.js.chinamobile.com/TVOD/3/224/3221228194/index.m3u8
 #EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="江苏移动-高码回看",CCTV8
 http://39.134.71.75/ott.js.chinamobile.com/TVOD/3/224/3221227473/index.m3u8
+#EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="江苏移动-高码回看",CCTV奥林匹克
+http://39.134.71.75/ott.js.chinamobile.com/TVOD/3/224/3221228127/index.m3u8
+#EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="江苏移动-高码回看",CCTV奥林匹克
+http://39.134.71.75/ott.js.chinamobile.com/TVOD/3/224/3221228168/index.m3u8
+#EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="江苏移动-高码回看",CCTV奥林匹克 4K HDR
+http://ott.js.chinamobile.com/TVOD/3/224/3221228127/index.m3u8
+#EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="江苏移动-高码回看",CCTV奥林匹克 4K 25MB
+http://223.110.235.9/ott.js.chinamobile.com/TVOD/3/224/3221228168/index.m3u8
+#EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="江苏移动-高码回看",CCTV奥林匹克 4K 34MB HDR
+http://223.110.235.24/ott.js.chinamobile.com/TVOD/3/224/3221228127/index.m3u8
+#EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="江苏移动-高码回看",CCTV4K HDR
+http://ott.js.chinamobile.com/TVOD/3/224/3221228242/index.m3u8
+#EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="江苏移动-高码回看",CCTV4K HDR
+http://223.110.236.8/ott.js.chinamobile.com/PLTV/3/224/3221228242/index.m3u8
 #EXTINF:-1 tvg-id="34" tvg-name="深圳卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shenzhen.png" group-title="江苏移动-高码回看",深圳卫视
 http://39.134.71.75/ott.js.chinamobile.com/TVOD/3/224/3221227555/index.m3u8
 #EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="江苏移动-高码回看",江苏卫视
@@ -1064,16 +1077,6 @@ http://39.134.71.75/ott.js.chinamobile.com/TVOD/3/224/3221227514/index.m3u8
 http://39.134.71.75/ott.js.chinamobile.com/TVOD/3/224/3221227517/index.m3u8
 #EXTINF:-1 tvg-id="32" tvg-name="安徽卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png" group-title="江苏移动-高码回看",安徽卫视
 http://39.134.71.75/ott.js.chinamobile.com/TVOD/3/224/3221227558/index.m3u8
-#EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="江苏移动-高码回看",CCTV奥林匹克
-http://39.134.71.75/ott.js.chinamobile.com/TVOD/3/224/3221228127/index.m3u8
-#EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="江苏移动-高码回看",CCTV奥林匹克
-http://39.134.71.75/ott.js.chinamobile.com/TVOD/3/224/3221228168/index.m3u8
-#EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="江苏移动-高码回看",CCTV奥林匹克 4K HDR
-http://ott.js.chinamobile.com/TVOD/3/224/3221228127/index.m3u8
-#EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="江苏移动-高码回看",CCTV4K HDR
-http://ott.js.chinamobile.com/TVOD/3/224/3221228242/index.m3u8
-#EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="江苏移动-高码回看",CCTV4K HDR
-http://223.110.236.8/ott.js.chinamobile.com/PLTV/3/224/3221228242/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="江苏移动-高码回看",4K修复
 http://39.134.71.75/ott.js.chinamobile.com/TVOD/3/224/3221228141/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="江苏移动-高码回看",4K电影
@@ -1693,56 +1696,6 @@ http://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s8/index.m3u8
 http://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s9/index.m3u8
 #EXTINF:-1 tvg-id="67" tvg-name="卡酷动画" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/kaku.png" group-title="省市地方",卡酷少儿 FHD
 http://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s10/index.m3u8
-#EXTINF:-1 tvg-id="1991" tvg-name="上视外语频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaiwaiyu.png" group-title="省市地方",上视外语
-http://103.18.208.185/liveplay-kk.rtxapp.com/live/program/live/wypdhd/4000000/mnf.m3u8
-#EXTINF:-1 tvg-id="1986" tvg-name="东方影视" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaidongfangyingshi.png" group-title="省市地方",东方影视
-http://103.18.208.185/liveplay-kk.rtxapp.com/live/program/live/dsjpdhd/4000000/mnf.m3u8
-#EXTINF:-1 tvg-id="1987" tvg-name="五星体育频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/wuxingtiyu.png" group-title="省市地方",五星体育
-http://103.18.208.185/liveplay-kk.rtxapp.com/live/program/live/ssty/4000000/mnf.m3u8
-#EXTINF:-1 tvg-id="1985" tvg-name="第一财经" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/diyicaijing.png" group-title="省市地方",第一财经
-http://103.18.208.185/liveplay-kk.rtxapp.com/live/program/live/dycjhd/4000000/mnf.m3u8
-#EXTINF:-1 tvg-id="1984" tvg-name="上视新闻频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shangshixinwen.png" group-title="省市地方",上海新闻综合
-http://103.18.208.185/liveplay-kk.rtxapp.com/live/program/live/xwzhhd/4000000/mnf.m3u8
-#EXTINF:-1 tvg-id="1988" tvg-name="上海纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png" group-title="省市地方",纪实人文
-http://103.18.208.185/liveplay-kk.rtxapp.com/live/program/live/jspdhd/4000000/mnf.m3u8
-#EXTINF:-1 tvg-id="62" tvg-name="哈哈炫动" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xuandong.png" group-title="省市地方",哈哈炫动
-http://103.18.208.185/liveplay-kk.rtxapp.com/live/program/live/hhxdhd/4000000/mnf.m3u8
-#EXTINF:-1 tvg-id="1989" tvg-name="上海都市频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaidushi.jpg" group-title="省市地方",上海都市
-http://103.18.208.185/liveplay-kk.rtxapp.com/live/program/live/ylpdhd/4000000/mnf.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="省市地方",上海教育
-http://103.18.208.185/liveplay-kk.rtxapp.com/live/program/live/setv/1300000/mnf.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="省市地方",上海教育
-http://live2018.setv.sh.cn/setv/programme10_lud.m3u8?auth_key=4790122411-0-0-f6c20db506e028f2f4d4a546c3f9631b
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="省市地方",SiTV都市剧场
-http://103.18.208.185/liveplay-kk.rtxapp.com/live/program/live/dsjchd/4000000/mnf.m3u8
-#EXTINF:-1 tvg-id="1977" tvg-name="欢笑剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/huanxiao.png" group-title="省市地方",SiTV欢笑剧场
-http://103.18.208.185/liveplay-kk.rtxapp.com/live/program/live/hxjchd/4000000/mnf.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="省市地方",SiTV动漫秀场
-http://103.18.208.185/liveplay-kk.rtxapp.com/live/program/live/dmxchd/4000000/mnf.m3u8
-#EXTINF:-1 tvg-id="1983" tvg-name="游戏风云" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youxifengyun.png" group-title="省市地方",SiTV游戏风云
-http://103.18.208.185/liveplay-kk.rtxapp.com/live/program/live/yxfyhd/4000000/mnf.m3u8
-#EXTINF:-1 tvg-id="1963" tvg-name="新视觉" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xinshijue.png" group-title="省市地方",SiTV新视觉
-http://103.18.208.185/liveplay-kk.rtxapp.com/live/program/live/xsjhd/4000000/mnf.m3u8
-#EXTINF:-1 tvg-id="1964" tvg-name="劲爆体育" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinbaotiyu.jpg" group-title="省市地方",SiTV劲爆体育
-http://103.18.208.185/liveplay-kk.rtxapp.com/live/program/live/jbtyhd/4000000/mnf.m3u8
-#EXTINF:-1 tvg-id="7242" tvg-name="魅力足球" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/meilizuqiu.png" group-title="省市地方",SiTV魅力足球
-http://103.18.208.185/liveplay-kk.rtxapp.com/live/program/live/mlyyhd/4000000/mnf.m3u8
-#EXTINF:-1 tvg-id="1975" tvg-name="MAX极速汽车" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jisuqiche.png" group-title="省市地方",SiTV极速汽车
-http://103.18.208.185/liveplay-kk.rtxapp.com/live/program/live/jsqchd/4000000/mnf.m3u8
-#EXTINF:-1 tvg-id="1981" tvg-name="生活时尚" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shenghuoshishang.png" group-title="省市地方",SiTV生活时尚
-http://103.18.208.185/liveplay-kk.rtxapp.com/live/program/live/shsshd/4000000/mnf.m3u8
-#EXTINF:-1 tvg-id="1976" tvg-name="全纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/quanjishi.png" group-title="省市地方",SiTV全纪实
-http://103.18.208.185/liveplay-kk.rtxapp.com/live/program/live/qjshd/4000000/mnf.m3u8
-#EXTINF:-1 tvg-id="1980" tvg-name="幸福彩" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xingfucai.png" group-title="省市地方",SiTV幸福彩
-http://103.18.208.185/liveplay-kk.rtxapp.com/live/program/live/xfchd/4000000/mnf.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="省市地方",SiTV法治天地SD
-http://103.18.208.185/liveplay-kk.rtxapp.com/live/program/live/fztd/1300000/mnf.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="省市地方",SiTV金色频道SD
-http://103.18.208.185/liveplay-kk.rtxapp.com/live/program/live/jingsepd/1300000/mnf.m3u8
-#EXTINF:-1 tvg-id="1956" tvg-name="七彩戏剧" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/qicaixiju.png" group-title="省市地方",SiTV七彩戏剧SD
-http://103.18.208.185/liveplay-kk.rtxapp.com/live/program/live/qcxj/1300000/mnf.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="省市地方",SiTV东方财经
-http://103.18.208.185/liveplay-kk.rtxapp.com/live/program/live/dfcj/1300000/mnf.m3u8
 #EXTINF:-1 tvg-id="6001" tvg-name="辽宁都市" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/LNTV2.jpg" group-title="省市地方",辽宁都市
 http://39.135.129.165/hwottcdn.ln.chinamobile.com/PLTV/-/224/3221226760/index.m3u8
 #EXTINF:-1 tvg-id="6005" tvg-name="辽宁公共" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/LNTV7.jpg" group-title="省市地方",辽宁公共
@@ -3421,11 +3374,11 @@ https://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/master.m3u8
 
 
 #EXTINF:-1 tvg-id="6246" tvg-name="CHC家庭电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg" group-title="影视动画",CHC家庭影院
-http://39.134.18.65/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/1.m3u8
+http://59.49.41.44/live.aishang.ctlcdn.com/00000110240323_1/playlist.m3u8?CONTENTID=00000110240323_1
 #EXTINF:-1 tvg-id="6241" tvg-name="CHC高清电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg" group-title="影视动画",CHC高清电影
-http://39.134.18.68/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/1.m3u8
+http://59.49.41.44/live.aishang.ctlcdn.com/00000110240325_1/playlist.m3u8?CONTENTID=00000110240325_1
 #EXTINF:-1 tvg-id="6245" tvg-name="CHC动作电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC1.jpg" group-title="影视动画",CHC动作电影
-http://39.134.18.66/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/1.m3u8
+http://59.49.41.44/live.aishang.ctlcdn.com/00000110240324_1/playlist.m3u8?CONTENTID=00000110240324_1
 #EXTINF:-1 group-title="影视动画",银河爆笑喜剧
 http://111.63.77.77/gitv_live/GITV-HB-1/GITV-HB-1.m3u8?p=GITV&area=HBYD
 #EXTINF:-1 group-title="影视动画",银河劲爆动作
@@ -3438,10 +3391,6 @@ http://111.63.77.77/gitv_live/GITV-HB-7/GITV-HB-7.m3u8?p=GITV&area=HBYD
 http://111.63.77.77/gitv_live/GITV-HB-8/GITV-HB-8.m3u8?p=GITV&area=HBYD
 #EXTINF:-1 group-title="影视动画",银河大咖影院
 http://111.63.77.77/gitv_live/GITV-HB-9/GITV-HB-9.m3u8?p=GITV&area=HBYD
-#EXTINF:-1 group-title="影视动画",企鹅电影-2
-https://1f97bd333ceef73bfdbd7e9987650b18.v.smtcdns.net/txpcdn.liveplay.egame.qq.com/live/3954_616645877_1200.m3u8
-#EXTINF:-1 group-title="影视动画",企鹅电影-3
-https://1f97bd333ceef73bfdbd7e9987650b18.v.smtcdns.net/txpcdn.liveplay.egame.qq.com/live/3954_145086784.m3u8
 #EXTINF:-1 group-title="影视动画" tvg-logo="https://www.hualigs.cn/image/615a7fdfe5fc2.jpg",CBN每日影院FHD
 http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=71&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
 #EXTINF:-1 group-title="影视动画" tvg-logo="https://www.hualigs.cn/image/615a7fdfe5fc2.jpg",CBN每日影院FHD
@@ -3471,28 +3420,51 @@ http://39.134.134.89/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226554/index
 http://39.134.134.88/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226556/index.m3u8?servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=3QGHZfaujB8rRCsAsCvwpxxlHr4QY7xmzJA0CWZ2m2oFrdR%2B0WqiDAHoOrKmOBjJo1DAVyGMxV75D0k9A8UW52%2FrO%2F0g1FiOsgmHLskIhGej57NNTIcVyR%2FC8%2FqFakBOwqRuq1wlVOXKPSxUnb4JNQ%3D%3D%3A20211105223205%2C10000100000000050000000003887494%2CF6D75A298389DD1E7C3B7D397327CA23%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2CEND
 		
 
+#EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="4K体验",CCTV4K HDR
+http://ott.js.chinamobile.com/TVOD/3/224/3221228242/index.m3u8
+#EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="4K体验",CCTV4K HDR
+http://223.110.236.8/ott.js.chinamobile.com/PLTV/3/224/3221228242/index.m3u8
+#EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="4K体验",CCTV奥林匹克 4K HDR
+http://ott.js.chinamobile.com/TVOD/3/224/3221228127/index.m3u8
 #EXTINF:-1 tvg-id="47" tvg-name="河南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/henan.png" group-title="4K体验",河南卫视4K
 http://219.150.217.47:6610/PLTV2/2780/index.m3u8?icpid=dxrm1&servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 group-title="4K体验",欢笑剧场4K
+#EXTINF:-1  tvg-id="1977" tvg-name="欢笑剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/huanxiao.png" group-title="4K体验",SiTV欢笑剧场4K
 http://223.110.243.153/ott.js.chinamobile.com/PLTV/3/224/3221227715/index.m3u8
-#EXTINF:-1 group-title="4K体验",咪咕视频4K
-http://39.134.39.31/PLTV/88888888/224/3221226227/index.m3u8
-#EXTINF:-1 group-title="4K体验",咪咕视频4K 50FPS
-http://39.134.39.31/PLTV/88888888/224/3221226351/index.m3u8
-#EXTINF:-1 group-title="4K体验",江苏4K测试
-http://223.110.236.3/ott.js.chinamobile.com/PLTV/3/224/3221228113/index.m3u8
-#EXTINF:-1 group-title="4K体验",江苏4K测试
-http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228113/index.m3u8
-#EXTINF:-1 group-title="4K体验",纯享4K
-http://39.134.115.163:8080/PLTV/88888910/224/3221225786/index.m3u8
-#EXTINF:-1 group-title="4K体验",UHD4K
-http://223.110.246.80/ott.js.chinamobile.com/PLTV/4/224/3221227896/index.m3u8
-#EXTINF:-1 group-title="4K体验",爱上4K
+#EXTINF:-1 tvg-logo="https://www.hualigs.cn/image/61d94dc432f07.jpg" group-title="4K体验",爱上4K
+http://111.20.33.93/TVOD/88888893/224/3221226352/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.hualigs.cn/image/61d94dc432f07.jpg" group-title="4K体验",爱上4K
 http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226352/index.m3u8
-#EXTINF:-1 group-title="4K体验",LOVE NATURE 4K
+#EXTINF:-1 tvg-logo="https://www.hualigs.cn/image/61d9553179c26.jpg" group-title="4K体验",IPTV 4K
+http://124.232.233.15:6610/000000001001/201500000218/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
+#EXTINF:-1 tvg-logo="https://www.hualigs.cn/image/61d93fa998b44.jpg" group-title="4K体验",Love Nature 4K
 http://177.20.208.58:8000/play/a03r/index.m3u8
-#EXTINF:-1 group-title="4K体验",南国都市
+#EXTINF:-1 tvg-logo="https://www.hualigs.cn/image/61d93fa998b44.jpg" group-title="4K体验",Love Nature 4K
+https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:-1 tvg-logo="https://www.hualigs.cn/image/61d93fa998b44.jpg" group-title="4K体验",Love Nature 4K
+https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+#EXTINF:-1 tvg-logo="https://www.hualigs.cn/image/61d93fa850c9b.jpg" group-title="4K体验",FashionTV UHD
+https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.hualigs.cn/image/61d93ffe1645d.jpg" group-title="4K体验",LOUPE 4K
+http://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
+#EXTINF:-1 tvg-logo="https://www.hualigs.cn/image/61d9427240000.jpg" group-title="4K体验",Clarity 4K
+https://d3thiix3tzne5u.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/ClarityTV4K2-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:-1 tvg-logo="https://www.hualigs.cn/image/61d943ebc57d7.jpg" group-title="4K体验",Fireplace 4K
+https://d83tn4bh2lria.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-af0ty8yffo1e1-prod/amgfireplace4k/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:-1 tvg-logo="https://www.hualigs.cn/image/61d94dc42bb55.jpg" group-title="4K体验",纯享4K
+http://39.134.115.163:8080/PLTV/88888910/224/3221225786/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.hualigs.cn/image/61d957032c2de.jpg" group-title="4K体验",南国都市
 http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=123&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
+#EXTINF:-1 tvg-logo="https://www.hualigs.cn/image/61d958e02c852.jpg" group-title="4K体验",4K修复
+http://39.134.71.75/ott.js.chinamobile.com/TVOD/3/224/3221228141/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.hualigs.cn/image/61d958e02c852.jpg" group-title="4K体验",4K测试
+http://223.110.246.80/ott.js.chinamobile.com/PLTV/4/224/3221227896/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.hualigs.cn/image/61d958e02c852.jpg" group-title="4K体验",4K测试
+http://223.110.236.3/ott.js.chinamobile.com/PLTV/3/224/3221228113/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.hualigs.cn/image/61d958e02c852.jpg" group-title="4K体验",4K测试
+http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228113/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.hualigs.cn/image/61d958e02c852.jpg" group-title="4K体验",4K测试
+http://39.134.71.75/ott.js.chinamobile.com/TVOD/3/224/3221228113/index.m3u8
+
 
 
 
