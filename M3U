@@ -2515,9 +2515,9 @@ http://ye23.win/iptv/sztv.php?id=8
 http://ye23.win/iptv/sztv.php?id=9
 
 
-#EXTINF:-1 tvg-id="" tvg-name="日本ANN新闻" tvg-logo="" group-title="卷毛鼠无私推流",日本ANN新闻
+#EXTINF:-1 tvg-id="" tvg-name="日本ANN新闻" tvg-logo="https://www.hualigs.cn/image/61dd9f37018ec.jpg" group-title="卷毛鼠无私推流",日本ANN新闻
 https://iptv.jmsooo.com/live/annnews/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CTI中天新闻" tvg-logo="" group-title="卷毛鼠无私推流",CTI中天新闻
+#EXTINF:-1 tvg-id="" tvg-name="CTI中天新闻" tvg-logo="https://www.hualigs.cn/image/61dd9f3725fbd.jpg" group-title="卷毛鼠无私推流",CTI中天新闻
 https://iptv.jmsooo.com/live/ctiztxw/index.m3u8
 #EXTINF:-1 tvg-id="6073" tvg-name="TVBS新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS新闻.png" group-title="卷毛鼠无私推流",TVBS 新闻
 https://iptv.jmsooo.com/live/tvbsxw/index.m3u8
