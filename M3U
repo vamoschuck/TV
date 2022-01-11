@@ -1727,7 +1727,7 @@ http://live7.plus.hebtv.com/hbggx/playlist.m3u8
 http://119.164.216.162:9901/tsfile/live/1006_1.m3u8
 #EXTINF:-1 tvg-id="1428" tvg-name="山东体育" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/sd_tiyu.png" group-title="省市地方",山东体育
 http://119.164.216.162:9901/tsfile/live/1003_1.m3u8
-#EXTINF:-1 tvg-id="山东新闻" tvg-name="山东新闻" tvg-logo="" group-title="省市地方",山东新闻
+#EXTINF:-1 tvg-id="山东新闻" tvg-name="山东新闻" tvg-logo="https://www.hualigs.cn/image/61ddbb8e12376.jpg" group-title="省市地方",山东新闻
 http://119.164.216.162:9901/tsfile/live/1004_1.m3u8
 #EXTINF:-1 tvg-id="1433" tvg-name="山东综艺" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/sd_zongyi.png" group-title="省市地方",山东综艺
 http://119.164.216.162:9901/tsfile/live/1002_1.m3u8
@@ -1735,17 +1735,17 @@ http://119.164.216.162:9901/tsfile/live/1002_1.m3u8
 http://119.164.216.162:9901/tsfile/live/1005_1.m3u8
 #EXTINF:-1 tvg-id="1427" tvg-name="山东齐鲁" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/sd_qilu.png" group-title="省市地方",山东齐鲁
 http://119.164.216.162:9901/tsfile/live/1000_1.m3u8
-#EXTINF:-1 tvg-id="山东文旅" tvg-name="山东文旅" tvg-logo="" group-title="省市地方",山东文旅
+#EXTINF:-1 tvg-id="山东文旅" tvg-name="山东文旅" tvg-logo="https://www.hualigs.cn/image/61ddbbcdbfb09.jpg" group-title="省市地方",山东文旅
 http://119.164.216.162:9901/tsfile/live/1001_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="省市地方",山东·济宁公共
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.hualigs.cn/image/61ddbc2d6b5c0.jpg" group-title="省市地方",山东·济宁公共
 http://lives.jnnews.tv/video/s10001-JNTV3/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="省市地方",山东·济宁教育FHD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.hualigs.cn/image/61ddbc2d1d62b.jpg" group-title="省市地方",山东·济宁教育FHD
 http://lives.jnnews.tv/video/s10001-JTV2/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="省市地方",山东·济宁综合FHD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.hualigs.cn/image/61ddbc2d64b83.jpg" group-title="省市地方",山东·济宁综合FHD
 http://lives.jnnews.tv/video/s10001-JNTV-1/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="省市地方",山东·东阿新闻FHD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.hualigs.cn/image/61ddbc7dcc1e1.jpg" group-title="省市地方",山东·东阿新闻FHD
 https://jsylivealone302.iqilu.com/donge/donge_tv01/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="省市地方",山东·东阿综艺FHD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.hualigs.cn/image/61ddbc7dcc1e1.jpg" group-title="省市地方",山东·东阿综艺FHD
 https://jsylivealone302.iqilu.com/donge/donge_tv02/index.m3u8
 #EXTINF:-1 tvg-id="浙江公共新闻" tvg-name="浙江公共新闻" tvg-logo="https://ohudong.cztv.com/1/logos/2020/12/31/cc2b0ca1bd0db74f75ad810587c28c32.png" group-title="省市地方",浙江新闻
 http://hw-m-l.cztv.com/channels/lantian/channel07/1080p.m3u8
@@ -1763,21 +1763,21 @@ http://hw-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
 http://hw-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
 #EXTINF:-1 tvg-id="浙江钱江都市" tvg-name="浙江钱江都市" tvg-logo="https://ohudong.cztv.com/1/logos/2017/04/12/bf6ad9ce4da1182a3a7ed0e188d8632f.png" group-title="省市地方",浙江钱江频道
 http://hw-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
-#EXTINF:-1 tvg-id="杭州综合" tvg-name="杭州综合" tvg-logo="" group-title="省市地方",浙江·杭州综合 FHD
+#EXTINF:-1 tvg-id="杭州综合" tvg-name="杭州综合" tvg-logo="https://www.hualigs.cn/image/61ddbd57b310e.jpg" group-title="省市地方",浙江·杭州综合 FHD
 http://hms363nc1880172761.live.aikan.miguvideo.com/wh7f454c46tw2809529842_-2070680032/PLTV/88888888/224/3221229307/index.m3u8
-#EXTINF:-1 tvg-id="杭州综合" tvg-name="杭州综合" tvg-logo="" group-title="省市地方",浙江·杭州综合 FHD
+#EXTINF:-1 tvg-id="杭州综合" tvg-name="杭州综合" tvg-logo="https://www.hualigs.cn/image/61ddbd57b310e.jpg" group-title="省市地方",浙江·杭州综合 FHD
 http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229307/index.m3u8
-#EXTINF:-1 tvg-id="杭州西湖明珠" tvg-name="杭州西湖明珠" tvg-logo="" group-title="省市地方",浙江·杭州西湖明珠 FHD
+#EXTINF:-1 tvg-id="杭州西湖明珠" tvg-name="杭州西湖明珠" tvg-logo="https://www.hualigs.cn/image/61ddbd5084368.jpg" group-title="省市地方",浙江·杭州西湖明珠 FHD
 http://hms363nc1880172761.live.aikan.miguvideo.com/wh7f454c46tw2832762804_-1734620123/PLTV/88888888/224/3221229310/index.m3u8
-#EXTINF:-1 tvg-id="杭州西湖明珠" tvg-name="杭州西湖明珠" tvg-logo="" group-title="省市地方",浙江·杭州西湖明珠 FHD
+#EXTINF:-1 tvg-id="杭州西湖明珠" tvg-name="杭州西湖明珠" tvg-logo="https://www.hualigs.cn/image/61ddbd5084368.jpg" group-title="省市地方",浙江·杭州西湖明珠 FHD
 http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229310/index.m3u8
-#EXTINF:-1 tvg-id="杭州生活" tvg-name="杭州生活" tvg-logo="" group-title="省市地方",浙江·杭州生活 FHD
+#EXTINF:-1 tvg-id="杭州生活" tvg-name="杭州生活" tvg-logo="https://www.hualigs.cn/image/61ddbcf463edd.jpg" group-title="省市地方",浙江·杭州生活 FHD
 http://hms363nc1880172761.live.aikan.miguvideo.com/wh7f454c46tw2848313566_-100055911/PLTV/88888888/224/3221229313/index.m3u8
-#EXTINF:-1 tvg-id="杭州生活" tvg-name="杭州生活" tvg-logo="" group-title="省市地方",浙江·杭州生活 FHD
+#EXTINF:-1 tvg-id="杭州生活" tvg-name="杭州生活" tvg-logo="https://www.hualigs.cn/image/61ddbcf463edd.jpg" group-title="省市地方",浙江·杭州生活 FHD
 http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229313/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="杭州影视" tvg-logo="杭州影视" group-title="省市地方",浙江·杭州影视 FHD
+#EXTINF:-1 tvg-id="杭州影视" tvg-name="杭州影视" tvg-logo="https://www.hualigs.cn/image/61ddbcf4010d9.jpg" group-title="省市地方",浙江·杭州影视 FHD
 http://hms363nc1880172761.live.aikan.miguvideo.com/wh7f454c46tw2866990275_-1477869556/PLTV/88888888/224/3221229377/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="杭州影视" tvg-logo="杭州影视" group-title="省市地方",浙江·杭州影视 FHD
+#EXTINF:-1 tvg-id="杭州影视" tvg-name="杭州影视" tvg-logo="https://www.hualigs.cn/image/61ddbcf4010d9.jpg" group-title="省市地方",浙江·杭州影视 FHD
 http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229377/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="省市地方",浙江·杭州体育 FHD
 http://hms363nc1880172761.live.aikan.miguvideo.com/wh7f454c46tw2880854862_-704780469/PLTV/88888888/224/3221229316/index.m3u8
@@ -1875,11 +1875,11 @@ http://39.130.202.81:6610/gitv_live/G_YNTV-5-HD/G_YNTV-5-HD.m3u8
 http://tvlive.ynradio.com/live/yunnanyule/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="省市地方",云南娱乐
 http://39.130.202.81:6610/gitv_live/G_YNTV-3-HD/G_YNTV-3-HD.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="省市地方",云南公共
+#EXTINF:-1 tvg-id="云南公共" tvg-name="云南公共" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="省市地方",云南公共
 https://hwapi.yunshicloud.com/62hdvf/227q43.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="省市地方",云南公共
+#EXTINF:-1 tvg-id="云南公共" tvg-name="云南公共" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="省市地方",云南公共
 http://39.130.202.81:6610/gitv_live/G_YNTV-6-HD/G_YNTV-6-HD.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="省市地方",云南国际
+#EXTINF:-1 tvg-id="云南国际" tvg-name="云南国际" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="省市地方",云南国际
 http://tvlive.ynradio.com/live/yunnanguoji/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="省市地方",云南生活资讯
 https://hwapi.yunshicloud.com/62hdvf/180p57.m3u8
