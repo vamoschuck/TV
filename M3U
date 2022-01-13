@@ -1773,9 +1773,281 @@ http://223.110.251.219:6610/gitv/live1/G_ZHEJIANG-CQ/G_ZHEJIANG-CQ/1.m3u8
 #EXTINF:-1 tvg-id="40" tvg-name="重庆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png" group-title="江苏移动",重庆卫视HD
 http://223.110.251.219:6610/gitv/live1/G_CHONGQING/G_CHONGQING/.m3u8
 
+#EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="京津冀鲁豫",北京卫视 FHD
+http://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s1/index.m3u8
+#EXTINF:-1 tvg-id="1873" tvg-name="BTV文艺" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV文艺.png" group-title="京津冀鲁豫",北京文艺 HD
+http://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s2/index.m3u8
+#EXTINF:-1 tvg-id="1874" tvg-name="BTV科教" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV科教.png" group-title="京津冀鲁豫",北京科教 HD
+http://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s3/index.m3u8
+#EXTINF:-1 tvg-id="1875" tvg-name="BTV影视" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV影视.png" group-title="京津冀鲁豫",北京影视 HD
+http://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s4/index.m3u8
+#EXTINF:-1 tvg-id="1876" tvg-name="BTV财经" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV财经.png" group-title="京津冀鲁豫",北京财经 FHD
+http://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s5/index.m3u8
+#EXTINF:-1 tvg-id="1872" tvg-name="北京纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png" group-title="京津冀鲁豫",冬奥纪实 FHD
+http://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s6/index.m3u8
+#EXTINF:-1 tvg-id="1878" tvg-name="BTV生活" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV生活.png" group-title="京津冀鲁豫",北京生活 FHD
+http://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s7/index.m3u8
+#EXTINF:-1 tvg-id="1879" tvg-name="BTV青年" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV青年.png" group-title="京津冀鲁豫",北京青年 FHD
+http://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s8/index.m3u8
+#EXTINF:-1 tvg-id="1880" tvg-name="BTV新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV新闻.png" group-title="京津冀鲁豫",北京新闻 FHD
+http://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s9/index.m3u8
+#EXTINF:-1 tvg-id="67" tvg-name="卡酷动画" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/kaku.png" group-title="京津冀鲁豫",卡酷少儿 FHD
+http://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s10/index.m3u8
+
+#EXTINF:-1 tvg-id="39" tvg-name="天津卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/tianjin.png" group-title="京津冀鲁豫",天津卫视
+http://60.26.15.147:9901/tsfile/live/0135_1.m3u8
+#EXTINF:-1 tvg-id="天津新闻" tvg-name="天津新闻" tvg-logo="https://www.hualigs.cn/image/61ddafef6b6e3.jpg" group-title="京津冀鲁豫",天津新闻
+http://60.26.15.147:9901/tsfile/live/0120_1.m3u8
+#EXTINF:-1 tvg-id="天津文艺" tvg-name="天津文艺" tvg-logo="https://www.hualigs.cn/image/61ddafef685ee.jpg" group-title="京津冀鲁豫",天津文艺
+http://60.26.15.147:9901/tsfile/live/0119_1.m3u8
+#EXTINF:-1 tvg-id="天津都市" tvg-name="天津都市" tvg-logo="https://www.hualigs.cn/image/61ddafefbe630.jpg" group-title="京津冀鲁豫",天津都市
+http://60.26.15.147:9901/tsfile/live/0141_1.m3u8
+#EXTINF:-1 tvg-id="天津影视" tvg-name="天津影视" tvg-logo="https://www.hualigs.cn/image/61ddafefbe060.jpg" group-title="京津冀鲁豫",天津影视
+http://60.26.15.147:9901/tsfile/live/0136_1.m3u8
+#EXTINF:-1 tvg-id="天津科教" tvg-name="天津科教" tvg-logo="https://www.hualigs.cn/image/61ddaff78eb8e.jpg" group-title="京津冀鲁豫",天津科教
+http://60.26.15.147:9901/tsfile/live/1002_1.m3u8
+#EXTINF:-1 tvg-id="天津体育" tvg-name="天津体育" tvg-logo="https://www.hualigs.cn/image/61ddafef7c1e8.jpg" group-title="京津冀鲁豫",天津体育
+http://60.26.15.147:9901/tsfile/live/0111_1.m3u8
+#EXTINF:-1 tvg-id="天津少儿" tvg-name="天津少儿" tvg-logo="https://www.hualigs.cn/image/61ddaff792825.jpg" group-title="京津冀鲁豫",天津少儿
+http://60.26.15.147:9901/tsfile/live/0110_1.m3u8
+
+#EXTINF:-1 tvg-id="河北影视" tvg-name="河北影视" tvg-logo="https://www.hualigs.cn/image/6159c331a4d7f.jpg" group-title="京津冀鲁豫",河北影视
+http://live6.plus.hebtv.com/hbysx/hd/live.m3u8
+#EXTINF:-1 tvg-id="河北经济" tvg-name="河北经济" tvg-logo="https://www.hualigs.cn/image/6159c331c3572.jpg" group-title="京津冀鲁豫",河北经济生活
+https://jwplay.hebyun.com.cn/live/hbjjtv/1500k/tzwj_video.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.hualigs.cn/image/6159c331b01a7.jpg" group-title="京津冀鲁豫",河北农民
+https://jwplay.hebyun.com.cn/live/hbnmtv/1500k/tzwj_video.m3u8
+#EXTINF:-1 tvg-id="河北都市" tvg-name="河北都市" tvg-logo="https://www.hualigs.cn/image/6159c3317672b.jpg" group-title="京津冀鲁豫",河北都市
+https://jwplay.hebyun.com.cn/live/hbdstv/1500k/tzwj_video.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.hualigs.cn/image/6159c331c98b9.jpg" group-title="京津冀鲁豫",河北少儿科教
+https://jwplay.hebyun.com.cn/live/hbsrtv/1500k/tzwj_video.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.hualigs.cn/image/6159c3319a339.jpg" group-title="京津冀鲁豫",河北公共
+http://live7.plus.hebtv.com/hbggx/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.hualigs.cn/image/61dfcd87dab1f.jpg" group-title="京津冀鲁豫",河北影视剧
+https://jwplay.hebyun.com.cn/live/hbystv/1500k/tzwj_video.m3u8
+
+#EXTINF:-1 tvg-id="1429" tvg-name="山东农科" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/sd_nongke.png" group-title="京津冀鲁豫",山东农科
+http://222.175.202.90:9901/tsfile/live/1007_1.m3u8
+#EXTINF:-1 tvg-id="1427" tvg-name="山东齐鲁" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/sd_qilu.png" group-title="京津冀鲁豫",山东齐鲁
+http://222.175.202.90:9901/tsfile/live/1010_1.m3u8
+#EXTINF:-1 tvg-id="1428" tvg-name="山东体育" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/sd_tiyu.png" group-title="京津冀鲁豫",山东体育
+http://222.175.202.90:9901/tsfile/live/1005_1.m3u8
+#EXTINF:-1 tvg-id="1433" tvg-name="山东综艺" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/sd_zongyi.png" group-title="京津冀鲁豫",山东综艺
+http://222.175.202.90:9901/tsfile/live/1004_1.m3u8
+#EXTINF:-1 tvg-id="山东新闻" tvg-name="山东新闻" tvg-logo="https://www.hualigs.cn/image/61ddbb8e12376.jpg" group-title="京津冀鲁豫",山东新闻
+http://222.175.202.90:9901/tsfile/live/1006_1.m3u8
+#EXTINF:-1 tvg-id="1434" tvg-name="山东生活" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/sd_shenghuo.png" group-title="京津冀鲁豫",山东生活
+http://222.175.202.90:9901/tsfile/live/1003_1.m3u8
+#EXTINF:-1 tvg-id="山东文旅" tvg-name="山东文旅" tvg-logo="https://www.hualigs.cn/image/61ddbbcdbfb09.jpg" group-title="京津冀鲁豫",山东文旅
+http://222.175.202.90:9901/tsfile/live/1002_1.m3u8
+#EXTINF:-1 tvg-id="1431" tvg-name="山东少儿" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/sd_shaoer.png" group-title="京津冀鲁豫",山东少儿
+http://222.175.202.90:9901/tsfile/live/1008_1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.hualigs.cn/image/61dfdab525c22.jpg" group-title="京津冀鲁豫",山东国际
+http://222.175.202.90:9901/tsfile/live/1009_1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.hualigs.cn/image/61dfdab53654b.jpg" group-title="京津冀鲁豫",山东购物
+http://222.175.202.90:9901/tsfile/live/1012_1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="京津冀鲁豫",山东教育
+http://222.175.202.90:9901/tsfile/live/1011_1.m3u8
+
+#EXTINF:-1 tvg-id="47" tvg-name="河南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/henan.png" group-title="京津冀鲁豫",河南卫视
+http://219.150.217.47:6610/PLTV1/580/index.m3u8?vamoschucktv
+#EXTINF:-1 tvg-id="47" tvg-name="河南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/henan.png" group-title="京津冀鲁豫",河南卫视4K
+http://219.150.217.47:6610/PLTV2/2780/index.m3u8?vamoschucktv
+#EXTINF:-1 tvg-id="6555" tvg-name="梨园" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE20.jpg" group-title="京津冀鲁豫",河南梨园
+http://219.150.217.47:6610/PLTV1/840/index.m3u8?vamoschucktv
+#EXTINF:-1 tvg-id="河南都市" tvg-name="河南都市" tvg-logo="https://www.hualigs.cn/image/61dfd2da623b0.jpg" group-title="京津冀鲁豫",河南都市
+http://219.150.217.47:6610/PLTV1/600/index.m3u8?vamoschucktv
+#EXTINF:-1 tvg-id="河南国际" tvg-name="河南国际" tvg-logo="https://www.hualigs.cn/image/61dfd2da620a7.jpg" group-title="京津冀鲁豫",河南国际
+http://219.150.217.47:6610/PLTV1/680/index.m3u8?vamoschucktv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.hualigs.cn/image/61dfd2da23c23.jpg" group-title="京津冀鲁豫",河南电视剧
+http://219.150.217.47:6610/PLTV1/660/index.m3u8?vamoschucktv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.hualigs.cn/image/61dfd2da5bbc1.jpg" group-title="京津冀鲁豫",河南法制
+http://219.150.217.47:6610/PLTV1/640/index.m3u8?vamoschucktv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.hualigs.cn/image/61dfd49962f98.jpg" group-title="京津冀鲁豫",河南公共
+http://219.150.217.47:6610/PLTV1/760/index.m3u8?vamoschucktv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.hualigs.cn/image/61dfd2da5576d.jpg" group-title="京津冀鲁豫",河南民生
+http://219.150.217.47:6610/PLTV1/620/index.m3u8?vamoschucktv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.hualigs.cn/image/61dfd2da544f8.jpg" group-title="京津冀鲁豫",河南文宝
+http://219.150.217.47:6610/PLTV1/820/index.m3u8?vamoschucktv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.hualigs.cn/image/61dfd2da4d40a.jpg" group-title="京津冀鲁豫",河南武术
+http://219.150.217.47:6610/PLTV1/860/index.m3u8?vamoschucktv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.hualigs.cn/image/61dfd2da2b858.jpg" group-title="京津冀鲁豫",河南乡村
+http://219.150.217.47:6610/PLTV1/780/index.m3u8?vamoschucktv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.hualigs.cn/image/61dfd2da59690.jpg" group-title="京津冀鲁豫",河南新闻
+http://219.150.217.47:6610/PLTV1/720/index.m3u8?vamoschucktv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.hualigs.cn/image/61dfd2da4e415.jpg" group-title="京津冀鲁豫",河南睛彩中原
+http://219.150.217.47:6610/PLTV1/700/index.m3u8?vamoschucktv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="京津冀鲁豫",河南移动戏曲
+http://219.150.217.47:6610/PLTV1/800/index.m3u8?vamoschucktv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="京津冀鲁豫",河南风尚河南
+http://219.150.217.47:6610/PLTV1/940/index.m3u8?vamoschucktv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="京津冀鲁豫",河南调解剧场
+http://219.150.217.47:6610/PLTV1/920/index.m3u8?vamoschucktv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="京津冀鲁豫",河南导视4K
+http://219.150.217.47:6610/PLTV2/3660/index.m3u8?vamoschucktv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.hualigs.cn/image/61dff768ac3f6.jpg" group-title="京津冀鲁豫",郑州综合
+http://219.150.217.47:6610/PLTV1/1680/index.m3u8?vamoschucktv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.hualigs.cn/image/61dff768a8301.jpg" group-title="京津冀鲁豫",郑州商都
+http://219.150.217.47:6610/PLTV1/1700/index.m3u8?vamoschucktv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.hualigs.cn/image/61dff768c6b0a.jpg" group-title="京津冀鲁豫",郑州文体
+http://219.150.217.47:6610/PLTV1/1720/index.m3u8?vamoschucktv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.hualigs.cn/image/61dff86d9732e.jpg" group-title="京津冀鲁豫",开封综合
+http://219.150.217.47:6610/PLTV1/1800/index.m3u8?vamoschucktv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.hualigs.cn/image/61dff86d9732e.jpg" group-title="京津冀鲁豫",开封文旅
+http://219.150.217.47:6610/PLTV1/1820/index.m3u8?vamoschucktv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.hualigs.cn/image/61dff8323b1e7.jpg" group-title="京津冀鲁豫",洛阳综合
+http://219.150.217.47:6610/PLTV1/1840/index.m3u8?vamoschucktv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.hualigs.cn/image/61dff83234216.jpg" group-title="京津冀鲁豫",洛阳科教
+http://219.150.217.47:6610/PLTV1/1860/index.m3u8?vamoschucktv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.hualigs.cn/image/61dff8322dd61.jpg" group-title="京津冀鲁豫",洛阳文旅
+http://219.150.217.47:6610/PLTV1/1880/index.m3u8?vamoschucktv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.hualigs.cn/image/61dffb89b6320.jpg" group-title="京津冀鲁豫",安阳综合
+http://219.150.217.47:6610/PLTV1/1960/index.m3u8?vamoschucktv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.hualigs.cn/image/61dffb89b1591.jpg" group-title="京津冀鲁豫",安阳科教
+http://219.150.217.47:6610/PLTV1/1980/index.m3u8?vamoschucktv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.hualigs.cn/image/61dffb89a2f78.jpg" group-title="京津冀鲁豫",焦作公共
+http://219.150.217.47:6610/PLTV2/2080/index.m3u8?vamoschucktv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.hualigs.cn/image/61dffb89a5dbf.jpg" group-title="京津冀鲁豫",焦作综合
+http://219.150.217.47:6610/PLTV2/2060/index.m3u8?vamoschucktv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.hualigs.cn/image/61dffb89b1a97.jpg" group-title="京津冀鲁豫",南阳综合
+http://219.150.217.47:6610/PLTV2/2440/index.m3u8?vamoschucktv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.hualigs.cn/image/61dffb89a2f9e.jpg" group-title="京津冀鲁豫",南阳公共
+http://219.150.217.47:6610/PLTV2/2460/index.m3u8?vamoschucktv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.hualigs.cn/image/61dffb89a3cbb.jpg" group-title="京津冀鲁豫",南阳科教
+http://219.150.217.47:6610/PLTV2/2480/index.m3u8?vamoschucktv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.hualigs.cn/image/61dffc850c05a.jpg" group-title="京津冀鲁豫",信阳综合
+http://219.150.217.47:6610/PLTV2/2500/index.m3u8?vamoschucktv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.hualigs.cn/image/61dffc850c05a.jpg" group-title="京津冀鲁豫",信阳公共
+http://219.150.217.47:6610/PLTV2/2520/index.m3u8?vamoschucktv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.hualigs.cn/image/61dffcb728e6d.jpg" group-title="京津冀鲁豫",伊川电视
+http://219.150.217.47:6610/PLTV2/2600/index.m3u8?vamoschucktv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="京津冀鲁豫",内黄综合
+http://219.150.217.47:6610/PLTV2/2640/index.m3u8?vamoschucktv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="京津冀鲁豫",内黄综合
+http://219.150.217.47:6610/PLTV2/2740/index.m3u8?vamoschucktv
 
 
 
+#EXTINF:-1 tvg-id="1963" tvg-name="新视觉" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xinshijue.png" group-title="江浙沪包邮",新视觉
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/xsjhd/4000000/mnf.m3u8
+#EXTINF:-1 tvg-id="1976" tvg-name="全纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/quanjishi.png" group-title="江浙沪包邮",全纪实
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/qjshd/4000000/mnf.m3u8
+#EXTINF:-1 tvg-id="1980" tvg-name="幸福彩" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xingfucai.png" group-title="江浙沪包邮",幸福彩
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/xfchd/4000000/mnf.m3u8
+#EXTINF:-1 tvg-id="1987" tvg-name="五星体育频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/wuxingtiyu.png" group-title="江浙沪包邮",五星体育
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/ssty/4000000/mnf.m3u8
+#EXTINF:-1 tvg-id="1964" tvg-name="劲爆体育" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinbaotiyu.jpg" group-title="江浙沪包邮",劲爆体育
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/jbtyhd/4000000/mnf.m3u8
+#EXTINF:-1 tvg-id="7242" tvg-name="魅力足球" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/meilizuqiu.png" group-title="江浙沪包邮",魅力足球
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/mlyyhd/4000000/mnf.m3u8
+#EXTINF:-1 tvg-id="1975" tvg-name="MAX极速汽车" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jisuqiche.png" group-title="江浙沪包邮",极速汽车
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/jsqchd/4000000/mnf.m3u8
+#EXTINF:-1 tvg-id="1986" tvg-name="东方影视" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaidongfangyingshi.png" group-title="江浙沪包邮",东方影视
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/dsjpdhd/4000000/mnf.m3u8
+#EXTINF:-1 tvg-id="1977" tvg-name="欢笑剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/huanxiao.png" group-title="江浙沪包邮",欢笑剧场
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/hxjchd/4000000/mnf.m3u8
+#EXTINF:-1 tvg-id="SITV动漫秀场" tvg-name="SITV动漫秀场" tvg-logo="https://www.hualigs.cn/image/61e0009d5c23f.jpg" group-title="江浙沪包邮",动漫秀场
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/dmxchd/4000000/mnf.m3u8
+#EXTINF:-1 tvg-id="1983" tvg-name="游戏风云" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youxifengyun.png" group-title="江浙沪包邮",游戏风云
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/yxfyhd/4000000/mnf.m3u8
+#EXTINF:-1 tvg-id="1984" tvg-name="上视新闻频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shangshixinwen.png" group-title="江浙沪包邮",上视新闻
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/xwzhhd/4000000/mnf.m3u8
+#EXTINF:-1 tvg-id="1988" tvg-name="上海纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png" group-title="江浙沪包邮",纪实人文
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/jspdhd/4000000/mnf.m3u8
+#EXTINF:-1 tvg-id="1981" tvg-name="生活时尚" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shenghuoshishang.png" group-title="江浙沪包邮",生活时尚
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/shsshd/4000000/mnf.m3u8
+#EXTINF:-1 tvg-id="SITV都市剧场" tvg-name="SITV都市剧场" tvg-logo="https://www.hualigs.cn/image/61e0009d60ed6.jpg" group-title="江浙沪包邮",都市剧场
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/dsjchd/4000000/mnf.m3u8
+#EXTINF:-1 tvg-id="1991" tvg-name="上视外语频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaiwaiyu.png" group-title="江浙沪包邮",上视外语
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/wypdhd/4000000/mnf.m3u8
+#EXTINF:-1 tvg-id="1989" tvg-name="上海都市频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaidushi.jpg" group-title="江浙沪包邮",上海都市
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/ylpdhd/4000000/mnf.m3u8
+#EXTINF:-1 tvg-id="62" tvg-name="哈哈炫动" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xuandong.png" group-title="江浙沪包邮",哈哈炫动
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/hhxdhd/4000000/mnf.m3u8
+#EXTINF:-1 tvg-id="1985" tvg-name="第一财经" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/diyicaijing.png" group-title="江浙沪包邮",第一财经
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/dycjhd/4000000/mnf.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.hualigs.cn/image/61e0016d23040.jpg" group-title="江浙沪包邮",百事通体育1
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/hdnba1/4000000/mnf.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.hualigs.cn/image/61e0016d23040.jpg" group-title="江浙沪包邮",百事通体育2
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/hdnba2/4000000/mnf.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.hualigs.cn/image/61e0016d23040.jpg" group-title="江浙沪包邮",百事通体育3
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/hdnba3/4000000/mnf.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.hualigs.cn/image/61e0016d23040.jpg" group-title="江浙沪包邮",百事通体育4
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/hdnba4/4000000/mnf.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.hualigs.cn/image/61e0016d23040.jpg" group-title="江浙沪包邮",百事通体育5
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/hdnba5/4000000/mnf.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.hualigs.cn/image/61e0016d23040.jpg" group-title="江浙沪包邮",百事通体育6
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/hdnba6/4000000/mnf.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.hualigs.cn/image/61e0016d23040.jpg" group-title="江浙沪包邮",百事通体育7
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/hdnba7/4000000/mnf.m3u8
+
+
+#EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="江浙沪包邮",浙江卫视
+http://hw-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8?k=1a7559a51eeb880b021619a07f463ac4&t=1577153787
+#EXTINF:-1 tvg-id="浙江钱江都市" tvg-name="浙江钱江都市" tvg-logo="https://ohudong.cztv.com/1/logos/2017/04/12/bf6ad9ce4da1182a3a7ed0e188d8632f.png" group-title="江浙沪包邮",浙江钱江
+http://hw-m-l.cztv.com/channels/lantian/channel02/1080p.m3u8?k=1a7559a51eeb880b021619a07f463ac4&t=1577153787
+#EXTINF:-1 tvg-id="浙江经视" tvg-name="浙江经视" tvg-logo="https://www.hualigs.cn/image/61e01082143a1.jpg" group-title="江浙沪包邮",浙江经视
+http://yd-m-l.cztv.com/channels/lantian/channel03/1080p.m3u8?k=1a7559a51eeb880b021619a07f463ac4&t=1577153787
+#EXTINF:-1 tvg-id="浙江教科影视" tvg-name="浙江教科影视" tvg-logo="https://ohudong.cztv.com/1/logos/2017/04/12/b500dac5d5af1dae3a3eceaf2e165bd0.png" group-title="江浙沪包邮",浙江教科影视
+http://yd-m-l.cztv.com/channels/lantian/channel04/1080p.m3u8?k=1a7559a51eeb880b021619a07f463ac4&t=1577153787
+#EXTINF:-1 tvg-id="浙江影视娱乐" tvg-name="浙江影视娱乐" tvg-logo="https://www.hualigs.cn/image/61e010cdd1819.jpg" group-title="江浙沪包邮",浙江影视
+http://yd-m-l.cztv.com/channels/lantian/channel05/1080p.m3u8?k=1a7559a51eeb880b021619a07f463ac4&t=1577153787
+#EXTINF:-1 tvg-id="浙江民生休闲" tvg-name="浙江民生休闲" tvg-logo="https://ohudong.cztv.com/1/logos/2017/04/11/b11dda9a789c67cb16e6a5a5fce63125.png" group-title="江浙沪包邮",浙江民生
+http://hw-m-l.cztv.com/channels/lantian/channel06/1080p.m3u8?k=1a7559a51eeb880b021619a07f463ac4&t=1577153787
+#EXTINF:-1 tvg-id="浙江公共新闻" tvg-name="浙江公共新闻" tvg-logo="https://ohudong.cztv.com/1/logos/2020/12/31/cc2b0ca1bd0db74f75ad810587c28c32.png" group-title="江浙沪包邮",浙江新闻
+http://hw-m-l.cztv.com/channels/lantian/channel07/1080p.m3u8?k=1a7559a51eeb880b021619a07f463ac4&t=1577153787
+#EXTINF:-1 tvg-id="浙江少儿" tvg-name="浙江少儿" tvg-logo="https://ohudong.cztv.com/1/logos/2017/04/12/33b59c051574c604f93157baa61455b2.png" group-title="江浙沪包邮",浙江少儿
+http://hw-m-l.cztv.com/channels/lantian/channel08/1080p.m3u8?k=1a7559a51eeb880b021619a07f463ac4&t=1577153787
+#EXTINF:-1 tvg-id="6575" tvg-name="留学世界" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE24.jpg" group-title="江浙沪包邮",留学世界
+http://hw-m-l.cztv.com/channels/lantian/channel09/1080p.m3u8?k=1a7559a51eeb880b021619a07f463ac4&t=1577153787
+#EXTINF:-1 tvg-id="浙江国际(亚洲)" tvg-name="浙江国际(亚洲)" tvg-logo="https://ohudong.cztv.com/1/logos/2017/04/12/72d035c03412d7cb2d319c6607fef8e9.png" group-title="江浙沪包邮",浙江国际
+http://hw-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8?k=1a7559a51eeb880b021619a07f463ac4&t=1577153787
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://ohudong.cztv.com/1/logos/2017/05/16/090bdb9f3da9df74a275a785c3ba023f.png" group-title="江浙沪包邮",数码时代
+https://hw-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8?k=1a7559a51eeb880b021619a07f463ac4&t=1577153787
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="江浙沪包邮",浙江好易购
+http://hw-m-l.cztv.com/channels/lantian/channel011/1080p.m3u8?k=1a7559a51eeb880b021619a07f463ac4&t=1577153787
+#EXTINF:-1 tvg-id="杭州综合" tvg-name="杭州综合" tvg-logo="https://www.hualigs.cn/image/61ddbd57b310e.jpg" group-title="江浙沪包邮",杭州综合
+http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229307/index.m3u8
+#EXTINF:-1 tvg-id="杭州西湖明珠" tvg-name="杭州西湖明珠" tvg-logo="https://www.hualigs.cn/image/61ddbd5084368.jpg" group-title="江浙沪包邮",杭州明珠
+http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229310/index.m3u8
+#EXTINF:-1 tvg-id="杭州生活" tvg-name="杭州生活" tvg-logo="https://www.hualigs.cn/image/61ddbcf463edd.jpg" group-title="江浙沪包邮",杭州生活
+http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229313/index.m3u8
+#EXTINF:-1 tvg-id="杭州影视" tvg-name="杭州影视" tvg-logo="https://www.hualigs.cn/image/61ddbcf4010d9.jpg" group-title="江浙沪包邮",杭州影视
+http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229377/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="江浙沪包邮",杭州体育
+http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229316/index.m3u8
+
+
+#EXTINF:-1 tvg-id="江苏影视" tvg-name="江苏影视" tvg-logo="https://www.hualigs.cn/image/61e013bf7f60e.jpg" group-title="江浙沪包邮",江苏影视
+http://183.207.248.71/gitv/live1/G_JSYS/G_JSYS
+#EXTINF:-1 tvg-id="江苏综艺" tvg-name="江苏综艺" tvg-logo="https://www.hualigs.cn/image/61e013bf74b19.jpg" group-title="江浙沪包邮",江苏综艺
+http://183.207.248.71/gitv/live1/G_JSZY/G_JSZY
+#EXTINF:-1 tvg-id="江苏休闲体育" tvg-name="江苏休闲体育" tvg-logo="https://www.hualigs.cn/image/61e013bf9fe2b.jpg" group-title="江浙沪包邮",江苏体育休闲
+http://183.207.248.71/gitv/live1/G_JSTY/G_JSTY
+#EXTINF:-1 tvg-id="江苏城市" tvg-name="江苏城市" tvg-logo="https://www.hualigs.cn/image/61e013bf9cdcb.jpg" group-title="江浙沪包邮",江苏城市
+http://183.207.248.71/gitv/live1/G_JSCS/G_JSCS
+#EXTINF:-1 tvg-id="江苏公共新闻" tvg-name="江苏公共新闻" tvg-logo="https://www.hualigs.cn/image/61e013bfa3596.jpg" group-title="江浙沪包邮",江苏公共
+http://183.207.248.71/gitv/live1/G_JSGG/G_JSGG
+#EXTINF:-1 tvg-id="江苏教育" tvg-name="江苏教育" tvg-logo="https://www.hualigs.cn/image/61e013bfa275b.jpg" group-title="江浙沪包邮",江苏教育
+http://183.207.248.71/gitv/live1/G_JSJY/G_JSJY
+#EXTINF:-1 tvg-id="江苏优漫卡通" tvg-name="江苏优漫卡通" tvg-logo="https://www.hualigs.cn/image/61e0150e62fb9.jpg" group-title="江浙沪包邮",江苏优漫卡通
+http://223.110.251.152:6610/cntv/live1/youmankaton/youmankaton
+#EXTINF:-1 tvg-id="好享购物" tvg-name="好享购物" tvg-logo="https://www.hualigs.cn/image/61e0158d94515.jpg" group-title="江浙沪包邮",江苏好享购物
+http://223.110.243.165/ott.js.chinamobile.com/PLTV/3/224/3221227570/index.m3u8
+#EXTINF:-1 tvg-id="南京新闻综合" tvg-name="南京新闻综合" tvg-logo="https://www.hualigs.cn/image/6159be8c414e0.jpg" group-title="江浙沪包邮",江苏·南京新闻综合
+http://live.nbs.cn/channels/njtv/xwzh/m3u8:500k/live.m3u8
+#EXTINF:-1 tvg-id="南京教科" tvg-name="南京教科" tvg-logo="https://www.hualigs.cn/image/6159be8c3e2ff.jpg" group-title="江浙沪包邮",江苏·南京教科
+http://live.nbs.cn/channels/njtv/jkpd/m3u8:500k/live.m3u8
+#EXTINF:-1 tvg-id="南京生活" tvg-name="南京生活" tvg-logo="https://www.hualigs.cn/image/6159bf9d58559.jpg" group-title="江浙沪包邮",江苏·南京生活
+http://live.nbs.cn/channels/njtv/shpd/m3u8:500k/live.m3u8
+#EXTINF:-1 tvg-id="南京信息" tvg-name="" tvg-logo="https://www.hualigs.cn/image/6159be8c32de9.jpg" group-title="江浙沪包邮",江苏·南京信息
+http://live.nbs.cn/channels/njtv/xxpd/m3u8:500k/live.m3u8
+#EXTINF:-1 tvg-id="南京娱乐" tvg-name="南京娱乐" tvg-logo="https://www.hualigs.cn/image/6159be8c3471e.jpg" group-title="江浙沪包邮",江苏·南京娱乐
+http://live.nbs.cn/channels/njtv/ylpd/m3u8:500k/live.m3u8
+#EXTINF:-1 tvg-id="南京少儿" tvg-name="南京少儿" tvg-logo="https://www.hualigs.cn/image/6159be8c3b04d.jpg" group-title="江浙沪包邮",江苏·南京少儿
+http://live.nbs.cn/channels/njtv/sepd/m3u8:500k/live.m3u8
+#EXTINF:-1 tvg-id="南京十八" tvg-name="南京十八" tvg-logo="https://www.hualigs.cn/image/6159be8b9ee74.jpg" group-title="江浙沪包邮",江苏·南京十八
+http://live.nbs.cn/channels/njtv/sbpd/m3u8:500k/live.m3u8
 
 
 
