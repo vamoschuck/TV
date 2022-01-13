@@ -2646,6 +2646,16 @@ https://iptv.jmsooo.com/live/hsxw/index.m3u8
 https://iptv.jmsooo.com/live/dscj/index.m3u8
 #EXTINF:-1 tvg-id="6110" tvg-name="运通财经" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EFTV.png" group-title="卷毛鼠无私推流",运通财经
 https://iptv.jmsooo.com/live/ytcj/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卷毛鼠无私推流",经典电影台
+https://4gtv.jmsooo.com/live/jddy/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卷毛鼠无私推流",经典卡通台
+https://4gtv.jmsooo.com/live/jdkt/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卷毛鼠无私推流",精选动漫台
+https://4gtv.jmsooo.com/live/jxdm/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卷毛鼠无私推流",华语戏剧台
+https://4gtv.jmsooo.com/live/hyxj/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卷毛鼠无私推流",华语综艺台
+https://4gtv.jmsooo.com/live/hyzy/index.m3u8
 
 
 #EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="港澳台",凤凰资讯
@@ -3774,8 +3784,6 @@ http://111.20.33.93/TVOD/88888893/224/3221226352/index.m3u8
 http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226352/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.hualigs.cn/image/61d9553179c26.jpg" group-title="4K体验",IPTV 4K
 http://124.232.233.15:6610/000000001001/201500000218/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
-#EXTINF:-1 tvg-logo="https://www.hualigs.cn/image/61d93fa998b44.jpg" group-title="4K体验",Love Nature 4K
-http://177.20.208.58:8000/play/a03r/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.hualigs.cn/image/61d93fa998b44.jpg" group-title="4K体验",Love Nature 4K
 https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 #EXTINF:-1 tvg-logo="https://www.hualigs.cn/image/61d93fa998b44.jpg" group-title="4K体验",Love Nature 4K
