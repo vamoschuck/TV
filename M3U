@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://epg.51zmt.top:8000/e.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
+#EXTM3U url-tvg="http://epg.51zmt.top:8000/e.xml,https://epg.112114.xyz/pp.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
 
 
 
@@ -2918,15 +2918,15 @@ https://iptv.jmsooo.com/live/hsxw/index.m3u8
 https://iptv.jmsooo.com/live/dscj/index.m3u8
 #EXTINF:-1 tvg-id="6110" tvg-name="运通财经" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EFTV.png" group-title="卷毛鼠无私推流",运通财经
 https://iptv.jmsooo.com/live/ytcj/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卷毛鼠无私推流",经典电影台
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pic.4gtv.tv/ChannelLogo/mobile/logo_4gtv_4gtv-live021_mobile.png" group-title="卷毛鼠无私推流",经典电影台
 https://4gtv.jmsooo.com/live/jddy/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卷毛鼠无私推流",经典卡通台
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pic.4gtv.tv/ChannelLogo/mobile/logo_4gtv_4gtv-live022_mobile.png" group-title="卷毛鼠无私推流",经典卡通台
 https://4gtv.jmsooo.com/live/jdkt/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卷毛鼠无私推流",精选动漫台
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pic.4gtv.tv/ChannelLogo/mobile/logo_4gtv_4gtv-live024_mobile.png" group-title="卷毛鼠无私推流",精选动漫台
 https://4gtv.jmsooo.com/live/jxdm/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卷毛鼠无私推流",华语戏剧台
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pic.4gtv.tv/ChannelLogo/mobile/logo_4gtv_4gtv-live005_mobile.png" group-title="卷毛鼠无私推流",华语戏剧台
 https://4gtv.jmsooo.com/live/hyxj/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卷毛鼠无私推流",华语综艺台
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pic.4gtv.tv/ChannelLogo/mobile/logo_4gtv_4gtv-live006_mobile.png" group-title="卷毛鼠无私推流",华语综艺台
 https://4gtv.jmsooo.com/live/hyzy/index.m3u8
 
 
