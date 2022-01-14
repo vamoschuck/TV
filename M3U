@@ -1825,6 +1825,30 @@ https://jwplay.hebyun.com.cn/live/hbsrtv/1500k/tzwj_video.m3u8
 http://live7.plus.hebtv.com/hbggx/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.hualigs.cn/image/61dfcd87dab1f.jpg" group-title="京津冀鲁豫",河北影视剧
 https://jwplay.hebyun.com.cn/live/hbystv/1500k/tzwj_video.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="京津冀鲁豫",河北收视指南
+http://180.97.123.180/1301-txt.otvstream.otvcloud.com/otv/skcc/live/channel13010/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="京津冀鲁豫",河北收视指南
+http://180.97.123.180/1301-txt.otvstream.otvcloud.com/otv/skcc/live/channel13010/2300.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.hualigs.cn/image/61e16b19df249.jpg" group-title="京津冀鲁豫",石家庄生活
+http://180.97.123.180/1301-txt.otvstream.otvcloud.com/otv/skcc/live/channel13012/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.hualigs.cn/image/61e16b19df249.jpg" group-title="京津冀鲁豫",石家庄生活
+http://180.97.123.180/1301-txt.otvstream.otvcloud.com/otv/skcc/live/channel13012/2300.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.hualigs.cn/image/61e16b199ef0e.jpg" group-title="京津冀鲁豫",石家庄都市
+http://180.97.123.180/1301-txt.otvstream.otvcloud.com/otv/skcc/live/channel13013/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.hualigs.cn/image/61e16b199ef0e.jpg" group-title="京津冀鲁豫",石家庄都市
+http://180.97.123.180/1301-txt.otvstream.otvcloud.com/otv/skcc/live/channel13013/2300.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.hualigs.cn/image/61e16b19abc12.jpg" group-title="京津冀鲁豫",石家庄新闻综合
+http://180.97.123.180/1301-txt.otvstream.otvcloud.com/otv/skcc/live/channel13014/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.hualigs.cn/image/61e16b19abc12.jpg" group-title="京津冀鲁豫",石家庄新闻综合
+http://180.97.123.180/1301-txt.otvstream.otvcloud.com/otv/skcc/live/channel13014/2300.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.hualigs.cn/image/61e16bcab6983.jpg" group-title="京津冀鲁豫",邯郸新闻综合
+http://180.97.123.180/1301-txt.otvstream.otvcloud.com/otv/skcc/live/channel13009/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.hualigs.cn/image/61e16bcab6983.jpg" group-title="京津冀鲁豫",邯郸新闻综合
+http://180.97.123.180/1301-txt.otvstream.otvcloud.com/otv/skcc/live/channel13009/2300.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.hualigs.cn/image/61e16bcdc7c66.jpg" group-title="京津冀鲁豫",衡水影视娱乐
+http://hls.hsrtv.cn/hls/hstv2.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.hualigs.cn/image/61e16bcab98ef.jpg" group-title="京津冀鲁豫",衡水新闻综合
+http://hls.hsrtv.cn/hls/hstv1.m3u8?checkedby:iptvcat.com
 
 #EXTINF:-1 tvg-id="1429" tvg-name="山东农科" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/sd_nongke.png" group-title="京津冀鲁豫",山东农科
 http://222.175.202.90:9901/tsfile/live/1007_1.m3u8
@@ -2049,6 +2073,60 @@ http://live.nbs.cn/channels/njtv/sepd/m3u8:500k/live.m3u8
 #EXTINF:-1 tvg-id="南京十八" tvg-name="南京十八" tvg-logo="https://www.hualigs.cn/image/6159be8b9ee74.jpg" group-title="江浙沪包邮",江苏·南京十八
 http://live.nbs.cn/channels/njtv/sbpd/m3u8:500k/live.m3u8
 
+#EXTINF:-1 tvg-id="常州新闻" tvg-name="常州新闻" tvg-logo="https://www.hualigs.cn/image/61e15eb979250.jpg" group-title="江浙沪包邮",江苏·常州新闻综合
+http://223.110.246.80/ott.js.chinamobile.com/PLTV/4/224/3221227899/index.m3u8
+#EXTINF:-1 tvg-id="常州都市" tvg-name="常州都市" tvg-logo="https://www.hualigs.cn/image/61e15eb9583e3.jpg" group-title="江浙沪包邮",江苏·常州都市
+http://223.110.246.82/ott.js.chinamobile.com/PLTV/4/224/3221227955/index.m3u8
+#EXTINF:-1 tvg-id="常州生活" tvg-name="常州生活" tvg-logo="https://www.hualigs.cn/image/61e15eb951026.jpg" group-title="江浙沪包邮",江苏·常州生活
+http://223.110.246.80/ott.js.chinamobile.com/PLTV/4/224/3221227902/index.m3u8
+#EXTINF:-1 tvg-id="常州公共" tvg-name="常州公共" tvg-logo="https://www.hualigs.cn/image/61e15eb978803.jpg" group-title="江浙沪包邮",江苏·常州公共
+http://223.110.246.82/ott.js.chinamobile.com/PLTV/4/224/3221227905/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.hualigs.cn/image/61e15e4feba5c.jpg" group-title="江浙沪包邮",江苏·张家港民生HD
+http://3gvod.zjgonline.com.cn:1935/live/shehuishenghuo2/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.hualigs.cn/image/61e15e4feba5c.jpg" group-title="江浙沪包邮",江苏·张家港民生HD
+http://3gvod.zjgonline.com.cn:1935/live/shehuishenghuo2/chunklist_w37722388.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.hualigs.cn/image/61e15e5013a86.jpg" group-title="江浙沪包邮",江苏·张家港新闻HD
+http://3gvod.zjgonline.com.cn:1935/live/xinwenzonghe2/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.hualigs.cn/image/61e15e5013a86.jpg" group-title="江浙沪包邮",江苏·张家港综合HD
+http://3gvod.zjgonline.com.cn:1935/live/xinwenzonghe2/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.hualigs.cn/image/61e15d3ce9f3b.jpg" group-title="江浙沪包邮",江苏·徐州1
+http://183.207.249.71/PLTV/3/224/3221225945/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.hualigs.cn/image/61e15d3ce9f3b.jpg" group-title="江浙沪包邮",江苏·徐州1
+http://223.110.245.165/ott.js.chinamobile.com/PLTV/3/224/3221225945/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.hualigs.cn/image/61e15d3ce9f3b.jpg" group-title="江浙沪包邮",江苏·徐州1
+http://183.207.249.15/PLTV/3/224/3221225945/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.hualigs.cn/image/61e15d3ce9f3b.jpg" group-title="江浙沪包邮",江苏·徐州1
+http://stream1.huaihai.tv/xwzh/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.hualigs.cn/image/61e15d3d62572.jpg" group-title="江浙沪包邮",江苏·徐州2
+http://183.207.249.71/PLTV/3/224/3221225947/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.hualigs.cn/image/61e15d3d62572.jpg" group-title="江浙沪包邮",江苏·徐州2
+http://183.207.249.11/PLTV/3/224/3221225947/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.hualigs.cn/image/61e15d3d62572.jpg" group-title="江浙沪包邮",江苏·徐州2
+http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221225947/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.hualigs.cn/image/61e15d3c3dc83.jpg" group-title="江浙沪包邮",江苏·徐州3
+http://stream1.huaihai.tv/wyys/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.hualigs.cn/image/61e15d3c3dc83.jpg" group-title="江浙沪包邮",江苏·徐州3
+http://183.207.249.71/PLTV/3/224/3221225949/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.hualigs.cn/image/61e15d3c3dc83.jpg" group-title="江浙沪包邮",江苏·徐州3
+http://183.207.248.15/PLTV/3/224/3221225949/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.hualigs.cn/image/61e15d3c3dc83.jpg" group-title="江浙沪包邮",江苏·徐州3
+http://223.110.245.151/ott.js.chinamobile.com/PLTV/3/224/3221225949/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.hualigs.cn/image/61e15d3bf3739.jpg" group-title="江浙沪包邮",江苏·徐州4
+http://183.207.249.71/PLTV/3/224/3221225951/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.hualigs.cn/image/61e15d3bf3739.jpg" group-title="江浙沪包邮",江苏·徐州4
+http://183.207.249.15/PLTV/3/224/3221225951/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.hualigs.cn/image/61e15d3bf3739.jpg" group-title="江浙沪包邮",江苏·徐州4
+http://183.207.248.11/PLTV/3/224/3221225951/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.hualigs.cn/image/61e15f5b5e0b3.jpg" group-title="江浙沪包邮",江苏·如东综合台
+http://rudong-hls-tv-yf.cm.jstv.com/live/rdxwzh/online.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.hualigs.cn/image/61e15f8cb97fc.jpg" group-title="江浙沪包邮",江苏·靖江综合台
+http://visit.jjbctv.com:1935/live/xwzhpc/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.hualigs.cn/image/61e15fbb7426f.jpg" group-title="江浙沪包邮",江苏连云港公共
+http://live.lyg1.com/ggpd/sd/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.hualigs.cn/image/61e15fbb6bb99.jpg" group-title="江浙沪包邮",江苏连云港综合
+http://live.lyg1.com/zhpd/sd/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.hualigs.cn/image/61e15ff57c0b9.jpg" group-title="江浙沪包邮",江苏吴江综合台
+http://30515.hlsplay.aodianyun.com/lms_30515/tv_channel_239.m3u8
 
 
 #EXTINF:-1 tvg-id="69" tvg-name="金鹰卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinyingkatong.png" group-title="湘鄂赣皖",湖南金鹰卡通
@@ -2126,6 +2204,26 @@ http://zbbf2.ahtv.cn/live/752.m3u8
 http://zbbf2.ahtv.cn/live/dab.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.hualigs.cn/image/6159c133236e8.jpg" group-title="湘鄂赣皖",安徽人物
 http://zbbf2.ahtv.cn/live/da9.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.hualigs.cn/image/6159c019796f7.jpg" group-title="湘鄂赣皖",安徽·合肥新闻
+http://223.244.92.30:808/2774goN/1000/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.hualigs.cn/image/6159c019899a9.jpg" group-title="湘鄂赣皖",安徽·合肥生活
+http://223.244.92.30:808/xcd72q7/1000/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.hualigs.cn/image/6159c0197f663.jpg" group-title="湘鄂赣皖",安徽·合肥财经
+http://223.244.92.30:808/8Fvh9ro/1000/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.hualigs.cn/image/6159c01983d66.jpg" group-title="湘鄂赣皖",安徽·合肥教育法制
+http://223.244.92.30:808/x91Hoz8/1000/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.hualigs.cn/image/61e161944f043.jpg" group-title="湘鄂赣皖",安徽·合肥故事休闲
+http://223.244.92.30:808/52e58Sh/1000/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.hualigs.cn/image/6159c019519a9.jpg" group-title="湘鄂赣皖",安徽·合肥文体博览
+http://223.244.92.30:808/FgrhqyC/1000/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.hualigs.cn/image/61e161944f043.jpg" group-title="湘鄂赣皖",安徽·合肥公共
+http://223.244.92.30:808/NlwQhy0/1000/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.hualigs.cn/image/61e1620f9cdfe.jpg" group-title="湘鄂赣皖",安徽·铜陵综合
+http://dstpush1.retalltech.com/app/stream1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.hualigs.cn/image/61e1621045164.jpg" group-title="湘鄂赣皖",安徽·铜陵公共
+http://dstpush1.retalltech.com/app/stream2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.hualigs.cn/image/61e16252c37a3.jpg" group-title="湘鄂赣皖",安徽·东至综合
+http://223.247.33.124:1935/live/zonghe/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="黄河卫视" tvg-name="黄河卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/huanghe.png" group-title="晋西北陕甘宁",黄河电视台
@@ -2503,21 +2601,60 @@ https://livesec.mudu.tv/watch/9n9dc8.m3u8
 https://cdn.gdlive.gdmain.com/live/ljjdp7kl_master.m3u8
 
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.hualigs.cn/image/61e178c7cd0a4.jpg" group-title="黑吉辽蒙疆藏",黑龙江影视
+http://idclive.hljtv.com:8080/live/hljys_hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.hualigs.cn/image/61e178c73013a.jpg" group-title="黑吉辽蒙疆藏",黑龙江都市
+http://idclive.hljtv.com:8080/live/dushi_hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.hualigs.cn/image/61e178c753d98.jpg" group-title="黑吉辽蒙疆藏" ,黑龙江文艺
+http://idclive.hljtv.com:8080/live/hljwy_hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.hualigs.cn/image/61e179439454a.jpg" group-title="黑吉辽蒙疆藏",黑龙江新闻
+http://idclive.hljtv.com:8080/live/hljxw_hd.m3u8
 
-#EXTINF:-1 tvg-id="6001" tvg-name="辽宁都市" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/LNTV2.jpg" group-title="省市地方",辽宁都市
+#EXTINF:-1 tvg-id="6001" tvg-name="辽宁都市" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/LNTV2.jpg" group-title="黑吉辽蒙疆藏",辽宁都市
 http://39.135.129.165/hwottcdn.ln.chinamobile.com/PLTV/-/224/3221226760/index.m3u8
-#EXTINF:-1 tvg-id="6005" tvg-name="辽宁公共" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/LNTV7.jpg" group-title="省市地方",辽宁公共
+#EXTINF:-1 tvg-id="6005" tvg-name="辽宁公共" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/LNTV7.jpg" group-title="黑吉辽蒙疆藏",辽宁公共
 http://39.135.129.167/hwottcdn.ln.chinamobile.com/PLTV/-/224/3221226766/index.m3u8
-#EXTINF:-1 tvg-id="6003" tvg-name="辽宁青少" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/LNTV5.jpg" group-title="省市地方",辽宁青少
+#EXTINF:-1 tvg-id="6003" tvg-name="辽宁青少" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/LNTV5.jpg" group-title="黑吉辽蒙疆藏",辽宁青少
 http://39.135.129.165/hwottcdn.ln.chinamobile.com/PLTV/-/224/3221226763/index.m3u8
-#EXTINF:-1 tvg-id="6008" tvg-name="辽宁经济" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/LNTV-FINANCE.jpg" group-title="省市地方",辽宁经济
+#EXTINF:-1 tvg-id="6008" tvg-name="辽宁经济" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/LNTV-FINANCE.jpg" group-title="黑吉辽蒙疆藏",辽宁经济
 http://39.135.129.165/hwottcdn.ln.chinamobile.com/PLTV/-/224/3221226735/index.m3u8
-#EXTINF:-1 tvg-id="6004" tvg-name="辽宁生活" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/LNTV6.jpg" group-title="省市地方",辽宁生活
+#EXTINF:-1 tvg-id="6004" tvg-name="辽宁生活" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/LNTV6.jpg" group-title="黑吉辽蒙疆藏",辽宁生活
 http://39.135.129.163/hwottcdn.ln.chinamobile.com/PLTV/-/224/3221226761/index.m3u8
-#EXTINF:-1 tvg-id="6007" tvg-name="辽宁体育" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/LNTV-SPORT.jpg" group-title="省市地方",辽宁体育
+#EXTINF:-1 tvg-id="6007" tvg-name="辽宁体育" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/LNTV-SPORT.jpg" group-title="黑吉辽蒙疆藏",辽宁体育
 http://39.135.129.165/hwottcdn.ln.chinamobile.com/PLTV/-/224/3221226764/index.m3u8
-#EXTINF:-1 tvg-id="6002" tvg-name="辽宁影视剧" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/LNTV3.jpg" group-title="省市地方",辽宁影视剧
+#EXTINF:-1 tvg-id="6002" tvg-name="辽宁影视剧" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/LNTV3.jpg" group-title="黑吉辽蒙疆藏",辽宁影视剧
 http://39.135.129.163/hwottcdn.ln.chinamobile.com/PLTV/-/224/3221226738/index.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.hualigs.cn/image/61e171a9890b1.jpg" group-title="黑吉辽蒙疆藏",内蒙古卫视
+http://live9.m2oplus.nmtv.cn/nmgws/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.hualigs.cn/image/61e171a9890b1.jpg" group-title="黑吉辽蒙疆藏",内蒙古卫视
+http://live9.m2oplus.nmtv.cn/nmgws/hd/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.hualigs.cn/image/61e171a9bdfdd.jpg" group-title="黑吉辽蒙疆藏",内蒙古少儿频道
+http://live11.m2oplus.nmtv.cn/sepd/hd/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.hualigs.cn/image/61e171a9b6c07.jpg" group-title="黑吉辽蒙疆藏",内蒙古经济生活
+http://live10.m2oplus.nmtv.cn/jjsh/hd/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.hualigs.cn/image/61e171a9890b1.jpg" group-title="黑吉辽蒙疆藏",内蒙古蒙古语卫视
+http://live9.m2oplus.nmtv.cn/nmgmgyws/hd/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.hualigs.cn/image/61e171a9890b1.jpg" group-title="黑吉辽蒙疆藏",内蒙古蒙古语文化
+http://live9.m2oplus.nmtv.cn/nmgmgywh/hd/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.hualigs.cn/image/61e171a982e8e.jpg" group-title="黑吉辽蒙疆藏",内蒙古农牧频道
+http://live11.m2oplus.nmtv.cn/nmpd/hd/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.hualigs.cn/image/61e171a98f678.jpg" group-title="黑吉辽蒙疆藏",内蒙古新闻综合
+http://live10.m2oplus.nmtv.cn/xwzh/hd/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.hualigs.cn/image/61e171a9eb2c5.jpg" group-title="黑吉辽蒙疆藏",内蒙古文体娱乐
+http://live10.m2oplus.nmtv.cn/wtyl/hd/live.m3u8
+
+#EXTINF:-1 group-title="黑吉辽蒙疆藏",新疆·石河子新闻综合
+http://124.88.144.73:1935/live/xwzh/playlist.m3u8
+#EXTINF:-1 group-title="黑吉辽蒙疆藏",新疆·石河子影视文体
+http://124.88.144.73:1935/live/jjsh/playlist.m3u8
+#EXTINF:-1 group-title="黑吉辽蒙疆藏",新疆·石河子经济生活
+http://124.88.144.73:1935/live/dywt/playlist.m3u8
+#EXTINF:-1 group-title="黑吉辽蒙疆藏",新疆·石河子教育
+http://124.88.144.73:1935/live/jiaoyu/playlist.m3u8
+
+
 
 #EXTINF:-1 tvg-id="1434" tvg-name="山东生活" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/sd_shenghuo.png" group-title="省市地方",山东生活
 http://119.164.216.162:9901/tsfile/live/1006_1.m3u8
@@ -2546,34 +2683,7 @@ https://jsylivealone302.iqilu.com/donge/donge_tv02/index.m3u8
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="省市地方",安徽·合肥新闻
-http://223.244.92.30:808/2774goN/1000/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.hualigs.cn/image/6159c019899a9.jpg" group-title="省市地方",安徽·合肥生活
-http://223.244.92.30:808/xcd72q7/1000/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.hualigs.cn/image/6159c0197f663.jpg" group-title="省市地方",安徽·合肥财经
-http://223.244.92.30:808/8Fvh9ro/1000/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.hualigs.cn/image/6159c01983d66.jpg" group-title="省市地方",安徽·合肥教育法制
-http://223.244.92.30:808/x91Hoz8/1000/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="省市地方",安徽·合肥故事休闲
-http://223.244.92.30:808/52e58Sh/1000/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.hualigs.cn/image/6159c019519a9.jpg" group-title="省市地方",安徽·合肥文体博览
-http://223.244.92.30:808/FgrhqyC/1000/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="省市地方",安徽·合肥公共
-http://223.244.92.30:808/NlwQhy0/1000/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="省市地方",安徽·铜陵综合
-http://dstpush1.retalltech.com/app/stream1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="省市地方",安徽·铜陵公共
-http://dstpush1.retalltech.com/app/stream2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="省市地方",安徽·东至综合
-http://223.247.33.124:1935/live/zonghe/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="省市地方",河南睛彩中原
-http://hndxrm1.8686c.com/live/live30_tzwj_500k.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="省市地方",河南·济源一套FHD
-http://live.dxhmt.cn:9081/tv/19001-1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="省市地方",河南·兰考FHD
-http://live.dxhmt.cn:9081/tv/10225-1.m3u8
-#EXTINF:-1 tvg-id="6555" tvg-name="梨园" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE20.jpg" group-title="省市地方",河南·梨园
-http://hndxrm1.8686c.com/live/lypd.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="省市地方",江西·九江公共FHD
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225775/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="省市地方",江西·九江公共FHD
@@ -2586,66 +2696,11 @@ http://39.135.138.59:18890/PLTV/88888910/224/3221225774/index.m3u8
 http://39.134.115.163:8080/PLTV/88888910/224/3221225774/index.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="省市地方",江苏·如东综合台
-http://rudong-hls-tv-yf.cm.jstv.com/live/rdxwzh/online.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="省市地方",江苏·靖江综合台
-http://visit.jjbctv.com:1935/live/xwzhpc/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="省市地方",江苏·常州新闻综合
-http://223.110.246.80/ott.js.chinamobile.com/PLTV/4/224/3221227899/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="省市地方",江苏·常州都市
-http://223.110.246.82/ott.js.chinamobile.com/PLTV/4/224/3221227955/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="省市地方",江苏·常州生活
-http://223.110.246.80/ott.js.chinamobile.com/PLTV/4/224/3221227902/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="省市地方",江苏·常州公共
-http://223.110.246.82/ott.js.chinamobile.com/PLTV/4/224/3221227905/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="省市地方",江苏·张家港民生HD
-http://3gvod.zjgonline.com.cn:1935/live/shehuishenghuo2/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="省市地方",江苏·张家港民生HD
-http://3gvod.zjgonline.com.cn:1935/live/shehuishenghuo2/chunklist_w37722388.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="省市地方",江苏·张家港新闻HD
-http://3gvod.zjgonline.com.cn:1935/live/xinwenzonghe2/playlist.m3u8?checkedby:hlscat.com
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="省市地方",江苏·张家港综合HD
-http://3gvod.zjgonline.com.cn:1935/live/xinwenzonghe2/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="省市地方",江苏·徐州1
-http://183.207.249.71/PLTV/3/224/3221225945/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="省市地方",江苏·徐州1
-http://223.110.245.165/ott.js.chinamobile.com/PLTV/3/224/3221225945/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="省市地方",江苏·徐州1
-http://183.207.249.15/PLTV/3/224/3221225945/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="省市地方",江苏·徐州1
-http://stream1.huaihai.tv/xwzh/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="省市地方",江苏·徐州2
-http://183.207.249.71/PLTV/3/224/3221225947/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="省市地方",江苏·徐州2
-http://183.207.249.11/PLTV/3/224/3221225947/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="省市地方",江苏·徐州2
-http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221225947/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="省市地方",江苏·徐州3
-http://stream1.huaihai.tv/wyys/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="省市地方",江苏·徐州3
-http://183.207.249.71/PLTV/3/224/3221225949/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="省市地方",江苏·徐州3
-http://183.207.248.15/PLTV/3/224/3221225949/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="省市地方",江苏·徐州3
-http://223.110.245.151/ott.js.chinamobile.com/PLTV/3/224/3221225949/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="省市地方",江苏·徐州4
-http://183.207.249.71/PLTV/3/224/3221225951/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="省市地方",江苏·徐州4
-http://183.207.249.15/PLTV/3/224/3221225951/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="省市地方",江苏·徐州4
-http://183.207.248.11/PLTV/3/224/3221225951/index.m3u8
 
 
 
 
-#EXTINF:-1 tvg-id="6240" tvg-name="求索科学" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/QSKX.jpg" group-title="科普记录",求索科学
-http://39.134.134.85/000000001000/6000000002000032344/1.m3u8
-#EXTINF:-1 tvg-id="6244" tvg-name="求索记录" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/QSJL.jpg" group-title="科普记录",求索纪录
-http://39.134.134.85/000000001000/6000000002000032052/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="科普记录",求索生活
-http://39.134.134.85/000000001000/6000000002000003382/1.m3u8
-#EXTINF:-1 tvg-id="6242" tvg-name="求索动物" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/QSDW.jpg" group-title="科普记录",求索动物
-http://39.134.134.85/000000001000/6000000002000010046/1.m3u8
+
 #EXTINF:-1 tvg-logo="http://pix1.tvzhe.com/images/logo/channel/IHOT12/IHOT12.jpg?1”, group-title="科普记录",爱探索
 http://39.134.134.85/000000001000/6000000006000300630/1.m3u8
 #EXTINF:-1 tvg-id="1988" tvg-name="上海纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png" group-title="科普记录",纪实人文
