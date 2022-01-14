@@ -3158,9 +3158,9 @@ http://v.mp.haue.edu.cn/hls/discovery.m3u8
 
 
 
-#EXTINF:-1 tvg-id="31" tvg-name="港台電視31" tvg-logo="https://www.hkdtmb.com/png_logo/31.png" group-title="仅限香港IP播放",港台电视31
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.hkdtmb.com/png_logo/31.png" group-title="仅限香港IP播放",港台电视31
 http://livetv.dnsfor.me:80/channel.1.m3u8
-#EXTINF:-1 tvg-id="32" tvg-name="港台電視32" tvg-logo="https://www.hkdtmb.com/png_logo/32.png" group-title="仅限香港IP播放",港台电视32
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.hkdtmb.com/png_logo/32.png" group-title="仅限香港IP播放",港台电视32
 http://livetv.dnsfor.me:80/channel.2.m3u8
 #EXTINF:-1 tvg-id="7118" tvg-name="香港开电视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hongkongkai.png" group-title="仅限香港IP播放",香港开电视
 https://cdn.hkdtmb.com/hls/77/index.m3u8
@@ -3219,35 +3219,35 @@ http://livetv.dnsfor.me:80/channel.24.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="仅限香港IP播放",亚旅卫视
 http://hls.jingchangkan.tv/jingchangkan/156722438_0HaM/index.m3u8
 
-#EXTINF:-1 tvg-id="31" tvg-name="港台電視31" tvg-logo="https://www.hkyoutv.com/png_logo/31.png" group-title="香港地面波-大陆",港台電視31
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.hkyoutv.com/png_logo/31.png" group-title="香港地面波-大陆",港台电视31
 https://cdn.hkyoutv.com/hls/31/index.m3u8
-#EXTINF:-1 tvg-id="32" tvg-name="港台電視32" tvg-logo="https://www.hkyoutv.com/png_logo/32.png" group-title="香港地面波-大陆",港台電視32
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.hkyoutv.com/png_logo/32.png" group-title="香港地面波-大陆",港台电视32
 https://cdn.hkyoutv.com/hls/32/index.m3u8
-#EXTINF:-1 tvg-id="33" tvg-name="港台電視33" tvg-logo="https://www.hkyoutv.com/png_logo/33.png" group-title="香港地面波-大陆",港台電視33
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.hkyoutv.com/png_logo/33.png" group-title="香港地面波-大陆",港台电视33
 https://cdn.hkyoutv.com/hls/33/index.m3u8
-#EXTINF:-1 tvg-id="77" tvg-name="香港開電視" tvg-logo="https://www.hkyoutv.com/png_logo/77.png" group-title="香港地面波-大陆",香港開電視
+#EXTINF:-1 tvg-id="7118" tvg-name="香港开电视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hongkongkai.png" group-title="香港地面波-大陆",香港开电视
 https://cdn.hkyoutv.com/hls/77/index.m3u8
-#EXTINF:-1 tvg-id="76" tvg-name="香港國際財經台" tvg-logo="https://www.hkyoutv.com/png_logo/76.png" group-title="香港地面波-大陆",香港國際財經台
+#EXTINF:-1 tvg-id="7117" tvg-name="香港国际财经台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hkguojicaijing.png" group-title="香港地面波-大陆",香港国际财经台
 https://cdn.hkyoutv.com/hls/76/index.m3u8
-#EXTINF:-1 tvg-id="81" tvg-name="翡翠台" tvg-logo="https://www.hkyoutv.com/png_logo/81.png" group-title="香港地面波-大陆",翡翠台
+#EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="香港地面波-大陆",翡翠台
 https://cdn.hkyoutv.com/hls/81/index.m3u8
-#EXTINF:-1 tvg-id="81" tvg-name="翡翠台 (中英字幕)" tvg-logo="https://www.hkyoutv.com/png_logo/81.png" group-title="香港地面波-大陆",翡翠台 (中英字幕)
+#EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="香港地面波-大陆",翡翠台 (中英字幕)
 https://cdn.hkyoutv.com/hls/81b/index.m3u8
-#EXTINF:-1 tvg-id="82" tvg-name="J2台" tvg-logo="https://www.hkyoutv.com/png_logo/82.png" group-title="香港地面波-大陆",J2台
+#EXTINF:-1 tvg-id="416" tvg-name="J2" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBJ2.png" group-title="香港地面波-大陆",J2台
 https://cdn.hkyoutv.com/hls/82/index.m3u8
-#EXTINF:-1 tvg-id="83" tvg-name="無綫新聞台" tvg-logo="https://www.hkyoutv.com/png_logo/83.png" group-title="香港地面波-大陆",無綫新聞台
+#EXTINF:-1 tvg-id="130" tvg-name="无线新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" group-title="香港地面波-大陆",无线新闻台
 https://cdn.hkyoutv.com/hls/83/index.m3u8
-#EXTINF:-1 tvg-id="84" tvg-name="明珠台" tvg-logo="https://www.hkyoutv.com/png_logo/84.png" group-title="香港地面波-大陆",明珠台
+#EXTINF:-1 tvg-id="127" tvg-name="明珠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB明珠台.png" group-title="香港地面波-大陆",明珠台
 https://cdn.hkyoutv.com/hls/84/index.m3u8
-#EXTINF:-1 tvg-id="84" tvg-name="明珠台 (粵語聲道)" tvg-logo="https://www.hkyoutv.com/png_logo/84.png" group-title="香港地面波-大陆",明珠台 (粵語聲道)
+#EXTINF:-1 tvg-id="127" tvg-name="明珠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB明珠台.png" group-title="香港地面波-大陆",明珠台 (粤语声道)
 https://cdn.hkyoutv.com/hls/84b/index.m3u8
-#EXTINF:-1 tvg-id="85" tvg-name="無綫財經·資訊台" tvg-logo="https://www.hkyoutv.com/png_logo/85.png" group-title="香港地面波-大陆",無綫財經·資訊台
+#EXTINF:-1 tvg-id="133" tvg-name="无线财经" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvbfinanceinformationchannel.png" group-title="香港地面波-大陆",无线财经·资讯台
 https://cdn.hkyoutv.com/hls/85/index.m3u8
-#EXTINF:-1 tvg-id="99" tvg-name="ViuTV" tvg-logo="https://www.hkyoutv.com/png_logo/99.png" group-title="香港地面波-大陆",ViuTV
+#EXTINF:-1 tvg-id="408" tvg-name="ViuTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png" group-title="香港地面波-大陆",ViuTV
 https://cdn.hkyoutv.com/hls/99/index.m3u8
-#EXTINF:-1 tvg-id="96" tvg-name="ViuTV" tvg-logo="https://www.hkyoutv.com/png_logo/96.png" group-title="香港地面波-大陆",ViuTV Six
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.hkyoutv.com/png_logo/96.png" group-title="香港地面波-大陆",ViuTV Six
 https://cdn.hkyoutv.com/hls/96/index.m3u8
-#EXTINF:-1 tvg-id="96" tvg-name="ViuTV" tvg-logo="https://www.hkyoutv.com/png_logo/96.png" group-title="香港地面波-大陆",ViuTV Six （第二聲度）
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.hkyoutv.com/png_logo/96.png" group-title="香港地面波-大陆",ViuTV Six
 https://cdn.hkyoutv.com/hls/96b/index.m3u8
 
 
