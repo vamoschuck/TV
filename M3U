@@ -3040,6 +3040,10 @@ http://39.135.46.246:6610/PLTV/77777777/224/3221225654/index.m3u8?vamoschucktv
 
 #EXTINF:-1 tvg-id="7183" tvg-name="aljazeera" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/aljazeera.png" group-title="卷毛鼠无私推流",半岛国际新闻台
 https://iptv.jmsooo.com/live/aljazen/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.hualigs.cn/image/61e25e70e3591.jpg" group-title="卷毛鼠无私推流",Now新闻
+https://www.jmsooo.com/tbs.php?id=16
+#EXTINF:-1 tvg-id="7122" tvg-name="有线新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/youxianxinwen.png" group-title="卷毛鼠无私推流",有线新闻
+https://www.jmsooo.com/tbs.php?id=24
 #EXTINF:-1 tvg-id="" tvg-name="日本ANN新闻" tvg-logo="https://www.hualigs.cn/image/61dd9f37018ec.jpg" group-title="卷毛鼠无私推流",日本ANN新闻
 https://iptv.jmsooo.com/live/annnews/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CTI中天新闻" tvg-logo="https://www.hualigs.cn/image/61dd9f3725fbd.jpg" group-title="卷毛鼠无私推流",CTI中天新闻
