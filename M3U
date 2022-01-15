@@ -1873,6 +1873,20 @@ http://222.175.202.90:9901/tsfile/live/1012_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="京津冀鲁豫",山东教育
 http://222.175.202.90:9901/tsfile/live/1011_1.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.hualigs.cn/image/61e28bfa28450.jpg" group-title="京津冀鲁豫",青岛QTV-1
+http://39.77.233.14:9901/tsfile/live/1009_1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.hualigs.cn/image/61e28bf77fb56.jpg" group-title="京津冀鲁豫",青岛QTV-2
+http://39.77.233.14:9901/tsfile/live/1010_1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.hualigs.cn/image/61e28bf756c7f.jpg" group-title="京津冀鲁豫",青岛QTV-3
+http://39.77.233.14:9901/tsfile/live/1000_1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.hualigs.cn/image/61e28bf759d2a.jpg" group-title="京津冀鲁豫",青岛QTV-4
+http://39.77.233.14:9901/tsfile/live/1003_1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.hualigs.cn/image/61e28bf774bbe.jpg" group-title="京津冀鲁豫",青岛QTV-5
+http://39.77.233.14:9901/tsfile/live/1002_1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.hualigs.cn/image/61e28bf787990.jpg" group-title="京津冀鲁豫",青岛QTV-6
+http://39.77.233.14:9901/tsfile/live/1004_1.m3u8
+
+
 #EXTINF:-1 tvg-id="47" tvg-name="河南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/henan.png" group-title="京津冀鲁豫",河南卫视
 http://219.150.217.47:6610/PLTV1/580/index.m3u8?vamoschucktv
 #EXTINF:-1 tvg-id="47" tvg-name="河南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/henan.png" group-title="京津冀鲁豫",河南卫视4K
@@ -2599,7 +2613,8 @@ https://cdn.gdlive.gdmain.com/live/518gpoml.m3u8
 https://livesec.mudu.tv/watch/9n9dc8.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="闽粤桂琼",广西·凌云县广播电视台
 https://cdn.gdlive.gdmain.com/live/ljjdp7kl_master.m3u8
-
+#EXTINF:-1 tvg-id="72" tvg-name="三沙卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sansha.png" group-title="闽粤桂琼",三沙卫视
+http://pull2.ssws.tv/live/SswsTV20210803.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.hualigs.cn/image/61e178c7cd0a4.jpg" group-title="黑吉辽蒙疆藏",黑龙江影视
 http://idclive.hljtv.com:8080/live/hljys_hd.m3u8
@@ -2645,6 +2660,8 @@ http://live10.m2oplus.nmtv.cn/xwzh/hd/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.hualigs.cn/image/61e171a9eb2c5.jpg" group-title="黑吉辽蒙疆藏",内蒙古文体娱乐
 http://live10.m2oplus.nmtv.cn/wtyl/hd/live.m3u8
 
+#EXTINF:-1 tvg-id="57" tvg-name="新疆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xinjiang.png" group-title="黑吉辽蒙疆藏",新疆卫视
+http://129.226.107.32/livehyw5.chinamcache.com/hyw/zb01.m3u8
 #EXTINF:-1 group-title="黑吉辽蒙疆藏",新疆·石河子新闻综合
 http://124.88.144.73:1935/live/xwzh/playlist.m3u8
 #EXTINF:-1 group-title="黑吉辽蒙疆藏",新疆·石河子影视文体
