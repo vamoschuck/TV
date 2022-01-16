@@ -2717,7 +2717,14 @@ http://39.134.115.163:8080/PLTV/88888910/224/3221225774/index.m3u8
 
 
 
-
+#EXTINF:-1 tvg-id="6240" tvg-name="求索科学" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/QSKX.jpg" group-title="科普记录",求索科学
+http://39.134.134.85/0000000000001000/1.m3u8?Contentid=6000000002000032344&livemode=1&stbId=3&channel-id=wasusyt
+#EXTINF:-1 tvg-id="6244" tvg-name="求索记录" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/QSJL.jpg" group-title="科普记录",求索纪录
+http://39.134.134.85/0000000000001000/1.m3u8?Contentid=6000000002000032052&livemode=1&stbId=3&channel-id=wasusyt
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.hualigs.cn/image/61e40498c7748.jpg" group-title="科普记录",求索生活
+http://39.134.134.85/0000000000001000/1.m3u8?Contentid=6000000002000003382&livemode=1&stbId=3&channel-id=wasusyt
+#EXTINF:-1 tvg-id="6242" tvg-name="求索动物" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/QSDW.jpg" group-title="科普记录",求索动物
+http://39.134.134.85/0000000000001000/1.m3u8?Contentid=6000000002000010046&livemode=1&stbId=3&channel-id=wasusyt
 #EXTINF:-1 tvg-logo="http://pix1.tvzhe.com/images/logo/channel/IHOT12/IHOT12.jpg?1”, group-title="科普记录",爱探索
 http://39.134.134.85/000000001000/6000000006000300630/1.m3u8
 #EXTINF:-1 tvg-id="1988" tvg-name="上海纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png" group-title="科普记录",纪实人文
@@ -2725,7 +2732,7 @@ http://39.134.65.162/PLTV/88888888/224/3221225673/index.m3u8
 #EXTINF:-1 tvg-id="1988" tvg-name="上海纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png" group-title="科普记录",纪实人文
 http://39.134.115.163:8080/PLTV/88888910/224/3221225655/index.m3u8
 #EXTINF:-1 tvg-id="1976" tvg-name="全纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/quanjishi.png" group-title="科普记录",全纪实
-http://223.111.195.58/keonline.shanghai.liveplay.qq.com/live/program/live/qjshd/4000000/mnf.m3u8
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/qjshd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-id="2025" tvg-name="金鹰纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jinyingjishi.png" group-title="科普记录",金鹰纪实
 http://39.135.129.165/hwottcdn.ln.chinamobile.com/TVOD/-/224/3221226714/index.m3u8
 #EXTINF:-1 tvg-id="2025" tvg-name="金鹰纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jinyingjishi.png" group-title="科普记录",金鹰纪实
