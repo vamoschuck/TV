@@ -2520,10 +2520,14 @@ http://hongyanqiang.top/chudian.php?id=gdgj
 http://ye23.win/iptv/gztv.php?id=jingsai
 #EXTINF:-1 tvg-id="广州竞赛" tvg-name="广州竞赛" tvg-logo="https://www.hualigs.cn/image/61e13c4312c8d.jpg" group-title="闽粤桂琼",广州竞赛
 https://aplay.gztv.com/sec/jingsai.m3u8
+#EXTINF:-1 tvg-id="广州竞赛" tvg-name="广州竞赛" tvg-logo="https://www.hualigs.cn/image/61e13c4312c8d.jpg" group-title="闽粤桂琼",广州竞赛
+http://player.521fanli.cn/1691/gd/gztvm3u8.php?id=gzjs
 #EXTINF:-1 tvg-id="广州综合" tvg-name="广州综合" tvg-logo="https://www.hualigs.cn/image/61e13c43113fc.jpg" group-title="闽粤桂琼",广州综合
 http://ye23.win/iptv/gztv.php?id=zhonghe
 #EXTINF:-1 tvg-id="广州综合" tvg-name="广州综合" tvg-logo="https://www.hualigs.cn/image/61e13c43113fc.jpg" group-title="闽粤桂琼",广州综合
 https://aplay.gztv.com/sec/zhonghe.m3u8
+#EXTINF:-1 tvg-id="广州综合" tvg-name="广州综合" tvg-logo="https://www.hualigs.cn/image/61e13c43113fc.jpg" group-title="闽粤桂琼",广州综合
+http://player.521fanli.cn/1691/gd/gztvm3u8.php?id=gzzh
 #EXTINF:-1 tvg-id="广州综合" tvg-name="广州综合" tvg-logo="https://www.hualigs.cn/image/61e13c43113fc.jpg" group-title="闽粤桂琼",广州综合
 http://aplay.gztv.com/sec/zhonghe.flv
 #EXTINF:-1 tvg-id="广州新闻" tvg-name="广州新闻" tvg-logo="https://www.hualigs.cn/image/61e13c4309ae4.jpg" group-title="闽粤桂琼",广州新闻
@@ -2532,18 +2536,27 @@ http://ye23.win/iptv/gztv.php?id=xinwen
 https://aplay.gztv.com/sec/xinwen.flv
 #EXTINF:-1 tvg-id="广州新闻" tvg-name="广州新闻" tvg-logo="https://www.hualigs.cn/image/61e13c4309ae4.jpg" group-title="闽粤桂琼",广州新闻
 https://aplay.gztv.com/sec/xinwen.m3u8
+#EXTINF:-1 tvg-id="广州新闻" tvg-name="广州新闻" tvg-logo="https://www.hualigs.cn/image/61e13c4309ae4.jpg" group-title="闽粤桂琼",广州新闻
+http://player.521fanli.cn/1691/gd/gztvm3u8.php?id=gzxw
 #EXTINF:-1 tvg-id="广州法治" tvg-name="广州法治" tvg-logo="https://www.hualigs.cn/image/61e13c43113fc.jpg" group-title="闽粤桂琼",广州法制
 http://ye23.win/iptv/gztv.php?id=fazhi
+#EXTINF:-1 tvg-id="广州法治" tvg-name="广州法治" tvg-logo="https://www.hualigs.cn/image/61e13c43113fc.jpg" group-title="闽粤桂琼",广州法制
+http://player.521fanli.cn/1691/gd/gztvm3u8.php?id=gzfz
 #EXTINF:-1 tvg-id="广州影视" tvg-name="广州影视" tvg-logo="https://www.hualigs.cn/image/61e13c430ccf1.jpg" group-title="闽粤桂琼",广州影视
 http://aplay.gztv.com/sec/yingshi.m3u8
 #EXTINF:-1 tvg-id="广州影视" tvg-name="广州影视" tvg-logo="https://www.hualigs.cn/image/61e13c430ccf1.jpg" group-title="闽粤桂琼",广州影视
 https://aplay.gztv.com/sec/yingshi.m3u8
 #EXTINF:-1 tvg-id="广州影视" tvg-name="广州影视" tvg-logo="https://www.hualigs.cn/image/61e13c430ccf1.jpg" group-title="闽粤桂琼",广州影视
 https://aplay.gztv.com/sec/yingshi.flv
+#EXTINF:-1 tvg-id="广州影视" tvg-name="广州影视" tvg-logo="https://www.hualigs.cn/image/61e13c430ccf1.jpg" group-title="闽粤桂琼",广州影视
+http://player.521fanli.cn/1691/gd/gztvm3u8.php?id=gzys
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.hualigs.cn/image/61e13c42c8f20.jpg" group-title="闽粤桂琼",南国都市
 http://ye23.win/iptv/gztv.php?id=shenghuo
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.hualigs.cn/image/61e13c42c8f20.jpg" group-title="闽粤桂琼",南国都市
 https://aplay.gztv.com/sec/shenghuos.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.hualigs.cn/image/61e13c42c8f20.jpg" group-title="闽粤桂琼",南国都市
+http://player.521fanli.cn/1691/gd/gztvm3u8.php?id=gzngds
+
 #EXTINF:-1 tvg-id="深圳都市" tvg-name="深圳都市" tvg-logo="https://www.hualigs.cn/image/61dd583a750d6.jpg" group-title="闽粤桂琼",深圳都市
 http://ye23.win/iptv/sztv.php?id=2
 #EXTINF:-1 tvg-id="深圳公共" tvg-name="深圳公共" tvg-logo="https://www.hualigs.cn/image/61dd583a52abb.jpg" group-title="闽粤桂琼",深圳公共
