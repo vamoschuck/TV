@@ -46,8 +46,6 @@ http://111.20.33.93/TVOD/88888893/224/3221226194/index.m3u8
 http://111.20.33.93/TVOD/88888893/224/3221226206/index.m3u8
 #EXTINF:-1  tvg-id="38" tvg-name="山东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png" group-title="陕西移动-回看",山东卫视
 http://111.20.33.93/TVOD/88888893/224/3221226209/index.m3u8
-#EXTINF:-1  tvg-id="34" tvg-name="深圳卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shenzhen.png" group-title="陕西移动-回看",深圳卫视
-http://111.20.33.93/TVOD/88888893/224/3221226205/index.m3u8
 #EXTINF:-1  tvg-id="32" tvg-name="安徽卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png" group-title="陕西移动-回看",安徽卫视
 http://111.20.33.93/TVOD/88888893/224/3221226196/index.m3u8
 #EXTINF:-1  tvg-id="32" tvg-name="安徽卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png" group-title="陕西移动-回看",安徽卫视
