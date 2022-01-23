@@ -2473,23 +2473,21 @@ http://39.134.115.163:8080/PLTV/88888910/224/3221225774/index.m3u8
 
 
 #EXTINF:-1 tvg-id="6240" tvg-name="求索科学" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/QSKX.jpg" group-title="科普记录",求索科学
-http://39.134.134.85/0000000000001000/1.m3u8?Contentid=6000000002000032344&livemode=1&stbId=3&channel-id=wasusyt
+http://39.134.134.84/0000000000001001/1/1.m3u8?Contentid=6000000002000032344&livemode=1&stbId=3&channel-id=wasusyt
 #EXTINF:-1 tvg-id="6244" tvg-name="求索记录" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/QSJL.jpg" group-title="科普记录",求索纪录
-http://39.134.134.85/0000000000001000/1.m3u8?Contentid=6000000002000032052&livemode=1&stbId=3&channel-id=wasusyt
+http://39.134.134.84/0000000000001001/1/1.m3u8?Contentid=6000000002000032052&livemode=1&stbId=3&channel-id=wasusyt
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.hualigs.cn/image/61e40498c7748.jpg" group-title="科普记录",求索生活
-http://39.134.134.85/0000000000001000/1.m3u8?Contentid=6000000002000003382&livemode=1&stbId=3&channel-id=wasusyt
+http://39.134.134.84/0000000000001001/1/1.m3u8?Contentid=6000000002000003382&livemode=1&stbId=3&channel-id=wasusyt
 #EXTINF:-1 tvg-id="6242" tvg-name="求索动物" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/QSDW.jpg" group-title="科普记录",求索动物
-http://39.134.134.85/0000000000001000/1.m3u8?Contentid=6000000002000010046&livemode=1&stbId=3&channel-id=wasusyt
+http://39.134.134.84/0000000000001001/1/1.m3u8?Contentid=6000000002000010046&livemode=1&stbId=3&channel-id=wasusyt
 #EXTINF:-1 tvg-logo="http://pix1.tvzhe.com/images/logo/channel/IHOT12/IHOT12.jpg?1”, group-title="科普记录",爱探索
-http://39.134.134.85/0000000000001000/1.m3u8?Contentid=6000000006000300630&livemode=1&stbId=3&channel-id=wasusyt
+http://39.134.134.84/0000000000001001/1/1.m3u8?Contentid=6000000006000300630&livemode=1&stbId=3&channel-id=wasusyt
 #EXTINF:-1 tvg-id="1988" tvg-name="上海纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png" group-title="科普记录",纪实人文
 http://39.134.65.162/PLTV/88888888/224/3221225673/index.m3u8
 #EXTINF:-1 tvg-id="1988" tvg-name="上海纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png" group-title="科普记录",纪实人文
 http://39.134.115.163:8080/PLTV/88888910/224/3221225655/index.m3u8
 #EXTINF:-1 tvg-id="1976" tvg-name="全纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/quanjishi.png" group-title="科普记录",全纪实
 http://shbu.live.bestvcdn.com.cn:8080/live/program/live/qjshd/4000000/mnf.m3u8
-#EXTINF:-1 tvg-id="2025" tvg-name="金鹰纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jinyingjishi.png" group-title="科普记录",金鹰纪实
-http://39.135.129.165/hwottcdn.ln.chinamobile.com/TVOD/-/224/3221226714/index.m3u8
 #EXTINF:-1 tvg-id="2025" tvg-name="金鹰纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jinyingjishi.png" group-title="科普记录",金鹰纪实
 http://39.130.202.81:6610/gitv_live/G_JINYINGJS-HD/G_JINYINGJS-HD.m3u8
 
@@ -4138,65 +4136,65 @@ http://39.135.138.60:18890/PLTV/88888910/224/3221226192/index.m3u8
 
 
 #EXTINF:-1 group-title="IHOT爱系列" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/IHOT16/IHOT16.jpg?1",IHOT爱经典
-http://39.134.134.85/0000000000001000/1.m3u8?Contentid=6000000006000060630&livemode=1&stbId=3&channel-id=wasusyt
+http://39.134.134.84/0000000000001001/1/1.m3u8?Contentid=6000000006000060630&livemode=1&stbId=3&channel-id=wasusyt
 #EXTINF:-1 group-title="IHOT爱系列" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/IHOT14/IHOT14.jpg?1",IHOT爱历史
-http://39.134.134.85/0000000000001000/1.m3u8?Contentid=6000000006000150630&livemode=1&stbId=3&channel-id=wasusyt
+http://39.134.134.84/0000000000001001/1/1.m3u8?Contentid=6000000006000150630&livemode=1&stbId=3&channel-id=wasusyt
 #EXTINF:-1 group-title="IHOT爱系列" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/IHOT7/IHOT7.jpg?1",IHOT爱旅行
-http://39.134.134.85/0000000000001000/1.m3u8?Contentid=6000000006000250630&livemode=1&stbId=3&channel-id=wasusyt
+http://39.134.134.84/0000000000001001/1/1.m3u8?Contentid=6000000006000250630&livemode=1&stbId=3&channel-id=wasusyt
 #EXTINF:-1 group-title="IHOT爱系列" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/IHOT6/IHOT6.jpg?1",IHOT爱美食
-http://39.134.134.85/0000000000001000/1.m3u8?Contentid=6000000006000120630&livemode=1&stbId=3&channel-id=wasusyt
+http://39.134.134.84/0000000000001001/1/1.m3u8?Contentid=6000000006000120630&livemode=1&stbId=3&channel-id=wasusyt
 #EXTINF:-1 group-title="IHOT爱系列" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/IHOT8/IHOT8.jpg?1",IHOT爱赛车
-http://39.134.134.85/0000000000001000/1.m3u8?Contentid=6000000006000240630&livemode=1&stbId=3&channel-id=wasusyt
+http://39.134.134.84/0000000000001001/1/1.m3u8?Contentid=6000000006000240630&livemode=1&stbId=3&channel-id=wasusyt
 #EXTINF:-1 group-title="IHOT爱系列" tvg-logo="https://www.hualigs.cn/image/6153d999cbfa5.jpg",IHOT爱时尚
-http://39.134.134.85/0000000000001000/1.m3u8?Contentid=6000000006000140630&livemode=1&stbId=3&channel-id=wasusyt
+http://39.134.134.84/0000000000001001/1/1.m3u8?Contentid=6000000006000140630&livemode=1&stbId=3&channel-id=wasusyt
 #EXTINF:-1 group-title="IHOT爱系列" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/IHOT12/IHOT12.jpg?1",IHOT爱探索
-http://39.134.134.85/0000000000001000/1.m3u8?Contentid=6000000006000300630&livemode=1&stbId=3&channel-id=wasusyt
+http://39.134.134.84/0000000000001001/1/1.m3u8?Contentid=6000000006000300630&livemode=1&stbId=3&channel-id=wasusyt
 #EXTINF:-1 group-title="IHOT爱系列" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/IHOT5/IHOT5.jpg?1",IHOT爱体育
-http://39.134.134.85/0000000000001000/1.m3u8?Contentid=6000000006000290630&livemode=1&stbId=3&channel-id=wasusyt
+http://39.134.134.84/0000000000001001/1/1.m3u8?Contentid=6000000006000290630&livemode=1&stbId=3&channel-id=wasusyt
 #EXTINF:-1 group-title="IHOT爱系列" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/IHOT17/IHOT17.jpg?1",IHOT爱悬疑
-http://39.134.134.85/0000000000001000/1.m3u8?Contentid=6000000006000050630&livemode=1&stbId=3&channel-id=wasusyt
+http://39.134.134.84/0000000000001001/1/1.m3u8?Contentid=6000000006000050630&livemode=1&stbId=3&channel-id=wasusyt
 #EXTINF:-1 group-title="IHOT爱系列" tvg-logo="https://www.hualigs.cn/image/61bc882f8cb3b.jpg",iHOT爱都市
-http://39.134.134.85/0000000000001000/1.m3u8?Contentid=6000000006000080630&livemode=1&stbId=3&channel-id=wasusyt
+http://39.134.134.84/0000000000001001/1/1.m3u8?Contentid=6000000006000080630&livemode=1&stbId=3&channel-id=wasusyt
 #EXTINF:-1 group-title="IHOT爱系列" tvg-logo="https://www.hualigs.cn/image/61bc882f8cb3b.jpg",iHOT爱科学
-http://39.134.134.85/0000000000001000/1.m3u8?Contentid=6000000006000160630&livemode=1&stbId=3&channel-id=wasusyt
+http://39.134.134.84/0000000000001001/1/1.m3u8?Contentid=6000000006000160630&livemode=1&stbId=3&channel-id=wasusyt
 #EXTINF:-1 group-title="IHOT爱系列" tvg-logo="https://www.hualigs.cn/image/61bc882f8cb3b.jpg",iHOT爱动漫
-http://39.134.134.85/0000000000001000/1.m3u8?Contentid=6000000006000280630&livemode=1&stbId=3&channel-id=wasusyt
+http://39.134.134.84/0000000000001001/1/1.m3u8?Contentid=6000000006000280630&livemode=1&stbId=3&channel-id=wasusyt
 #EXTINF:-1 group-title="IHOT爱系列" tvg-logo="https://www.hualigs.cn/image/61bc882f8cb3b.jpg",iHOT爱喜剧
-http://39.134.134.85/0000000000001000/1.m3u8?Contentid=6000000006000010630&livemode=1&stbId=3&channel-id=wasusyt
+http://39.134.134.84/0000000000001001/1/1.m3u8?Contentid=6000000006000010630&livemode=1&stbId=3&channel-id=wasusyt
 #EXTINF:-1 group-title="IHOT爱系列" tvg-logo="https://www.hualigs.cn/image/61bc882f8cb3b.jpg",iHOT爱浪漫
-http://39.134.134.85/0000000000001000/1.m3u8?Contentid=6000000006000040630&livemode=1&stbId=3&channel-id=wasusyt
+http://39.134.134.84/0000000000001001/1/1.m3u8?Contentid=6000000006000040630&livemode=1&stbId=3&channel-id=wasusyt
 #EXTINF:-1 group-title="IHOT爱系列" tvg-logo="https://www.hualigs.cn/image/61bc882f8cb3b.jpg",iHOT爱院线
-http://39.134.134.85/0000000000001000/1.m3u8?Contentid=6000000006000030630&livemode=1&stbId=3&channel-id=wasusyt
+http://39.134.134.84/0000000000001001/1/1.m3u8?Contentid=6000000006000030630&livemode=1&stbId=3&channel-id=wasusyt
 #EXTINF:-1 group-title="IHOT爱系列" tvg-logo="https://www.hualigs.cn/image/61bc882f8cb3b.jpg",iHOT爱科幻
-http://39.134.134.85/0000000000001000/1.m3u8?Contentid=6000000006000020630&livemode=1&stbId=3&channel-id=wasusyt
+http://39.134.134.84/0000000000001001/1/1.m3u8?Contentid=6000000006000020630&livemode=1&stbId=3&channel-id=wasusyt
 #EXTINF:-1 group-title="IHOT爱系列" tvg-logo="https://www.hualigs.cn/image/61bc882f8cb3b.jpg",iHOT爱谍战
-http://39.134.134.85/0000000000001000/1.m3u8?Contentid=6000000006000070630&livemode=1&stbId=3&channel-id=wasusyt
+http://39.134.134.84/0000000000001001/1/1.m3u8?Contentid=6000000006000070630&livemode=1&stbId=3&channel-id=wasusyt
 #EXTINF:-1 group-title="IHOT爱系列" tvg-logo="https://www.hualigs.cn/image/61bc882f8cb3b.jpg",iHOT爱家庭
-http://39.134.134.85/0000000000001000/1.m3u8?Contentid=6000000006000090630&livemode=1&stbId=3&channel-id=wasusyt
+http://39.134.134.84/0000000000001001/1/1.m3u8?Contentid=6000000006000090630&livemode=1&stbId=3&channel-id=wasusyt
 #EXTINF:-1 group-title="IHOT爱系列" tvg-logo="https://www.hualigs.cn/image/61bc882f8cb3b.jpg",iHOT爱青春
-http://39.134.134.85/0000000000001000/1.m3u8?Contentid=6000000006000100630&livemode=1&stbId=3&channel-id=wasusyt
+http://39.134.134.84/0000000000001001/1/1.m3u8?Contentid=6000000006000100630&livemode=1&stbId=3&channel-id=wasusyt
 #EXTINF:-1 group-title="IHOT爱系列" tvg-logo="https://www.hualigs.cn/image/61bc882f8cb3b.jpg",iHOT爱奇谈
-http://39.134.134.85/0000000000001000/1.m3u8?Contentid=6000000006000270630&livemode=1&stbId=3&channel-id=wasusyt
+http://39.134.134.84/0000000000001001/1/1.m3u8?Contentid=6000000006000270630&livemode=1&stbId=3&channel-id=wasusyt
 #EXTINF:-1 group-title="IHOT爱系列" tvg-logo="https://www.hualigs.cn/image/61bc882f8cb3b.jpg",iHOT爱玩具
-http://39.134.134.85/0000000000001000/1.m3u8?Contentid=6000000006000220630&livemode=1&stbId=3&channel-id=wasusyt
+http://39.134.134.84/0000000000001001/1/1.m3u8?Contentid=6000000006000220630&livemode=1&stbId=3&channel-id=wasusyt
 #EXTINF:-1 group-title="IHOT爱系列" tvg-logo="https://www.hualigs.cn/image/61bc882f8cb3b.jpg",iHOT爱电竞
-http://39.134.134.85/0000000000001000/1.m3u8?Contentid=6000000006000230630&livemode=1&stbId=3&channel-id=wasusyt
+http://39.134.134.84/0000000000001001/1/1.m3u8?Contentid=6000000006000230630&livemode=1&stbId=3&channel-id=wasusyt
 #EXTINF:-1 group-title="IHOT爱系列" tvg-logo="https://www.hualigs.cn/image/61bc882f8cb3b.jpg",iHOT爱世界
-http://39.134.134.85/0000000000001000/1.m3u8?Contentid=6000000006000210630&livemode=1&stbId=3&channel-id=wasusyt
+http://39.134.134.84/0000000000001001/1/1.m3u8?Contentid=6000000006000210630&livemode=1&stbId=3&channel-id=wasusyt
 #EXTINF:-1 group-title="IHOT爱系列" tvg-logo="https://www.hualigs.cn/image/61bc882f8cb3b.jpg",iHOT爱怀旧
-http://39.134.134.85/0000000000001000/1.m3u8?Contentid=6000000006000260630&livemode=1&stbId=3&channel-id=wasusyt
+http://39.134.134.84/0000000000001001/1/1.m3u8?Contentid=6000000006000260630&livemode=1&stbId=3&channel-id=wasusyt
 #EXTINF:-1 group-title="IHOT爱系列" tvg-logo="https://www.hualigs.cn/image/61bc882f8cb3b.jpg",iHOT爱江湖
-http://39.134.134.85/0000000000001000/1.m3u8?Contentid=6000000006000110630&livemode=1&stbId=3&channel-id=wasusyt
+http://39.134.134.84/0000000000001001/1/1.m3u8?Contentid=6000000006000110630&livemode=1&stbId=3&channel-id=wasusyt
 #EXTINF:-1 group-title="IHOT爱系列" tvg-logo="https://www.hualigs.cn/image/61bc882f8cb3b.jpg",iHOT爱娱乐
-http://39.134.134.85/0000000000001000/1.m3u8?Contentid=6000000006000130630&livemode=1&stbId=3&channel-id=wasusyt
+http://39.134.134.84/0000000000001001/1/1.m3u8?Contentid=6000000006000130630&livemode=1&stbId=3&channel-id=wasusyt
 #EXTINF:-1 group-title="IHOT爱系列" tvg-logo="https://www.hualigs.cn/image/61bc882f8cb3b.jpg",iHOT爱解密
-http://39.134.134.85/0000000000001000/1.m3u8?Contentid=6000000006000200630&livemode=1&stbId=3&channel-id=wasusyt
+http://39.134.134.84/0000000000001001/1/1.m3u8?Contentid=6000000006000200630&livemode=1&stbId=3&channel-id=wasusyt
 #EXTINF:-1 group-title="IHOT爱系列" tvg-logo="https://www.hualigs.cn/image/61bc882f8cb3b.jpg",iHOT爱军武
-http://39.134.134.85/0000000000001000/1.m3u8?Contentid=6000000006000170630&livemode=1&stbId=3&channel-id=wasusyt
+http://39.134.134.84/0000000000001001/1/1.m3u8?Contentid=6000000006000170630&livemode=1&stbId=3&channel-id=wasusyt
 #EXTINF:-1 group-title="IHOT爱系列" tvg-logo="https://www.hualigs.cn/image/61bc882f8cb3b.jpg",iHOT爱幼教
-http://39.134.134.85/0000000000001000/1.m3u8?Contentid=6000000006000180630&livemode=1&stbId=3&channel-id=wasusyt
+http://39.134.134.84/0000000000001001/1/1.m3u8?Contentid=6000000006000180630&livemode=1&stbId=3&channel-id=wasusyt
 #EXTINF:-1 group-title="IHOT爱系列" tvg-logo="https://www.hualigs.cn/image/61bc882f8cb3b.jpg",iHOT爱猎奇
-http://39.134.134.85/0000000000001000/1.m3u8?Contentid=6000000006000190630&livemode=1&stbId=3&channel-id=wasusyt
+http://39.134.134.84/0000000000001001/1/1.m3u8?Contentid=6000000006000190630&livemode=1&stbId=3&channel-id=wasusyt
 
 
 
