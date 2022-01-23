@@ -2377,25 +2377,25 @@ http://idclive.hljtv.com:8080/live/hljwy_hd.m3u8
 http://idclive.hljtv.com:8080/live/hljxw_hd.m3u8
 
 #EXTINF:-1 tvg-id="6001" tvg-name="辽宁都市" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/LNTV2.jpg" group-title="黑吉辽蒙疆藏",辽宁都市
-http://39.135.129.165/hwottcdn.ln.chinamobile.com/PLTV/-/224/3221226760/index.m3u8
+#http://39.135.129.165/hwottcdn.ln.chinamobile.com/PLTV/-/224/3221226760/index.m3u8
 #EXTINF:-1 tvg-id="6005" tvg-name="辽宁公共" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/LNTV7.jpg" group-title="黑吉辽蒙疆藏",辽宁公共
-http://39.135.129.167/hwottcdn.ln.chinamobile.com/PLTV/-/224/3221226766/index.m3u8
+#http://39.135.129.167/hwottcdn.ln.chinamobile.com/PLTV/-/224/3221226766/index.m3u8
 #EXTINF:-1 tvg-id="6005" tvg-name="辽宁公共" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/LNTV7.jpg" group-title="黑吉辽蒙疆藏",辽宁公共
-http://39.135.129.164/PLTV/88888888/224/3221226528/1.m3u8
+#http://39.135.129.164/PLTV/88888888/224/3221226528/1.m3u8
 #EXTINF:-1 tvg-id="6003" tvg-name="辽宁青少" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/LNTV5.jpg" group-title="黑吉辽蒙疆藏",辽宁青少
-http://39.135.129.165/hwottcdn.ln.chinamobile.com/PLTV/-/224/3221226763/index.m3u8
+#http://39.135.129.165/hwottcdn.ln.chinamobile.com/PLTV/-/224/3221226763/index.m3u8
 #EXTINF:-1 tvg-id="6003" tvg-name="辽宁青少" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/LNTV5.jpg" group-title="黑吉辽蒙疆藏",辽宁青少
-http://39.135.129.164/PLTV/88888888/224/3221226473/1.m3u8
+#http://39.135.129.164/PLTV/88888888/224/3221226473/1.m3u8
 #EXTINF:-1 tvg-id="6008" tvg-name="辽宁经济" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/LNTV-FINANCE.jpg" group-title="黑吉辽蒙疆藏",辽宁经济
-http://39.135.129.165/hwottcdn.ln.chinamobile.com/PLTV/-/224/3221226735/index.m3u8
+#http://39.135.129.165/hwottcdn.ln.chinamobile.com/PLTV/-/224/3221226735/index.m3u8
 #EXTINF:-1 tvg-id="6008" tvg-name="辽宁经济" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/LNTV-FINANCE.jpg" group-title="黑吉辽蒙疆藏",辽宁经济
-http://39.135.129.164/PLTV/88888888/224/3221226504/1.m3u8
+#http://39.135.129.164/PLTV/88888888/224/3221226504/1.m3u8
 #EXTINF:-1 tvg-id="6004" tvg-name="辽宁生活" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/LNTV6.jpg" group-title="黑吉辽蒙疆藏",辽宁生活
-http://39.135.129.163/hwottcdn.ln.chinamobile.com/PLTV/-/224/3221226761/index.m3u8
+#http://39.135.129.163/hwottcdn.ln.chinamobile.com/PLTV/-/224/3221226761/index.m3u8
 #EXTINF:-1 tvg-id="6007" tvg-name="辽宁体育" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/LNTV-SPORT.jpg" group-title="黑吉辽蒙疆藏",辽宁体育
-http://39.135.129.165/hwottcdn.ln.chinamobile.com/PLTV/-/224/3221226764/index.m3u8
+#http://39.135.129.165/hwottcdn.ln.chinamobile.com/PLTV/-/224/3221226764/index.m3u8
 #EXTINF:-1 tvg-id="6002" tvg-name="辽宁影视剧" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/LNTV3.jpg" group-title="黑吉辽蒙疆藏",辽宁影视剧
-http://39.135.129.163/hwottcdn.ln.chinamobile.com/PLTV/-/224/3221226738/index.m3u8
+#http://39.135.129.163/hwottcdn.ln.chinamobile.com/PLTV/-/224/3221226738/index.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.hualigs.cn/image/61e171a9890b1.jpg" group-title="黑吉辽蒙疆藏",内蒙古卫视
@@ -3618,11 +3618,14 @@ https://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/master.m3u8
 
 
 #EXTINF:-1 tvg-id="6246" tvg-name="CHC家庭电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg" group-title="影视动画",CHC家庭影院
-http://59.49.41.44/live.aishang.ctlcdn.com/00000110240323_1/playlist.m3u8?CONTENTID=00000110240323_1
+http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
+#http://59.49.41.44/live.aishang.ctlcdn.com/00000110240323_1/playlist.m3u8?CONTENTID=00000110240323_1
 #EXTINF:-1 tvg-id="6241" tvg-name="CHC高清电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg" group-title="影视动画",CHC高清电影
-http://59.49.41.44/live.aishang.ctlcdn.com/00000110240325_1/playlist.m3u8?CONTENTID=00000110240325_1
+http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
+#http://59.49.41.44/live.aishang.ctlcdn.com/00000110240325_1/playlist.m3u8?CONTENTID=00000110240325_1
 #EXTINF:-1 tvg-id="6245" tvg-name="CHC动作电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC1.jpg" group-title="影视动画",CHC动作电影
-http://59.49.41.44/live.aishang.ctlcdn.com/00000110240324_1/playlist.m3u8?CONTENTID=00000110240324_1
+http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
+#http://59.49.41.44/live.aishang.ctlcdn.com/00000110240324_1/playlist.m3u8?CONTENTID=00000110240324_1
 #EXTINF:-1 tvg-id="6601" tvg-name="DOXTV" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/DOXTV.png" group-title="影视动画",DOXTV
 http://stream.slave.jxtvnet.tv:14311/playurl?playtype=live&protocol=http&accesstoken=R609DF27DU30963004K77360366I5D0110ACPBM356F868V0Z57EA5W167ED2234F88A5EE&programid=4200000126&playtoken=ABCDEFGH&auth=no
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视动画",中华美食
