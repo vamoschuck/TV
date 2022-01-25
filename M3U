@@ -50,6 +50,38 @@ http://39.135.140.232:6610/PLTV/88888888/224/3221225745/2/index.m3u8?fmt=ts2hls
 http://124.232.233.15:6610/000000001001/201500000219/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
 #EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="央卫晚会北京冬奥",湖南卫视 高码
 http://124.232.233.15:6610/000000001001/201500000233/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
+#EXTINF:-1  tvg-id="31" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="央卫晚会北京冬奥",东方卫视
+http://223.110.245.146/ott.js.chinamobile.com/TVOD/3/224/3221227511/index.m3u8
+#EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="央卫晚会北京冬奥",东方卫视
+http://39.135.140.232:6610/PLTV/88888888/224/3221225658/2/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="央卫晚会北京冬奥",东方卫视
+http://124.232.233.15:6610/000000001001/201500000069/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
+#EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="央卫晚会北京冬奥",北京卫视
+http://39.134.71.75/ott.js.chinamobile.com/TVOD/3/224/3221227508/index.m3u8
+#EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="央卫晚会北京冬奥",北京卫视
+http://39.135.140.232:6610/PLTV/88888888/224/3221225673/2/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="央卫晚会北京冬奥",北京卫视
+http://124.232.233.15:6610/000000001001/201500000065/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
+#EXTINF:-1  tvg-id="29" tvg-name="江苏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="央卫晚会北京冬奥",江苏卫视
+http://223.110.245.152/ott.js.chinamobile.com/TVOD/3/224/3221227561/index.m3u8
+#EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="央卫晚会北京冬奥",江苏卫视
+http://39.135.140.232:6610/PLTV/88888888/224/3221225743/2/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="央卫晚会北京冬奥",江苏卫视
+http://124.232.233.15:6610/000000001001/201500000070/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
+#EXTINF:-1 tvg-id="39" tvg-name="天津卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/tianjin.png" group-title="央卫晚会北京冬奥",天津卫视
+http://39.135.140.232:6610/PLTV/88888888/224/3221225739/2/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="39" tvg-name="天津卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/tianjin.png" group-title="央卫晚会北京冬奥",天津卫视
+http://124.232.233.15:6610/000000001001/201500000123/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
+#EXTINF:-1 tvg-id="39" tvg-name="天津卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/tianjin.png" group-title="央卫晚会北京冬奥",天津卫视
+http://223.110.242.133:6610/gitv/live1/G_TIANJIN-CQ/G_TIANJIN-CQ/
+#EXTINF:-1 tvg-id="47" tvg-name="河南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/henan.png" group-title="央卫晚会北京冬奥",河南卫视
+http://39.135.140.232:6610/PLTV/88888888/224/3221225611/2/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="47" tvg-name="河南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/henan.png" group-title="央卫晚会北京冬奥",河南卫视
+http://219.150.217.47:6610/PLTV1/580/index.m3u8?vamoschucktv
+#EXTINF:-1 tvg-id="47" tvg-name="河南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/henan.png" group-title="央卫晚会北京冬奥",河南卫视4K
+http://219.150.217.47:6610/PLTV2/2780/index.m3u8?vamoschucktv
+
+
 
 #EXTINF:-1  tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="陕西移动-回看",CCTV1
 http://111.20.33.93/TVOD/88888893/224/3221226231/index.m3u8
