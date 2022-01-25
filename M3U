@@ -1,6 +1,55 @@
-#EXTM3U url-tvg="http://epg.51zmt.top:8000/e.xml,https://epg.112114.xyz/pp.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
+#EXTM3U url-tvg="http://epg.51zmt.top:8000/e.xml,https://epg.112114.xyz/pp.xml,https://i.mjh.nz/au/Sydney/epg.xml.gz,https://i.mjh.nz/au/Perth/epg.xml.gz" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
 
-
+#EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="央卫晚会北京冬奥",CCTV4K
+http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
+#EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="央卫晚会北京冬奥",CCTV4K 回看
+http://39.134.71.75/ott.js.chinamobile.com/TVOD/3/224/3221228228/index.m3u8
+#EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="央卫晚会北京冬奥",CCTV4K 回看
+http://ott.js.chinamobile.com/TVOD/3/224/3221228242/index.m3u8
+#EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="央卫晚会北京冬奥",CCTV4K HDR
+http://223.110.236.8/ott.js.chinamobile.com/PLTV/3/224/3221228242/index.m3u8
+#EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="央卫晚会北京冬奥",CCTV4K UHD HDR
+http://ye23.win/iptv/4k.cctv.php
+#EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="央卫晚会北京冬奥",CCTV4K UHD HDR
+https://p.ggiptv.com/v/4k.m3u8
+#EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="央卫晚会北京冬奥",CCTV16
+http://223.110.242.133:6610/gitv/live1/G_CCTV-16-CQ/G_CCTV-16-CQ
+#EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="央卫晚会北京冬奥",CCTV16 4K
+http://ott.js.chinamobile.com/PLTV/3/224/3221228127/index.m3u8
+#EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="央卫晚会北京冬奥",CCTV16 回看
+http://39.135.138.60:18890/TVOD/88888910/224/3221226230/index.m3u8
+#EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="央卫晚会北京冬奥",CCTV16 回看
+http://39.135.138.60:18890/TVOD/88888910/224/3221226233/index.m3u8
+#EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="央卫晚会北京冬奥",CCTV奥林匹克
+http://39.134.71.75/ott.js.chinamobile.com/TVOD/3/224/3221228127/index.m3u8
+#EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="央卫晚会北京冬奥",CCTV奥林匹克
+http://39.134.71.75/ott.js.chinamobile.com/TVOD/3/224/3221228168/index.m3u8
+#EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="央卫晚会北京冬奥",CCTV奥林匹克 4K 回看
+http://ott.js.chinamobile.com/TVOD/3/224/3221228127/index.m3u8
+#EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="央卫晚会北京冬奥",CCTV奥林匹克 4K 25MB 回看
+http://223.110.235.9/ott.js.chinamobile.com/TVOD/3/224/3221228168/index.m3u8
+#EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="央卫晚会北京冬奥",CCTV奥林匹克 4K 34MB HDR 回看
+http://223.110.235.24/ott.js.chinamobile.com/TVOD/3/224/3221228127/index.m3u8
+#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="央卫晚会北京冬奥",CCTV5
+http://223.110.242.134:6610/gitv/live1/G_CCTV-5-MD/G_CCTV-5-MD/
+#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="央卫晚会北京冬奥",CCTV5+
+http://223.110.242.133:6610/jsyd/live1/G_CCTV-5PLUS-MD/G_CCTV-5PLUS-MD/
+#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="央卫晚会北京冬奥",CCTV5
+http://39.135.140.232:6610/PLTV/88888888/224/3221225633/2/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="央卫晚会北京冬奥",CCTV5+
+http://39.135.140.232:6610/PLTV/88888888/224/3221225649/2/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="央卫晚会北京冬奥",CCTV5+
+http://39.135.140.232:6610/PLTV/88888888/224/3221225706/2/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="央卫晚会北京冬奥",CCTV5
+http://124.232.233.15:6610/000000001001/201500000125/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
+#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="央卫晚会北京冬奥",CCTV5+
+http://124.232.233.15:6610/000000001001/201500000062/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
+#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="央卫晚会北京冬奥",湖南卫视
+http://39.135.140.232:6610/PLTV/88888888/224/3221225745/2/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="央卫晚会北京冬奥",湖南卫视 超高码
+http://124.232.233.15:6610/000000001001/201500000219/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
+#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="央卫晚会北京冬奥",湖南卫视 高码
+http://124.232.233.15:6610/000000001001/201500000233/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
 
 #EXTINF:-1  tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="陕西移动-回看",CCTV1
 http://111.20.33.93/TVOD/88888893/224/3221226231/index.m3u8
@@ -930,6 +979,8 @@ http://223.110.235.9/ott.js.chinamobile.com/TVOD/3/224/3221228168/index.m3u8
 http://223.110.235.24/ott.js.chinamobile.com/TVOD/3/224/3221228127/index.m3u8
 #EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="江苏移动-高码回看",CCTV4K
 http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
+#EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="江苏移动-高码回看",CCTV4K
+http://39.134.71.75/ott.js.chinamobile.com/TVOD/3/224/3221228228/index.m3u8
 #EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="江苏移动-高码回看",CCTV4K HDR
 http://ott.js.chinamobile.com/TVOD/3/224/3221228242/index.m3u8
 #EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="江苏移动-高码回看",CCTV4K HDR
@@ -1594,19 +1645,19 @@ http://60.26.15.147:9901/tsfile/live/0110_1.m3u8
 http://live6.plus.hebtv.com/hbysx/hd/live.m3u8
 #EXTINF:-1 tvg-id="河北经济" tvg-name="河北经济" tvg-logo="https://www.hualigs.cn/image/6159c331c3572.jpg" group-title="京津冀鲁豫",河北经济生活
 https://jwplay.hebyun.com.cn/live/hbjjtv/1500k/tzwj_video.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.hualigs.cn/image/6159c331b01a7.jpg" group-title="京津冀鲁豫",河北农民
+#EXTINF:-1 tvg-id="9999" tvg-name="" tvg-logo="https://www.hualigs.cn/image/6159c331b01a7.jpg" group-title="京津冀鲁豫",河北农民
 https://jwplay.hebyun.com.cn/live/hbnmtv/1500k/tzwj_video.m3u8
 #EXTINF:-1 tvg-id="河北都市" tvg-name="河北都市" tvg-logo="https://www.hualigs.cn/image/6159c3317672b.jpg" group-title="京津冀鲁豫",河北都市
 https://jwplay.hebyun.com.cn/live/hbdstv/1500k/tzwj_video.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.hualigs.cn/image/6159c331c98b9.jpg" group-title="京津冀鲁豫",河北少儿科教
+#EXTINF:-1 tvg-id="9999" tvg-name="" tvg-logo="https://www.hualigs.cn/image/6159c331c98b9.jpg" group-title="京津冀鲁豫",河北少儿科教
 https://jwplay.hebyun.com.cn/live/hbsrtv/1500k/tzwj_video.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.hualigs.cn/image/6159c3319a339.jpg" group-title="京津冀鲁豫",河北公共
+#EXTINF:-1 tvg-id="9999" tvg-name="" tvg-logo="https://www.hualigs.cn/image/6159c3319a339.jpg" group-title="京津冀鲁豫",河北公共
 http://live7.plus.hebtv.com/hbggx/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.hualigs.cn/image/61dfcd87dab1f.jpg" group-title="京津冀鲁豫",河北影视剧
+#EXTINF:-1 tvg-id="9999" tvg-name="" tvg-logo="https://www.hualigs.cn/image/61dfcd87dab1f.jpg" group-title="京津冀鲁豫",河北影视剧
 https://jwplay.hebyun.com.cn/live/hbystv/1500k/tzwj_video.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="京津冀鲁豫",河北收视指南
+#EXTINF:-1 tvg-id="9999" tvg-name="" tvg-logo="" group-title="京津冀鲁豫",河北收视指南
 http://180.97.123.180/1301-txt.otvstream.otvcloud.com/otv/skcc/live/channel13010/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="京津冀鲁豫",河北收视指南
+#EXTINF:-1 tvg-id="9999" tvg-name="" tvg-logo="" group-title="京津冀鲁豫",河北收视指南
 http://180.97.123.180/1301-txt.otvstream.otvcloud.com/otv/skcc/live/channel13010/2300.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.hualigs.cn/image/61e16b19df249.jpg" group-title="京津冀鲁豫",石家庄生活
 http://180.97.123.180/1301-txt.otvstream.otvcloud.com/otv/skcc/live/channel13012/index.m3u8
@@ -2753,6 +2804,131 @@ https://iptv.jmsooo.com/live/dscj/index.m3u8
 #EXTINF:-1 tvg-id="6110" tvg-name="运通财经" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EFTV.png" group-title="卷毛鼠无私推流",运通财经
 https://iptv.jmsooo.com/live/ytcj/index.m3u8
 
+
+#EXTINF:-1 tvg-id="6074" tvg-name="TVBS" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS.png" group-title="1.25新增台湾",TVBS
+http://61.222.202.191/gttv.php?id=15131&cid=15294
+#EXTINF:-1 tvg-id="6073" tvg-name="TVBS新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS新闻.png" group-title="1.25新增台湾",TVBS新闻
+http://61.222.202.191/gttv.php?id=15132&cid=15295
+#EXTINF:-1 tvg-id="6060" tvg-name="TVBS欢乐台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS欢乐.png" group-title="1.25新增台湾",TVBS欢乐
+http://61.222.202.191/gttv.php?id=15133&cid=15296
+#EXTINF:-1 tvg-id="7138" tvg-name="TVBS精采台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS精采.png" group-title="1.25新增台湾",TVBS精采
+http://61.222.202.191/gttv.php?id=15134&cid=15297
+#EXTINF:-1 tvg-id="6069" tvg-name="东森新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCNews.png" group-title="1.25新增台湾",东森新闻
+http://61.222.202.191/gttv.php?id=13635&cid=13787
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="1.25新增台湾",中天全民
+http://61.222.202.191/gttv.php?id=14192&cid=14352
+#EXTINF:-1 tvg-id="6171" tvg-name="寰宇新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GlobalNews.png" group-title="1.25新增台湾",寰宇新闻
+http://61.222.202.191/gttv.php?id=14170&cid=14330
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="1.25新增台湾",寰宇台湾
+http://61.222.202.191/gttv.php?id=14172&cid=14332
+#EXTINF:-1 tvg-id="6108" tvg-name="三立财经新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETInews.png" group-title="1.25新增台湾",三立iNEWS
+http://61.222.202.191/gttv.php?id=11419&cid=11420
+#EXTINF:-1 tvg-id="6071" tvg-name="民视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FTVNews.png" group-title="1.25新增台湾",民视新闻
+http://61.222.202.191/gttv.php?id=13670&cid=13823
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="1.25新增台湾",华视新闻
+http://61.222.202.191/gttv.php?id=13677&cid=13830
+#EXTINF:-1 tvg-id="6076" tvg-name="非凡新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/UniqueNews.png" group-title="1.25新增台湾",非凡新闻
+http://61.222.202.191/gttv.php?id=11327&cid=11345
+#EXTINF:-1 tvg-id="6139" tvg-name="ChannelNewsAsia" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/channelnewsasia.png" group-title="1.25新增台湾",亚洲新闻
+http://61.222.202.191/gttv.php?id=14064&cid=14224
+#EXTINF:-1 tvg-id="7135" tvg-name="民视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/民视.png" group-title="1.25新增台湾",民视
+http://61.222.202.191/gttv.php?id=13669&cid=13822
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="1.25新增台湾",民视戏剧
+http://61.222.202.191/gttv.php?id=13651&cid=13803
+#EXTINF:-1 tvg-id="7145" tvg-name="民视综艺台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ftv-zongyi.png" group-title="1.25新增台湾",民视综艺
+http://61.222.202.191/gttv.php?id=13653&cid=13805
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="1.25新增台湾",民视旅游
+http://61.222.202.191/gttv.php?id=13655&cid=13807
+#EXTINF:-1 tvg-id="6030" tvg-name="华视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CTS.png" group-title="1.25新增台湾",华视
+http://61.222.202.191/gttv.php?id=13676&cid=13829
+#EXTINF:-1 tvg-id="6028" tvg-name="中视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/中视.png" group-title="1.25新增台湾",中视
+http://61.222.202.191/gttv.php?id=13681&cid=13834
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="1.25新增台湾",公视戏剧
+http://61.222.202.191/gttv.php?id=14159&cid=14319
+#EXTINF:-1 tvg-id="7134" tvg-name="民视台湾台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ftv-taiwan.png" group-title="1.25新增台湾",民视台湾
+http://61.222.202.191/gttv.php?id=13671&cid=13824
+#EXTINF:-1 tvg-id="7133" tvg-name="民视第一台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ftv-1.png" group-title="1.25新增台湾",民视第一
+http://61.222.202.191/gttv.php?id=13672&cid=13825
+#EXTINF:-1 tvg-id="6172" tvg-name="亚洲旅游台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/asiatravel.png" group-title="1.25新增台湾",亚洲旅游
+http://61.222.202.191/gttv.php?id=11462&cid=11462
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="1.25新增台湾",中天美食
+http://61.222.202.191/gttv.php?id=14193&cid=14353
+#EXTINF:-1 tvg-id="6054" tvg-name="中天综合台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiVariety.png" group-title="1.25新增台湾",中天综合
+http://61.222.202.191/gttv.php?id=14187&cid=14347
+#EXTINF:-1 tvg-id="6046" tvg-name="八大综合台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GTVVarietyHD.png" group-title="1.25新增台湾",八大综合
+http://61.222.202.191/gttv.php?id=13660&cid=13812
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="1.25新增台湾",八大精彩
+http://61.222.202.191/gttv.php?id=14213&cid=14373
+#EXTINF:-1 tvg-id="7139" tvg-name="爱尔达娱乐台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ELTA_Ent.png" group-title="1.25新增台湾",爱尔达娱乐
+http://61.222.202.191/gttv.php?id=13701&cid=13854
+#EXTINF:-1 tvg-id="6161" tvg-name="韩国娱乐台KMTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/KMTV.png" group-title="1.25新增台湾",韩国娱乐
+http://61.222.202.191/gttv.php?id=13685&cid=13838
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="1.25新增台湾",时尚娱乐
+http://61.222.202.191/gttv.php?id=13687&cid=13840
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="1.25新增台湾",麦卡贝电视
+http://61.222.202.191/gttv.php?id=11423&cid=11422
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="1.25新增台湾",华语戏剧
+http://61.222.202.191/gttv.php?id=11427&cid=11427
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="1.25新增台湾",娱乐综艺
+http://61.222.202.191/gttv.php?id=11430&cid=11429
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="1.25新增台湾",流行音乐
+http://61.222.202.191/gttv.php?id=11431&cid=11430
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="1.25新增台湾",影音综合
+http://61.222.202.191/gttv.php?id=12450&cid=12445
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="1.25新增台湾",古典音乐
+http://61.222.202.191/gttv.php?id=13666&cid=13819
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="1.25新增台湾",幸福居家
+http://61.222.202.191/gttv.php?id=14199&cid=14359
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="1.25新增台湾",亚洲戏剧
+http://61.222.202.191/gttv.php?id=11429&cid=11441
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="1.25新增台湾",西洋电影
+http://61.222.202.191/gttv.php?id=11425&cid=11425
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="1.25新增台湾",亚洲电影
+http://61.222.202.191/gttv.php?id=11426&cid=11426
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="1.25新增台湾",电影原声
+http://61.222.202.191/gttv.php?id=14188&cid=14348
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="1.25新增台湾",欧洲电影
+http://61.222.202.191/gttv.php?id=14399&cid=14562
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="1.25新增台湾",最爱电影
+http://61.222.202.191/gttv.php?id=13624&cid=13776
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="1.25新增台湾",数位电影
+http://61.222.202.191/gttv.php?id=13695&cid=13848
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="1.25新增台湾",数位纪实
+http://61.222.202.191/gttv.php?id=14132&cid=14292
+#EXTINF:-1 tvg-id="7206" tvg-name="CatchPlay电影" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/catchplay.png" group-title="1.25新增台湾",CATCHPLAY电影
+http://61.222.202.191/gttv.php?id=14181&cid=14341
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="1.25新增台湾",时代影像
+http://61.222.202.191/gttv.php?id=13183&cid=13334
+#EXTINF:-1 tvg-id="7128" tvg-name="龙华电影" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/龙华电影.png" group-title="1.25新增台湾",龙华电影
+http://61.222.202.191/gttv.php?id=13187&cid=13339
+#EXTINF:-1 tvg-id="7126" tvg-name="龙华偶像" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/龙华偶像.png" group-title="1.25新增台湾",龙华偶像
+http://61.222.202.191/gttv.php?id=11459&cid=11463
+#EXTINF:-1 tvg-id="7158" tvg-name="龙华日韩台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/龙华日韩.png" group-title="1.25新增台湾",龙华日韩
+http://61.222.202.191/gttv.php?id=11460&cid=11464
+#EXTINF:-1 tvg-id="7127" tvg-name="龙华戏剧" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/龙华戏剧.png" group-title="1.25新增台湾",龙华戏剧
+http://61.222.202.191/gttv.php?id=11461&cid=11465
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="1.25新增台湾",龙华卡通
+http://61.222.202.191/gttv.php?id=13188&cid=13338
+#EXTINF:-1 tvg-id="1981" tvg-name="生活时尚" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shenghuoshishang.png" group-title="1.25新增台湾",生活时尚
+http://61.222.202.191/gttv.php?id=14400&cid=14563
+#EXTINF:-1 tvg-id="6184" tvg-name="Nickelodeon" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/Nickelodeon.png" group-title="1.25新增台湾",尼克儿童
+http://61.222.202.191/gttv.php?id=14081&cid=14241
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="1.25新增台湾",猪哥会社电视秀
+http://61.222.202.191/gttv.php?id=13662&cid=13814
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="1.25新增台湾",金光布袋戏
+http://61.222.202.191/gttv.php?id=14080&cid=14240
+#EXTINF:-1 tvg-id="6042" tvg-name="MOMO亲子台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/MOMOkids.png" group-title="1.25新增台湾",momo亲子
+http://61.222.202.191/gttv.php?id=13661&cid=13813
+#EXTINF:-1 tvg-id="673" tvg-name="CN卡通频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CNCartoon.png" group-title="1.25新增台湾",CN卡通频道
+http://61.222.202.191/gttv.php?id=13645&cid=13797
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="1.25新增台湾",MTV Live
+http://61.222.202.191/gttv.php?id=14166&cid=14326
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="1.25新增台湾",SBL超级篮球
+http://61.222.202.191/gttv.php?id=11450&cid=11453
+#EXTINF:-1 tvg-id="7182" tvg-name="智林体育" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/智林体育台.png" group-title="1.25新增台湾",智林体育
+http://61.222.202.191/gttv.php?id=13706&cid=13859
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="1.25新增台湾",车迷TV
+http://61.222.202.191/gttv.php?id=14190&cid=14350
 
 #EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="港澳台",凤凰资讯
 http://playtv-live.ifeng.com:80/live/06OLEEWQKN4.m3u8
@@ -4375,7 +4551,128 @@ https://www.livedoomovie.com/02_SPORTTV_5_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="亚洲体育频道",1 CH5
 https://www.livedoomovie.com/02_5HD_720p/chunklist.m3u8
 
+#EXTINF:-1 group-title="澳大利亚限IP" tvg-id="tv.101406020623" tvg-logo="https://i.mjh.nz/.images/tv.101406020623.png",10 SHAKE
+https://i.mjh.nz/au/Sydney/tv.101406020623.m3u8
 
+#EXTINF:-1 group-title="澳大利亚限IP" tvg-id="tv.101406020628" tvg-logo="https://i.mjh.nz/.images/tv.101406020628.png",10 Peach
+https://i.mjh.nz/au/Sydney/tv.101406020628.m3u8
+
+#EXTINF:-1 group-title="澳大利亚限IP" tvg-id="tv.101406020627" tvg-logo="https://i.mjh.nz/.images/tv.101406020627.png",10 BOLD
+https://i.mjh.nz/au/Sydney/tv.101406020627.m3u8
+
+#EXTINF:-1 group-title="澳大利亚限IP" tvg-id="tv.101406020625" tvg-logo="https://i.mjh.nz/.images/tv.101406020625.png",10
+https://i.mjh.nz/au/Sydney/tv.101406020625.m3u8
+
+#EXTINF:-1 group-title="澳大利亚限IP" tvg-id="tv.7openshop" tvg-logo="http://i.mjh.nz/.images/tv.7openshop.png",openshop
+https://i.mjh.nz/au/Sydney/tv.7openshop.m3u8
+
+#EXTINF:-1 group-title="澳大利亚限IP" tvg-id="tv.7ausbiz" tvg-logo="http://i.mjh.nz/.images/tv.7ausbiz.png",ausbiz TV
+https://i.mjh.nz/au/Sydney/tv.7ausbiz.m3u8
+
+#EXTINF:-1 group-title="澳大利亚限IP" tvg-id="tv.101305020520" tvg-logo="https://i.mjh.nz/.images/tv.101305020520.png",Seven
+https://i.mjh.nz/au/Sydney/tv.101305020520.m3u8
+
+#EXTINF:-1 group-title="澳大利亚限IP" tvg-id="tv.101305020528" tvg-logo="https://i.mjh.nz/.images/tv.101305020528.png",RACING.COM
+https://i.mjh.nz/au/Sydney/tv.101305020528.m3u8
+
+#EXTINF:-1 group-title="澳大利亚限IP" tvg-id="tv.7pac12" tvg-logo="http://i.mjh.nz/.images/tv.7pac12.png",PAC-12
+https://i.mjh.nz/au/Sydney/tv.7pac12.m3u8
+
+#EXTINF:-1 group-title="澳大利亚限IP" tvg-id="tv.7outdoor" tvg-logo="http://i.mjh.nz/.images/tv.7outdoor.png",Outdoor Channel
+https://i.mjh.nz/au/Sydney/tv.7outdoor.m3u8
+
+#EXTINF:-1 group-title="澳大利亚限IP" tvg-id="tv.7olympics" tvg-logo="http://i.mjh.nz/.images/tv.7olympics.png",Olympics Channel
+https://i.mjh.nz/au/Sydney/tv.7olympics.m3u8
+
+#EXTINF:-1 group-title="澳大利亚限IP" tvg-id="tv.7fueltv" tvg-logo="http://i.mjh.nz/.images/tv.7fueltv.png",Fuel TV
+https://i.mjh.nz/au/Sydney/tv.7fueltv.m3u8
+
+#EXTINF:-1 group-title="澳大利亚限IP" tvg-id="tv.101305020523" tvg-logo="https://i.mjh.nz/.images/tv.101305020523.png",7mate
+https://i.mjh.nz/au/Sydney/tv.101305020523.m3u8
+
+#EXTINF:-1 group-title="澳大利亚限IP" tvg-id="tv.101305020525" tvg-logo="https://i.mjh.nz/.images/tv.101305020525.png",7flix
+https://i.mjh.nz/au/Sydney/tv.101305020525.m3u8
+
+#EXTINF:-1 group-title="澳大利亚限IP" tvg-id="tv.101305020522" tvg-logo="https://i.mjh.nz/.images/tv.101305020522.png",7TWO
+https://i.mjh.nz/au/Sydney/tv.101305020522.m3u8
+
+#EXTINF:-1 group-title="澳大利亚限IP" tvg-id="tv.320203000307" tvg-logo="https://i.mjh.nz/.images/tv.320203000307.png",SBS World Movies
+https://i.mjh.nz/au/Sydney/tv.320203000307.m3u8
+
+#EXTINF:-1 group-title="澳大利亚限IP" tvg-id="tv.320203000303" tvg-logo="https://i.mjh.nz/.images/tv.320203000303.png",SBS VICELAND
+https://i.mjh.nz/au/Sydney/tv.320203000303.m3u8
+
+#EXTINF:-1 group-title="澳大利亚限IP" tvg-id="tv.320203000304" tvg-logo="https://i.mjh.nz/.images/tv.320203000304.png",SBS Food
+https://i.mjh.nz/au/Sydney/tv.320203000304.m3u8
+
+#EXTINF:-1 group-title="澳大利亚限IP" tvg-id="tv.320203000301" tvg-logo="https://i.mjh.nz/.images/tv.320203000301.png",SBS
+https://i.mjh.nz/au/Sydney/tv.320203000301.m3u8
+
+#EXTINF:-1 group-title="澳大利亚限IP" tvg-id="tv.320203000305" tvg-logo="https://i.mjh.nz/.images/tv.320203000305.png",NITV
+https://i.mjh.nz/au/Sydney/tv.320203000305.m3u8
+
+#EXTINF:-1 group-title="澳大利亚限IP" tvg-id="tv.101204200421" tvg-logo="https://i.mjh.nz/.images/tv.101204200421.png",Nine
+https://i.mjh.nz/au/Sydney/tv.101204200421.m3u8
+
+#EXTINF:-1 group-title="澳大利亚限IP" tvg-id="tv.101204200429" tvg-logo="https://i.mjh.nz/.images/tv.101204200429.png",9Rush
+https://i.mjh.nz/au/Sydney/tv.101204200429.m3u8
+
+#EXTINF:-1 group-title="澳大利亚限IP" tvg-id="tv.101204200424" tvg-logo="https://i.mjh.nz/.images/tv.101204200424.png",9Life
+https://i.mjh.nz/au/Sydney/tv.101204200424.m3u8
+
+#EXTINF:-1 group-title="澳大利亚限IP" tvg-id="tv.101204200428" tvg-logo="https://i.mjh.nz/.images/tv.101204200428.png",9Go!
+https://i.mjh.nz/au/Sydney/tv.101204200428.m3u8
+
+#EXTINF:-1 group-title="澳大利亚限IP" tvg-id="tv.101204200427" tvg-logo="https://i.mjh.nz/.images/tv.101204200427.png",9Gem
+https://i.mjh.nz/au/Sydney/tv.101204200427.m3u8
+
+#EXTINF:-1 group-title="澳大利亚限IP" tvg-id="tv.101002210222" tvg-logo="https://i.mjh.nz/.images/tv.abctvplus.png",ABC TV Plus
+https://c.mjh.nz/abc2/
+
+#EXTINF:-1 group-title="澳大利亚限IP" tvg-id="tv.abc_news_90" tvg-logo="https://i.mjh.nz/.images/tv.abc_news_90.png",ABC News in 90 Seconds
+https://i.mjh.nz/au/Sydney/tv.abc_news_90
+
+#EXTINF:-1 group-title="澳大利亚限IP" tvg-id="tv.101002210220" tvg-logo="https://i.mjh.nz/.images/tv.101002210220.png",ABC News
+https://c.mjh.nz/101002210220/
+
+#EXTINF:-1 group-title="澳大利亚限IP" tvg-id="tv.101002210224" tvg-logo="https://i.mjh.nz/.images/tv.101002210224.png",ABC Me
+https://c.mjh.nz/101002210224/
+
+#EXTINF:-1 group-title="澳大利亚限IP" tvg-id="tv.101002210222" tvg-logo="https://i.mjh.nz/.images/tv.abckids2.png",ABC KIDS
+https://c.mjh.nz/101002210222/
+
+#EXTINF:-1 group-title="澳大利亚限IP" tvg-id="tv.101002210221" tvg-logo="https://i.mjh.nz/.images/tv.101002210221.png",ABC
+https://c.mjh.nz/101002210221/
+
+#EXTINF:-1 group-title="澳大利亚限IP" tvg-id="tv.snowy-mountains" tvg-logo="https://i.mjh.nz/.images/tv.snowy-mountains.png",Snowy Mountains Television
+https://c.mjh.nz/snowy-mountains/
+
+#EXTINF:-1 group-title="澳大利亚限IP" tvg-id="tv.skyrtc" tvg-logo="https://i.mjh.nz/.images/tv.skyrtc.png",Sky Racing - Thoroughbred Central
+https://i.mjh.nz/au/Sydney/tv.skyrtc.m3u8
+
+#EXTINF:-1 group-title="澳大利亚限IP" tvg-id="tv.sky2rw" tvg-logo="https://i.mjh.nz/.images/tv.sky2rw.png",Sky Racing 2
+https://i.mjh.nz/au/Sydney/tv.sky2rw.m3u8
+
+#EXTINF:-1 group-title="澳大利亚限IP" tvg-id="tv.sky1rw" tvg-logo="https://i.mjh.nz/.images/tv.sky1rw.png",Sky Racing 1
+https://i.mjh.nz/au/Sydney/tv.sky1rw.m3u8
+
+#EXTINF:-1 group-title="澳大利亚限IP" tvg-id="tv.redbull.tv" tvg-logo="http://i.mjh.nz/.images/tv.redbull.tv.png",Redbull TV
+https://i.mjh.nz/au/Sydney/tv.redbull.tv.m3u8
+
+#EXTINF:-1 group-title="澳大利亚限IP" tvg-id="tv.dove.gospel" tvg-logo="https://i.mjh.nz/.images/tv.dove.gospel.png",DGtv
+https://i.mjh.nz/au/Sydney/tv.dove.gospel.m3u8
+
+#EXTINF:-1 group-title="澳大利亚限IP" tvg-id="tv.cna" tvg-logo="https://i.mjh.nz/.images/tv.cna.png",Channel News Asia (CNA)
+https://i.mjh.nz/au/Sydney/tv.cna.m3u8
+
+#EXTINF:-1 group-title="澳大利亚限IP" tvg-id="tv.bloomberg" tvg-logo="https://i.mjh.nz/.images/tv.bloomberg.png",Bloomberg Australia
+https://i.mjh.nz/au/Sydney/tv.bloomberg.m3u8
+
+#EXTINF:-1 group-title="澳大利亚限IP" tvg-id="tv.46" tvg-logo="http://i.mjh.nz/.images/tv.46.png",Al Jazeera
+https://i.mjh.nz/au/Sydney/tv.46.m3u8
+
+#EXTINF:-1 group-title="澳大利亚限IP" tvg-id="tv.acctv" tvg-logo="http://i.mjh.nz/.images/tv.acctv.png",ACCTV
+https://i.mjh.nz/au/Sydney/tv.acctv.m3u8
 
 #EXTINF:-1 tvg-id="BBCUHDTrial1.uk"  tvg-logo="" group-title="仅限英国IP",BBC UHD Trial 1
 https://a.files.bbci.co.uk/media/live/manifesto/audio_video/webcast/dash/uk/full/ak/uhd_stream_01.mpd
