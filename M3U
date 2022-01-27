@@ -2464,7 +2464,22 @@ https://iptv.jmsooo.com/live/hsxw/index.m3u8
 #EXTINF:-1 tvg-id="6075" tvg-name="东森财经新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCFinancialNews.png" group-title="卷毛鼠无私推流",东森财经
 https://iptv.jmsooo.com/live/dscj/index.m3u8
 
-
+#EXTINF:-1 tvg-id="127" tvg-name="明珠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB明珠台.png" group-title="1.27香港",明珠台
+http://212.95.133.2/tv/js.php?id=6
+#EXTINF:-1 tvg-id="130" tvg-name="无线新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" group-title="1.27香港",无线新闻
+http://212.95.133.2/tv/js.php?id=12
+#EXTINF:-1 tvg-id="408" tvg-name="ViuTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png" group-title="1.27香港",ViUTV
+http://212.95.133.2/tv/js.php?id=15
+#EXTINF:-1 tvg-id="6086" tvg-name="好莱坞电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HMC.png" group-title="1.27香港",好莱坞电影
+http://212.95.133.2/tv/js.php?id=94
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="1.27香港",天映频道
+http://212.95.133.2/tv/js.php?id=106
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="1.27香港",天映经典
+http://212.95.133.2/tv/js.php?id=107
+#EXTINF:-1 tvg-id="6079" tvg-name="卫视电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/StarChineseMovies.png" group-title="1.27香港",卫视电影台
+http://212.95.133.2/tv/js.php?id=109
+#EXTINF:-1 tvg-id="145" tvg-name="美亚高清电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/meiyamovie.png" group-title="1.27香港",美亚电影台
+http://212.95.133.2/tv/js.php?id=110
 
 #EXTINF:-1 tvg-id="6074" tvg-name="TVBS" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS.png" group-title="1.25新增台湾",TVBS
 http://61.222.202.191/gttv.php?id=15131&cid=15294
