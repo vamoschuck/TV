@@ -45,11 +45,11 @@ http://223.110.245.146/ott.js.chinamobile.com/TVOD/3/224/3221227511/index.m3u8
 
 #EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="央卫晚会北京冬奥",东方卫视
 http://124.232.233.15:6610/000000001001/201500000069/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
-#EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="央卫晚会北京冬奥",北京卫视
-http://39.134.71.75/ott.js.chinamobile.com/TVOD/3/224/3221227508/index.m3u8
+
 
 #EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="央卫晚会北京冬奥",北京卫视
 http://124.232.233.15:6610/000000001001/201500000065/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
+
 #EXTINF:-1  tvg-id="29" tvg-name="江苏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="央卫晚会北京冬奥",江苏卫视
 http://223.110.245.152/ott.js.chinamobile.com/TVOD/3/224/3221227561/index.m3u8
 
@@ -2249,6 +2249,75 @@ https://edgesports-sportstribal.amagi.tv/playlist.m3u8
 https://dai.google.com/linear/hls/event/d4zeSI-dTuqizFrByjs3OA/master.m3u8
 
 
+#EXTINF:-1 logo="" group-title="NBA PASS仅直播时有效" ,TNT
+https://d2tj0mi9jdso2q.cloudfront.net:443/hls/TNT/playlist.m3u8
+#EXTINF:-1 logo="" group-title="NBA PASS仅直播时有效" ,ABC
+https://d2tj0mi9jdso2q.cloudfront.net/hls/ABC/playlist.m3u8
+#EXTINF:-1 logo="" group-title="NBA PASS仅直播时有效" ,ESPN
+https://d2tj0mi9jdso2q.cloudfront.net:443/hls/espn/chunks.m3u8
+#EXTINF:-1 logo="" group-title="NBA PASS仅直播时有效" ,NBA TV
+https://d2tj0mi9jdso2q.cloudfront.net/hls/nbatv/chunks.m3u8?SBN
+#EXTINF:-1 logo="" group-title="NBA PASS仅直播时有效" ,公鹿
+https://d2tj0mi9jdso2q.cloudfront.net:443/hls/bucks/chunks.m3u8
+#EXTINF:-1 logo="" group-title="NBA PASS仅直播时有效" ,太阳
+https://d2tj0mi9jdso2q.cloudfront.net:443/hls/suns/chunks.m3u8
+#EXTINF:-1 logo="" group-title="NBA PASS仅直播时有效" ,魔术
+https://d2tj0mi9jdso2q.cloudfront.net:443/hls/magic/chunks.m3u8?SBN
+#EXTINF:-1 logo="" group-title="NBA PASS仅直播时有效" ,黄蜂
+https://d2tj0mi9jdso2q.cloudfront.net:443/hls/hornets/chunks.m3u8?SBN
+#EXTINF:-1 logo="" group-title="NBA PASS仅直播时有效" ,金块
+https://d2tj0mi9jdso2q.cloudfront.net:443/hls/nuggets/chunks.m3u8?SBN
+#EXTINF:-1 logo="" group-title="NBA PASS仅直播时有效" ,独行侠
+https://d2tj0mi9jdso2q.cloudfront.net:443/hls/mavericks/chunks.m3u8
+#EXTINF:-1 logo="" group-title="NBA PASS仅直播时有效" ,骑士
+https://d2tj0mi9jdso2q.cloudfront.net:443/hls/cavaliers/chunks.m3u8
+#EXTINF:-1 logo="" group-title="NBA PASS仅直播时有效" ,篮网
+https://d2tj0mi9jdso2q.cloudfront.net:443/hls/nets/chunks.m3u8
+#EXTINF:-1 logo="" group-title="NBA PASS仅直播时有效" ,公牛
+https://d2tj0mi9jdso2q.cloudfront.net:443/hls/bulls/chunks.m3u8
+#EXTINF:-1 logo="" group-title="NBA PASS仅直播时有效" ,马刺
+https://d2tj0mi9jdso2q.cloudfront.net:443/hls/spurs/chunks.m3u8
+#EXTINF:-1 logo="" group-title="NBA PASS仅直播时有效" ,拓荒者
+https://d2tj0mi9jdso2q.cloudfront.net:443/hls/blazers/chunks.m3u8
+#EXTINF:-1 logo="" group-title="NBA PASS仅直播时有效" ,76人
+https://d2tj0mi9jdso2q.cloudfront.net:443/hls/76ers/chunks.m3u8?SBN
+#EXTINF:-1 logo="" group-title="NBA PASS仅直播时有效" ,鹰队
+https://d2tj0mi9jdso2q.cloudfront.net:443/hls/hawks/chunks.m3u8
+#EXTINF:-1 logo="" group-title="NBA PASS仅直播时有效" ,热火
+https://d2tj0mi9jdso2q.cloudfront.net:443/hls/heat/chunks.m3u8
+#EXTINF:-1 logo="" group-title="NBA PASS仅直播时有效" ,塞尔特人
+https://d2tj0mi9jdso2q.cloudfront.net:443/hls/celtics/chunks.m3u8
+#EXTINF:-1 logo="" group-title="NBA PASS仅直播时有效" ,巫师
+https://d2tj0mi9jdso2q.cloudfront.net:443/hls/wizards/chunks.m3u8
+#EXTINF:-1 logo="" group-title="NBA PASS仅直播时有效" ,速龙
+https://d2tj0mi9jdso2q.cloudfront.net:443/hls/raptors/chunks.m3u8 
+#EXTINF:-1 logo="" group-title="NBA PASS仅直播时有效" ,勇士
+https://d2tj0mi9jdso2q.cloudfront.net:443/hls/warriors/chunks.m3u8
+#EXTINF:-1 logo="" group-title="NBA PASS仅直播时有效" ,尼克斯
+https://d2tj0mi9jdso2q.cloudfront.net:443/hls/knicks/chunks.m3u8
+#EXTINF:-1 logo="" group-title="NBA PASS仅直播时有效" ,遛马
+https://d2tj0mi9jdso2q.cloudfront.net:443/hls/pacers/chunks.m3u8
+#EXTINF:-1 logo="" group-title="NBA PASS仅直播时有效" ,活塞
+https://d2tj0mi9jdso2q.cloudfront.net:443/hls/pistons/chunks.m3u8 
+#EXTINF:-1 logo="" group-title="NBA PASS仅直播时有效" ,灰熊
+https://d2tj0mi9jdso2q.cloudfront.net:443/hls/grizzlies/chunks.m3u8
+#EXTINF:-1 logo="" group-title="NBA PASS仅直播时有效" ,爵士
+https://d2tj0mi9jdso2q.cloudfront.net:443/hls/jazz/chunks.m3u8
+#EXTINF:-1 logo="" group-title="NBA PASS仅直播时有效" ,木狼
+https://d2tj0mi9jdso2q.cloudfront.net:443/hls/timberwolves/chunks.m3u8
+#EXTINF:-1 logo="" group-title="NBA PASS仅直播时有效" ,快艇
+https://d2tj0mi9jdso2q.cloudfront.net:443/hls/clippers/chunks.m3u8
+#EXTINF:-1 logo="" group-title="NBA PASS仅直播时有效" ,湖人
+https://d2tj0mi9jdso2q.cloudfront.net:443/hls/lakers/chunks.m3u8
+#EXTINF:-1 logo="" group-title="NBA PASS仅直播时有效" ,鹈鹕
+https://d2tj0mi9jdso2q.cloudfront.net:443/hls/pelicans/chunks.m3u8
+#EXTINF:-1 logo="" group-title="NBA PASS仅直播时有效" ,雷霆
+https://d2tj0mi9jdso2q.cloudfront.net:443/hls/thunder/chunks.m3u8
+#EXTINF:-1 logo="" group-title="NBA PASS仅直播时有效" ,国王
+https://d2tj0mi9jdso2q.cloudfront.net:443/hls/kings/chunks.m3u8
+#EXTINF:-1 logo="" group-title="NBA PASS仅直播时有效" ,火箭
+https://d2tj0mi9jdso2q.cloudfront.net:443/hls/rockets/chunks.m3u8
+
 #EXTINF:-1 group-title="赛事直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",咪咕视频 西甲-1
 http://39.134.66.66/PLTV/88888888/224/3221225620/index.m3u8
 #EXTINF:-1 group-title="赛事直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",咪咕视频
@@ -2257,10 +2326,6 @@ http://39.134.66.66/PLTV/88888888/224/3221225613/index.m3u8
 http://39.134.66.66/PLTV/88888888/224/3221225617/index.m3u8
 #EXTINF:-1 group-title="赛事直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",咪咕视频 NBA
 http://39.134.66.66/PLTV/88888888/224/3221225619/index.m3u8
-
-
-
-
 #EXTINF:-1 group-title="赛事直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",广西咪咕—法甲-1
 http://39.135.46.246:6610/PLTV/77777777/224/3221225786/index.m3u8?vamoschucktv
 #EXTINF:-1 group-title="赛事直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",广西咪咕—西甲-1
@@ -2421,22 +2486,7 @@ https://iptv.jmsooo.com/live/hsxw/index.m3u8
 #EXTINF:-1 tvg-id="6075" tvg-name="东森财经新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCFinancialNews.png" group-title="卷毛鼠无私推流",东森财经
 https://iptv.jmsooo.com/live/dscj/index.m3u8
 
-#EXTINF:-1 tvg-id="127" tvg-name="明珠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB明珠台.png" group-title="1.27香港",明珠台
-http://212.95.133.2/tv/js.php?id=6
-#EXTINF:-1 tvg-id="130" tvg-name="无线新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" group-title="1.27香港",无线新闻
-http://212.95.133.2/tv/js.php?id=12
-#EXTINF:-1 tvg-id="408" tvg-name="ViuTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png" group-title="1.27香港",ViUTV
-http://212.95.133.2/tv/js.php?id=15
-#EXTINF:-1 tvg-id="6086" tvg-name="好莱坞电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HMC.png" group-title="1.27香港",好莱坞电影
-http://212.95.133.2/tv/js.php?id=94
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="1.27香港",天映频道
-http://212.95.133.2/tv/js.php?id=106
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="1.27香港",天映经典
-http://212.95.133.2/tv/js.php?id=107
-#EXTINF:-1 tvg-id="6079" tvg-name="卫视电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/StarChineseMovies.png" group-title="1.27香港",卫视电影台
-http://212.95.133.2/tv/js.php?id=109
-#EXTINF:-1 tvg-id="145" tvg-name="美亚高清电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/meiyamovie.png" group-title="1.27香港",美亚电影台
-http://212.95.133.2/tv/js.php?id=110
+
 
 #EXTINF:-1 tvg-id="6074" tvg-name="TVBS" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS.png" group-title="1.25新增台湾",TVBS
 http://61.222.202.191/gttv.php?id=15131&cid=15294
@@ -3983,126 +4033,110 @@ https://www.livedoomovie.com/02_5HD_720p/chunklist.m3u8
 
 #EXTINF:-1 group-title="澳大利亚限IP" tvg-id="tv.101406020623" tvg-logo="https://i.mjh.nz/.images/tv.101406020623.png",10 SHAKE
 https://i.mjh.nz/au/Sydney/tv.101406020623.m3u8
-
 #EXTINF:-1 group-title="澳大利亚限IP" tvg-id="tv.101406020628" tvg-logo="https://i.mjh.nz/.images/tv.101406020628.png",10 Peach
 https://i.mjh.nz/au/Sydney/tv.101406020628.m3u8
-
 #EXTINF:-1 group-title="澳大利亚限IP" tvg-id="tv.101406020627" tvg-logo="https://i.mjh.nz/.images/tv.101406020627.png",10 BOLD
 https://i.mjh.nz/au/Sydney/tv.101406020627.m3u8
-
 #EXTINF:-1 group-title="澳大利亚限IP" tvg-id="tv.101406020625" tvg-logo="https://i.mjh.nz/.images/tv.101406020625.png",10
 https://i.mjh.nz/au/Sydney/tv.101406020625.m3u8
-
 #EXTINF:-1 group-title="澳大利亚限IP" tvg-id="tv.7openshop" tvg-logo="http://i.mjh.nz/.images/tv.7openshop.png",openshop
 https://i.mjh.nz/au/Sydney/tv.7openshop.m3u8
-
 #EXTINF:-1 group-title="澳大利亚限IP" tvg-id="tv.7ausbiz" tvg-logo="http://i.mjh.nz/.images/tv.7ausbiz.png",ausbiz TV
 https://i.mjh.nz/au/Sydney/tv.7ausbiz.m3u8
-
 #EXTINF:-1 group-title="澳大利亚限IP" tvg-id="tv.101305020520" tvg-logo="https://i.mjh.nz/.images/tv.101305020520.png",Seven
 https://i.mjh.nz/au/Sydney/tv.101305020520.m3u8
-
 #EXTINF:-1 group-title="澳大利亚限IP" tvg-id="tv.101305020528" tvg-logo="https://i.mjh.nz/.images/tv.101305020528.png",RACING.COM
 https://i.mjh.nz/au/Sydney/tv.101305020528.m3u8
-
 #EXTINF:-1 group-title="澳大利亚限IP" tvg-id="tv.7pac12" tvg-logo="http://i.mjh.nz/.images/tv.7pac12.png",PAC-12
 https://i.mjh.nz/au/Sydney/tv.7pac12.m3u8
-
 #EXTINF:-1 group-title="澳大利亚限IP" tvg-id="tv.7outdoor" tvg-logo="http://i.mjh.nz/.images/tv.7outdoor.png",Outdoor Channel
 https://i.mjh.nz/au/Sydney/tv.7outdoor.m3u8
-
 #EXTINF:-1 group-title="澳大利亚限IP" tvg-id="tv.7olympics" tvg-logo="http://i.mjh.nz/.images/tv.7olympics.png",Olympics Channel
 https://i.mjh.nz/au/Sydney/tv.7olympics.m3u8
-
 #EXTINF:-1 group-title="澳大利亚限IP" tvg-id="tv.7fueltv" tvg-logo="http://i.mjh.nz/.images/tv.7fueltv.png",Fuel TV
 https://i.mjh.nz/au/Sydney/tv.7fueltv.m3u8
-
 #EXTINF:-1 group-title="澳大利亚限IP" tvg-id="tv.101305020523" tvg-logo="https://i.mjh.nz/.images/tv.101305020523.png",7mate
 https://i.mjh.nz/au/Sydney/tv.101305020523.m3u8
-
 #EXTINF:-1 group-title="澳大利亚限IP" tvg-id="tv.101305020525" tvg-logo="https://i.mjh.nz/.images/tv.101305020525.png",7flix
 https://i.mjh.nz/au/Sydney/tv.101305020525.m3u8
-
 #EXTINF:-1 group-title="澳大利亚限IP" tvg-id="tv.101305020522" tvg-logo="https://i.mjh.nz/.images/tv.101305020522.png",7TWO
 https://i.mjh.nz/au/Sydney/tv.101305020522.m3u8
-
 #EXTINF:-1 group-title="澳大利亚限IP" tvg-id="tv.320203000307" tvg-logo="https://i.mjh.nz/.images/tv.320203000307.png",SBS World Movies
 https://i.mjh.nz/au/Sydney/tv.320203000307.m3u8
-
 #EXTINF:-1 group-title="澳大利亚限IP" tvg-id="tv.320203000303" tvg-logo="https://i.mjh.nz/.images/tv.320203000303.png",SBS VICELAND
 https://i.mjh.nz/au/Sydney/tv.320203000303.m3u8
-
 #EXTINF:-1 group-title="澳大利亚限IP" tvg-id="tv.320203000304" tvg-logo="https://i.mjh.nz/.images/tv.320203000304.png",SBS Food
 https://i.mjh.nz/au/Sydney/tv.320203000304.m3u8
-
 #EXTINF:-1 group-title="澳大利亚限IP" tvg-id="tv.320203000301" tvg-logo="https://i.mjh.nz/.images/tv.320203000301.png",SBS
 https://i.mjh.nz/au/Sydney/tv.320203000301.m3u8
-
 #EXTINF:-1 group-title="澳大利亚限IP" tvg-id="tv.320203000305" tvg-logo="https://i.mjh.nz/.images/tv.320203000305.png",NITV
 https://i.mjh.nz/au/Sydney/tv.320203000305.m3u8
-
 #EXTINF:-1 group-title="澳大利亚限IP" tvg-id="tv.101204200421" tvg-logo="https://i.mjh.nz/.images/tv.101204200421.png",Nine
 https://i.mjh.nz/au/Sydney/tv.101204200421.m3u8
-
 #EXTINF:-1 group-title="澳大利亚限IP" tvg-id="tv.101204200429" tvg-logo="https://i.mjh.nz/.images/tv.101204200429.png",9Rush
 https://i.mjh.nz/au/Sydney/tv.101204200429.m3u8
-
 #EXTINF:-1 group-title="澳大利亚限IP" tvg-id="tv.101204200424" tvg-logo="https://i.mjh.nz/.images/tv.101204200424.png",9Life
 https://i.mjh.nz/au/Sydney/tv.101204200424.m3u8
-
 #EXTINF:-1 group-title="澳大利亚限IP" tvg-id="tv.101204200428" tvg-logo="https://i.mjh.nz/.images/tv.101204200428.png",9Go!
 https://i.mjh.nz/au/Sydney/tv.101204200428.m3u8
-
 #EXTINF:-1 group-title="澳大利亚限IP" tvg-id="tv.101204200427" tvg-logo="https://i.mjh.nz/.images/tv.101204200427.png",9Gem
 https://i.mjh.nz/au/Sydney/tv.101204200427.m3u8
-
 #EXTINF:-1 group-title="澳大利亚限IP" tvg-id="tv.101002210222" tvg-logo="https://i.mjh.nz/.images/tv.abctvplus.png",ABC TV Plus
 https://c.mjh.nz/abc2/
-
 #EXTINF:-1 group-title="澳大利亚限IP" tvg-id="tv.abc_news_90" tvg-logo="https://i.mjh.nz/.images/tv.abc_news_90.png",ABC News in 90 Seconds
 https://i.mjh.nz/au/Sydney/tv.abc_news_90
-
 #EXTINF:-1 group-title="澳大利亚限IP" tvg-id="tv.101002210220" tvg-logo="https://i.mjh.nz/.images/tv.101002210220.png",ABC News
 https://c.mjh.nz/101002210220/
-
 #EXTINF:-1 group-title="澳大利亚限IP" tvg-id="tv.101002210224" tvg-logo="https://i.mjh.nz/.images/tv.101002210224.png",ABC Me
 https://c.mjh.nz/101002210224/
-
 #EXTINF:-1 group-title="澳大利亚限IP" tvg-id="tv.101002210222" tvg-logo="https://i.mjh.nz/.images/tv.abckids2.png",ABC KIDS
 https://c.mjh.nz/101002210222/
-
 #EXTINF:-1 group-title="澳大利亚限IP" tvg-id="tv.101002210221" tvg-logo="https://i.mjh.nz/.images/tv.101002210221.png",ABC
 https://c.mjh.nz/101002210221/
-
 #EXTINF:-1 group-title="澳大利亚限IP" tvg-id="tv.snowy-mountains" tvg-logo="https://i.mjh.nz/.images/tv.snowy-mountains.png",Snowy Mountains Television
 https://c.mjh.nz/snowy-mountains/
-
 #EXTINF:-1 group-title="澳大利亚限IP" tvg-id="tv.skyrtc" tvg-logo="https://i.mjh.nz/.images/tv.skyrtc.png",Sky Racing - Thoroughbred Central
 https://i.mjh.nz/au/Sydney/tv.skyrtc.m3u8
-
 #EXTINF:-1 group-title="澳大利亚限IP" tvg-id="tv.sky2rw" tvg-logo="https://i.mjh.nz/.images/tv.sky2rw.png",Sky Racing 2
 https://i.mjh.nz/au/Sydney/tv.sky2rw.m3u8
-
 #EXTINF:-1 group-title="澳大利亚限IP" tvg-id="tv.sky1rw" tvg-logo="https://i.mjh.nz/.images/tv.sky1rw.png",Sky Racing 1
 https://i.mjh.nz/au/Sydney/tv.sky1rw.m3u8
-
 #EXTINF:-1 group-title="澳大利亚限IP" tvg-id="tv.redbull.tv" tvg-logo="http://i.mjh.nz/.images/tv.redbull.tv.png",Redbull TV
 https://i.mjh.nz/au/Sydney/tv.redbull.tv.m3u8
-
 #EXTINF:-1 group-title="澳大利亚限IP" tvg-id="tv.dove.gospel" tvg-logo="https://i.mjh.nz/.images/tv.dove.gospel.png",DGtv
 https://i.mjh.nz/au/Sydney/tv.dove.gospel.m3u8
-
 #EXTINF:-1 group-title="澳大利亚限IP" tvg-id="tv.cna" tvg-logo="https://i.mjh.nz/.images/tv.cna.png",Channel News Asia (CNA)
 https://i.mjh.nz/au/Sydney/tv.cna.m3u8
-
 #EXTINF:-1 group-title="澳大利亚限IP" tvg-id="tv.bloomberg" tvg-logo="https://i.mjh.nz/.images/tv.bloomberg.png",Bloomberg Australia
 https://i.mjh.nz/au/Sydney/tv.bloomberg.m3u8
-
 #EXTINF:-1 group-title="澳大利亚限IP" tvg-id="tv.46" tvg-logo="http://i.mjh.nz/.images/tv.46.png",Al Jazeera
 https://i.mjh.nz/au/Sydney/tv.46.m3u8
-
 #EXTINF:-1 group-title="澳大利亚限IP" tvg-id="tv.acctv" tvg-logo="http://i.mjh.nz/.images/tv.acctv.png",ACCTV
 https://i.mjh.nz/au/Sydney/tv.acctv.m3u8
+
+
+#EXTINF:-1 tvg-id="7143" tvg-name="BabyFirst" tvg-logo="https://www.hualigs.cn/image/61f41662b9785.jpg" group-title="英语儿童频道",BabyFirst USA
+https://babyfirst.akamaized.net/hls/live/2028842/bftvusaott/playlist.m3u8
+#EXTINF:-1 tvg-id="7143" tvg-name="BabyFirst" tvg-logo="https://www.hualigs.cn/image/61f41662b9785.jpg" group-title="英语儿童频道",BabyFirst Viet Nam
+https://vips-livecdn.fptplay.net/hda1/babyfirst_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="7143" tvg-name="BabyFirst" tvg-logo="https://www.hualigs.cn/image/61f41662b9785.jpg" group-title="英语儿童频道",BabyFirst Viet Nam
+https://livecdn.fptplay.net/hda1/babyfirst_hls.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="PBSKidsEST.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/ambc9le.png" group-title="英语儿童频道",PBS Kids Eastern/Central
+https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
+#EXTINF:-1 tvg-id="PBSKidsMST.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/ambc9le.png" group-title="英语儿童频道",PBS Kids Mountain
+https://livestream.pbskids.org/out/v1/00a3b9014fa54c40bee6ca68a104a8a4/mst.m3u8
+#EXTINF:-1 tvg-id="PBSKidsEST.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/ambc9le.png" group-title="英语儿童频道",PBS Kids Eastern/Central
+https://livestream.pbskids.org/out/v1/1e3d77b418ad4a819b3f4c80ac0373b5/est.m3u8
+#EXTINF:-1 tvg-id="PBSKidsHAST.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/ambc9le.png" group-title="英语儿童频道",PBS Kids Hawaii
+https://livestream.pbskids.org/out/v1/19d1d62bf61b4aea9ec20f83b6450a4e/hast.m3u8
+#EXTINF:-1 tvg-id="PBSKidsPST.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/ambc9le.png" group-title="英语儿童频道",PBS Kids Pacific
+https://livestream.pbskids.org/out/v1/c707b9310f2848de849b336f9914adbc/pst.m3u8
+#EXTINF:-1 tvg-id="PBSKidsAKST.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/ambc9le.png" group-title="英语儿童频道",PBS Kids Alaska
+https://livestream.pbskids.org/out/v1/2963202df0c142c69b5254a546473308/akst.m3u8
+#EXTINF:-1 group-title="英语儿童频道" tvg-id="NASA TV Public" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/NASA.png",NASA TV Public
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
+#EXTINF:-1 group-title="英语儿童频道" tvg-id="NASA TV Media" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/NASA.png",NASA TV Media
+https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
 
 #EXTINF:-1 tvg-id="BBCUHDTrial1.uk"  tvg-logo="" group-title="仅限英国IP",BBC UHD Trial 1
 https://a.files.bbci.co.uk/media/live/manifesto/audio_video/webcast/dash/uk/full/ak/uhd_stream_01.mpd
