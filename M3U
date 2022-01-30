@@ -4190,6 +4190,441 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60fb028c2e6a0c00075275
 #EXTINF:-1 channel-id="pluto-60fb040d4795a6000762fe8f" tvg-id="60fb040d4795a6000762fe8f" tvg-chno="1002" tvg-logo="https://images.pluto.tv/channels/60fb040d4795a6000762fe8f/colorLogoPNG.png" group-title="英语儿童频道",Kartoon Channel!
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60fb040d4795a6000762fe8f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
+#EXTINF:-1 group-title="海外体育-随缘",BEIN SPORT AR 1
+http://93.152.174.144:4000/play/bein1ar/index.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="海外体育-随缘",MOVISTAR LALIGA
+http://qqtv.nl:8080/live/norma/12345/87460.m3u8
+#EXTINF:-1 group-title="海外体育-随缘",MOVISTAR LALIGA
+http://qqtv.nl:8080/live/norma/12345/31019.m3u8
+#EXTINF:-1 group-title="海外体育-随缘",LALIGA televisión BAR
+http://qqtv.nl:8080/live/norma/12345/88295.m3u8
+#EXTINF:-1 group-title="海外体育-随缘",BEIN SPORT 1 TRUE VISIONS
+https://smart-tv.livedoomovie.com:4431/02_sport2_480p/chunklist.m3u8
+#EXTINF:-1 group-title="海外体育-随缘",BEIN SPORT 1 TRUE VISIONS
+https://www.livedoomovie.com/02_epl1_720p/chunklist.m3u8
+#EXTINF:-1 group-title="海外体育-随缘",ESPN 1
+http://qqtv.nl:8080/live/norma/12345/20269.m3u8
+#EXTINF:-1 group-title="海外体育-随缘",ESPN 2
+http://qqtv.nl:8080/live/norma/12345/20268.m3u8
+#EXTINF:-1 group-title="海外体育-随缘",ESPN 3
+http://qqtv.nl:8080/live/norma/12345/20267.m3u8
+#EXTINF:-1 group-title="海外体育-随缘",ESPN +
+http://qqtv.nl:8080/live/norma/12345/20062.m3u8
+#EXTINF:-1 group-title="海外体育-随缘",GEO SUPER
+http://221.120.204.4/geo-super-LOCKLE/index.m3u8
+#EXTINF:-1 group-title="海外体育-随缘",BEIN SPORT 1 LIVE AR
+http://93.152.174.144:4000/play/bein1ar/index.m3u8
+#EXTINF:-1 group-title="海外体育-随缘",BEIN SPORT 1 PREMIUM
+http://130.193.166.18/cache/Bein-Prem-1-HEVC/master.m3u8
+#EXTINF:-1 group-title="海外体育-随缘",DIRECTV SPORT 1
+http://user.tvcluboficial.com/stream/nov/nov/259.m3u8
+#EXTINF:-1 group-title="海外体育-随缘",DIRECTV SPORT 1
+http://qqtv.nl:8080/live/norma/12345/20106.m3u8
+#EXTINF:-1 group-title="海外体育-随缘",DIRECTV SPORT 2
+http://user.tvcluboficial.com/stream/nov/nov/667.m3u8
+#EXTINF:-1 group-title="海外体育-随缘",DIRECTV SPORT 2
+http://qqtv.nl:8080/live/norma/12345/20311.m3u8
+#EXTINF:-1 group-title="海外体育-随缘",DIRECTV SPORT +
+http://qqtv.nl:8080/live/norma/12345/20261.m3u8
+#EXTINF:-1 group-title="海外体育-随缘",BEIN SPORT 3 LIVE AR
+http://93.152.174.144:4000/play/bein3ar/index.m3u8
+#EXTINF:-1 group-title="海外体育-随缘",BEIN SPORT 3 LIVE AR
+http://93.152.174.144:4000/play/bein3ar/index.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="海外体育-随缘",BEIN SPORT 1 live TRUE VISIONS
+https://smart-tv.livedoomovie.com:4431/02_epl1_720p/chunklist.m3u8
+#EXTINF:-1 group-title="海外体育-随缘",BEIN SPORT 2 PREMIUM
+http://130.193.166.18/cache/Bein-Prem-2-HEVC/master.m3u8
+#EXTINF:-1 group-title="海外体育-随缘",BEIN SPORT 3 PREMIUM
+http://130.193.166.18/cache/Bein-Prem-3-HEVC/master.m3u8
+#EXTINF:-1 group-title="海外体育-随缘",MOVISTAR LALIGA
+http://93.152.174.144:4000/play/beinlaliga/index.m3u8
+#EXTINF:-1 group-title="海外体育-随缘",MULTIDEPORTE
+http://qqtv.nl:8080/live/norma/12345/31020.m3u8
+#EXTINF:-1 group-title="海外体育-随缘",MOVISTAR LIGA CAMPEONES
+http://qqtv.nl:8080/live/norma/12345/275184.m3u8
+#EXTINF:-1 group-title="海外体育-随缘",MOVISTAR LIGA CAMPEONES
+http://user.tvcluboficial.com/stream/nov/nov/367.m3u8
+#EXTINF:-1 group-title="海外体育-随缘",beIN Sports 1 French
+http://iv3ueltu.rostelekom.xyz/iptv/MZ47TTFQ25YSZY/2499/index.m3u8
+#EXTINF:-1 group-title="海外体育-随缘",beIN Sports 2 French
+http://iv3ueltu.rostelekom.xyz/iptv/MZ47TTFQ25YSZY/2500/index.m3u8
+#EXTINF:-1 group-title="海外体育-随缘",beIN Sports 3 French
+http://iv3ueltu.rostelekom.xyz/iptv/MZ47TTFQ25YSZY/2501/index.m3u8
+#EXTINF:-1 group-title="海外体育-随缘",BEINSPORT Ñ
+http://qqtv.nl:8080/live/norma/12345/88420.m3u8
+#EXTINF:-1 group-title="海外体育-随缘",BEINSPORT LALIGA USA
+http://qqtv.nl:8080/live/norma/12345/87458.m3u8
+#EXTINF:-1 group-title="海外体育-随缘",SETANTA SPORT
+https://bal.varcdn1.ru/lb/setanta1/index.m3u8
+#EXTINF:-1 group-title="海外体育-随缘",SETANTA SPORT HD
+https://chostv.mobie.in/choos/sports/stantahd.m3u8
+#EXTINF:-1 group-title="海外体育-随缘",QAZ SPORT
+http://92.46.127.146:8080/qazsport/index.m3u8
+#EXTINF:-1 group-title="海外体育-随缘",M.OYTGON 1HD
+http://193.33.88.172/football1_hd/index.m3u8
+#EXTINF:-1 group-title="海外体育-随缘",M.OYTGON 2HD
+http://193.33.88.172/football2_hd/index.m3u8
+#EXTINF:-1 group-title="海外体育-随缘",M.OYTGON 3HD
+http://193.33.88.172/football3_hd/index.m3u8
+#EXTINF:-1 group-title="海外体育-随缘",MATH SPORT
+https://bal.varcdn1.ru/lb/match/index.m3u8?per
+#EXTINF:-1 group-title="海外体育-随缘",ARENA SPORT 2
+http://84.22.33.214/ArenaSport2/mono.m3u8?per
+#EXTINF:-1 group-title="海外体育-随缘",BT SPORT HD 1
+http://iv3ueltu.rostelekom.xyz/iptv/MZ47TTFQ25YSZY/2505/index.m3u8
+#EXTINF:-1 group-title="海外体育-随缘",BT SPORT HD 1
+http://93.152.174.144:4000/play/btsport1/index.m3u8
+#EXTINF:-1 group-title="海外体育-随缘",BT SPORT HD 2
+http://iv3ueltu.rostelekom.xyz/iptv/MZ47TTFQ25YSZY/2506/index.m3u8
+#EXTINF:-1 group-title="海外体育-随缘",BT SPORT HD 2
+http://93.152.174.144:4000/play/btsport2/index.m3u8
+#EXTINF:-1 group-title="海外体育-随缘",BT SPORT 1
+https://smart-tv.livedoomovie.com:4431/02_BTSPORTHD_1_720p/chunklist.m3u8
+#EXTINF:-1 group-title="海外体育-随缘",BT SPORT 2
+https://smart-tv.livedoomovie.com:4431/02_BTSPORTHD_2_720p/chunklist.m3u8
+#EXTINF:-1 group-title="海外体育-随缘",SPORTTV 1
+https://smart-tv.livedoomovie.com:4431/02_SPORTTV_1_720p/chunklist.m3u8
+#EXTINF:-1 group-title="海外体育-随缘",SPORTTV 2
+https://smart-tv.livedoomovie.com:4431/02_SPORTTV_2_720p/chunklist.m3u8
+#EXTINF:-1 group-title="海外体育-随缘",SPORTTV 3
+https://smart-tv.livedoomovie.com:4431/02_SPORTTV_3_720p/chunklist.m3u8
+#EXTINF:-1 group-title="海外体育-随缘",SPORTTV 4
+https://smart-tv.livedoomovie.com:4431/02_SPORTTV_4_720p/chunklist.m3u8
+#EXTINF:-1 group-title="海外体育-随缘",SPORTTV 5
+https://smart-tv.livedoomovie.com:4431/02_SPORTTV_5_720p/chunklist.m3u8
+#EXTINF:-1 group-title="海外体育-随缘",BEIN SPORT EXTRA
+https://siloh.pluto.tv/lilo/production/bein/1/master.m3u8
+#EXTINF:-1 group-title="海外体育-随缘",BEIN SPORT EXTRA Ñ
+https://siloh.pluto.tv/lilo/production/BEIN/ES/master.m3u8
+#EXTINF:-1 group-title="海外体育-随缘",BEIN SPORT EXTRA Ñ
+http://user.tvcluboficial.com/stream/nov/nov/753.m3u8
+#EXTINF:-1 group-title="海外体育-随缘",BEINS SPORT Ñ
+http://user.tvcluboficial.com/stream/nov/nov/761.m3u8
+#EXTINF:-1 group-title="海外体育-随缘",LOOK SPORTS HD
+https://stream1.1616.ro:1945/look/livestream/playlist.m3u8?wowzatokenhash=NqSD4qaHc94SbTW05NBB-lXC78ZiAOIbnbUBOHj1DAM=&checkedby:iptvcat.com
+#EXTINF:-1 group-title="海外体育-随缘",LOOK SPORTS +
+https://stream1.1616.ro:1945/lookplus/livestream/chunklist.m3u8?tla
+#EXTINF:-1 group-title="海外体育-随缘",LOOK SPORTS +
+https://stream1.1616.ro:1945/lookplus/livestream/chunklist.m3u8
+#EXTINF:-1 group-title="海外体育-随缘",LOOK SPORTS 2
+https://stream1.1616.ro:1945/looksport2/livestream/chunklist_w1538106197.m3u8
+#EXTINF:-1 group-title="海外体育-随缘",LOOK SPORTS 2
+https://stream1.1616.ro:1945/looksport2/livestream/playlist.m3u8
+#EXTINF:-1 group-title="海外体育-随缘",LOOK SPORTS 3
+https://stream1.1616.ro:1945/looksport3/livestream/chunklist_w64015557.m3u8
+#EXTINF:-1 group-title="海外体育-随缘",LOOK SPORTS 3
+https://stream1.1616.ro:1945/looksport3/livestream/playlist.m3u8
+#EXTINF:-1 group-title="海外体育-随缘",SSC1
+https://ssc-5-ak.akamaized.net:443/out/v1/6ae0a2ebab224c72ab9c298afeec8d91/index_3.m3u8
+#EXTINF:-1 group-title="海外体育-随缘",ELEVEN SPORT 1
+https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
+#EXTINF:-1 group-title="海外体育-随缘",ELEVEN SPORT 2
+https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
+#EXTINF:-1 group-title="海外体育-随缘",FOX SPORTS 1
+http://user.tvcluboficial.com/stream/nov/nov/493.m3u8
+#EXTINF:-1 group-title="海外体育-随缘",Футбол 1
+https://chostv.mobie.in/choos/sports/matchqy1.m3u8
+#EXTINF:-1 group-title="海外体育-随缘",МАТЧ! ФУТБОЛ 2
+https://chostv.mobie.in/choos/sports/matchqy2.m3u8
+#EXTINF:-1 group-title="海外体育-随缘",МАТЧ! ФУТБОЛ 3
+https://chostv.mobie.in/choos/sports/matchqy3.m3u8
+#EXTINF:-1 group-title="海外体育-随缘",VARCHAT 5
+http://bal.varcdn1.ru/lb/b5/index.m3u8
+#EXTINF:-1 group-title="海外体育-随缘",CANAL + SPORT
+http://iv3ueltu.rostelekom.xyz/iptv/MZ47TTFQ25YSZY/2502/index.m3u8
+#EXTINF:-1 group-title="海外体育-随缘",Premier Football HD 1 (TH)
+https://smart-tv.livedoomovie.com:4431/02_PremierHD1_720p/chunklist.m3u8
+#EXTINF:-1 group-title="海外体育-随缘",Premier Football HD 2 (TH)
+https://smart-tv.livedoomovie.com:4431/02_PremierHD2_720p/chunklist.m3u8
+#EXTINF:-1 group-title="海外体育-随缘",Premier Football HD 3 (TH)
+https://smart-tv.livedoomovie.com:4431/02_PremierHD3_720p/chunklist.m3u8
+#EXTINF:-1 group-title="海外体育-随缘",Premier Football HD 4 (TH)
+https://smart-tv.livedoomovie.com:4431/02_PremierHD4_720p/chunklist.m3u8
+#EXTINF:-1 group-title="海外体育-随缘",Live Sports (pk)
+http://221.120.204.4/LOCKLE-A-SPORTS/index.m3u8
+#EXTINF:-1 group-title="海外体育-随缘",I NEWS LIVE
+https://raw.githubusercontent.com/shabrina0401/blog/main/inews.m3u8
+#EXTINF:-1 group-title="海外体育-随缘",TNT SPORTS
+https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
+#EXTINF:-1 group-title="海外体育-随缘",TRUE PREMIER FUTBOL HD2
+https://www.wopep.com/02_PremierHD2_720p/chunklist.m3u8
+#EXTINF:-1 group-title="海外体育-随缘",TRUE PREMIER FUTBOL HD7
+https://www.wopep.com/02_PremierHD1_720p/chunklist.m3u8
+#EXTINF:-1 group-title="海外体育-随缘",MATH CTPAHA
+https://bl.uma.media/live/291661/HLS/4614144_3,2883584_2,1153024_1/1613109268/2fb2de98a984b4b86bc2cdd980da3430/playlist.m3u8
+#EXTINF:-1 group-title="海外体育-随缘",MATH RUSIA
+https://bl.uma.media/live/133529/HLS/4614144_3,2883584/1/1/playlist.m3u8
+#EXTINF:-1 group-title="海外体育-随缘",LOOK SPORTS +
+https://stream1.1616.ro:1945/lookplus/livestream/playlist.m3u8?wowzatokenhash=NqSD4qaHc94SbTW05NBB-lXC78ZiAOIbnbUBOHj1DAM=
+#EXTINF:-1 group-title="海外体育-随缘",LOOK SPORTS +
+https://stream1.1616.ro:1945/lookplus/livestream/playlist.m3u8
+#EXTINF:-1 group-title="海外体育-随缘",LOOK SPORTS HD
+https://stream1.1616.ro:1945/look/livestream/playlist.m3u8?wowzatokenhash=NqSD4qaHc94SbTW05NBB-lXC78ZiAOIbnbUBOHj1DAM=
+#EXTINF:-1 group-title="海外体育-随缘",PTV SPORTS 1
+http://221.120.204.4/LOCKLE-PTV-SPORTS/index.m3u8
+#EXTINF:-1 group-title="海外体育-随缘",TV 2 SPORT
+https://ws31-hls-live.akamaized.net/out/u/1416253.m3u8
+#EXTINF:-1 group-title="海外体育-随缘",SPORT RU
+http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v3a1/index.m3u8
+#EXTINF:-1 group-title="海外体育-随缘",X SPORT
+http://iptv.prosto.tv:7000/ch109/video.m3u8
+#EXTINF:-1 group-title="海外体育-随缘",RTSH SPORT
+http://93.157.62.180/RTSHSport/index.m3u8
+#EXTINF:-1 group-title="海外体育-随缘",CID 1
+http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 group-title="海外体育-随缘",BEIN SPORT 4 TUR
+http://visionmedaitv.nl:7444/live/VisionMediaClubOnL1n3/q2i9MCc7NK/70.m3u8
+#EXTINF:-1 group-title="海外体育-随缘",BEIN MAX 1 HD
+http://visionmedaitv.nl:7444/live/VisionMediaClubOnL1n3/q2i9MCc7NK/65.m3u8
+#EXTINF:-1 group-title="海外体育-随缘",BEIN MAX 2 HD
+http://visionmedaitv.nl:7444/live/VisionMediaClubOnL1n3/q2i9MCc7NK/66.m3u8
+#EXTINF:-1 group-title="海外体育-随缘",TRT 1
+https://mn-nl.mncdn.com/blutv_trt1_dvr/live.m3u8
+#EXTINF:-1 group-title="海外体育-随缘",TRT 2
+https://mn-nl.mncdn.com/blutv_trtspor2/live.m3u8
+#EXTINF:-1 group-title="海外体育-随缘",A SPOR FHD
+https://trkvz-live.daioncdn.net/aspor/aspor.m3u8
+#EXTINF:-1 group-title="海外体育-随缘",SPORTV TUR
+https://mn-nl.mncdn.com/blutv_sportstv2/live.m3u8
+#EXTINF:-1 group-title="海外体育-随缘",SPORTV REF TUR
+http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
+#EXTINF:-1 group-title="海外体育-随缘",ESPN 1 ARG
+http://qqtv.nl:8080/live/norma/12345/20101.m3u8
+#EXTINF:-1 group-title="海外体育-随缘",ESPN 2 ARG
+http://qqtv.nl:8080/live/norma/12345/275190.m3u8
+#EXTINF:-1 group-title="海外体育-随缘",ESPN 3 ARG
+http://qqtv.nl:8080/live/norma/12345/20056.m3u8
+#EXTINF:-1 group-title="海外体育-随缘",ESPN 2 HD
+http://user.tvcluboficial.com/stream/nov/nov/484.m3u8
+#EXTINF:-1 group-title="海外体育-随缘",ESPN 2 MX
+http://user.tvcluboficial.com/stream/nov/nov/531.m3u8
+#EXTINF:-1 group-title="海外体育-随缘",ESPN 3 VIVO
+http://user.tvcluboficial.com/stream/nov/nov/485.m3u8
+#EXTINF:-1 group-title="海外体育-随缘",ESPN VIVO 1
+http://qqtv.nl:8080/live/norma/12345/275187.m3u8
+#EXTINF:-1 group-title="海外体育-随缘",ESPN VIVO 2
+http://qqtv.nl:8080/live/norma/12345/20102.m3u8
+#EXTINF:-1 group-title="海外体育-随缘",ESPN VIVO 3
+http://qqtv.nl:8080/live/norma/12345/20103.m3u8
+#EXTINF:-1 group-title="海外体育-随缘",ESPN HD MX
+http://user.tvcluboficial.com/stream/nov/nov/486.m3u8
+#EXTINF:-1 group-title="海外体育-随缘",ESPN HD
+http://qqtv.nl:8080/live/norma/12345/7913.m3u8
+#EXTINF:-1 group-title="海外体育-随缘",ESPN 2 MX
+http://user.tvcluboficial.com/stream/nov/nov/530.m3u8
+#EXTINF:-1 group-title="海外体育-随缘",ESPN EXTRA
+http://user.tvcluboficial.com/stream/nov/nov/37.m3u8
+#EXTINF:-1 group-title="海外体育-随缘",ESPN EXTRA
+http://qqtv.nl:8080/live/norma/12345/7915.m3u8
+#EXTINF:-1 group-title="海外体育-随缘",ESPN EXTRA 2
+http://user.tvcluboficial.com/stream/nov/nov/487.m3u8
+#EXTINF:-1 group-title="海外体育-随缘",DIRECTV CHILE
+http://qqtv.nl:8080/live/norma/12345/20406.m3u8
+#EXTINF:-1 group-title="海外体育-随缘",DIRECTV 1 ECUADOR
+http://qqtv.nl:8080/live/norma/12345/20227.m3u8
+#EXTINF:-1 group-title="海外体育-随缘",DIRECTV 2 ECUADOR
+http://qqtv.nl:8080/live/norma/12345/20319.m3u8
+#EXTINF:-1 group-title="海外体育-随缘",DIRECTV + ECUADOR
+http://qqtv.nl:8080/live/norma/12345/20059.m3u8
+#EXTINF:-1 group-title="海外体育-随缘",FOX SPORTS PREMIUM
+http://user.tvcluboficial.com/stream/nov/nov/658.m3u8
+#EXTINF:-1 group-title="海外体育-随缘",FOX SPORTS SUR
+http://qqtv.nl:8080/live/norma/12345/20128.m3u8
+#EXTINF:-1 group-title="海外体育-随缘",FOX SPORTS 1 MX
+http://qqtv.nl:8080/live/norma/12345/20095.m3u8
+#EXTINF:-1 group-title="海外体育-随缘",FOX SPORTS 2 MX
+http://qqtv.nl:8080/live/norma/12345/20097.m3u8
+#EXTINF:-1 group-title="海外体育-随缘",FOX SPORTS 3 MX
+http://qqtv.nl:8080/live/norma/12345/20096.m3u8
+#EXTINF:-1 group-title="海外体育-随缘",FOX SPORTS 2 ARG
+http://qqtv.nl:8080/live/norma/12345/20086.m3u8
+#EXTINF:-1 group-title="海外体育-随缘",FOX SPORTS 3 ARG
+http://qqtv.nl:8080/live/norma/12345/20262.m3u8
+#EXTINF:-1 group-title="海外体育-随缘",FOX SPORTS COLOMBIA
+http://qqtv.nl:8080/live/norma/12345/20219.m3u8
+#EXTINF:-1 group-title="海外体育-随缘",FOX SPORTS CHILE 1
+http://qqtv.nl:8080/live/norma/12345/20084.m3u8
+#EXTINF:-1 group-title="海外体育-随缘",FOX SPORTS CHILE 2
+http://qqtv.nl:8080/live/norma/12345/58292.m3u8
+#EXTINF:-1 group-title="海外体育-随缘",MOVISTAR DEPORTES 1
+http://qqtv.nl:8080/live/norma/12345/275183.m3u8
+#EXTINF:-1 group-title="海外体育-随缘",TNT SPORTS
+http://user.tvcluboficial.com/stream/nov/nov/509.m3u8
+#EXTINF:-1 group-title="海外体育-随缘",TNT SPORTS HD
+http://user.tvcluboficial.com/stream/nov/nov/725.m3u8
+#EXTINF:-1 group-title="海外体育-随缘",TNT SPORTS
+https://glxlmn026c.singularcdn.net.br/playout_03/playlist-720p.m3u8
+#EXTINF:-1 group-title="海外体育-随缘",TNT SPORTS 3
+http://qqtv.nl:8080/live/norma/12345/389559.m3u8
+#EXTINF:-1 group-title="海外体育-随缘",CLARO SPORTS
+http://user.tvcluboficial.com/stream/nov/nov/328.m3u8
+#EXTINF:-1 group-title="海外体育-随缘",CLARO SPORTS
+http://qqtv.nl:8080/live/norma/12345/20130.m3u8
+#EXTINF:-1 group-title="海外体育-随缘",CLARO SPORTS
+http://qqtv.nl:8080/live/norma/12345/20162.m3u8
+#EXTINF:-1 group-title="海外体育-随缘",TyC SPORT
+https://d3awnlgqz0szay.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index_9.m3u8
+#EXTINF:-1 group-title="海外体育-随缘",TyC SPORT
+https://dj8bzwveg7go9.cloudfront.net/out/v1/09e35529553d472b8f14e437af642e2f/index_15.m3u8
+#EXTINF:-1 group-title="海外体育-随缘",TyC SPORT
+https://d3awnlgqz0szay.cloudfront.net:443/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index_9.m3u8
+#EXTINF:-1 group-title="海外体育-随缘",TyC SPORT
+http://qqtv.nl:8080/live/norma/12345/20198.m3u8
+#EXTINF:-1 group-title="海外体育-随缘",TUDN
+http://qqtv.nl:8080/live/norma/12345/20116.m3u8
+#EXTINF:-1 group-title="海外体育-随缘",FACEBOOK WATCH
+https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
+#EXTINF:-1 group-title="海外体育-随缘",GOL SUD TV
+http://user.tvcluboficial.com/stream/nov/nov/514.m3u8
+#EXTINF:-1 group-title="海外体育-随缘",GOL televisión USA
+http://qqtv.nl:8080/live/norma/12345/20286.m3u8
+#EXTINF:-1 group-title="海外体育-随缘",ESTADIO TV
+http://user.tvcluboficial.com/stream/nov/nov/318.m3u8
+#EXTINF:-1 group-title="海外体育-随缘",ECDF
+http://qqtv.nl:8080/live/norma/12345/416280.m3u8
+#EXTINF:-1 group-title="海外体育-随缘",WIN SPORTS 1
+http://qqtv.nl:8080/live/norma/12345/20234.m3u8
+#EXTINF:-1 group-title="海外体育-随缘",WIN SPORTS +
+http://qqtv.nl:8080/live/norma/12345/20321.m3u8
+#EXTINF:-1 group-title="海外体育-随缘",INTERTV
+http://qqtv.nl:8080/live/norma/12345/397212.m3u8
+#EXTINF:-1 group-title="海外体育-随缘",DEPORTV ARG
+http://qqtv.nl:8080/live/norma/12345/397211.m3u8
+#EXTINF:-1 group-title="海外体育-随缘",STARS SPORT 1
+http://iv3ueltu.rostelekom.xyz/iptv/MZ47TTFQ25YSZY/2508/index.m3u8
+#EXTINF:-1 group-title="海外体育-随缘",STARS SPORT 2
+http://iv3ueltu.rostelekom.xyz/iptv/MZ47TTFQ25YSZY/2507/index.m3u8
+#EXTINF:-1 group-title="海外体育-随缘",SKY SPORTS 24
+https://skyanywhere3-i.akamaihd.net/hls/live/510697/interactive/playlist.m3u8
+#EXTINF:-1 group-title="海外体育-随缘",11 INTERNACIONAL
+https://d2ve4fchffi4n1.cloudfront.net/out/v1/df356edd16f3434ab417f2c48cb1d516/index.m3u8
+#EXTINF:-1 group-title="海外体育-随缘",K SPORT 2
+http://93.157.62.180:80/KSport2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="海外体育-随缘",K SPORT 3
+http://93.157.62.180:80/KSport3/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="海外体育-随缘",K SPORT 4
+http://93.157.62.180:80/KSport4/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="海外体育-随缘",AD SPORTS
+https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8
+#EXTINF:-1 group-title="海外体育-随缘",BAHRAIN SPORTS
+https://5c7b683162943.streamlock.net/live/ngrp:Bahrain%20Sports_all/playlist.m3u8
+#EXTINF:-1 group-title="海外体育-随缘",VIASAT SPORT HD
+http://iptv.prosto.tv:7000/ch108/video.m3u8
+#EXTINF:-1 group-title="海外体育-随缘",DUBAI SPORTS
+https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 group-title="海外体育-随缘",MOROC SPORTS
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/arriadia-avc1_1500000=4-mp4a_130400_qad=1.m3u8
+#EXTINF:-1 group-title="海外体育-随缘",T SPORTS
+https://live-k2301-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
+#EXTINF:-1 group-title="海外体育-随缘",CCTV5
+http://39.135.138.60:18890/PLTV/88888910/224/3221225633/index.m3u8
+#EXTINF:-1 group-title="海外体育-随缘",SHARJJAH SPORT
+https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
+#EXTINF:-1 group-title="海外体育-随缘",KBP SPORT
+https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
+#EXTINF:-1 group-title="海外体育-随缘",TVRI SPORT HD
+http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
+#EXTINF:-1 group-title="海外体育-随缘",TENNIS CHANNEL INTERNACIONAL
+https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
+#EXTINF:-1 group-title="海外体育-随缘",SPOTV 1
+https://smart-tv.livedoomovie.com:4431/02_foxsport_720p/chunklist.m3u8
+#EXTINF:-1 group-title="海外体育-随缘",SPOTV 2
+https://smart-tv.livedoomovie.com:4431/02_FoxSport3_TH_720p/chunklist.m3u8
+#EXTINF:-1 group-title="海外体育-随缘",OMAN SPORT
+https://partne.cdn.mangomolo.com/omsport/smil:omsport.stream.smil/playlist.m3u8
+#EXTINF:-1 group-title="海外体育-随缘",KTB SPORTS
+https://hiplayer.hibridcdn.net/t/kwmedia-kwtvsports.m3u8
+#EXTINF:-1 group-title="海外体育-随缘",DUBAI SPORTS 3 FHD
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist.m3u8?checkedby
+#EXTINF:-1 group-title="海外体育-随缘",SSC1 HD (Saudi)
+https://ssc-5-ak.akamaized.net/out/v1/6ae0a2ebab224c72ab9c298afeec8d91/index.m3u8
+#EXTINF:-1 group-title="海外体育-随缘",DAZN 1
+http://qqtv.nl:8080/live/norma/12345/391225.m3u8
+#EXTINF:-1 group-title="海外体育-随缘",AD SPORTS 2
+https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
+#EXTINF:-1 group-title="海外体育-随缘",AD SPORTS 3
+https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/playlist.m3u8
+#EXTINF:-1 group-title="海外体育-随缘",FootballHub
+https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
+#EXTINF:-1 group-title="海外体育-随缘",TELETRAK
+http://unlimited6-cl.dps.live/sportinghd/sportinghd.smil/playlist.m3u8
+#EXTINF:-1 group-title="海外体育-随缘",BEK SPORTS
+https://wowzaprod188-i.akamaihd.net/hls/live/728897/54d0bcd5/playlist.m3u8
+#EXTINF:-1 group-title="海外体育-随缘",LAX SPORTS
+https://1840769862.rsc.cdn77.org/FTF/LSN_SCTE.m3u8
+#EXTINF:-1 group-title="海外体育-随缘",ALL SPORTS TV
+https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8
+#EXTINF:-1 group-title="海外体育-随缘",IN SPORTS
+https://sc.id-tv.kz/INSPORTHD_36_37.m3u8
+#EXTINF:-1 group-title="海外体育-随缘",ON TIME SPORTS
+http://iv3ueltu.rostelekom.xyz/iptv/MZ47TTFQ25YSZY/2512/index.m3u8
+#EXTINF:-1 group-title="海外体育-随缘",CANAL PLUS 2 POL
+http://iv3ueltu.rostelekom.xyz/iptv/MZ47TTFQ25YSZY/2516/index.m3u8
+#EXTINF:-1 group-title="海外体育-随缘",ASTRAK RUS HD
+http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v5a1/index.m3u8
+#EXTINF:-1 group-title="海外体育-随缘",ATG1
+https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free_3.m3u8
+#EXTINF:-1 group-title="海外体育-随缘",LA 7 CYL
+http://cdnlive.shooowit.net/la7live/smil:channel1.smil/master.m3u8
+#EXTINF:-1 group-title="海外体育-随缘",LA 8 VALLADOLID
+https://cdnlive.shooowit.net/la8valladolidlive/smil:streamswitchingchannel.smil/playlist.m3u8
+#EXTINF:-1 group-title="海外体育-随缘",TV1
+https://rtvelivestreamv3.akamaized.net/la1/la1_main_dvr.m3u8
+#EXTINF:-1 group-title="海外体育-随缘",TV1
+http://91.126.141.13:1935/live/41/playlist.m3u8
+#EXTINF:-1 group-title="海外体育-随缘",CUATRO
+http://91.126.141.13:1935/live/51/playlist.m3u8
+#EXTINF:-1 group-title="海外体育-随缘",TELE5
+http://91.126.141.13:1935/live/61/1800-def.m3u8
+#EXTINF:-1 group-title="海外体育-随缘",TELE5
+http://91.126.141.13:1935/live/61/playlist.m3u8
+#EXTINF:-1 group-title="海外体育-随缘",MEGA
+http://154.62.74.29:1935/live/mega/chunklist_w1555082919.m3u8
+#EXTINF:-1 group-title="海外体育-随缘",CICLISMO ESUKERA (EITB)
+https://live-dvr.eitb-fastly.cross-media.es/live-content/oka2hd-hls/bitrate_4.m3u8
+#EXTINF:-1 group-title="海外体育-随缘",CICLISMO ESUKERA (EITB)
+https://etbvnogeo-lh.akamaihd.net/i/ETBSTR1_1@595581/index_2596_av-b.m3u8
+#EXTINF:-1 group-title="海外体育-随缘",TELEDEPORTE
+https://rtvelivestreamv3.akamaized.net/tdp/tdp_main_dvr.m3u8
+#EXTINF:-1 group-title="海外体育-随缘",TELEDEPORTE
+http://Richi@91.126.141.13:1935/live/91/1800-def.m3u8
+#EXTINF:-1 group-title="海外体育-随缘",TELEDEPORTE
+http://91.126.141.13:1935/live/91/1800-def.m3u8
+#EXTINF:-1 group-title="海外体育-随缘",GOL TV
+http://154.62.74.29:1935/live/gol/playlist.m3u8
+#EXTINF:-1 group-title="海外体育-随缘",FORMULA 1 TV
+http://user.tvcluboficial.com/stream/nov/nov/192.m3u8
+#EXTINF:-1 group-title="海外体育-随缘",Bein Sport 1 FR
+http://93.152.174.144:4000/play/bein1fr/index.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="海外体育-随缘",Bein Sport 4 ar
+http://93.152.174.144:4000/play/bein4ar/index.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="海外体育-随缘",Bein Sports 2 FR
+http://93.152.174.144:4000/play/bein2fr/index.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="海外体育-随缘",Bein Sports 3 FR
+http://93.152.174.144:4000/play/bein3fr/index.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="海外体育-随缘",beIN SPORTS 4
+http://93.152.174.144:4000/play/bein7/index.m3u8
+#EXTINF:-1 group-title="海外体育-随缘",Bein Sports 5 AR
+http://93.152.174.144:4000/play/Bein5Ar/index.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="海外体育-随缘",Bein Sports 4 AR
+http://93.152.174.144:4000/play/bein7/index.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="海外体育-随缘",BEIN SPORT 1 LIVE
+http://iv3ueltu.rostelekom.xyz/iptv/MZ47TTFQ25YSZY/6123/index.m3u
+#EXTINF:-1 group-title="海外体育-随缘",S BEIN SPORT 3 LIVE
+http://iv3ueltu.rostelekom.xyz/iptv/MZ47TTFQ25YSZY/6124/index.m3u
+#EXTINF:-1 group-title="海外体育-随缘",BEIN SPORT AR 4
+http://iv3ueltu.rostelekom.xyz/iptv/MZ47TTFQ25YSZY/6125/index.m3u
+#EXTINF:-1 group-title="海外体育-随缘",BEIN SPORT AR 5
+http://iv3ueltu.rostelekom.xyz/iptv/MZ47TTFQ25YSZY/6126/index.m3u
+#EXTINF:-1 group-title="海外体育-随缘",BEIN SPORT AR 6
+http://iv3ueltu.rostelekom.xyz/iptv/MZ47TTFQ25YSZY/6127/index.m3u
+#EXTINF:-1 group-title="海外体育-随缘",BEIN SPORT AR 7
+http://iv3ueltu.rostelekom.xyz/iptv/MZ47TTFQ25YSZY/6128/index.m3u
+#EXTINF:-1 group-title="海外体育-随缘",BEIN SPORT HD ENG
+http://iv3ueltu.rostelekom.xyz/iptv/MZ47TTFQ25YSZY/6132/index.m3u
+#EXTINF:-1 group-title="海外体育-随缘",REAL MADRID TV
+http://154.62.74.11:1935/live/realmadridnntv/chunklist_w1062028841.m3u8
+
 
 #EXTINF:-1 logo="" group-title="NBA PASS仅直播时有效" ,TNT
 https://d2tj0mi9jdso2q.cloudfront.net:443/hls/TNT/playlist.m3u8
