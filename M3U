@@ -8,6 +8,8 @@ http://39.134.71.75/ott.js.chinamobile.com/TVOD/3/224/3221228228/index.m3u8
 http://ott.js.chinamobile.com/TVOD/3/224/3221228242/index.m3u8
 #EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="央卫晚会北京冬奥",CCTV4K HDR
 http://223.110.236.8/ott.js.chinamobile.com/PLTV/3/224/3221228242/index.m3u8
+#EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="央卫晚会北京冬奥",CCTV4K HDR
+http://223.110.236.17/ott.js.chinamobile.com/PLTV/3/224/3221228165/index.m3u8
 #EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="央卫晚会北京冬奥",CCTV4K UHD HDR
 http://ye23.win/iptv/4k.cctv.php
 #EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="央卫晚会北京冬奥",CCTV4K UHD HDR
