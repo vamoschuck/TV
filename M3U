@@ -818,28 +818,16 @@ http://ye23.win/iptv/4k.cctv.php
 https://p.ggiptv.com/v/4k.m3u8
 #EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="江苏移动-高码",北京卫视
 http://ott.js.chinamobile.com/TVOD/3/224/3221227652/index.m3u8
-#EXTINF:-1 tvg-id="60" tvg-name="南方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/nanfang.png" group-title="江苏移动-高码",南方卫视
-http://ott.js.chinamobile.com/TVOD/3/224/3221227587/index.m3u8
 #EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="江苏移动-高码",东方卫视
 http://ott.js.chinamobile.com/TVOD/3/224/3221227732/index.m3u8
 #EXTINF:-1 tvg-id="46" tvg-name="黑龙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png" group-title="江苏移动-高码",黑龙江卫视
 http://ott.js.chinamobile.com/TVOD/3/224/3221227662/index.m3u8
 #EXTINF:-1 tvg-id="48" tvg-name="湖北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hubei.png" group-title="江苏移动-高码",湖北卫视
 http://ott.js.chinamobile.com/TVOD/3/224/3221227665/index.m3u8
-#EXTINF:-1 tvg-id="40" tvg-name="重庆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png" group-title="江苏移动-高码",重庆卫视
-http://223.110.242.134:6610/cntv/live1/HD-8000k-1080P-chongqingstv/1.m3u8
-#EXTINF:-1 tvg-id="43" tvg-name="广西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangxi.png" group-title="江苏移动-高码",广西卫视
-http://39.130.202.81:6610/gitv_live/G_GUANGXI-HD/G_GUANGXI-HD.m3u8
-
 #EXTINF:-1 tvg-id="41" tvg-name="东南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongnan.png" group-title="江苏移动-高码",东南卫视
 http://ott.js.chinamobile.com/TVOD/3/224/3221227670/index.m3u8
 #EXTINF:-1 tvg-id="56" tvg-name="四川卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sichuan.png" group-title="江苏移动-高码",四川卫视
 http://ott.js.chinamobile.com/TVOD/3/224/3221227556/index.m3u8
-#EXTINF:-1 tvg-id="44" tvg-name="贵州卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guizhou.png" group-title="江苏移动-高码",贵州卫视
-http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=41&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
-#EXTINF:-1 tvg-id="37" tvg-name="旅游卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/lvyou.png" group-title="江苏移动-高码",海南卫视
-http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=114&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
-
 #EXTINF:-1 tvg-id="40" tvg-name="重庆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png" group-title="江苏移动-高码",重庆卫视
 http://39.134.115.163:8080/TVOD/88888910/224/3221225692/index.m3u8
 
@@ -1335,22 +1323,20 @@ http://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s9/index.m3u8
 #EXTINF:-1 tvg-id="67" tvg-name="卡酷动画" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/kaku.png" group-title="京津冀鲁豫",卡酷少儿 FHD
 http://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s10/index.m3u8
 
-#EXTINF:-1 tvg-id="39" tvg-name="天津卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/tianjin.png" group-title="京津冀鲁豫",天津卫视
-http://60.26.15.147:9901/tsfile/live/0135_1.m3u8
+
 #EXTINF:-1 tvg-id="天津新闻" tvg-name="天津新闻" tvg-logo="https://www.hualigs.cn/image/61ddafef6b6e3.jpg" group-title="京津冀鲁豫",天津新闻
-http://60.26.15.147:9901/tsfile/live/0120_1.m3u8
+
 #EXTINF:-1 tvg-id="天津文艺" tvg-name="天津文艺" tvg-logo="https://www.hualigs.cn/image/61ddafef685ee.jpg" group-title="京津冀鲁豫",天津文艺
-http://60.26.15.147:9901/tsfile/live/0119_1.m3u8
+
 #EXTINF:-1 tvg-id="天津都市" tvg-name="天津都市" tvg-logo="https://www.hualigs.cn/image/61ddafefbe630.jpg" group-title="京津冀鲁豫",天津都市
-http://60.26.15.147:9901/tsfile/live/0141_1.m3u8
+
 #EXTINF:-1 tvg-id="天津影视" tvg-name="天津影视" tvg-logo="https://www.hualigs.cn/image/61ddafefbe060.jpg" group-title="京津冀鲁豫",天津影视
-http://60.26.15.147:9901/tsfile/live/0136_1.m3u8
+
 #EXTINF:-1 tvg-id="天津科教" tvg-name="天津科教" tvg-logo="https://www.hualigs.cn/image/61ddaff78eb8e.jpg" group-title="京津冀鲁豫",天津科教
-http://60.26.15.147:9901/tsfile/live/1002_1.m3u8
+
 #EXTINF:-1 tvg-id="天津体育" tvg-name="天津体育" tvg-logo="https://www.hualigs.cn/image/61ddafef7c1e8.jpg" group-title="京津冀鲁豫",天津体育
-http://60.26.15.147:9901/tsfile/live/0111_1.m3u8
+
 #EXTINF:-1 tvg-id="天津少儿" tvg-name="天津少儿" tvg-logo="https://www.hualigs.cn/image/61ddaff792825.jpg" group-title="京津冀鲁豫",天津少儿
-http://60.26.15.147:9901/tsfile/live/0110_1.m3u8
 
 #EXTINF:-1 tvg-id="河北影视" tvg-name="河北影视" tvg-logo="https://www.hualigs.cn/image/6159c331a4d7f.jpg" group-title="京津冀鲁豫",河北影视
 http://live6.plus.hebtv.com/hbysx/hd/live.m3u8
@@ -1414,96 +1400,127 @@ http://222.175.202.90:9901/tsfile/live/1012_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="京津冀鲁豫",山东教育
 http://222.175.202.90:9901/tsfile/live/1011_1.m3u8
 
+#EXTINF:-1 group-title="京津冀鲁豫",山东体育
+http://39.136.48.21:8089/PLTV/88888888/224/3221226075/index.m3u8
+#EXTINF:-1 group-title="京津冀鲁豫",山东公共
+http://39.136.48.21:8089/PLTV/88888888/224/3221226077/index.m3u8
+#EXTINF:-1 group-title="京津冀鲁豫",山东农科
+http://39.136.48.21:8089/PLTV/88888888/224/3221226018/index.m3u8
+#EXTINF:-1 group-title="京津冀鲁豫",山东少儿
+http://39.136.48.21:8089/PLTV/88888888/224/3221226195/index.m3u8
+#EXTINF:-1 group-title="京津冀鲁豫",山东文旅
+http://39.136.48.21:8089/PLTV/88888888/224/3221225802/index.m3u8
+#EXTINF:-1 group-title="京津冀鲁豫",山东生活
+http://39.136.48.21:8089/PLTV/88888888/224/3221225841/index.m3u8
+#EXTINF:-1 group-title="京津冀鲁豫",山东综艺
+http://39.136.48.21:8089/PLTV/88888888/224/3221225855/index.m3u8
+#EXTINF:-1 group-title="京津冀鲁豫",山东教育
+http://39.136.48.21:8089/PLTV/88888888/224/3221226049/index.m3u8
+#EXTINF:-1 group-title="京津冀鲁豫",山东齐鲁
+http://39.136.48.25:8089/PLTV/88888888/224/3221226045/index.m3u8
+#EXTINF:-1 group-title="京津冀鲁豫",海看剧场
+http://39.136.48.99:8089/PLTV/88888888/224/3221226053/index.m3u8
+#EXTINF:-1 group-title="京津冀鲁豫",海看少儿
+http://39.136.48.99:8089/PLTV/88888888/224/3221225943/index.m3u8
+#EXTINF:-1 group-title="京津冀鲁豫",海看热播
+http://39.136.48.99:8089/PLTV/88888888/224/3221225878/index.m3u8
+#EXTINF:-1 group-title="京津冀鲁豫",海看爱宠
+http://39.136.48.8:8089/PLTV/88888888/224/3221226071/index.m3u8
+#EXTINF:-1 group-title="京津冀鲁豫",海看电竞
+http://39.136.48.8:8089/PLTV/88888888/224/3221225629/index.m3u8
+#EXTINF:-1 group-title="京津冀鲁豫",Hot亚洲影院
+http://39.136.48.23:8089/PLTV/88888888/224/3221225844/index.m3u8
+#EXTINF:-1 group-title="京津冀鲁豫",Hot欧美影院
+http://39.136.48.23:8089/PLTV/88888888/224/3221226345/index.m3u8
+
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.hualigs.cn/image/61e28bfa28450.jpg" group-title="京津冀鲁豫",青岛QTV-1
-http://39.77.233.14:9901/tsfile/live/1009_1.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.hualigs.cn/image/61e28bf77fb56.jpg" group-title="京津冀鲁豫",青岛QTV-2
-http://39.77.233.14:9901/tsfile/live/1010_1.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.hualigs.cn/image/61e28bf756c7f.jpg" group-title="京津冀鲁豫",青岛QTV-3
-http://39.77.233.14:9901/tsfile/live/1000_1.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.hualigs.cn/image/61e28bf759d2a.jpg" group-title="京津冀鲁豫",青岛QTV-4
-http://39.77.233.14:9901/tsfile/live/1003_1.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.hualigs.cn/image/61e28bf774bbe.jpg" group-title="京津冀鲁豫",青岛QTV-5
-http://39.77.233.14:9901/tsfile/live/1002_1.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.hualigs.cn/image/61e28bf787990.jpg" group-title="京津冀鲁豫",青岛QTV-6
-http://39.77.233.14:9901/tsfile/live/1004_1.m3u8
 
 
-#EXTINF:-1 tvg-id="47" tvg-name="河南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/henan.png" group-title="京津冀鲁豫",河南卫视
-http://219.150.217.47:6610/PLTV1/580/index.m3u8?vamoschucktv
-#EXTINF:-1 tvg-id="47" tvg-name="河南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/henan.png" group-title="京津冀鲁豫",河南卫视4K
-http://219.150.217.47:6610/PLTV2/2780/index.m3u8?vamoschucktv
+
+
 #EXTINF:-1 tvg-id="6555" tvg-name="梨园" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE20.jpg" group-title="京津冀鲁豫",河南梨园
-http://219.150.217.47:6610/PLTV1/840/index.m3u8?vamoschucktv
+http://live.dxhmt.cn:9080/19903718786/3159ec673c114135816d45dd52ad7396.m3u8
 #EXTINF:-1 tvg-id="河南都市" tvg-name="河南都市" tvg-logo="https://www.hualigs.cn/image/61dfd2da623b0.jpg" group-title="京津冀鲁豫",河南都市
-http://219.150.217.47:6610/PLTV1/600/index.m3u8?vamoschucktv
+
 #EXTINF:-1 tvg-id="河南国际" tvg-name="河南国际" tvg-logo="https://www.hualigs.cn/image/61dfd2da620a7.jpg" group-title="京津冀鲁豫",河南国际
-http://219.150.217.47:6610/PLTV1/680/index.m3u8?vamoschucktv
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.hualigs.cn/image/61dfd2da23c23.jpg" group-title="京津冀鲁豫",河南电视剧
-http://219.150.217.47:6610/PLTV1/660/index.m3u8?vamoschucktv
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.hualigs.cn/image/61dfd2da5bbc1.jpg" group-title="京津冀鲁豫",河南法制
-http://219.150.217.47:6610/PLTV1/640/index.m3u8?vamoschucktv
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.hualigs.cn/image/61dfd49962f98.jpg" group-title="京津冀鲁豫",河南公共
-http://219.150.217.47:6610/PLTV1/760/index.m3u8?vamoschucktv
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.hualigs.cn/image/61dfd2da5576d.jpg" group-title="京津冀鲁豫",河南民生
-http://219.150.217.47:6610/PLTV1/620/index.m3u8?vamoschucktv
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.hualigs.cn/image/61dfd2da544f8.jpg" group-title="京津冀鲁豫",河南文宝
-http://219.150.217.47:6610/PLTV1/820/index.m3u8?vamoschucktv
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.hualigs.cn/image/61dfd2da4d40a.jpg" group-title="京津冀鲁豫",河南武术
-http://219.150.217.47:6610/PLTV1/860/index.m3u8?vamoschucktv
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.hualigs.cn/image/61dfd2da2b858.jpg" group-title="京津冀鲁豫",河南乡村
-http://219.150.217.47:6610/PLTV1/780/index.m3u8?vamoschucktv
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.hualigs.cn/image/61dfd2da59690.jpg" group-title="京津冀鲁豫",河南新闻
-http://219.150.217.47:6610/PLTV1/720/index.m3u8?vamoschucktv
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.hualigs.cn/image/61dfd2da4e415.jpg" group-title="京津冀鲁豫",河南睛彩中原
-http://219.150.217.47:6610/PLTV1/700/index.m3u8?vamoschucktv
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="京津冀鲁豫",河南移动戏曲
-http://219.150.217.47:6610/PLTV1/800/index.m3u8?vamoschucktv
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="京津冀鲁豫",河南风尚河南
-http://219.150.217.47:6610/PLTV1/940/index.m3u8?vamoschucktv
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="京津冀鲁豫",河南调解剧场
-http://219.150.217.47:6610/PLTV1/920/index.m3u8?vamoschucktv
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="京津冀鲁豫",河南导视4K
-http://219.150.217.47:6610/PLTV2/3660/index.m3u8?vamoschucktv
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.hualigs.cn/image/61dff768ac3f6.jpg" group-title="京津冀鲁豫",郑州综合
-http://219.150.217.47:6610/PLTV1/1680/index.m3u8?vamoschucktv
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.hualigs.cn/image/61dff768a8301.jpg" group-title="京津冀鲁豫",郑州商都
-http://219.150.217.47:6610/PLTV1/1700/index.m3u8?vamoschucktv
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.hualigs.cn/image/61dff768c6b0a.jpg" group-title="京津冀鲁豫",郑州文体
-http://219.150.217.47:6610/PLTV1/1720/index.m3u8?vamoschucktv
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.hualigs.cn/image/61dff86d9732e.jpg" group-title="京津冀鲁豫",开封综合
-http://219.150.217.47:6610/PLTV1/1800/index.m3u8?vamoschucktv
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.hualigs.cn/image/61dff86d9732e.jpg" group-title="京津冀鲁豫",开封文旅
-http://219.150.217.47:6610/PLTV1/1820/index.m3u8?vamoschucktv
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.hualigs.cn/image/61dff8323b1e7.jpg" group-title="京津冀鲁豫",洛阳综合
-http://219.150.217.47:6610/PLTV1/1840/index.m3u8?vamoschucktv
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.hualigs.cn/image/61dff83234216.jpg" group-title="京津冀鲁豫",洛阳科教
-http://219.150.217.47:6610/PLTV1/1860/index.m3u8?vamoschucktv
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.hualigs.cn/image/61dff8322dd61.jpg" group-title="京津冀鲁豫",洛阳文旅
-http://219.150.217.47:6610/PLTV1/1880/index.m3u8?vamoschucktv
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.hualigs.cn/image/61dffb89b6320.jpg" group-title="京津冀鲁豫",安阳综合
-http://219.150.217.47:6610/PLTV1/1960/index.m3u8?vamoschucktv
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.hualigs.cn/image/61dffb89b1591.jpg" group-title="京津冀鲁豫",安阳科教
-http://219.150.217.47:6610/PLTV1/1980/index.m3u8?vamoschucktv
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.hualigs.cn/image/61dffb89a2f78.jpg" group-title="京津冀鲁豫",焦作公共
-http://219.150.217.47:6610/PLTV2/2080/index.m3u8?vamoschucktv
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.hualigs.cn/image/61dffb89a5dbf.jpg" group-title="京津冀鲁豫",焦作综合
-http://219.150.217.47:6610/PLTV2/2060/index.m3u8?vamoschucktv
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.hualigs.cn/image/61dffb89b1a97.jpg" group-title="京津冀鲁豫",南阳综合
-http://219.150.217.47:6610/PLTV2/2440/index.m3u8?vamoschucktv
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.hualigs.cn/image/61dffb89a2f9e.jpg" group-title="京津冀鲁豫",南阳公共
-http://219.150.217.47:6610/PLTV2/2460/index.m3u8?vamoschucktv
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.hualigs.cn/image/61dffb89a3cbb.jpg" group-title="京津冀鲁豫",南阳科教
-http://219.150.217.47:6610/PLTV2/2480/index.m3u8?vamoschucktv
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.hualigs.cn/image/61dffc850c05a.jpg" group-title="京津冀鲁豫",信阳综合
-http://219.150.217.47:6610/PLTV2/2500/index.m3u8?vamoschucktv
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.hualigs.cn/image/61dffc850c05a.jpg" group-title="京津冀鲁豫",信阳公共
-http://219.150.217.47:6610/PLTV2/2520/index.m3u8?vamoschucktv
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.hualigs.cn/image/61dffcb728e6d.jpg" group-title="京津冀鲁豫",伊川电视
-http://219.150.217.47:6610/PLTV2/2600/index.m3u8?vamoschucktv
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="京津冀鲁豫",内黄综合
-http://219.150.217.47:6610/PLTV2/2640/index.m3u8?vamoschucktv
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="京津冀鲁豫",内黄综合
-http://219.150.217.47:6610/PLTV2/2740/index.m3u8?vamoschucktv
+
 
 
 
@@ -1894,46 +1911,31 @@ http://39.134.93.229:6610/000000001000/nxshaoer/1.m3u8?IASHttpSessionId=
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="云贵川渝青",云南都市
 https://hwapi.yunshicloud.com/62hdvf/rjwt14.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="云贵川渝青",云南都市
-http://39.130.202.81:6610/gitv_live/G_YNTV-2-HD/G_YNTV-2-HD.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="云贵川渝青",云南影视
 https://hwapi.yunshicloud.com/62hdvf/utrat7.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="云贵川渝青",云南影视
-http://39.130.202.81:6610/gitv_live/G_YNTV-5-HD/G_YNTV-5-HD.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="云贵川渝青",云南娱乐
 http://tvlive.ynradio.com/live/yunnanyule/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="云贵川渝青",云南娱乐
-http://39.130.202.81:6610/gitv_live/G_YNTV-3-HD/G_YNTV-3-HD.m3u8
 #EXTINF:-1 tvg-id="云南公共" tvg-name="云南公共" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="云贵川渝青",云南公共
 https://hwapi.yunshicloud.com/62hdvf/227q43.m3u8
-#EXTINF:-1 tvg-id="云南公共" tvg-name="云南公共" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="云贵川渝青",云南公共
-http://39.130.202.81:6610/gitv_live/G_YNTV-6-HD/G_YNTV-6-HD.m3u8
 #EXTINF:-1 tvg-id="云南国际" tvg-name="云南国际" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="云贵川渝青",云南国际
 http://tvlive.ynradio.com/live/yunnanguoji/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="云贵川渝青",云南生活资讯
 https://hwapi.yunshicloud.com/62hdvf/180p57.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="云贵川渝青",云南生活资讯
-http://39.130.202.81:6610/gitv_live/G_YNTV-4-HD/G_YNTV-4-HD.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="云贵川渝青",云南少儿
 http://tvlive.ynradio.com/live/yunnanshaoer/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="云贵川渝青",云南少儿
-http://39.130.202.81:6610/gitv_live/G_YNTVSE-HD/G_YNTVSE-HD.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="云贵川渝青",云南澜湄国际
-http://39.130.202.81:6610/gitv_live/G_YNTVGJ/G_YNTVGJ.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="云贵川渝青",云南移动电视
-http://39.130.202.81:6610/gitv_live/G_QICAIGONGJIAO/G_QICAIGONGJIAO.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.hualigs.cn/image/61e12bafac36b.jpg" group-title="云贵川渝青",云南·昆明新闻综合
-http://39.130.202.81:6610/gitv_live/G_KMTV-1/G_KMTV-1.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.hualigs.cn/image/61e12baf891c0.jpg" group-title="云贵川渝青",云南·昆明经济生活
-http://39.130.202.81:6610/gitv_live/G_KMTV-2/G_KMTV-2.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.hualigs.cn/image/61e12baf83302.jpg" group-title="云贵川渝青",云南·昆明科学教育
-http://39.130.202.81:6610/gitv_live/G_KMTV-3/G_KMTV-3.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.hualigs.cn/image/61e12baf7c150.jpg" group-title="云贵川渝青",云南·昆明影视综艺
-http://39.130.202.81:6610/gitv_live/G_KMTV-5/G_KMTV-5.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.hualigs.cn/image/61e12baf779d6.jpg" group-title="云贵川渝青",云南·昆明公共
-http://39.130.202.81:6610/gitv_live/G_KMTV-6/G_KMTV-6.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.hualigs.cn/image/61e12c6c84e50.jpg" group-title="云贵川渝青",云南·昆明教育电视台
-http://39.130.202.81:6610/gitv_live/G_KMETV/G_KMETV.m3u8
+
 
 
 #EXTINF:-1 tvg-id="贵州公共" tvg-name="贵州公共" tvg-logo="https://www.hualigs.cn/image/61e12eb5cf946.jpg" group-title="云贵川渝青",贵州公共
@@ -2639,6 +2641,8 @@ https://cdn.hkyoutv.com/hls/96/index.m3u8
 https://cdn.hkyoutv.com/hls/96b/index.m3u8
 
 
+
+
 #EXTINF:-1 tvg-id="6074" tvg-name="TVBS" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS.png" group-title="1.30台湾",TVBS
 http://61.222.202.191/gt/gttv.php?id=15131&cid=15294
 #EXTINF:-1 tvg-id="6073" tvg-name="TVBS新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS新闻.png" group-title="1.30台湾",TVBS新闻
@@ -2837,8 +2841,6 @@ http://iptv.tvfix.org/hls/thrill2.m3u8
 http://iptv.tvfix.org/hls/tvbjd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台电视侠",TVB为食台
 http://iptv.tvfix.org/hls/tvbws.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台电视侠",TVB为食台
-http://iptv.tvfix.org/hls/tvbws2.m3u8
 #EXTINF:-1 tvg-id="131" tvg-name="TVB星河频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB星河.png" group-title="港澳台电视侠",TVB星河(粤语)
 http://iptv.tvfix.org/hls/tvbxh.m3u8
 #EXTINF:-1 tvg-id="131" tvg-name="TVB星河频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB星河.png" group-title="港澳台电视侠",TVB星河(普通话)
@@ -4510,6 +4512,32 @@ http://iv3ueltu.rostelekom.xyz/iptv/MZ47TTFQ25YSZY/6132/index.m3u
 #EXTINF:-1 group-title="海外体育-随缘",REAL MADRID TV
 http://154.62.74.11:1935/live/realmadridnntv/chunklist_w1062028841.m3u8
 
+#EXTINF:-1 group-title="随时失效",凤凰台香港
+http://y3y4.f3322.net:8088/hls/81/index.m3u8
+#EXTINF:-1 group-title="随时失效",无线财经资讯台
+http://y3y4.f3322.net:8088/hls/92/index.m3u8
+#EXTINF:-1 group-title="随时失效",翡翠台
+http://y3y4.f3322.net:8088/hls/88/index.m3u8
+#EXTINF:-1 group-title="随时失效",经典台
+http://y3y4.f3322.net:8088/hls/98/index.m3u8
+#EXTINF:-1 group-title="随时失效",经典台
+http://y3y4.f3322.net:8088/hls/99/index.m3u8
+#EXTINF:-1 group-title="随时失效",星河频道
+http://y3y4.f3322.net:8088/hls/96/index.m3u8
+#EXTINF:-1 group-title="随时失效",tvbs 新闻台
+http://y3y4.f3322.net:8088/hls/93/index.m3u8
+#EXTINF:-1 group-title="随时失效",amx
+http://y3y4.f3322.net:8088/hls/95/index.m3u8
+#EXTINF:-1 group-title="随时失效",rthk31
+http://y3y4.f3322.net:8088/hls/100/index.m3u8
+#EXTINF:-1 group-title="随时失效",rthk32
+http://y3y4.f3322.net:8088/hls/101/index.m3u8
+#EXTINF:-1 group-title="随时失效",魅力足球
+http://y3y4.f3322.net:8088/hls/102/index.m3u8
+#EXTINF:-1 group-title="随时失效",cctv16
+http://y3y4.f3322.net:8088/hls/103/index.m3u8
+#EXTINF:-1 group-title="随时失效",新视觉
+http://y3y4.f3322.net:8088/hls/104/index.m3u8
 
 #EXTINF:-1 logo="" group-title="NBA PASS仅直播时有效" ,TNT
 https://d2tj0mi9jdso2q.cloudfront.net:443/hls/TNT/playlist.m3u8
