@@ -1,5 +1,8 @@
 #EXTM3U url-tvg="http://epg.51zmt.top:8000/e.xml,https://epg.112114.xyz/pp.xml,https://i.mjh.nz/au/Sydney/epg.xml.gz,https://i.mjh.nz/au/Perth/epg.xml.gz,https://i.mjh.nz/PlutoTV/us.xml.gz" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
 
+#EXTINF:-1 tvg-id="1872" tvg-name="北京纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png" group-title="8K噱头",北京冬奥纪实
+http://down.btvcloud.com:80/8k2021zhibo/zhibo8K2021.m3u8
+
 #EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="央卫晚会北京冬奥",CCTV4K
 http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
 #EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="央卫晚会北京冬奥",CCTV4K 回看
@@ -33,32 +36,15 @@ http://223.110.235.9/ott.js.chinamobile.com/TVOD/3/224/3221228168/index.m3u8
 http://223.110.235.24/ott.js.chinamobile.com/TVOD/3/224/3221228127/index.m3u8
 
 
-#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="央卫晚会北京冬奥",CCTV5
-http://124.232.233.15:6610/000000001001/201500000125/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
-#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="央卫晚会北京冬奥",CCTV5+
-http://124.232.233.15:6610/000000001001/201500000062/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
 
-#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="央卫晚会北京冬奥",湖南卫视 超高码
-http://124.232.233.15:6610/000000001001/201500000219/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
-#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="央卫晚会北京冬奥",湖南卫视 高码
-http://124.232.233.15:6610/000000001001/201500000233/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
+
 #EXTINF:-1  tvg-id="31" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="央卫晚会北京冬奥",东方卫视
 http://223.110.245.146/ott.js.chinamobile.com/TVOD/3/224/3221227511/index.m3u8
 
-#EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="央卫晚会北京冬奥",东方卫视
-http://124.232.233.15:6610/000000001001/201500000069/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
-
-
-#EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="央卫晚会北京冬奥",北京卫视
-http://124.232.233.15:6610/000000001001/201500000065/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
 
 #EXTINF:-1  tvg-id="29" tvg-name="江苏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="央卫晚会北京冬奥",江苏卫视
 http://223.110.245.152/ott.js.chinamobile.com/TVOD/3/224/3221227561/index.m3u8
 
-#EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="央卫晚会北京冬奥",江苏卫视
-http://124.232.233.15:6610/000000001001/201500000070/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
-#EXTINF:-1 tvg-id="39" tvg-name="天津卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/tianjin.png" group-title="央卫晚会北京冬奥",天津卫视
-http://124.232.233.15:6610/000000001001/201500000123/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
 
 
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="江苏HEVC5.1声道",CCTV-1 综合
@@ -95,6 +81,7 @@ http://ott.js.chinamobile.com/PLTV/3/224/3221227723/index.m3u8
 http://ott.js.chinamobile.com/PLTV/3/224/3221227726/index.m3u8
 #EXTINF:-1 tvg-id="1872" tvg-name="北京纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png" group-title="江苏HEVC5.1声道",北京冬奥纪实
 http://ott.js.chinamobile.com/PLTV/3/224/3221227711/index.m3u8
+
 #EXTINF:-1 tvg-id="1988" tvg-name="上海纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png" group-title="江苏HEVC5.1声道",纪实人文
 http://ott.js.chinamobile.com/PLTV/3/224/3221227674/index.m3u8
 #EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="江苏HEVC5.1声道",湖南卫视
@@ -582,128 +569,7 @@ http://117.148.179.141/TVOD/88888888/224/3221231964/index.m3u8
 http://117.148.179.142/TVOD/88888888/224/3221231885/index.m3u8
 
 
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="长沙电信-高码",CCTV1
-http://124.232.233.15:6610/000000001001/201500000063/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
-#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="长沙电信-高码",CCTV2
-http://124.232.233.15:6610/000000001001/201500000129/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
-#EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="长沙电信-高码",CCTV3
-http://124.232.233.15:6610/000000001001/201500000124/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
-#EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="长沙电信-高码",CCTV4
-http://124.232.233.15:6610/000000001001/201500000204/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
-#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="长沙电信-高码",CCTV5
-http://124.232.233.15:6610/000000001001/201500000125/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
-#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="长沙电信-高码",CCTV5+
-http://124.232.233.15:6610/000000001001/201500000062/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
-#EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="长沙电信-高码",CCTV6
-http://124.232.233.15:6610/000000001001/201500000126/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
-#EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="长沙电信-高码",CCTV7
-http://124.232.233.15:6610/000000001001/201500000130/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
-#EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="长沙电信-高码",CCTV8
-http://124.232.233.15:6610/000000001001/201500000127/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
-#EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" group-title="长沙电信-高码",CCTV9
-http://124.232.233.15:6610/000000001001/201500000131/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
-#EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" group-title="长沙电信-高码",CCTV10
-http://124.232.233.15:6610/000000001001/201500000132/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
-#EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" group-title="长沙电信-高码",CCTV12
-http://124.232.233.15:6610/000000001001/201500000133/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
-#EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="长沙电信-高码",CCTV14
-http://124.232.233.15:6610/000000001001/201500000134/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
-#EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="长沙电信-高码",凤凰中文
-http://124.232.233.15:6610/000000001001/201500000230/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
-#EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="长沙电信-高码",凤凰资讯
-http://124.232.233.15:6610/000000001001/201500000231/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
-#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="长沙电信-高码",湖南卫视 超高码
-http://124.232.233.15:6610/000000001001/201500000219/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
-#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="长沙电信-高码",湖南卫视 高码
-http://124.232.233.15:6610/000000001001/201500000233/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
-#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="长沙电信-高码",湖南卫视
-http://124.232.233.15:6610/000000001001/201500000067/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
-#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="长沙电信-高码",湖南卫视
-http://124.232.233.15:6610/000000001001/201500000323/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
-#EXTINF:-1 tvg-id="41" tvg-name="东南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongnan.png" group-title="长沙电信-高码",东南卫视
-http://124.232.233.15:6610/000000001001/201500000336/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
-#EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="长沙电信-高码",东方卫视
-http://124.232.233.15:6610/000000001001/201500000069/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
-#EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="长沙电信-高码",北京卫视
-http://124.232.233.15:6610/000000001001/201500000065/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
-#EXTINF:-1 tvg-id="39" tvg-name="天津卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/tianjin.png" group-title="长沙电信-高码",天津卫视
-http://124.232.233.15:6610/000000001001/201500000123/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
-#EXTINF:-1 tvg-id="38" tvg-name="山东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png" group-title="长沙电信-高码",山东卫视
-http://124.232.233.15:6610/000000001001/201500000071/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
-#EXTINF:-1 tvg-id="33" tvg-name="广东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="长沙电信-高码",广东卫视
-http://124.232.233.15:6610/000000001001/201500000335/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
-#EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="长沙电信-高码",江苏卫视
-http://124.232.233.15:6610/000000001001/201500000070/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
-#EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="长沙电信-高码",浙江卫视
-http://124.232.233.15:6610/000000001001/201500000064/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
-#EXTINF:-1 tvg-id="34" tvg-name="深圳卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shenzhen.png" group-title="长沙电信-高码",深圳卫视
-http://124.232.233.15:6610/000000001001/201500000066/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
-#EXTINF:-1 tvg-id="48" tvg-name="湖北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hubei.png" group-title="长沙电信-高码",湖北卫视
-http://124.232.233.15:6610/000000001001/201500000159/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
-#EXTINF:-1 tvg-id="46" tvg-name="黑龙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png" group-title="长沙电信-高码",黑龙江卫视
-http://124.232.233.15:6610/000000001001/201500000072/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
-#EXTINF:-1 tvg-id="69" tvg-name="金鹰卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinyingkatong.png" group-title="长沙电信-高码",湖南金鹰卡通
-http://124.232.233.15:6610/000000001001/201500000154/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
-#EXTINF:-1 tvg-id="2025" tvg-name="金鹰纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jinyingjishi.png" group-title="长沙电信-高码",湖南金鹰纪实
-http://124.232.233.15:6610/000000001001/201500000238/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
-#EXTINF:-1 tvg-id="2025" tvg-name="金鹰纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jinyingjishi.png" group-title="长沙电信-高码",湖南金鹰纪实
-http://124.232.233.15:6610/000000001001/201500000240/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
-#EXTINF:-1 tvg-id="2025" tvg-name="金鹰纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jinyingjishi.png" group-title="长沙电信-高码",湖南金鹰纪实
-http://124.232.233.15:6610/000000001001/201500000156/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
-#EXTINF:-1 tvg-id="6595" tvg-name="快乐垂钓" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/KUAILECHUIDIAO.jpg" group-title="长沙电信-高码",湖南快乐垂钓
-http://124.232.233.15:6610/000000001001/201500000245/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
-#EXTINF:-1 tvg-id="6595" tvg-name="快乐垂钓" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/KUAILECHUIDIAO.jpg" group-title="长沙电信-高码",湖南快乐垂钓
-http://124.232.233.15:6610/000000001001/201500000048/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="长沙电信-高码",IPTV4K
-http://124.232.233.15:6610/000000001001/201500000218/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="长沙电信-高码",IPTV好吃厨房
-http://124.232.233.15:6610/000000001001/201500000085/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="长沙电信-高码",IPTV电竞
-http://124.232.233.15:6610/000000001001/201500000306/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="长沙电信-高码",狗狗TV
-http://124.232.233.15:6610/000000001001/201500000333/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
-#EXTINF:-1 tvg-id="芒果独播" tvg-name="芒果独播" tvg-logo="" group-title="长沙电信-高码",芒果TV
-http://124.232.233.15:6610/000000001001/201500000329/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
-#EXTINF:-1 tvg-id="芒果独播" tvg-name="芒果独播" tvg-logo="" group-title="长沙电信-高码",芒果TV
-http://124.232.233.15:6610/000000001001/201500000331/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
-#EXTINF:-1 tvg-id="湖南公共" tvg-name="湖南公共" tvg-logo="" group-title="长沙电信-高码",湖南公共
-http://124.232.233.15:6610/000000001001/201500000241/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
-#EXTINF:-1 tvg-id="湖南公共" tvg-name="湖南公共" tvg-logo="" group-title="长沙电信-高码",湖南公共
-http://124.232.233.15:6610/000000001001/201500000222/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="长沙电信-高码",湖南国际
-http://124.232.233.15:6610/000000001001/201500000242/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="长沙电信-高码",湖南国际
-http://124.232.233.15:6610/000000001001/201500000153/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
-#EXTINF:-1 tvg-id="湖南娱乐" tvg-name="湖南娱乐" tvg-logo="" group-title="长沙电信-高码",湖南娱乐
-http://124.232.233.15:6610/000000001001/201500000239/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
-#EXTINF:-1 tvg-id="湖南娱乐" tvg-name="湖南娱乐" tvg-logo="" group-title="长沙电信-高码",湖南娱乐
-http://124.232.233.15:6610/000000001001/201500000152/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="长沙电信-高码",湖南快乐购
-http://124.232.233.15:6610/000000001001/201500000243/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="长沙电信-高码",湖南快乐购
-http://124.232.233.15:6610/000000001001/201500000223/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="长沙电信-高码",湖南电影
-http://124.232.233.15:6610/000000001001/201500000237/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="长沙电信-高码",湖南电影
-http://124.232.233.15:6610/000000001001/201500000216/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
-#EXTINF:-1 tvg-id="湖南电视剧" tvg-name="湖南电视剧" tvg-logo="" group-title="长沙电信-高码",湖南电视剧
-http://124.232.233.15:6610/000000001001/201500000236/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
-#EXTINF:-1 tvg-id="湖南电视剧" tvg-name="湖南电视剧" tvg-logo="" group-title="长沙电信-高码",湖南电视剧
-http://124.232.233.15:6610/000000001001/201500000155/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
-#EXTINF:-1 tvg-id="湖南经视" tvg-name="湖南经视" tvg-logo="" group-title="长沙电信-高码",湖南经视
-http://124.232.233.15:6610/000000001001/201500000234/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
-#EXTINF:-1 tvg-id="湖南经视" tvg-name="湖南经视" tvg-logo="" group-title="长沙电信-高码",湖南经视
-http://124.232.233.15:6610/000000001001/201500000068/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
-#EXTINF:-1 tvg-id="湖南都市" tvg-name="湖南都市" tvg-logo="" group-title="长沙电信-高码",湖南都市
-http://124.232.233.15:6610/000000001001/201500000235/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
-#EXTINF:-1 tvg-id="湖南都市" tvg-name="湖南都市" tvg-logo="" group-title="长沙电信-高码",湖南都市
-http://124.232.233.15:6610/000000001001/201500000151/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="长沙电信-高码",浏阳新闻
-http://124.232.233.15:6610/000000001001/201500000334/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="长沙电信-高码",长沙政法
-http://124.232.233.15:6610/000000001001/201500000229/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="长沙电信-高码",长沙新闻
-http://124.232.233.15:6610/000000001001/201500000232/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
+
 
 
 
@@ -1704,68 +1570,68 @@ http://30515.hlsplay.aodianyun.com/lms_30515/tv_channel_239.m3u8
 
 
 #EXTINF:-1 tvg-id="69" tvg-name="金鹰卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinyingkatong.png" group-title="湘鄂赣皖",湖南金鹰卡通
-http://124.232.233.15:6610/000000001001/201500000154/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
+
 #EXTINF:-1 tvg-id="6595" tvg-name="快乐垂钓" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/KUAILECHUIDIAO.jpg" group-title="湘鄂赣皖",湖南快乐垂钓
-http://124.232.233.15:6610/000000001001/201500000245/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
+
 #EXTINF:-1 tvg-id="湖南公共" tvg-name="湖南公共" tvg-logo="https://www.hualigs.cn/image/61e03e18ea4d9.jpg" group-title="湘鄂赣皖",湖南公共
-http://124.232.233.15:6610/000000001001/201500000222/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.hualigs.cn/image/61e03e18c9592.jpg" group-title="湘鄂赣皖",湖南国际
-http://124.232.233.15:6610/000000001001/201500000153/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
+
 #EXTINF:-1 tvg-id="湖南娱乐" tvg-name="湖南娱乐" tvg-logo="https://www.hualigs.cn/image/61e03e18c57c4.jpg" group-title="湘鄂赣皖",湖南娱乐
-http://124.232.233.15:6610/000000001001/201500000152/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.hualigs.cn/image/61e03e18cf4a4.jpg" group-title="湘鄂赣皖",湖南电影
-http://124.232.233.15:6610/000000001001/201500000216/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
+
 #EXTINF:-1 tvg-id="湖南电视剧" tvg-name="湖南电视剧" tvg-logo="https://www.hualigs.cn/image/61e03e18cf4a4.jpg" group-title="湘鄂赣皖",湖南电视剧
-http://124.232.233.15:6610/000000001001/201500000155/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
+
 #EXTINF:-1 tvg-id="湖南经视" tvg-name="湖南经视" tvg-logo="https://www.hualigs.cn/image/61e03e18c2d1d.jpg" group-title="湘鄂赣皖",湖南经视
-http://124.232.233.15:6610/000000001001/201500000068/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
+
 #EXTINF:-1 tvg-id="湖南都市" tvg-name="湖南都市" tvg-logo="https://www.hualigs.cn/image/61e03e18f05bc.jpg" group-title="湘鄂赣皖",湖南都市
-http://124.232.233.15:6610/000000001001/201500000151/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
+
 #EXTINF:-1 tvg-id="湖南教育" tvg-name="湖南教育" tvg-logo="" group-title="湘鄂赣皖",湖南教育
 http://119.39.128.12:88/hls/25/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.hualigs.cn/image/61e03e18ed574.jpg" group-title="湘鄂赣皖",狗狗TV
-http://124.232.233.15:6610/000000001001/201500000333/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
+
 #EXTINF:-1 tvg-id="芒果独播" tvg-name="芒果独播" tvg-logo="https://www.hualigs.cn/image/61e03e18eac9c.jpg" group-title="湘鄂赣皖",芒果TV
-http://124.232.233.15:6610/000000001001/201500000331/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.hualigs.cn/image/61e045bb78f67.jpg" group-title="湘鄂赣皖",湖南快乐购
-http://124.232.233.15:6610/000000001001/201500000223/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.hualigs.cn/image/61e0457b3c5bb.jpg" group-title="湘鄂赣皖",长沙政法
-http://124.232.233.15:6610/000000001001/201500000229/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.hualigs.cn/image/61e0457b3ef7f.jpg" group-title="湘鄂赣皖",长沙新闻
-http://124.232.233.15:6610/000000001001/201500000232/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.hualigs.cn/image/61e0457b39ccb.jpg" group-title="湘鄂赣皖",浏阳新闻
-http://124.232.233.15:6610/000000001001/201500000334/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
+
 
 #EXTINF:-1 tvg-id="1778" tvg-name="湖北综合频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/HUBEI2.png" group-title="湘鄂赣皖",湖北综合
-#
+
 #EXTINF:-1 tvg-id="1783" tvg-name="湖北公共·新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/HUBEI7.png" group-title="湘鄂赣皖",湖北公共新闻
-#
+
 #EXTINF:-1 tvg-id="湖北经济" tvg-name="湖北经济" tvg-logo="https://www.hualigs.cn/image/61e03a58c011c.jpg" group-title="湘鄂赣皖",湖北经视
-#
+
 #EXTINF:-1 tvg-id="1780" tvg-name="湖北教育频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/HUBEI4.png" group-title="湘鄂赣皖",湖北教育
-#
+
 #EXTINF:-1 tvg-id="1785" tvg-name="湖北垄上频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/HBLS.png" group-title="湘鄂赣皖",湖北垄上
-#
+
 #EXTINF:-1 tvg-id="1781" tvg-name="湖北生活频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/HUBEI5.png" group-title="湘鄂赣皖",湖北生活
-#
+
 #EXTINF:-1 tvg-id="1779" tvg-name="湖北影视频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/HUBEI3.png" group-title="湘鄂赣皖",湖北影视
-#
+
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.hualigs.cn/image/61e04024d0658.jpg" group-title="湘鄂赣皖",江西都市
-#
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.hualigs.cn/image/61e0402497983.jpg" group-title="湘鄂赣皖",江西经济生活
-#
+
 #EXTINF:-1 tvg-id="江西影视娱乐" tvg-name="江西影视娱乐" tvg-logo="https://www.hualigs.cn/image/61e04024ac669.jpg" group-title="湘鄂赣皖",江西影视旅游
-#
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.hualigs.cn/image/61e04024d3631.jpg" group-title="湘鄂赣皖",江西公共农业
-#
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.hualigs.cn/image/61e04024ac669.jpg" group-title="湘鄂赣皖",江西少儿
-#
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.hualigs.cn/image/61e04024d6742.jpg" group-title="湘鄂赣皖",江西新闻
-#
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.hualigs.cn/image/61e04024dafc1.jpg" group-title="湘鄂赣皖",江西移动电视
-#
+
 
 #EXTINF:-1 tvg-id="安徽经济生活" tvg-name="安徽经济生活" tvg-logo="https://www.hualigs.cn/image/6159c1331c55c.jpg" group-title="湘鄂赣皖",安徽经视
 http://zbbf2.ahtv.cn/live/750.m3u8
@@ -3212,7 +3078,7 @@ http://111.20.33.93/TVOD/88888893/224/3221226352/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.hualigs.cn/image/61d94dc432f07.jpg" group-title="4K体验",爱上4K
 http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226352/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.hualigs.cn/image/61d9553179c26.jpg" group-title="4K体验",IPTV 4K
-http://124.232.233.15:6610/000000001001/201500000218/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
+
 #EXTINF:-1 tvg-logo="https://www.hualigs.cn/image/61d93fa998b44.jpg" group-title="4K体验",Love Nature 4K
 https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 #EXTINF:-1 tvg-logo="https://www.hualigs.cn/image/61d93fa998b44.jpg" group-title="4K体验",Love Nature 4K
@@ -4541,73 +4407,73 @@ http://y3y4.f3322.net:8088/hls/103/index.m3u8
 http://y3y4.f3322.net:8088/hls/104/index.m3u8
 
 #EXTINF:-1 logo="" group-title="NBA PASS仅直播时有效" ,TNT
-https://d2tj0mi9jdso2q.cloudfront.net:443/hls/TNT/playlist.m3u8
+https://d1mjgje9chpb23.cloudfront.net/hls/TNT/playlist.m3u8
 #EXTINF:-1 logo="" group-title="NBA PASS仅直播时有效" ,ABC
-https://d2tj0mi9jdso2q.cloudfront.net/hls/abc/playlist.m3u8
+https://d1mjgje9chpb23.cloudfront.net/hls/abc/playlist.m3u8
 #EXTINF:-1 logo="" group-title="NBA PASS仅直播时有效" ,ESPN
-https://d2tj0mi9jdso2q.cloudfront.net:443/hls/espn/chunks.m3u8
+https://d1mjgje9chpb23.cloudfront.net/hls/espn/chunks.m3u8
 #EXTINF:-1 logo="" group-title="NBA PASS仅直播时有效" ,NBA TV
-https://d2tj0mi9jdso2q.cloudfront.net/hls/nbatv/chunks.m3u8?SBN
+https://d1mjgje9chpb23.cloudfront.net/hls/nbatv/chunks.m3u8?SBN
 #EXTINF:-1 logo="" group-title="NBA PASS仅直播时有效" ,公鹿
-https://d2tj0mi9jdso2q.cloudfront.net:443/hls/bucks/chunks.m3u8
+https://d1mjgje9chpb23.cloudfront.net/hls/bucks/chunks.m3u8
 #EXTINF:-1 logo="" group-title="NBA PASS仅直播时有效" ,太阳
-https://d2tj0mi9jdso2q.cloudfront.net:443/hls/suns/chunks.m3u8
+https://d1mjgje9chpb23.cloudfront.net/hls/suns/chunks.m3u8
 #EXTINF:-1 logo="" group-title="NBA PASS仅直播时有效" ,魔术
-https://d2tj0mi9jdso2q.cloudfront.net:443/hls/magic/chunks.m3u8?SBN
+https://d1mjgje9chpb23.cloudfront.net/hls/magic/chunks.m3u8?SBN
 #EXTINF:-1 logo="" group-title="NBA PASS仅直播时有效" ,黄蜂
-https://d2tj0mi9jdso2q.cloudfront.net:443/hls/hornets/chunks.m3u8?SBN
+https://d1mjgje9chpb23.cloudfront.net/hls/hornets/chunks.m3u8?SBN
 #EXTINF:-1 logo="" group-title="NBA PASS仅直播时有效" ,金块
-https://d2tj0mi9jdso2q.cloudfront.net:443/hls/nuggets/chunks.m3u8?SBN
+https://d1mjgje9chpb23.cloudfront.net/hls/nuggets/chunks.m3u8?SBN
 #EXTINF:-1 logo="" group-title="NBA PASS仅直播时有效" ,独行侠
-https://d2tj0mi9jdso2q.cloudfront.net:443/hls/mavericks/chunks.m3u8
+https://d1mjgje9chpb23.cloudfront.net/hls/mavericks/chunks.m3u8
 #EXTINF:-1 logo="" group-title="NBA PASS仅直播时有效" ,骑士
-https://d2tj0mi9jdso2q.cloudfront.net:443/hls/cavaliers/chunks.m3u8
+https://d1mjgje9chpb23.cloudfront.net/hls/cavaliers/chunks.m3u8
 #EXTINF:-1 logo="" group-title="NBA PASS仅直播时有效" ,篮网
-https://d2tj0mi9jdso2q.cloudfront.net:443/hls/nets/chunks.m3u8
+https://d1mjgje9chpb23.cloudfront.net/hls/nets/chunks.m3u8
 #EXTINF:-1 logo="" group-title="NBA PASS仅直播时有效" ,公牛
-https://d2tj0mi9jdso2q.cloudfront.net:443/hls/bulls/chunks.m3u8
+https://d1mjgje9chpb23.cloudfront.net/hls/bulls/chunks.m3u8
 #EXTINF:-1 logo="" group-title="NBA PASS仅直播时有效" ,马刺
-https://d2tj0mi9jdso2q.cloudfront.net:443/hls/spurs/chunks.m3u8
+https://d1mjgje9chpb23.cloudfront.net/hls/spurs/chunks.m3u8
 #EXTINF:-1 logo="" group-title="NBA PASS仅直播时有效" ,拓荒者
-https://d2tj0mi9jdso2q.cloudfront.net:443/hls/blazers/chunks.m3u8
+https://d1mjgje9chpb23.cloudfront.net/hls/blazers/chunks.m3u8
 #EXTINF:-1 logo="" group-title="NBA PASS仅直播时有效" ,76人
-https://d2tj0mi9jdso2q.cloudfront.net:443/hls/76ers/chunks.m3u8?SBN
+https://d1mjgje9chpb23.cloudfront.net/hls/76ers/chunks.m3u8?SBN
 #EXTINF:-1 logo="" group-title="NBA PASS仅直播时有效" ,鹰队
-https://d2tj0mi9jdso2q.cloudfront.net:443/hls/hawks/chunks.m3u8
+https://d1mjgje9chpb23.cloudfront.net/hls/hawks/chunks.m3u8
 #EXTINF:-1 logo="" group-title="NBA PASS仅直播时有效" ,热火
-https://d2tj0mi9jdso2q.cloudfront.net:443/hls/heat/chunks.m3u8
+https://d1mjgje9chpb23.cloudfront.net/hls/heat/chunks.m3u8
 #EXTINF:-1 logo="" group-title="NBA PASS仅直播时有效" ,塞尔特人
-https://d2tj0mi9jdso2q.cloudfront.net:443/hls/celtics/chunks.m3u8
+https://d1mjgje9chpb23.cloudfront.net/hls/celtics/chunks.m3u8
 #EXTINF:-1 logo="" group-title="NBA PASS仅直播时有效" ,巫师
-https://d2tj0mi9jdso2q.cloudfront.net:443/hls/wizards/chunks.m3u8
+https://d1mjgje9chpb23.cloudfront.net/hls/wizards/chunks.m3u8
 #EXTINF:-1 logo="" group-title="NBA PASS仅直播时有效" ,速龙
-https://d2tj0mi9jdso2q.cloudfront.net:443/hls/raptors/chunks.m3u8 
+https://d1mjgje9chpb23.cloudfront.net/hls/raptors/chunks.m3u8 
 #EXTINF:-1 logo="" group-title="NBA PASS仅直播时有效" ,勇士
-https://d2tj0mi9jdso2q.cloudfront.net:443/hls/warriors/chunks.m3u8
+https://d1mjgje9chpb23.cloudfront.net/hls/warriors/chunks.m3u8
 #EXTINF:-1 logo="" group-title="NBA PASS仅直播时有效" ,尼克斯
-https://d2tj0mi9jdso2q.cloudfront.net:443/hls/knicks/chunks.m3u8
+https://d1mjgje9chpb23.cloudfront.net/hls/knicks/chunks.m3u8
 #EXTINF:-1 logo="" group-title="NBA PASS仅直播时有效" ,遛马
-https://d2tj0mi9jdso2q.cloudfront.net:443/hls/pacers/chunks.m3u8
+https://d1mjgje9chpb23.cloudfront.net/hls/pacers/chunks.m3u8
 #EXTINF:-1 logo="" group-title="NBA PASS仅直播时有效" ,活塞
-https://d2tj0mi9jdso2q.cloudfront.net:443/hls/pistons/chunks.m3u8 
+https://d1mjgje9chpb23.cloudfront.net/hls/pistons/chunks.m3u8 
 #EXTINF:-1 logo="" group-title="NBA PASS仅直播时有效" ,灰熊
-https://d2tj0mi9jdso2q.cloudfront.net:443/hls/grizzlies/chunks.m3u8
+https://d1mjgje9chpb23.cloudfront.net/hls/grizzlies/chunks.m3u8
 #EXTINF:-1 logo="" group-title="NBA PASS仅直播时有效" ,爵士
-https://d2tj0mi9jdso2q.cloudfront.net:443/hls/jazz/chunks.m3u8
+https://d1mjgje9chpb23.cloudfront.net/hls/jazz/chunks.m3u8
 #EXTINF:-1 logo="" group-title="NBA PASS仅直播时有效" ,木狼
-https://d2tj0mi9jdso2q.cloudfront.net:443/hls/timberwolves/chunks.m3u8
+https://d1mjgje9chpb23.cloudfront.net/hls/timberwolves/chunks.m3u8
 #EXTINF:-1 logo="" group-title="NBA PASS仅直播时有效" ,快艇
-https://d2tj0mi9jdso2q.cloudfront.net:443/hls/clippers/chunks.m3u8
+https://d1mjgje9chpb23.cloudfront.net/hls/clippers/chunks.m3u8
 #EXTINF:-1 logo="" group-title="NBA PASS仅直播时有效" ,湖人
-https://d2tj0mi9jdso2q.cloudfront.net:443/hls/lakers/chunks.m3u8
+https://d1mjgje9chpb23.cloudfront.net/hls/lakers/chunks.m3u8
 #EXTINF:-1 logo="" group-title="NBA PASS仅直播时有效" ,鹈鹕
-https://d2tj0mi9jdso2q.cloudfront.net:443/hls/pelicans/chunks.m3u8
+https://d1mjgje9chpb23.cloudfront.net/hls/pelicans/chunks.m3u8
 #EXTINF:-1 logo="" group-title="NBA PASS仅直播时有效" ,雷霆
-https://d2tj0mi9jdso2q.cloudfront.net:443/hls/thunder/chunks.m3u8
+https://d1mjgje9chpb23.cloudfront.net/hls/thunder/chunks.m3u8
 #EXTINF:-1 logo="" group-title="NBA PASS仅直播时有效" ,国王
-https://d2tj0mi9jdso2q.cloudfront.net:443/hls/kings/chunks.m3u8
+https://d1mjgje9chpb23.cloudfront.net/hls/kings/chunks.m3u8
 #EXTINF:-1 logo="" group-title="NBA PASS仅直播时有效" ,火箭
-https://d2tj0mi9jdso2q.cloudfront.net:443/hls/rockets/chunks.m3u8
+https://d1mjgje9chpb23.cloudfront.net/hls/rockets/chunks.m3u8
 
 #EXTINF:-1 tvg-id="BBCUHDTrial1.uk"  tvg-logo="" group-title="仅限英国IP",BBC UHD Trial 1
 https://a.files.bbci.co.uk/media/live/manifesto/audio_video/webcast/dash/uk/full/ak/uhd_stream_01.mpd
