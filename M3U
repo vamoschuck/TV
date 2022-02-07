@@ -1,55 +1,60 @@
 #EXTM3U url-tvg="http://epg.51zmt.top:8000/e.xml,https://epg.112114.xyz/pp.xml,https://i.mjh.nz/au/Sydney/epg.xml.gz,https://i.mjh.nz/au/Perth/epg.xml.gz,https://i.mjh.nz/PlutoTV/us.xml.gz" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
 
-#EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="假4K8K",CCTV4K
-http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
-#EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="假4K8K",CCTV4K
-http://39.135.59.185/live.gq.miguvideo.com/migu/sports/50zhenyh6/57/20210608/index.m3u8?&encrypt=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV8K.png" group-title="假4K8K",CCTV8K
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV8K.png" group-title="北京冬奥",CCTV8K
 http://39.135.59.185/live.gq.miguvideo.com/migu/sports/50zhenyh7/57/20210608/index.m3u8?&encrypt=
-#EXTINF:-1 tvg-id="1872" tvg-name="北京纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png" group-title="假4K8K",东奥纪实8K
+#EXTINF:-1 tvg-id="1872" tvg-name="北京纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png" group-title="北京冬奥",冬奥纪实8K
 http://39.135.59.185/live.gq.miguvideo.com/migu/sports/50zhenyh8/57/20210608/index.m3u8?&encrypt=
-
-
-
-#EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="央卫晚会北京冬奥",CCTV4K 回看
+#EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="北京冬奥",CCTV4K
+http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
+#EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="北京冬奥",CCTV4K
+http://39.135.59.185/live.gq.miguvideo.com/migu/sports/50zhenyh6/57/20210608/index.m3u8?&encrypt=
+#EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="北京冬奥",CCTV4K 回看
 http://39.134.71.75/ott.js.chinamobile.com/TVOD/3/224/3221228228/index.m3u8
-#EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="央卫晚会北京冬奥",CCTV4K 回看
+#EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="北京冬奥",CCTV4K 回看
 http://ott.js.chinamobile.com/TVOD/3/224/3221228242/index.m3u8
-#EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="央卫晚会北京冬奥",CCTV4K HDR
-http://223.110.236.8/ott.js.chinamobile.com/PLTV/3/224/3221228242/index.m3u8
-#EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="央卫晚会北京冬奥",CCTV4K HDR
-http://223.110.236.17/ott.js.chinamobile.com/PLTV/3/224/3221228165/index.m3u8
-#EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="央卫晚会北京冬奥",CCTV4K UHD HDR
+#EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="北京冬奥",CCTV4K UHD HDR
 http://ye23.win/iptv/4k.cctv.php
-#EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="央卫晚会北京冬奥",CCTV4K UHD HDR
+#EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="北京冬奥",CCTV4K UHD HDR
 https://p.ggiptv.com/v/4k.m3u8
-
-#EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="央卫晚会北京冬奥",CCTV16 4K
+#EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="北京冬奥",CCTV16 4K
 http://ott.js.chinamobile.com/PLTV/3/224/3221228127/index.m3u8
-#EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="央卫晚会北京冬奥",CCTV16 回看
+#EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="北京冬奥",CCTV16 回看
 http://39.135.138.60:18890/TVOD/88888910/224/3221226230/index.m3u8
-#EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="央卫晚会北京冬奥",CCTV16 回看
+#EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="北京冬奥",CCTV16 回看
 http://39.135.138.60:18890/TVOD/88888910/224/3221226233/index.m3u8
-#EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="央卫晚会北京冬奥",CCTV奥林匹克
+#EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="北京冬奥",CCTV奥林匹克
 http://39.134.71.75/ott.js.chinamobile.com/TVOD/3/224/3221228127/index.m3u8
-#EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="央卫晚会北京冬奥",CCTV奥林匹克
+#EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="北京冬奥",CCTV奥林匹克
 http://39.134.71.75/ott.js.chinamobile.com/TVOD/3/224/3221228168/index.m3u8
-#EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="央卫晚会北京冬奥",CCTV16 4K 回看
+#EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="北京冬奥",CCTV16 4K 回看
 http://ott.js.chinamobile.com/TVOD/3/224/3221228127/index.m3u8
-#EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="央卫晚会北京冬奥",CCTV16 4K 25MB 回看
+#EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="北京冬奥",CCTV16 4K 25MB 回看
 http://223.110.235.9/ott.js.chinamobile.com/TVOD/3/224/3221228168/index.m3u8
-#EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="央卫晚会北京冬奥",CCTV16 4K 34MB HDR 回看
+#EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="北京冬奥",CCTV16 4K 34MB HDR 回看
 http://223.110.235.24/ott.js.chinamobile.com/TVOD/3/224/3221228127/index.m3u8
+#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="北京冬奥",CCTV-5 体育
+http://ott.js.chinamobile.com/PLTV/3/224/3221227661/index.m3u8
+#EXTINF:-1  tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="北京冬奥",CCTV5
+http://223.110.245.145/ott.js.chinamobile.com/TVOD/3/224/3221227166/index.m3u8
+#EXTINF:-1  tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="北京冬奥",CCTV-5体育
+http://39.135.138.60:18890/TVOD/88888910/224/3221225633/index.m3u8
+#EXTINF:-1 tvg-id="5" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="北京冬奥",CCTV-5HD
+http://223.110.251.219:6610/gitv/live1/G_CCTV-5-HQ/G_CCTV-5-HQ/.m3u8
+#EXTINF:-1 group-title="北京冬奥" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png",CCTV5+
+http://223.110.244.131:6610/jsyd/live1/G_CCTV-5PLUS-MD/G_CCTV-5PLUS-MD/
+#EXTINF:-1 group-title="北京冬奥" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png",CCTV5+
+http://223.110.244.130:6610/jsyd/live1/G_CCTV-5PLUS-MD/G_CCTV-5PLUS-MD/
+#EXTINF:-1 group-title="北京冬奥" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png",CCTV5+
+http://223.110.244.133:6610/jsyd/live1/G_CCTV-5PLUS-MD/G_CCTV-5PLUS-MD/
+#EXTINF:-1 group-title="北京冬奥" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png",CCTV5+
+http://223.110.244.136:6610/jsyd/live1/G_CCTV-5PLUS-MD/G_CCTV-5PLUS-MD/
+#EXTINF:-1 group-title="北京冬奥" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png",CCTV5+
+http://223.110.244.134:6610/jsyd/live1/G_CCTV-5PLUS-MD/G_CCTV-5PLUS-MD/
+#EXTINF:-1 group-title="北京冬奥" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png",CCTV5+
+http://223.110.244.139:6610/jsyd/live1/G_CCTV-5PLUS-MD/G_CCTV-5PLUS-MD/
 
 
 
-
-#EXTINF:-1  tvg-id="31" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="央卫晚会北京冬奥",东方卫视
-http://223.110.245.146/ott.js.chinamobile.com/TVOD/3/224/3221227511/index.m3u8
-
-
-#EXTINF:-1  tvg-id="29" tvg-name="江苏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="央卫晚会北京冬奥",江苏卫视
-http://223.110.245.152/ott.js.chinamobile.com/TVOD/3/224/3221227561/index.m3u8
 
 
 
@@ -1095,86 +1100,7 @@ http://111.11.121.184:6610/030000001001/SD-1500k-576P-bokesen/1.m3u8?channel-id=
 
 
 
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="江苏移动",CCTV-1HD
-http://223.110.251.219:6610/gitv/live1/G_CCTV-1-HQ/G_CCTV-1-HQ/.m3u8
-#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="江苏移动",CCTV-2HD
-http://223.110.251.219:6610/gitv/live1/G_CCTV-2/G_CCTV-2/.m3u8
-#EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="江苏移动",CCTV-3HD
-http://223.110.251.219:6610/gitv/live1/G_CCTV-3-HQ/G_CCTV-3-HQ/.m3u8
-#EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="江苏移动",CCTV-4HD
-http://223.110.251.219:6610/gitv/live1/G_CCTV-4-HQ/G_CCTV-4-HQ/.m3u8
-#EXTINF:-1 tvg-id="5" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="江苏移动",CCTV-5HD
-http://223.110.251.219:6610/gitv/live1/G_CCTV-5-HQ/G_CCTV-5-HQ/.m3u8
-#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="江苏移动",CCTV-5+HD
-http://223.110.251.219:6610/gitv/live1/G_CCTV-5PLUS-HQ/G_CCTV-5PLUS-HQ/.m3u8
-#EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="江苏移动",CCTV-6HD
-http://223.110.251.219:6610/gitv/live1/G_CCTV-6-HQ/G_CCTV-6-HQ/.m3u8
-#EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="江苏移动",CCTV-7HD
-http://223.110.251.219:6610/gitv/live1/G_CCTV-7-HQ/G_CCTV-7-HQ/.m3u8
-#EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="江苏移动",CCTV-8HD
-http://223.110.251.219:6610/gitv/live1/G_CCTV-8-HQ/G_CCTV-8-HQ/.m3u8
-#EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" group-title="江苏移动",CCTV-9HD
-http://223.110.251.219:6610/gitv/live1/G_CCTV-9/G_CCTV-9/.m3u8
-#EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" group-title="江苏移动",CCTV-10HD
-http://223.110.251.219:6610/gitv/live1/G_CCTV-10-HQ/G_CCTV-10-HQ/.m3u8
-#EXTINF:-1 tvg-id="12" tvg-name="CCTV11" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png" group-title="江苏移动",CCTV-11HD
-http://223.110.251.219:6610/gitv/live1/G_CCTV-11-HQ/G_CCTV-11-HQ/.m3u8
-#EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" group-title="江苏移动",CCTV-12HD
-http://223.110.251.219:6610/gitv/live1/CCTV-12/CCTV-12/.m3u8
-#EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="江苏移动",CCTV-13HD
-http://223.110.251.219:6610/gitv/live1/G_CCTV-13-HQ/G_CCTV-13-HQ/.m3u8
-#EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="江苏移动",CCTV-14HD
-http://223.110.251.219:6610/gitv/live1/G_CCTV-14/G_CCTV-14/.m3u8
-#EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="江苏移动",CCTV-15HD
-http://223.110.251.219:6610/gitv/live1/G_CCTV-15/G_CCTV-15/.m3u8
-#EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="江苏移动",CCTV-17HD
-http://223.110.251.219:6610/gitv/live1/G_CCTV-17/G_CCTV-17/.m3u8
-#EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="江苏移动",CGTN-国际电视台
-http://223.110.251.219:6610/gitv/live1/G_CCTV-NEWS/G_CCTV-NEWS/.m3u8
-#EXTINF:-1 tvg-id="32" tvg-name="安徽卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png" group-title="江苏移动",安徽卫视HD
-http://223.110.251.219:6610/gitv/live1/AHWS/AHWS/.m3u8
-#EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="江苏移动",北京卫视HD
-http://223.110.251.219:6610/gitv/live1/G_BEIJING-CQ/G_BEIJING-CQ/1.m3u8
-#EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="江苏移动",东方卫视HD
-http://223.110.251.219:6610/gitv/live1/G_DONGFANG-CQ/G_DONGFANG-CQ/1.m3u8
-#EXTINF:-1 tvg-id="41" tvg-name="东南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongnan.png" group-title="江苏移动",东南卫视HD
-http://223.110.251.219:6610/gitv/live1/DNWS/DNWS/.m3u8
-#EXTINF:-1 tvg-id="33" tvg-name="广东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="江苏移动",广东卫视HD
-http://223.110.251.219:6610/gitv/live1/G_GUANGDONG/G_GUANGDONG/.m3u8
-#EXTINF:-1 tvg-id="44" tvg-name="贵州卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guizhou.png" group-title="江苏移动",贵州卫视HD
-http://223.110.251.219:6610/gitv/live1/G_GUIZHOU/G_GUIZHOU/.m3u8
-#EXTINF:-1 tvg-id="47" tvg-name="河南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/henan.png" group-title="江苏移动",河南卫视HD
-http://223.110.251.219:6610/gitv/live1/HENAN/HENAN/.m3u8
-#EXTINF:-1 tvg-id="46" tvg-name="黑龙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png" group-title="江苏移动",黑龙江卫视HD
-http://223.110.251.219:6610/gitv/live1/G_HEILONGJIANG/G_HEILONGJIANG/.m3u8
-#EXTINF:-1 tvg-id="48" tvg-name="湖北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hubei.png" group-title="江苏移动",湖北卫视HD
-http://223.110.251.219:6610/gitv/live1/G_HUBEI/G_HUBEI/.m3u8
-#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="江苏移动",湖南卫视HD
-http://223.110.251.219:6610/gitv/live1/G_HUNAN-CQ/G_HUNAN-CQ/1.m3u8
-#EXTINF:-1 tvg-id="51" tvg-name="吉林卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jilin.png" group-title="江苏移动",吉林卫视HD
-http://223.110.251.219:6610/gitv/live1/G_JILIN/G_JILIN/.m3u8
-#EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="江苏移动",江苏卫视HD
-http://223.110.251.219:6610/gitv/live1/G_JIANGSU-CQ/G_JIANGSU-CQ/1.m3u8
-#EXTINF:-1 tvg-id="50" tvg-name="江西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangxi.png" group-title="江苏移动",江西卫视HD
-http://223.110.251.219:6610/gitv/live1/JXWS/JXWS/.m3u8
-#EXTINF:-1 tvg-id="36" tvg-name="辽宁卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png" group-title="江苏移动",辽宁卫视HD
-http://223.110.251.219:6610/gitv/live1/LNWS/LNWS/.m3u8
-#EXTINF:-1 tvg-id="68" tvg-name="厦门卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xiamen.png" group-title="江苏移动",厦门卫视HD
-http://223.110.251.219:6610/gitv/live1/G_XIAMEN/G_XIAMEN/.m3u8
-#EXTINF:-1 tvg-id="38" tvg-name="山东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png" group-title="江苏移动",山东卫视HD
-http://223.110.251.219:6610/gitv/live1/G_SHANDONG-HQ/G_SHANDONG-HQ/1.m3u8
-#EXTINF:-1 tvg-id="54" tvg-name="山西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi_.png" group-title="江苏移动",山西卫视HD
-http://223.110.251.219:6610/gitv/live1/SXWS/SXWS/.m3u8
-#EXTINF:-1 tvg-id="34" tvg-name="深圳卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shenzhen.png" group-title="江苏移动",深圳卫视HD
-http://223.110.251.219:6610/gitv/live1/G_SHENZHEN/G_SHENZHEN/.m3u8
-#EXTINF:-1 tvg-id="56" tvg-name="四川卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sichuan.png" group-title="江苏移动",四川卫视HD
-http://223.110.251.219:6610/gitv/live1/SCWS/SCWS/.m3u8
-#EXTINF:-1 tvg-id="39" tvg-name="天津卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/tianjin.png" group-title="江苏移动",天津卫视HD
-http://223.110.251.219:6610/gitv/live1/TJWS/TJWS/.m3u8
-#EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="江苏移动",浙江卫视HD
-http://223.110.251.219:6610/gitv/live1/G_ZHEJIANG-CQ/G_ZHEJIANG-CQ/1.m3u8
-#EXTINF:-1 tvg-id="40" tvg-name="重庆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png" group-title="江苏移动",重庆卫视HD
-http://223.110.251.219:6610/gitv/live1/G_CHONGQING/G_CHONGQING/.m3u8
+
 
 #EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="京津冀鲁豫",北京卫视 FHD
 http://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s1/index.m3u8
@@ -3839,64 +3765,6 @@ http://93.152.174.144:4000/play/bein1ar/index.m3u8
 http://130.193.166.18/cache/Bein-Prem-1-HEVC/master.m3u8
 #EXTINF:-1 group-title="海外体育-随缘",DIRECTV SPORT 1
 http://user.tvcluboficial.com/stream/nov/nov/259.m3u8
-#EXTINF:-1 group-title="海外体育-随缘",DIRECTV SPORT 1
-http://qqtv.nl:8080/live/norma/12345/20106.m3u8
-#EXTINF:-1 group-title="海外体育-随缘",DIRECTV SPORT 2
-http://user.tvcluboficial.com/stream/nov/nov/667.m3u8
-#EXTINF:-1 group-title="海外体育-随缘",DIRECTV SPORT 2
-http://qqtv.nl:8080/live/norma/12345/20311.m3u8
-#EXTINF:-1 group-title="海外体育-随缘",DIRECTV SPORT +
-http://qqtv.nl:8080/live/norma/12345/20261.m3u8
-#EXTINF:-1 group-title="海外体育-随缘",BEIN SPORT 3 LIVE AR
-http://93.152.174.144:4000/play/bein3ar/index.m3u8
-#EXTINF:-1 group-title="海外体育-随缘",BEIN SPORT 3 LIVE AR
-http://93.152.174.144:4000/play/bein3ar/index.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 group-title="海外体育-随缘",BEIN SPORT 1 live TRUE VISIONS
-https://smart-tv.livedoomovie.com:4431/02_epl1_720p/chunklist.m3u8
-#EXTINF:-1 group-title="海外体育-随缘",BEIN SPORT 2 PREMIUM
-http://130.193.166.18/cache/Bein-Prem-2-HEVC/master.m3u8
-#EXTINF:-1 group-title="海外体育-随缘",BEIN SPORT 3 PREMIUM
-http://130.193.166.18/cache/Bein-Prem-3-HEVC/master.m3u8
-#EXTINF:-1 group-title="海外体育-随缘",MOVISTAR LALIGA
-http://93.152.174.144:4000/play/beinlaliga/index.m3u8
-#EXTINF:-1 group-title="海外体育-随缘",MULTIDEPORTE
-http://qqtv.nl:8080/live/norma/12345/31020.m3u8
-#EXTINF:-1 group-title="海外体育-随缘",MOVISTAR LIGA CAMPEONES
-http://qqtv.nl:8080/live/norma/12345/275184.m3u8
-#EXTINF:-1 group-title="海外体育-随缘",MOVISTAR LIGA CAMPEONES
-http://user.tvcluboficial.com/stream/nov/nov/367.m3u8
-#EXTINF:-1 group-title="海外体育-随缘",beIN Sports 1 French
-http://iv3ueltu.rostelekom.xyz/iptv/MZ47TTFQ25YSZY/2499/index.m3u8
-#EXTINF:-1 group-title="海外体育-随缘",beIN Sports 2 French
-http://iv3ueltu.rostelekom.xyz/iptv/MZ47TTFQ25YSZY/2500/index.m3u8
-#EXTINF:-1 group-title="海外体育-随缘",beIN Sports 3 French
-http://iv3ueltu.rostelekom.xyz/iptv/MZ47TTFQ25YSZY/2501/index.m3u8
-#EXTINF:-1 group-title="海外体育-随缘",BEINSPORT Ñ
-http://qqtv.nl:8080/live/norma/12345/88420.m3u8
-#EXTINF:-1 group-title="海外体育-随缘",BEINSPORT LALIGA USA
-http://qqtv.nl:8080/live/norma/12345/87458.m3u8
-#EXTINF:-1 group-title="海外体育-随缘",SETANTA SPORT
-https://bal.varcdn1.ru/lb/setanta1/index.m3u8
-#EXTINF:-1 group-title="海外体育-随缘",SETANTA SPORT HD
-https://chostv.mobie.in/choos/sports/stantahd.m3u8
-#EXTINF:-1 group-title="海外体育-随缘",QAZ SPORT
-http://92.46.127.146:8080/qazsport/index.m3u8
-#EXTINF:-1 group-title="海外体育-随缘",M.OYTGON 1HD
-http://193.33.88.172/football1_hd/index.m3u8
-#EXTINF:-1 group-title="海外体育-随缘",M.OYTGON 2HD
-http://193.33.88.172/football2_hd/index.m3u8
-#EXTINF:-1 group-title="海外体育-随缘",M.OYTGON 3HD
-http://193.33.88.172/football3_hd/index.m3u8
-#EXTINF:-1 group-title="海外体育-随缘",MATH SPORT
-https://bal.varcdn1.ru/lb/match/index.m3u8?per
-#EXTINF:-1 group-title="海外体育-随缘",ARENA SPORT 2
-http://84.22.33.214/ArenaSport2/mono.m3u8?per
-#EXTINF:-1 group-title="海外体育-随缘",BT SPORT HD 1
-http://iv3ueltu.rostelekom.xyz/iptv/MZ47TTFQ25YSZY/2505/index.m3u8
-#EXTINF:-1 group-title="海外体育-随缘",BT SPORT HD 1
-http://93.152.174.144:4000/play/btsport1/index.m3u8
-#EXTINF:-1 group-title="海外体育-随缘",BT SPORT HD 2
-http://iv3ueltu.rostelekom.xyz/iptv/MZ47TTFQ25YSZY/2506/index.m3u8
 #EXTINF:-1 group-title="海外体育-随缘",BT SPORT HD 2
 http://93.152.174.144:4000/play/btsport2/index.m3u8
 #EXTINF:-1 group-title="海外体育-随缘",BT SPORT 1
@@ -3937,52 +3805,8 @@ https://stream1.1616.ro:1945/looksport3/livestream/chunklist_w64015557.m3u8
 https://stream1.1616.ro:1945/looksport3/livestream/playlist.m3u8
 #EXTINF:-1 group-title="海外体育-随缘",SSC1
 https://ssc-5-ak.akamaized.net:443/out/v1/6ae0a2ebab224c72ab9c298afeec8d91/index_3.m3u8
-#EXTINF:-1 group-title="海外体育-随缘",ELEVEN SPORT 1
-https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
-#EXTINF:-1 group-title="海外体育-随缘",ELEVEN SPORT 2
-https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
 #EXTINF:-1 group-title="海外体育-随缘",FOX SPORTS 1
 http://user.tvcluboficial.com/stream/nov/nov/493.m3u8
-#EXTINF:-1 group-title="海外体育-随缘",Футбол 1
-https://chostv.mobie.in/choos/sports/matchqy1.m3u8
-#EXTINF:-1 group-title="海外体育-随缘",МАТЧ! ФУТБОЛ 2
-https://chostv.mobie.in/choos/sports/matchqy2.m3u8
-#EXTINF:-1 group-title="海外体育-随缘",МАТЧ! ФУТБОЛ 3
-https://chostv.mobie.in/choos/sports/matchqy3.m3u8
-#EXTINF:-1 group-title="海外体育-随缘",VARCHAT 5
-http://bal.varcdn1.ru/lb/b5/index.m3u8
-#EXTINF:-1 group-title="海外体育-随缘",CANAL + SPORT
-http://iv3ueltu.rostelekom.xyz/iptv/MZ47TTFQ25YSZY/2502/index.m3u8
-#EXTINF:-1 group-title="海外体育-随缘",Premier Football HD 1 (TH)
-https://smart-tv.livedoomovie.com:4431/02_PremierHD1_720p/chunklist.m3u8
-#EXTINF:-1 group-title="海外体育-随缘",Premier Football HD 2 (TH)
-https://smart-tv.livedoomovie.com:4431/02_PremierHD2_720p/chunklist.m3u8
-#EXTINF:-1 group-title="海外体育-随缘",Premier Football HD 3 (TH)
-https://smart-tv.livedoomovie.com:4431/02_PremierHD3_720p/chunklist.m3u8
-#EXTINF:-1 group-title="海外体育-随缘",Premier Football HD 4 (TH)
-https://smart-tv.livedoomovie.com:4431/02_PremierHD4_720p/chunklist.m3u8
-#EXTINF:-1 group-title="海外体育-随缘",Live Sports (pk)
-http://221.120.204.4/LOCKLE-A-SPORTS/index.m3u8
-#EXTINF:-1 group-title="海外体育-随缘",I NEWS LIVE
-https://raw.githubusercontent.com/shabrina0401/blog/main/inews.m3u8
-#EXTINF:-1 group-title="海外体育-随缘",TNT SPORTS
-https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
-#EXTINF:-1 group-title="海外体育-随缘",TRUE PREMIER FUTBOL HD2
-https://www.wopep.com/02_PremierHD2_720p/chunklist.m3u8
-#EXTINF:-1 group-title="海外体育-随缘",TRUE PREMIER FUTBOL HD7
-https://www.wopep.com/02_PremierHD1_720p/chunklist.m3u8
-#EXTINF:-1 group-title="海外体育-随缘",MATH CTPAHA
-https://bl.uma.media/live/291661/HLS/4614144_3,2883584_2,1153024_1/1613109268/2fb2de98a984b4b86bc2cdd980da3430/playlist.m3u8
-#EXTINF:-1 group-title="海外体育-随缘",MATH RUSIA
-https://bl.uma.media/live/133529/HLS/4614144_3,2883584/1/1/playlist.m3u8
-#EXTINF:-1 group-title="海外体育-随缘",LOOK SPORTS +
-https://stream1.1616.ro:1945/lookplus/livestream/playlist.m3u8?wowzatokenhash=NqSD4qaHc94SbTW05NBB-lXC78ZiAOIbnbUBOHj1DAM=
-#EXTINF:-1 group-title="海外体育-随缘",LOOK SPORTS +
-https://stream1.1616.ro:1945/lookplus/livestream/playlist.m3u8
-#EXTINF:-1 group-title="海外体育-随缘",LOOK SPORTS HD
-https://stream1.1616.ro:1945/look/livestream/playlist.m3u8?wowzatokenhash=NqSD4qaHc94SbTW05NBB-lXC78ZiAOIbnbUBOHj1DAM=
-#EXTINF:-1 group-title="海外体育-随缘",PTV SPORTS 1
-http://221.120.204.4/LOCKLE-PTV-SPORTS/index.m3u8
 #EXTINF:-1 group-title="海外体育-随缘",TV 2 SPORT
 https://ws31-hls-live.akamaized.net/out/u/1416253.m3u8
 #EXTINF:-1 group-title="海外体育-随缘",SPORT RU
@@ -3999,82 +3823,10 @@ http://visionmedaitv.nl:7444/live/VisionMediaClubOnL1n3/q2i9MCc7NK/70.m3u8
 http://visionmedaitv.nl:7444/live/VisionMediaClubOnL1n3/q2i9MCc7NK/65.m3u8
 #EXTINF:-1 group-title="海外体育-随缘",BEIN MAX 2 HD
 http://visionmedaitv.nl:7444/live/VisionMediaClubOnL1n3/q2i9MCc7NK/66.m3u8
-#EXTINF:-1 group-title="海外体育-随缘",TRT 1
-https://mn-nl.mncdn.com/blutv_trt1_dvr/live.m3u8
-#EXTINF:-1 group-title="海外体育-随缘",TRT 2
-https://mn-nl.mncdn.com/blutv_trtspor2/live.m3u8
-#EXTINF:-1 group-title="海外体育-随缘",A SPOR FHD
-https://trkvz-live.daioncdn.net/aspor/aspor.m3u8
-#EXTINF:-1 group-title="海外体育-随缘",SPORTV TUR
-https://mn-nl.mncdn.com/blutv_sportstv2/live.m3u8
-#EXTINF:-1 group-title="海外体育-随缘",SPORTV REF TUR
-http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
-#EXTINF:-1 group-title="海外体育-随缘",ESPN 1 ARG
-http://qqtv.nl:8080/live/norma/12345/20101.m3u8
-#EXTINF:-1 group-title="海外体育-随缘",ESPN 2 ARG
-http://qqtv.nl:8080/live/norma/12345/275190.m3u8
-#EXTINF:-1 group-title="海外体育-随缘",ESPN 3 ARG
-http://qqtv.nl:8080/live/norma/12345/20056.m3u8
-#EXTINF:-1 group-title="海外体育-随缘",ESPN 2 HD
-http://user.tvcluboficial.com/stream/nov/nov/484.m3u8
-#EXTINF:-1 group-title="海外体育-随缘",ESPN 2 MX
-http://user.tvcluboficial.com/stream/nov/nov/531.m3u8
-#EXTINF:-1 group-title="海外体育-随缘",ESPN 3 VIVO
-http://user.tvcluboficial.com/stream/nov/nov/485.m3u8
-#EXTINF:-1 group-title="海外体育-随缘",ESPN VIVO 1
-http://qqtv.nl:8080/live/norma/12345/275187.m3u8
-#EXTINF:-1 group-title="海外体育-随缘",ESPN VIVO 2
-http://qqtv.nl:8080/live/norma/12345/20102.m3u8
-#EXTINF:-1 group-title="海外体育-随缘",ESPN VIVO 3
-http://qqtv.nl:8080/live/norma/12345/20103.m3u8
-#EXTINF:-1 group-title="海外体育-随缘",ESPN HD MX
-http://user.tvcluboficial.com/stream/nov/nov/486.m3u8
-#EXTINF:-1 group-title="海外体育-随缘",ESPN HD
-http://qqtv.nl:8080/live/norma/12345/7913.m3u8
-#EXTINF:-1 group-title="海外体育-随缘",ESPN 2 MX
-http://user.tvcluboficial.com/stream/nov/nov/530.m3u8
-#EXTINF:-1 group-title="海外体育-随缘",ESPN EXTRA
-http://user.tvcluboficial.com/stream/nov/nov/37.m3u8
-#EXTINF:-1 group-title="海外体育-随缘",ESPN EXTRA
-http://qqtv.nl:8080/live/norma/12345/7915.m3u8
-#EXTINF:-1 group-title="海外体育-随缘",ESPN EXTRA 2
-http://user.tvcluboficial.com/stream/nov/nov/487.m3u8
-#EXTINF:-1 group-title="海外体育-随缘",DIRECTV CHILE
-http://qqtv.nl:8080/live/norma/12345/20406.m3u8
-#EXTINF:-1 group-title="海外体育-随缘",DIRECTV 1 ECUADOR
-http://qqtv.nl:8080/live/norma/12345/20227.m3u8
-#EXTINF:-1 group-title="海外体育-随缘",DIRECTV 2 ECUADOR
-http://qqtv.nl:8080/live/norma/12345/20319.m3u8
-#EXTINF:-1 group-title="海外体育-随缘",DIRECTV + ECUADOR
-http://qqtv.nl:8080/live/norma/12345/20059.m3u8
-#EXTINF:-1 group-title="海外体育-随缘",FOX SPORTS PREMIUM
-http://user.tvcluboficial.com/stream/nov/nov/658.m3u8
-#EXTINF:-1 group-title="海外体育-随缘",FOX SPORTS SUR
-http://qqtv.nl:8080/live/norma/12345/20128.m3u8
-#EXTINF:-1 group-title="海外体育-随缘",FOX SPORTS 1 MX
-http://qqtv.nl:8080/live/norma/12345/20095.m3u8
-#EXTINF:-1 group-title="海外体育-随缘",FOX SPORTS 2 MX
-http://qqtv.nl:8080/live/norma/12345/20097.m3u8
-#EXTINF:-1 group-title="海外体育-随缘",FOX SPORTS 3 MX
-http://qqtv.nl:8080/live/norma/12345/20096.m3u8
-#EXTINF:-1 group-title="海外体育-随缘",FOX SPORTS 2 ARG
-http://qqtv.nl:8080/live/norma/12345/20086.m3u8
-#EXTINF:-1 group-title="海外体育-随缘",FOX SPORTS 3 ARG
-http://qqtv.nl:8080/live/norma/12345/20262.m3u8
-#EXTINF:-1 group-title="海外体育-随缘",FOX SPORTS COLOMBIA
-http://qqtv.nl:8080/live/norma/12345/20219.m3u8
-#EXTINF:-1 group-title="海外体育-随缘",FOX SPORTS CHILE 1
-http://qqtv.nl:8080/live/norma/12345/20084.m3u8
-#EXTINF:-1 group-title="海外体育-随缘",FOX SPORTS CHILE 2
-http://qqtv.nl:8080/live/norma/12345/58292.m3u8
-#EXTINF:-1 group-title="海外体育-随缘",MOVISTAR DEPORTES 1
-http://qqtv.nl:8080/live/norma/12345/275183.m3u8
 #EXTINF:-1 group-title="海外体育-随缘",TNT SPORTS
 http://user.tvcluboficial.com/stream/nov/nov/509.m3u8
 #EXTINF:-1 group-title="海外体育-随缘",TNT SPORTS HD
 http://user.tvcluboficial.com/stream/nov/nov/725.m3u8
-#EXTINF:-1 group-title="海外体育-随缘",TNT SPORTS
-https://glxlmn026c.singularcdn.net.br/playout_03/playlist-720p.m3u8
 #EXTINF:-1 group-title="海外体育-随缘",TNT SPORTS 3
 http://qqtv.nl:8080/live/norma/12345/389559.m3u8
 #EXTINF:-1 group-title="海外体育-随缘",CLARO SPORTS
@@ -4093,8 +3845,6 @@ https://d3awnlgqz0szay.cloudfront.net:443/out/v1/b841c366cbe540e6a106c3ba83e5c8d
 http://qqtv.nl:8080/live/norma/12345/20198.m3u8
 #EXTINF:-1 group-title="海外体育-随缘",TUDN
 http://qqtv.nl:8080/live/norma/12345/20116.m3u8
-#EXTINF:-1 group-title="海外体育-随缘",FACEBOOK WATCH
-https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
 #EXTINF:-1 group-title="海外体育-随缘",GOL SUD TV
 http://user.tvcluboficial.com/stream/nov/nov/514.m3u8
 #EXTINF:-1 group-title="海外体育-随缘",GOL televisión USA
@@ -4107,171 +3857,19 @@ http://qqtv.nl:8080/live/norma/12345/416280.m3u8
 http://qqtv.nl:8080/live/norma/12345/20234.m3u8
 #EXTINF:-1 group-title="海外体育-随缘",WIN SPORTS +
 http://qqtv.nl:8080/live/norma/12345/20321.m3u8
-#EXTINF:-1 group-title="海外体育-随缘",INTERTV
-http://qqtv.nl:8080/live/norma/12345/397212.m3u8
-#EXTINF:-1 group-title="海外体育-随缘",DEPORTV ARG
-http://qqtv.nl:8080/live/norma/12345/397211.m3u8
-#EXTINF:-1 group-title="海外体育-随缘",STARS SPORT 1
-http://iv3ueltu.rostelekom.xyz/iptv/MZ47TTFQ25YSZY/2508/index.m3u8
-#EXTINF:-1 group-title="海外体育-随缘",STARS SPORT 2
-http://iv3ueltu.rostelekom.xyz/iptv/MZ47TTFQ25YSZY/2507/index.m3u8
-#EXTINF:-1 group-title="海外体育-随缘",SKY SPORTS 24
-https://skyanywhere3-i.akamaihd.net/hls/live/510697/interactive/playlist.m3u8
-#EXTINF:-1 group-title="海外体育-随缘",11 INTERNACIONAL
-https://d2ve4fchffi4n1.cloudfront.net/out/v1/df356edd16f3434ab417f2c48cb1d516/index.m3u8
-#EXTINF:-1 group-title="海外体育-随缘",K SPORT 2
-http://93.157.62.180:80/KSport2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="海外体育-随缘",K SPORT 3
-http://93.157.62.180:80/KSport3/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="海外体育-随缘",K SPORT 4
-http://93.157.62.180:80/KSport4/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="海外体育-随缘",AD SPORTS
-https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8
-#EXTINF:-1 group-title="海外体育-随缘",BAHRAIN SPORTS
-https://5c7b683162943.streamlock.net/live/ngrp:Bahrain%20Sports_all/playlist.m3u8
-#EXTINF:-1 group-title="海外体育-随缘",VIASAT SPORT HD
-http://iptv.prosto.tv:7000/ch108/video.m3u8
-#EXTINF:-1 group-title="海外体育-随缘",DUBAI SPORTS
-https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8
-#EXTINF:-1 group-title="海外体育-随缘",MOROC SPORTS
-http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/arriadia-avc1_1500000=4-mp4a_130400_qad=1.m3u8
-#EXTINF:-1 group-title="海外体育-随缘",T SPORTS
-https://live-k2301-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
-#EXTINF:-1 group-title="海外体育-随缘",CCTV5
-http://39.135.138.60:18890/PLTV/88888910/224/3221225633/index.m3u8
-#EXTINF:-1 group-title="海外体育-随缘",SHARJJAH SPORT
-https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
-#EXTINF:-1 group-title="海外体育-随缘",KBP SPORT
-https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
-#EXTINF:-1 group-title="海外体育-随缘",TVRI SPORT HD
-http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
-#EXTINF:-1 group-title="海外体育-随缘",TENNIS CHANNEL INTERNACIONAL
-https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
-#EXTINF:-1 group-title="海外体育-随缘",SPOTV 1
-https://smart-tv.livedoomovie.com:4431/02_foxsport_720p/chunklist.m3u8
-#EXTINF:-1 group-title="海外体育-随缘",SPOTV 2
-https://smart-tv.livedoomovie.com:4431/02_FoxSport3_TH_720p/chunklist.m3u8
-#EXTINF:-1 group-title="海外体育-随缘",OMAN SPORT
-https://partne.cdn.mangomolo.com/omsport/smil:omsport.stream.smil/playlist.m3u8
-#EXTINF:-1 group-title="海外体育-随缘",KTB SPORTS
-https://hiplayer.hibridcdn.net/t/kwmedia-kwtvsports.m3u8
 #EXTINF:-1 group-title="海外体育-随缘",DUBAI SPORTS 3 FHD
 http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist.m3u8?checkedby
 #EXTINF:-1 group-title="海外体育-随缘",SSC1 HD (Saudi)
 https://ssc-5-ak.akamaized.net/out/v1/6ae0a2ebab224c72ab9c298afeec8d91/index.m3u8
 #EXTINF:-1 group-title="海外体育-随缘",DAZN 1
 http://qqtv.nl:8080/live/norma/12345/391225.m3u8
-#EXTINF:-1 group-title="海外体育-随缘",AD SPORTS 2
-https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
-#EXTINF:-1 group-title="海外体育-随缘",AD SPORTS 3
-https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/playlist.m3u8
 #EXTINF:-1 group-title="海外体育-随缘",FootballHub
 https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
 #EXTINF:-1 group-title="海外体育-随缘",TELETRAK
 http://unlimited6-cl.dps.live/sportinghd/sportinghd.smil/playlist.m3u8
 #EXTINF:-1 group-title="海外体育-随缘",BEK SPORTS
 https://wowzaprod188-i.akamaihd.net/hls/live/728897/54d0bcd5/playlist.m3u8
-#EXTINF:-1 group-title="海外体育-随缘",LAX SPORTS
-https://1840769862.rsc.cdn77.org/FTF/LSN_SCTE.m3u8
-#EXTINF:-1 group-title="海外体育-随缘",ALL SPORTS TV
-https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8
-#EXTINF:-1 group-title="海外体育-随缘",IN SPORTS
-https://sc.id-tv.kz/INSPORTHD_36_37.m3u8
-#EXTINF:-1 group-title="海外体育-随缘",ON TIME SPORTS
-http://iv3ueltu.rostelekom.xyz/iptv/MZ47TTFQ25YSZY/2512/index.m3u8
-#EXTINF:-1 group-title="海外体育-随缘",CANAL PLUS 2 POL
-http://iv3ueltu.rostelekom.xyz/iptv/MZ47TTFQ25YSZY/2516/index.m3u8
-#EXTINF:-1 group-title="海外体育-随缘",ASTRAK RUS HD
-http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v5a1/index.m3u8
-#EXTINF:-1 group-title="海外体育-随缘",ATG1
-https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free_3.m3u8
-#EXTINF:-1 group-title="海外体育-随缘",LA 7 CYL
-http://cdnlive.shooowit.net/la7live/smil:channel1.smil/master.m3u8
-#EXTINF:-1 group-title="海外体育-随缘",LA 8 VALLADOLID
-https://cdnlive.shooowit.net/la8valladolidlive/smil:streamswitchingchannel.smil/playlist.m3u8
-#EXTINF:-1 group-title="海外体育-随缘",TV1
-https://rtvelivestreamv3.akamaized.net/la1/la1_main_dvr.m3u8
-#EXTINF:-1 group-title="海外体育-随缘",TV1
-http://91.126.141.13:1935/live/41/playlist.m3u8
-#EXTINF:-1 group-title="海外体育-随缘",CUATRO
-http://91.126.141.13:1935/live/51/playlist.m3u8
-#EXTINF:-1 group-title="海外体育-随缘",TELE5
-http://91.126.141.13:1935/live/61/1800-def.m3u8
-#EXTINF:-1 group-title="海外体育-随缘",TELE5
-http://91.126.141.13:1935/live/61/playlist.m3u8
-#EXTINF:-1 group-title="海外体育-随缘",MEGA
-http://154.62.74.29:1935/live/mega/chunklist_w1555082919.m3u8
-#EXTINF:-1 group-title="海外体育-随缘",CICLISMO ESUKERA (EITB)
-https://live-dvr.eitb-fastly.cross-media.es/live-content/oka2hd-hls/bitrate_4.m3u8
-#EXTINF:-1 group-title="海外体育-随缘",CICLISMO ESUKERA (EITB)
-https://etbvnogeo-lh.akamaihd.net/i/ETBSTR1_1@595581/index_2596_av-b.m3u8
-#EXTINF:-1 group-title="海外体育-随缘",TELEDEPORTE
-https://rtvelivestreamv3.akamaized.net/tdp/tdp_main_dvr.m3u8
-#EXTINF:-1 group-title="海外体育-随缘",TELEDEPORTE
-http://Richi@91.126.141.13:1935/live/91/1800-def.m3u8
-#EXTINF:-1 group-title="海外体育-随缘",TELEDEPORTE
-http://91.126.141.13:1935/live/91/1800-def.m3u8
-#EXTINF:-1 group-title="海外体育-随缘",GOL TV
-http://154.62.74.29:1935/live/gol/playlist.m3u8
-#EXTINF:-1 group-title="海外体育-随缘",FORMULA 1 TV
-http://user.tvcluboficial.com/stream/nov/nov/192.m3u8
-#EXTINF:-1 group-title="海外体育-随缘",Bein Sport 1 FR
-http://93.152.174.144:4000/play/bein1fr/index.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 group-title="海外体育-随缘",Bein Sport 4 ar
-http://93.152.174.144:4000/play/bein4ar/index.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 group-title="海外体育-随缘",Bein Sports 2 FR
-http://93.152.174.144:4000/play/bein2fr/index.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 group-title="海外体育-随缘",Bein Sports 3 FR
-http://93.152.174.144:4000/play/bein3fr/index.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 group-title="海外体育-随缘",beIN SPORTS 4
-http://93.152.174.144:4000/play/bein7/index.m3u8
-#EXTINF:-1 group-title="海外体育-随缘",Bein Sports 5 AR
-http://93.152.174.144:4000/play/Bein5Ar/index.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 group-title="海外体育-随缘",Bein Sports 4 AR
-http://93.152.174.144:4000/play/bein7/index.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 group-title="海外体育-随缘",BEIN SPORT 1 LIVE
-http://iv3ueltu.rostelekom.xyz/iptv/MZ47TTFQ25YSZY/6123/index.m3u
-#EXTINF:-1 group-title="海外体育-随缘",S BEIN SPORT 3 LIVE
-http://iv3ueltu.rostelekom.xyz/iptv/MZ47TTFQ25YSZY/6124/index.m3u
-#EXTINF:-1 group-title="海外体育-随缘",BEIN SPORT AR 4
-http://iv3ueltu.rostelekom.xyz/iptv/MZ47TTFQ25YSZY/6125/index.m3u
-#EXTINF:-1 group-title="海外体育-随缘",BEIN SPORT AR 5
-http://iv3ueltu.rostelekom.xyz/iptv/MZ47TTFQ25YSZY/6126/index.m3u
-#EXTINF:-1 group-title="海外体育-随缘",BEIN SPORT AR 6
-http://iv3ueltu.rostelekom.xyz/iptv/MZ47TTFQ25YSZY/6127/index.m3u
-#EXTINF:-1 group-title="海外体育-随缘",BEIN SPORT AR 7
-http://iv3ueltu.rostelekom.xyz/iptv/MZ47TTFQ25YSZY/6128/index.m3u
-#EXTINF:-1 group-title="海外体育-随缘",BEIN SPORT HD ENG
-http://iv3ueltu.rostelekom.xyz/iptv/MZ47TTFQ25YSZY/6132/index.m3u
-#EXTINF:-1 group-title="海外体育-随缘",REAL MADRID TV
-http://154.62.74.11:1935/live/realmadridnntv/chunklist_w1062028841.m3u8
 
-#EXTINF:-1 group-title="随时失效",凤凰台香港
-http://y3y4.f3322.net:8088/hls/81/index.m3u8
-#EXTINF:-1 group-title="随时失效",无线财经资讯台
-http://y3y4.f3322.net:8088/hls/92/index.m3u8
-#EXTINF:-1 group-title="随时失效",翡翠台
-http://y3y4.f3322.net:8088/hls/88/index.m3u8
-#EXTINF:-1 group-title="随时失效",经典台
-http://y3y4.f3322.net:8088/hls/98/index.m3u8
-#EXTINF:-1 group-title="随时失效",经典台
-http://y3y4.f3322.net:8088/hls/99/index.m3u8
-#EXTINF:-1 group-title="随时失效",星河频道
-http://y3y4.f3322.net:8088/hls/96/index.m3u8
-#EXTINF:-1 group-title="随时失效",tvbs 新闻台
-http://y3y4.f3322.net:8088/hls/93/index.m3u8
-#EXTINF:-1 group-title="随时失效",amx
-http://y3y4.f3322.net:8088/hls/95/index.m3u8
-#EXTINF:-1 group-title="随时失效",rthk31
-http://y3y4.f3322.net:8088/hls/100/index.m3u8
-#EXTINF:-1 group-title="随时失效",rthk32
-http://y3y4.f3322.net:8088/hls/101/index.m3u8
-#EXTINF:-1 group-title="随时失效",魅力足球
-http://y3y4.f3322.net:8088/hls/102/index.m3u8
-#EXTINF:-1 group-title="随时失效",cctv16
-http://y3y4.f3322.net:8088/hls/103/index.m3u8
-#EXTINF:-1 group-title="随时失效",新视觉
-http://y3y4.f3322.net:8088/hls/104/index.m3u8
 
 
 #EXTINF:-1 logo="" group-title="NBA PASS仅直播时有效" ,TNT
