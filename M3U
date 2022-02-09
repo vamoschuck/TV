@@ -189,16 +189,16 @@ http://111.20.33.93/TVOD/88888893/224/3221226232/index.m3u8
 http://111.20.33.93/TVOD/88888893/224/3221226465/index.m3u8
 #EXTINF:-1  tvg-id="6246" tvg-name="CHC家庭电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg" group-title="陕西移动-回看",CHC家庭影院
 http://111.20.33.93/TVOD/88888893/224/3221226462/index.m3u8
-#EXTINF:-1  tvg-id="" tvg-name="" tvg-logo="" group-title="陕西移动-回看",爱上4K
-http://111.20.33.93/TVOD/88888893/224/3221226352/index.m3u8
 #EXTINF:-1  tvg-id="1977" tvg-name="欢笑剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/huanxiao.png" group-title="陕西移动-回看",SiTV欢笑剧场4K
 http://111.20.33.93/TVOD/88888893/224/3221226582/index.m3u8
 #EXTINF:-1  tvg-id="1975" tvg-name="MAX极速汽车" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jisuqiche.png" group-title="陕西移动-回看",SiTV极速汽车
 http://111.20.33.93/TVOD/88888893/224/3221226574/index.m3u8
 #EXTINF:-1  tvg-id="1983" tvg-name="游戏风云" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youxifengyun.png" group-title="陕西移动-回看",SiTV游戏风云
 http://111.20.33.93/TVOD/88888893/224/3221226579/index.m3u8
-#EXTINF:-1  tvg-id="" tvg-name="" tvg-logo="" group-title="陕西移动-回看",SiTV都市剧场
+#EXTINF:-1  tvg-id="SITV都市剧场" tvg-name="SITV都市剧场" tvg-logo="https://www.hualigs.cn/image/62033aa4c2e0a.jpg" group-title="陕西移动-回看",SiTV都市剧场
 http://111.20.33.93/TVOD/88888893/224/3221226581/index.m3u8
+#EXTINF:-1  tvg-id="" tvg-name="" tvg-logo="https://www.hualigs.cn/image/61d94dc432f07.jpg" group-title="陕西移动-回看",爱上4K
+http://111.20.33.93/TVOD/88888893/224/3221226352/index.m3u8
 
 
 
