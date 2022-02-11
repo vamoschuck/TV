@@ -3132,7 +3132,100 @@ https://95-213-224-173.livesports24.online/ruseurosport2.m3u8
 #EXTINF:-1 tvg-id="eurosport2-ru" tvg-name="" tvg-logo="https://www.hualigs.cn/image/6168fda646dd3.jpg" group-title="东欧体育频道",Eurosport 2
 https://95-213-224-175.livesports24.online/ruseurosport2.m3u8
 
-
+#EXTINF:-1 group-title="亚洲体育频道" tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/31682adb-c504-409d-b2ea-d43245491a9a_320.png",Premier HD1
+https://sport.livedoomovie.com:4431/02_PremierHD1_720p/chunklist.m3u8
+#EXTINF:-1 group-title="亚洲体育频道" tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/31682adb-c504-409d-b2ea-d43245491a9a_320.png",Premier HD1
+https://smart-tv.livedoomovie.com:4432/02_PremierHD1_720p/chunklist.m3u8
+#EXTINF:-1 group-title="亚洲体育频道" tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/afc53720-a686-4376-8ab3-a910f1821c0e_320.png",Premier HD2
+https://sport.livedoomovie.com:4431/02_PremierHD2_720p/chunklist.m3u8
+#EXTINF:-1 group-title="亚洲体育频道" tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/afc53720-a686-4376-8ab3-a910f1821c0e_320.png",Premier HD2
+https://smart-tv.livedoomovie.com:4432/02_PremierHD2_720p/chunklist.m3u8
+#EXTINF:-1 group-title="亚洲体育频道" tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/d777c947-a608-4d84-b61a-3d1d04d05ba0_320.png",Premier HD3
+https://sport.livedoomovie.com:4431/02_PremierHD3_720p/chunklist.m3u8
+#EXTINF:-1 group-title="亚洲体育频道" tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/d777c947-a608-4d84-b61a-3d1d04d05ba0_320.png",Premier HD3
+https://smart-tv.livedoomovie.com:4432/02_PremierHD3_720p/chunklist.m3u8
+#EXTINF:-1 group-title="亚洲体育频道" tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/feddd690-f972-11e9-91cd-2f79be09d2b3_320.png",True Sport HD
+https://smart-tv.livedoomovie.com:4431/02_2sporthd1_720p/chunklist.m3u8
+#EXTINF:-1 group-title="亚洲体育频道" tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/feddd690-f972-11e9-91cd-2f79be09d2b3_320.png",True Sport HD
+https://www.livedoomovie.com:4431/02_2sporthd1_720p/chunklist.m3u8
+#EXTINF:-1 group-title="亚洲体育频道" tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/1e8bbb60-f973-11e9-91cd-2f79be09d2b3_320.png",True Sport HD2
+https://smart-tv.livedoomovie.com:4431/02_2sporthd2_720p/chunklist.m3u8
+#EXTINF:-1 group-title="亚洲体育频道" tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/1e8bbb60-f973-11e9-91cd-2f79be09d2b3_320.png",True Sport HD2
+https://www.livedoomovie.com:4431/02_2sporthd2_720p/chunklist.m3u8
+#EXTINF:-1 group-title="亚洲体育频道" tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/2dc8f250-f973-11e9-86dd-238985cbbd60_320.png",True Sport HD3
+https://smart-tv.livedoomovie.com:4431/02_2sporthd3_720p/chunklist.m3u8
+#EXTINF:-1 group-title="亚洲体育频道" tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/2dc8f250-f973-11e9-86dd-238985cbbd60_320.png",True Sport HD3
+https://www.livedoomovie.com:4431/02_2sporthd3_720p/chunklist.m3u8
+#EXTINF:-1 group-title="亚洲体育频道" tvg-logo="https://sv1.picz.in.th/images/2021/11/27/61B9zD.jpg",bt sport1
+https://wopep.com/02_BTSPORTHD_1_720p/chunklist.m3u8
+#EXTINF:-1 group-title="亚洲体育频道" tvg-logo="https://sv1.picz.in.th/images/2021/11/27/61B9zD.jpg",bt sport2
+https://wopep.com/02_BTSPORTHD_2_720p/chunklist.m3u8
+#EXTINF:-1 group-title="亚洲体育频道" tvg-logo="https://sv1.picz.in.th/images/2021/11/27/61fW9q.jpg",Sport TV1
+https://wopep.com/02_SPORTTV_1_720p/chunklist.m3u8
+#EXTINF:-1 group-title="亚洲体育频道" tvg-logo="https://sv1.picz.in.th/images/2021/11/27/61fW9q.jpg",Sport TV2
+https://wopep.com/02_SPORTTV_2_720p/chunklist.m3u8
+#EXTINF:-1 group-title="亚洲体育频道" tvg-logo="https://sv1.picz.in.th/images/2021/11/27/61fW9q.jpg",Sport TV3
+https://wopep.com/02_SPORTTV_3_720p/chunklist.m3u8
+#EXTINF:-1 group-title="亚洲体育频道" tvg-logo="https://sv1.picz.in.th/images/2021/11/27/61fW9q.jpg",Sport TV4
+https://wopep.com/02_SPORTTV_4_720p/chunklist.m3u8
+#EXTINF:-1 group-title="亚洲体育频道" tvg-logo="https://sv1.picz.in.th/images/2021/11/27/61fW9q.jpg",Sport TV5
+https://wopep.com/02_SPORTTV_5_720p/chunklist.m3u8
+#EXTINF:-1 group-title="亚洲体育频道" tvg-logo="https://sv1.picz.in.th/images/2021/10/01/CLLt3y.jpg",True SPOTV1
+https://smart-tv.livedoomovie.com:4431/02_foxsport_720p/chunklist.m3u8
+#EXTINF:-1 group-title="亚洲体育频道" tvg-logo="https://sv1.picz.in.th/images/2021/10/01/CLLt3y.jpg",True SPOTV1
+https://wopep.com/02_foxsport_720p/chunklist.m3u8
+#EXTINF:-1 group-title="亚洲体育频道" tvg-logo="https://sv1.picz.in.th/images/2021/10/01/CLOBu2.jpg",True SPOTV2
+https://wopep.com/02_FoxSport3_TH_720p/chunklist.m3u8
+#EXTINF:-1 group-title="亚洲体育频道" tvg-logo="https://sv1.picz.in.th/images/2022/01/25/n67Rhg.png",beIN 1
+https://www.livedoomovie.com:4431/02_epl1_720p/chunklist.m3u8
+#EXTINF:-1 group-title="亚洲体育频道" tvg-logo="https://sv1.picz.in.th/images/2022/01/25/n67Rhg.png",beIN 1
+https://master.server-cdn-streaming.com/api/live-player/28/live.m3u8
+#EXTINF:-1 group-title="亚洲体育频道" tvg-logo="https://sv1.picz.in.th/images/2022/01/25/n67gJn.png",beIN 2
+https://www.livedoomovie.com:4431/02_epl2_720p/chunklist.m3u8
+#EXTINF:-1 group-title="亚洲体育频道" tvg-logo="https://sv1.picz.in.th/images/2022/01/25/n67gJn.png",beIN 2
+https://master.server-cdn-streaming.com/api/live-player/29/live.m3u8
+#EXTINF:-1 group-title="亚洲体育频道" tvg-logo="https://doo2you.com/icon/TrueSportTennis.png",True TENNIS
+https://sport.livedoomovie.com/02_TennisHD_720p/chunklist.m3u8
+#EXTINF:-1 group-title="亚洲体育频道" tvg-logo="https://www.img03.xyz/assets/img/ch_logo/hd-nba.png",NBA
+https://sport.livedoomovie.com/02_nbahd_720p/chunklist.m3u8
+#EXTINF:-1 group-title="亚洲体育频道" tvg-logo="https://doo2you.com/icon/GolfChannel.png",GOLF
+https://sport.livedoomovie.com/02_golfhd_720p/chunklist.m3u8
+#EXTINF:-1 group-title="亚洲体育频道" tvg-logo="https://sv1.picz.in.th/images/2021/12/30/n7OICl.png",3BB Sport
+http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/401/401.mpd
+#EXTINF:-1 group-title="亚洲体育频道" tvg-logo="https://sv1.picz.in.th/images/2021/11/09/up45aV.jpg",TSports7
+http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/7/7.mpd
+#EXTINF:-1 group-title="亚洲体育频道" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-cro-arena-sport-1-314.png",Arena Sport 1 HR
+http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/750
+#EXTINF:-1 group-title="亚洲体育频道" tvg-logo="https://img.sport-tv-guide.live/images/stations/a315.png",Arena Sport 2 HR
+http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/748
+#EXTINF:-1 group-title="亚洲体育频道" tvg-logo="https://img.sport-tv-guide.live/images/stations/a316.png",Arena Sport 3 HR
+http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/746
+#EXTINF:-1 group-title="亚洲体育频道" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-cro-arena-sport-4-317.png",Arena Sport 4 HR
+http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/744
+#EXTINF:-1 group-title="亚洲体育频道" tvg-logo="https://img.sport-tv-guide.live/images/stations/a318.png",Arena Sport 5 HR
+http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/742
+#EXTINF:-1 group-title="亚洲体育频道" tvg-logo="https://sport-tv-guide.live/images/stations/a314.png",Arena Sport 1 RS
+http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/749
+#EXTINF:-1 group-title="亚洲体育频道" tvg-logo="https://img.sport-tv-guide.live/images/stations/a320.png",Arena Sport 2 RS
+http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/747
+#EXTINF:-1 group-title="亚洲体育频道" tvg-logo="https://img.sport-tv-guide.live/images/stations/a321.png",Arena Sport 3 RS
+http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/745
+#EXTINF:-1 group-title="亚洲体育频道" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-rs-arena-sport-4-322.png",Arena Sport 4 RS
+http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/743
+#EXTINF:-1 group-title="亚洲体育频道" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-rs-arena-sport-5-323.png",Arena Sport 5 RS
+http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/741
+#EXTINF:-1 group-title="亚洲体育频道" tvg-logo="https://img.sport-tv-guide.live/images/stations/a325.png",Sport Klub 1
+http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/740
+#EXTINF:-1 group-title="亚洲体育频道" tvg-logo="https://img.sport-tv-guide.live/images/stations/a326.png",Sport Klub 2
+http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/739
+#EXTINF:-1 group-title="亚洲体育频道" tvg-logo="https://img.sport-tv-guide.live/images/stations/a343.png",Sport Klub 3
+http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/738
+#EXTINF:-1 group-title="亚洲体育频道" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-cro-sportklub-4-328.png",Sport Klub 4
+http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/737
+#EXTINF:-1 group-title="亚洲体育频道" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-rs-sportklub-5-337.png",Sport Klub 5
+http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/736
+#EXTINF:-1 group-title="亚洲体育频道" tvg-logo="https://img.sport-tv-guide.live/images/stations/a338.png",Sport Klub 6
+http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/735
 
 #EXTINF:-1 group-title="TVB轮播" tvg-logo="https://www.hualigs.cn/image/615937c8b1735.jpg",埋堆堆1
 http://121.51.249.6/txdirect.hls.huya.com/src/1199561241049-1199561241049-5434703289662832640-2399122605554-10057-A-0-1.m3u8
