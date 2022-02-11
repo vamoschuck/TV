@@ -1,15 +1,10 @@
 #EXTM3U url-tvg="http://epg.51zmt.top:8000/e.xml,https://epg.112114.xyz/pp.xml,https://i.mjh.nz/au/Sydney/epg.xml.gz,https://i.mjh.nz/au/Perth/epg.xml.gz,https://i.mjh.nz/PlutoTV/us.xml.gz" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV8K.png" group-title="北京冬奥",CCTV8K
-http://39.135.59.185/live.gq.miguvideo.com/migu/sports/50zhenyh7/57/20210608/index.m3u8?&encrypt=
-#EXTINF:-1 tvg-id="1872" tvg-name="北京纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png" group-title="北京冬奥",冬奥纪实8K
-http://39.135.59.185/live.gq.miguvideo.com/migu/sports/50zhenyh8/57/20210608/index.m3u8?&encrypt=
+
 #EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="北京冬奥",CCTV4K
 http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
 #EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="北京冬奥",CCTV4K
 http://open.live-web.timetv.cn/live03/cctv4k.m3u8
-#EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="北京冬奥",CCTV4K
-http://39.135.59.185/live.gq.miguvideo.com/migu/sports/50zhenyh6/57/20210608/index.m3u8?&encrypt=
 #EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="北京冬奥",CCTV4K 回看
 http://39.134.71.75/ott.js.chinamobile.com/TVOD/3/224/3221228228/index.m3u8
 #EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="北京冬奥",CCTV4K 回看
@@ -1068,17 +1063,17 @@ http://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s10/index.m3u8
 #EXTINF:-1 tvg-id="河北影视" tvg-name="河北影视" tvg-logo="https://www.hualigs.cn/image/6159c331a4d7f.jpg" group-title="京津冀鲁豫",河北影视
 http://live6.plus.hebtv.com/hbysx/hd/live.m3u8
 #EXTINF:-1 tvg-id="河北经济" tvg-name="河北经济" tvg-logo="https://www.hualigs.cn/image/6159c331c3572.jpg" group-title="京津冀鲁豫",河北经济生活
-https://jwplay.hebyun.com.cn/live/hbjjtv/1500k/tzwj_video.m3u8
+
 #EXTINF:-1 tvg-id="9999" tvg-name="" tvg-logo="https://www.hualigs.cn/image/6159c331b01a7.jpg" group-title="京津冀鲁豫",河北农民
-https://jwplay.hebyun.com.cn/live/hbnmtv/1500k/tzwj_video.m3u8
+
 #EXTINF:-1 tvg-id="河北都市" tvg-name="河北都市" tvg-logo="https://www.hualigs.cn/image/6159c3317672b.jpg" group-title="京津冀鲁豫",河北都市
-https://jwplay.hebyun.com.cn/live/hbdstv/1500k/tzwj_video.m3u8
+
 #EXTINF:-1 tvg-id="9999" tvg-name="" tvg-logo="https://www.hualigs.cn/image/6159c331c98b9.jpg" group-title="京津冀鲁豫",河北少儿科教
-https://jwplay.hebyun.com.cn/live/hbsrtv/1500k/tzwj_video.m3u8
+
 #EXTINF:-1 tvg-id="9999" tvg-name="" tvg-logo="https://www.hualigs.cn/image/6159c3319a339.jpg" group-title="京津冀鲁豫",河北公共
 http://live7.plus.hebtv.com/hbggx/playlist.m3u8
 #EXTINF:-1 tvg-id="9999" tvg-name="" tvg-logo="https://www.hualigs.cn/image/61dfcd87dab1f.jpg" group-title="京津冀鲁豫",河北影视剧
-https://jwplay.hebyun.com.cn/live/hbystv/1500k/tzwj_video.m3u8
+
 #EXTINF:-1 tvg-id="9999" tvg-name="" tvg-logo="" group-title="京津冀鲁豫",河北收视指南
 http://180.97.123.180/1301-txt.otvstream.otvcloud.com/otv/skcc/live/channel13010/index.m3u8
 #EXTINF:-1 tvg-id="9999" tvg-name="" tvg-logo="" group-title="京津冀鲁豫",河北收视指南
@@ -1864,13 +1859,13 @@ http://stream.gxqztv.com/01/sd/live.m3u8
 http://pull2.ssws.tv/live/SswsTV20210803.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.hualigs.cn/image/61e178c7cd0a4.jpg" group-title="黑吉辽蒙疆藏",黑龙江影视
-http://idclive.hljtv.com:8080/live/hljys_hd.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.hualigs.cn/image/61e178c73013a.jpg" group-title="黑吉辽蒙疆藏",黑龙江都市
-http://idclive.hljtv.com:8080/live/dushi_hd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.hualigs.cn/image/61e178c753d98.jpg" group-title="黑吉辽蒙疆藏" ,黑龙江文艺
-http://idclive.hljtv.com:8080/live/hljwy_hd.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.hualigs.cn/image/61e178c753d98.jpg" group-title="黑吉辽蒙疆藏",黑龙江文艺
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.hualigs.cn/image/61e179439454a.jpg" group-title="黑吉辽蒙疆藏",黑龙江新闻
-http://idclive.hljtv.com:8080/live/hljxw_hd.m3u8
+
 
 #EXTINF:-1 tvg-id="6001" tvg-name="辽宁都市" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/LNTV2.jpg" group-title="黑吉辽蒙疆藏",辽宁都市
 #http://39.135.129.165/hwottcdn.ln.chinamobile.com/PLTV/-/224/3221226760/index.m3u8
@@ -1998,7 +1993,7 @@ http://111.20.33.93/TVOD/88888893/224/3221226351/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.hualigs.cn/image/61c913564dd99.jpg" group-title="体育频道", NBA TV
-https://iptv.jmsooo.com/live/nbatv/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.hualigs.cn/image/61c913564dd99.jpg" group-title="体育频道", NBA TV（备）
 http://84.22.33.214:80/nbatv/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.hualigs.cn/image/61caacb6e8514.jpg" group-title="体育频道",CBS Sports FHD
@@ -2362,8 +2357,6 @@ https://cdn.hkyoutv.com/hls/84b/index.m3u8
 https://cdn.hkyoutv.com/hls/85/index.m3u8
 #EXTINF:-1 tvg-id="99" tvg-name="ViuTV" tvg-logo="https://www.hkyoutv.com/png_logo/99.png" group-title="香港地面波-限制IP",ViuTV
 https://cdn.hkyoutv.com/hls/99/index.m3u8
-#EXTINF:-1 tvg-id="96" tvg-name="ViuTV" tvg-logo="https://www.hkyoutv.com/png_logo/96.png" group-title="香港地面波-限制IP",ViuTV Six
-https://cdn.hkyoutv.com/hls/96/index.m3u8
 #EXTINF:-1 tvg-id="96" tvg-name="ViuTV" tvg-logo="https://www.hkyoutv.com/png_logo/96.png" group-title="香港地面波-限制IP",ViuTV Six （第二聲度）
 https://cdn.hkyoutv.com/hls/96b/index.m3u8
 
@@ -2559,30 +2552,6 @@ http://59.125.101.187:8506/http/61.221.81.94:8088/hls/69/811/ch36.m3u8
 http://59.125.101.187:8507/http/61.221.81.94:8088/hls/73/815/ch52.m3u8
 
 
-#EXTINF:-1 tvg-id="6028" tvg-name="中视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/中视.png" group-title="2.8-台湾随缘",中视
-http://50.7.61.148:30080/Entry/ctv
-#EXTINF:-1 tvg-id="6026" tvg-name="台视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/台视.png" group-title="2.8-台湾随缘",台视
-http://50.7.61.148:30080/Entry/ttv
-#EXTINF:-1 tvg-id="6030" tvg-name="华视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CTS.png" group-title="2.8-台湾随缘",华视
-http://50.7.61.147:30080/Entry/cts
-#EXTINF:-1 tvg-id="6038" tvg-name="TLC旅游生活频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tlc.png" group-title="2.8-台湾随缘",TLC
-http://50.7.61.147:30080/Entry/tlc
-#EXTINF:-1 tvg-id="6063" tvg-name="JET综合台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/JETVariety.png" group-title="2.8-台湾随缘",JET综合
-http://50.7.61.147:30080/Entry/jet
-#EXTINF:-1 tvg-id="6047" tvg-name="三立台湾台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETTaiwan.png" group-title="2.8-台湾随缘",SET三立台湾
-http://50.7.61.148:30080/Entry/settw-
-#EXTINF:-1 tvg-id="6049" tvg-name="卫视中文台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/卫视中文.png" group-title="2.8-台湾随缘",卫视中文
-http://50.7.61.148:30080/Entry/starchinese
-#EXTINF:-1 tvg-id="6085" tvg-name="AXN" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/AXN.png" group-title="2.8-台湾随缘",AXN
-http://50.7.61.148:30080/Entry/axn
-#EXTINF:-1 tvg-id="6083" tvg-name="HBO" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBO.png" group-title="2.8-台湾随缘",HBO
-http://50.7.61.148:30080/Entry/hbo
-#EXTINF:-1 tvg-id="6071" tvg-name="民视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FTVNews.png" group-title="2.8-台湾随缘",民视新闻
-http://50.7.61.148:30080/Entry/ftvnews
-#EXTINF:-1 tvg-id="6073" tvg-name="TVBS新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS新闻.png" group-title="2.8-台湾随缘",TVBS新闻
-http://50.7.61.148:30080/Entry/tvbsnews
-#EXTINF:-1 tvg-id="6107" tvg-name="非凡商业台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/UniqueUSTVHDUSTVHD.png" group-title="2.8-台湾随缘",非凡商业
-http://50.7.61.147:30080/Entry/ubnbus
 
 
 
@@ -2961,16 +2930,12 @@ https://95-213-224-173.livesports24.online/setantaukraine.m3u8
 https://95-213-224-175.livesports24.online/setantaukraine.m3u8
 
 
-
-
 #EXTINF:-1 tvg-id="setanta-plus-ua" tvg-name="" tvg-logo="https://www.hualigs.cn/image/61677e0d3a92d.jpg" group-title="东欧体育频道",SETANTA SPORTS + UA FHD
 https://95-213-224-169.livesports24.online/setantaplusukr.m3u8
 #EXTINF:-1 tvg-id="setanta-plus-ua" tvg-name="" tvg-logo="https://www.hualigs.cn/image/61677e0d3a92d.jpg" group-title="东欧体育频道",SETANTA SPORTS + UA FHD
 https://95-213-224-173.livesports24.online/setantaplusukr.m3u8
 #EXTINF:-1 tvg-id="setanta-plus-ua" tvg-name="" tvg-logo="https://www.hualigs.cn/image/61677e0d3a92d.jpg" group-title="东欧体育频道",SETANTA SPORTS + UA FHD
 https://95-213-224-175.livesports24.online/setantaplusukr.m3u8
-
-
 
 
 #EXTINF:-1 tvg-id="football1-ua" tvg-name="" tvg-logo="https://www.hualigs.cn/image/61677e0d57de4.jpg" group-title="东欧体育频道",Футбол 1
@@ -2981,15 +2946,12 @@ https://95-213-224-173.livesports24.online/uafootballua1.m3u8
 https://95-213-224-175.livesports24.online/uafootballua1.m3u8
 
 
-
-
 #EXTINF:-1 tvg-id="football2-ua" tvg-name="" tvg-logo="https://www.hualigs.cn/image/61677e0d64aab.jpg" group-title="东欧体育频道",Футбол 2
 https://95-213-224-169.livesports24.online/fooootball2.m3u8
 #EXTINF:-1 tvg-id="football2-ua" tvg-name="" tvg-logo="https://www.hualigs.cn/image/61677e0d64aab.jpg" group-title="东欧体育频道",Футбол 2
 https://95-213-224-173.livesports24.online/fooootball2.m3u8
 #EXTINF:-1 tvg-id="football2-ua" tvg-name="" tvg-logo="https://www.hualigs.cn/image/61677e0d64aab.jpg" group-title="东欧体育频道",Футбол 2
 https://95-213-224-175.livesports24.online/fooootball2.m3u8
-
 
 
 #EXTINF:-1 tvg-id="football3-ua" tvg-name="" tvg-logo="https://www.hualigs.cn/image/61677e1862963.jpg" group-title="东欧体育频道",Футбол 3
@@ -3016,16 +2978,12 @@ https://95-213-224-173.livesports24.online/belarusss5.m3u8
 https://95-213-224-175.livesports24.online/belarusss5.m3u8
 
 
-
-
 #EXTINF:-1 tvg-id="setanta-sports" tvg-name="" tvg-logo="https://www.hualigs.cn/image/6167a0545b651.jpg" group-title="东欧体育频道",SETANTA SPORTS FHD
 https://95-213-224-169.livesports24.online/rusetantaeurasia.m3u8
 #EXTINF:-1 tvg-id="setanta-sports" tvg-name="" tvg-logo="https://www.hualigs.cn/image/6167a0545b651.jpg" group-title="东欧体育频道",SETANTA SPORTS FHD
 https://95-213-224-173.livesports24.online/rusetantaeurasia.m3u8
 #EXTINF:-1 tvg-id="setanta-sports" tvg-name="" tvg-logo="https://www.hualigs.cn/image/6167a0545b651.jpg" group-title="东欧体育频道",SETANTA SPORTS FHD
 https://95-213-224-175.livesports24.online/rusetantaeurasia.m3u8
-
-
 
 
 #EXTINF:-1 tvg-id="match-tv" tvg-name="" tvg-logo="https://www.hualigs.cn/image/616e2987d2f8a.jpg" group-title="东欧体育频道",Матч! 
@@ -3035,15 +2993,12 @@ https://95-213-224-173.livesports24.online/ooomatch.m3u8
 #EXTINF:-1 tvg-id="match-tv" tvg-name="" tvg-logo="https://www.hualigs.cn/image/616e2987d2f8a.jpg" group-title="东欧体育频道",Матч! 
 https://95-213-224-175.livesports24.online/ooomatch.m3u8
 
-
-
 #EXTINF:-1 tvg-id="football-ru" tvg-name="" tvg-logo="https://www.hualigs.cn/image/6167d842c8aef.jpg" group-title="东欧体育频道",ФУТБОЛ
 https://95-213-224-169.livesports24.online/footballrus.m3u8
 #EXTINF:-1 tvg-id="football-ru" tvg-name="" tvg-logo="https://www.hualigs.cn/image/6167d842c8aef.jpg" group-title="东欧体育频道",ФУТБОЛ
 https://95-213-224-173.livesports24.online/footballrus.m3u8
 #EXTINF:-1 tvg-id="football-ru" tvg-name="" tvg-logo="https://www.hualigs.cn/image/6167d842c8aef.jpg" group-title="东欧体育频道",ФУТБОЛ
 https://95-213-224-175.livesports24.online/footballrus.m3u8
-
 
 
 #EXTINF:-1 tvg-id="match-football1" tvg-name="" tvg-logo="https://www.hualigs.cn/image/616d7d2eda465.jpg" group-title="东欧体育频道",МАТЧ! ФУТБОЛ 1
@@ -3146,10 +3101,6 @@ https://95-213-224-169.livesports24.online/ruseurosport2.m3u8
 https://95-213-224-173.livesports24.online/ruseurosport2.m3u8
 #EXTINF:-1 tvg-id="eurosport2-ru" tvg-name="" tvg-logo="https://www.hualigs.cn/image/6168fda646dd3.jpg" group-title="东欧体育频道",Eurosport 2
 https://95-213-224-175.livesports24.online/ruseurosport2.m3u8
-
-
-
-
 
 
 
@@ -3639,52 +3590,6 @@ https://fashionbox-localnow.cinedigm.com/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://www.hualigs.cn/image/61cae54680a8d.jpg" group-title="亚洲体育频道", True Premier Football 1
-https://www.livedoomovie.com/02_PremierHD1_720p/chunklist.m3u8
-#EXTINF:-1  tvg-logo="https://www.hualigs.cn/image/61cae5468dcd1.jpg" group-title="亚洲体育频道",True Premier Football 2
-https://www.livedoomovie.com/02_PremierHD2_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://www.hualigs.cn/image/61cae598f17d5.jpg" group-title="亚洲体育频道",True Premier Football 3
-https://www.livedoomovie.com/02_PremierHD3_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://www.hualigs.cn/image/61cae598f1cbe.jpg" group-title="亚洲体育频道",True Premier Football 4
-https://www.livedoomovie.com/02_PremierHD4_720p/chunklist.m3u8
-#EXTINF:-1  tvg-logo="https://www.hualigs.cn/image/61cae598f39e9.jpg" group-title="亚洲体育频道",True Premier Football 5
-https://www.livedoomovie.com/02_PremierHD5_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://www.hualigs.cn/image/61bdb7a98aefc.jpg" group-title="亚洲体育频道",True Sports HD
-https://www.livedoomovie.com/02_2sporthd1_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://www.hualigs.cn/image/61bdb7a98e22d.jpg" group-title="亚洲体育频道",True Sports HD 2
-https://www.livedoomovie.com/02_2sporthd2_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://www.hualigs.cn/image/61bdb7a973e30.jpg" group-title="亚洲体育频道",True Sports HD 3
-https://www.livedoomovie.com/02_2sporthd3_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://www.hualigs.cn/image/61bde9701cfd3.jpg" group-title="亚洲体育频道",Bein Sports 1
-https://www.livedoomovie.com/02_sport2_480p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://www.hualigs.cn/image/61bc882f8cb3b.jpg" group-title="亚洲体育频道",True Sports 5
-https://www.livedoomovie.com/02_sport5_480p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://www.hualigs.cn/image/61bde9700cb00.jpg" group-title="亚洲体育频道",Bein Sports 2
-https://www.livedoomovie.com/02_sport6_480p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://www.hualigs.cn/image/61bc882f8cb3b.jpg" group-title="亚洲体育频道",True Sports 7
-https://www.livedoomovie.com/02_sport7_480p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2021/09/29/186c1140-20f3-11ec-92df-47614181eee6_webp_320.jpg" group-title="亚洲体育频道",Fox Sports HD
-https://www.livedoomovie.com/02_foxsport_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2021/09/29/1b2c69c0-20f3-11ec-92df-47614181eee6_webp_320.jpg" group-title="亚洲体育频道",Fox Sports 3
-https://www.livedoomovie.com/02_FoxSport3_TH_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="亚洲体育频道",NBA HD
-https://www.livedoomovie.com/02_nbahd_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2017/10/18/5efbe446-0718-476e-9b93-f42da7d98e81.png" group-title="亚洲体育频道",True Tennis HD
-https://www.livedoomovie.com/02_TennisHD_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1020624523354345472/WZ1ZVRGa_400x400.jpg" group-title="亚洲体育频道",Golf Channel
-https://www.livedoomovie.com/02_golfhd_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="亚洲体育频道",SPORTTV 1
-https://www.livedoomovie.com/02_SPORTTV_1_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="亚洲体育频道",SPORTTV 2
-https://www.livedoomovie.com/02_SPORTTV_2_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="亚洲体育频道",SPORTTV 3
-https://www.livedoomovie.com/02_SPORTTV_3_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="亚洲体育频道",SPORTTV 4
-https://www.livedoomovie.com/02_SPORTTV_4_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="亚洲体育频道",SPORTTV 5
-https://www.livedoomovie.com/02_SPORTTV_5_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="亚洲体育频道",1 CH5
-https://www.livedoomovie.com/02_5HD_720p/chunklist.m3u8
 
 #EXTINF:-1 group-title="澳大利亚限IP" tvg-id="tv.101406020623" tvg-logo="https://i.mjh.nz/.images/tv.101406020623.png",10 SHAKE
 https://i.mjh.nz/au/Sydney/tv.101406020623.m3u8
@@ -3770,8 +3675,7 @@ https://i.mjh.nz/au/Sydney/tv.46.m3u8
 https://i.mjh.nz/au/Sydney/tv.acctv.m3u8
 
 
-#EXTINF:-1 group-title="英语儿童频道",Baby TV
-http://okkotv-live.cdnvideo.ru/channel/BabyTV.m3u8
+
 #EXTINF:-1 group-title="英语儿童频道",Baby TV
 https://livecdn.fptplay.net/hda3/babytvhd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="英语儿童频道",Baby First
@@ -3785,8 +3689,6 @@ https://livecdn.fptplay.net/hda1/babyfirst_hls.smil/playlist.m3u8
 #EXTINF:-1 group-title="英语儿童频道" tvg-id="tv.101002210222" tvg-logo="https://i.mjh.nz/.images/tv.abckids2.png",ABC KIDS
 https://c.mjh.nz/101002210222/
 #EXTINF:-1 tvg-id="708" tvg-name="BabyTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BabyTV.png" group-title="英语儿童频道",Baby TV
-http://okkotv-live.cdnvideo.ru/channel/BabyTV.m3u8
-#EXTINF:-1 tvg-id="708" tvg-name="BabyTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BabyTV.png" group-title="英语儿童频道",Baby TV
 https://livecdn.fptplay.net/hda3/babytvhd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="7143" tvg-name="BabyFirst" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BabyFirst.png" group-title="英语儿童频道",Baby First
 https://babyfirst.akamaized.net/hls/live/2028842/bftvusaott/playlist.m3u8
@@ -3794,8 +3696,6 @@ https://babyfirst.akamaized.net/hls/live/2028842/bftvusaott/playlist.m3u8
 https://vips-livecdn.fptplay.net/hda1/babyfirst_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="7143" tvg-name="BabyFirst" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BabyFirst.png" group-title="英语儿童频道",Baby First
 https://livecdn.fptplay.net/hda1/babyfirst_hls.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ambc9le.png" group-title="英语儿童频道",PBS Kids Eastern/Central
-https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ambc9le.png" group-title="英语儿童频道",PBS Kids Mountain
 https://livestream.pbskids.org/out/v1/00a3b9014fa54c40bee6ca68a104a8a4/mst.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ambc9le.png" group-title="英语儿童频道",PBS Kids Eastern/Central
@@ -3806,34 +3706,18 @@ https://livestream.pbskids.org/out/v1/19d1d62bf61b4aea9ec20f83b6450a4e/hast.m3u8
 https://livestream.pbskids.org/out/v1/c707b9310f2848de849b336f9914adbc/pst.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ambc9le.png" group-title="英语儿童频道",PBS Kids Alaska
 https://livestream.pbskids.org/out/v1/2963202df0c142c69b5254a546473308/akst.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ambc9le.png" group-title="英语儿童频道",PBS Kids
-https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8?DVR
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英语儿童频道",Moonbug Kids
 https://moonbug-rokuus.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英语儿童频道",Da Vinci Kids Learning HD
-http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/DAVINCY-HD-1080p/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英语儿童频道",Animax HD
 https://livecdn.fptplay.net/hda3/animaxport_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="6188" tvg-name="Boomerang" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BOOMERANG.png" group-title="英语儿童频道",Boomerang
 https://livecdn.fptplay.net/hda3/boomerang_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="6187" tvg-name="CBeebies" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CBeebies.png" group-title="英语儿童频道",BBC Cbeebies
 https://livecdn.fptplay.net/hda3/cbeebies_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英语儿童频道",Cartoon Network HD
-https://livecdn.fptplay.net/hda3/cartoonnetworkhd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="6148" tvg-name="DREAMWORKS" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/dreamworks.png" group-title="英语儿童频道",DreamWorks HD
 https://livecdn.fptplay.net/hda3/dreamworks_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英语儿童频道",ANI-BOX
 https://56a6b9c3b5417.streamlock.net/livestream/smil:aniboxlive.smil/chunklist_w331817780_b1460000_sltha.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英语儿童频道",CONtv Anime
-https://dai2.xumo.com/amagi_hls_data_xumo-host-contvanime-junction/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英语儿童频道",Nicktoons
-http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/98694?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英语儿童频道",Nicktoons USA
-http://sharkiptvpro.xyz:80/7619bs8/nba0928/358644?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英语儿童频道",Cartoon Network
-http://4iptv.xyz:8080/sofia/sofia/13946?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="6184" tvg-name="Nickelodeon" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/Nickelodeon.png" group-title="英语儿童频道",Nickelodeon Canada
-http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/22265?checkedby:iptvcat.net
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/oyIMxzM.png" group-title="英语儿童频道",Toon Goggles
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=37
 #EXTINF:-1 channel-id="pluto-56171fafada51f8004c4b40f" tvg-id="56171fafada51f8004c4b40f" tvg-chno="1014" tvg-logo="https://images.pluto.tv/channels/56171fafada51f8004c4b40f/colorLogoPNG.png" group-title="英语儿童频道",Forever Kids
@@ -4012,74 +3896,6 @@ https://wowzaprod188-i.akamaihd.net/hls/live/728897/54d0bcd5/playlist.m3u8
 
 
 
-#EXTINF:-1 logo="" group-title="NBA PASS仅直播时有效" ,TNT
-https://dqm8bvwrahfi8.cloudfront.net/hls/TNT/playlist.m3u8
-#EXTINF:-1 logo="" group-title="NBA PASS仅直播时有效" ,ABC
-https://dqm8bvwrahfi8.cloudfront.net/hls/abc/playlist.m3u8
-#EXTINF:-1 logo="" group-title="NBA PASS仅直播时有效" ,ESPN
-https://dqm8bvwrahfi8.cloudfront.net/hls/espn/chunks.m3u8
-#EXTINF:-1 logo="" group-title="NBA PASS仅直播时有效" ,NBA TV
-https://dqm8bvwrahfi8.cloudfront.net/hls/nbatv/chunks.m3u8?SBN
-#EXTINF:-1 logo="" group-title="NBA PASS仅直播时有效" ,公鹿
-https://dqm8bvwrahfi8.cloudfront.net/hls/bucks/chunks.m3u8
-#EXTINF:-1 logo="" group-title="NBA PASS仅直播时有效" ,太阳
-https://dqm8bvwrahfi8.cloudfront.net/hls/suns/chunks.m3u8
-#EXTINF:-1 logo="" group-title="NBA PASS仅直播时有效" ,魔术
-https://dqm8bvwrahfi8.cloudfront.net/hls/magic/chunks.m3u8?SBN
-#EXTINF:-1 logo="" group-title="NBA PASS仅直播时有效" ,黄蜂
-https://dqm8bvwrahfi8.cloudfront.net/hls/hornets/chunks.m3u8?SBN
-#EXTINF:-1 logo="" group-title="NBA PASS仅直播时有效" ,金块
-https://dqm8bvwrahfi8.cloudfront.net/hls/nuggets/chunks.m3u8?SBN
-#EXTINF:-1 logo="" group-title="NBA PASS仅直播时有效" ,独行侠
-https://dqm8bvwrahfi8.cloudfront.net/hls/mavericks/chunks.m3u8
-#EXTINF:-1 logo="" group-title="NBA PASS仅直播时有效" ,骑士
-https://dqm8bvwrahfi8.cloudfront.net/hls/cavaliers/chunks.m3u8
-#EXTINF:-1 logo="" group-title="NBA PASS仅直播时有效" ,篮网
-https://dqm8bvwrahfi8.cloudfront.net/hls/nets/chunks.m3u8
-#EXTINF:-1 logo="" group-title="NBA PASS仅直播时有效" ,公牛
-https://dqm8bvwrahfi8.cloudfront.net/hls/bulls/chunks.m3u8
-#EXTINF:-1 logo="" group-title="NBA PASS仅直播时有效" ,马刺
-https://dqm8bvwrahfi8.cloudfront.net/hls/spurs/chunks.m3u8
-#EXTINF:-1 logo="" group-title="NBA PASS仅直播时有效" ,拓荒者
-https://dqm8bvwrahfi8.cloudfront.net/hls/blazers/chunks.m3u8
-#EXTINF:-1 logo="" group-title="NBA PASS仅直播时有效" ,76人
-https://dqm8bvwrahfi8.cloudfront.net/hls/76ers/chunks.m3u8?SBN
-#EXTINF:-1 logo="" group-title="NBA PASS仅直播时有效" ,鹰队
-https://dqm8bvwrahfi8.cloudfront.net/hls/hawks/chunks.m3u8
-#EXTINF:-1 logo="" group-title="NBA PASS仅直播时有效" ,热火
-https://dqm8bvwrahfi8.cloudfront.net/hls/heat/chunks.m3u8
-#EXTINF:-1 logo="" group-title="NBA PASS仅直播时有效" ,塞尔特人
-https://dqm8bvwrahfi8.cloudfront.net/hls/celtics/chunks.m3u8
-#EXTINF:-1 logo="" group-title="NBA PASS仅直播时有效" ,巫师
-https://dqm8bvwrahfi8.cloudfront.net/hls/wizards/chunks.m3u8
-#EXTINF:-1 logo="" group-title="NBA PASS仅直播时有效" ,速龙
-https://dqm8bvwrahfi8.cloudfront.net/hls/raptors/chunks.m3u8 
-#EXTINF:-1 logo="" group-title="NBA PASS仅直播时有效" ,勇士
-https://dqm8bvwrahfi8.cloudfront.net/hls/warriors/chunks.m3u8
-#EXTINF:-1 logo="" group-title="NBA PASS仅直播时有效" ,尼克斯
-https://dqm8bvwrahfi8.cloudfront.net/hls/knicks/chunks.m3u8
-#EXTINF:-1 logo="" group-title="NBA PASS仅直播时有效" ,遛马
-https://dqm8bvwrahfi8.cloudfront.net/hls/pacers/chunks.m3u8
-#EXTINF:-1 logo="" group-title="NBA PASS仅直播时有效" ,活塞
-https://dqm8bvwrahfi8.cloudfront.net/hls/pistons/chunks.m3u8 
-#EXTINF:-1 logo="" group-title="NBA PASS仅直播时有效" ,灰熊
-https://dqm8bvwrahfi8.cloudfront.net/hls/grizzlies/chunks.m3u8
-#EXTINF:-1 logo="" group-title="NBA PASS仅直播时有效" ,爵士
-https://dqm8bvwrahfi8.cloudfront.net/hls/jazz/chunks.m3u8
-#EXTINF:-1 logo="" group-title="NBA PASS仅直播时有效" ,木狼
-https://dqm8bvwrahfi8.cloudfront.net/hls/timberwolves/chunks.m3u8
-#EXTINF:-1 logo="" group-title="NBA PASS仅直播时有效" ,快艇
-https://dqm8bvwrahfi8.cloudfront.net/hls/clippers/chunks.m3u8
-#EXTINF:-1 logo="" group-title="NBA PASS仅直播时有效" ,湖人
-https://dqm8bvwrahfi8.cloudfront.net/hls/lakers/chunks.m3u8
-#EXTINF:-1 logo="" group-title="NBA PASS仅直播时有效" ,鹈鹕
-https://dqm8bvwrahfi8.cloudfront.net/hls/pelicans/chunks.m3u8
-#EXTINF:-1 logo="" group-title="NBA PASS仅直播时有效" ,雷霆
-https://dqm8bvwrahfi8.cloudfront.net/hls/thunder/chunks.m3u8
-#EXTINF:-1 logo="" group-title="NBA PASS仅直播时有效" ,国王
-https://dqm8bvwrahfi8.cloudfront.net/hls/kings/chunks.m3u8
-#EXTINF:-1 logo="" group-title="NBA PASS仅直播时有效" ,火箭
-https://dqm8bvwrahfi8.cloudfront.net/hls/rockets/chunks.m3u8
 
 #EXTINF:-1 tvg-id="BBCUHDTrial1.uk"  tvg-logo="" group-title="仅限英国IP",BBC UHD Trial 1
 https://a.files.bbci.co.uk/media/live/manifesto/audio_video/webcast/dash/uk/full/ak/uhd_stream_01.mpd
