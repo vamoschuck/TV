@@ -4104,6 +4104,74 @@ http://unlimited6-cl.dps.live/sportinghd/sportinghd.smil/playlist.m3u8
 https://wowzaprod188-i.akamaihd.net/hls/live/728897/54d0bcd5/playlist.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://www.hualigs.cn/image/62070feccd0b5.jpg" group-title="NBA League Pass" ,TNT
+https://d3fxkq5ndp4ipd.cloudfront.net:443/hls/TNT/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.hualigs.cn/image/62071029b78f7.jpg" group-title="NBA League Pass" ,ABC
+https://d3fxkq5ndp4ipd.cloudfront.net/hls/abc/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.hualigs.cn/image/62070fbf8c47e.jpg" group-title="NBA League Pass" ,ESPN
+https://d3fxkq5ndp4ipd.cloudfront.net:443/hls/espn/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.hualigs.cn/image/62070ebd8d198.jpg" group-title="NBA League Pass" ,NBA TV
+https://d3fxkq5ndp4ipd.cloudfront.net/hls/nbatv/playlist.m3u8?SBN
+#EXTINF:-1 tvg-logo="https://www.hualigs.cn/image/62070ee35c569.jpg" group-title="NBA League Pass" ,公鹿
+https://d3fxkq5ndp4ipd.cloudfront.net:443/hls/bucks/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.hualigs.cn/image/62070ee35c569.jpg" group-title="NBA League Pass" ,太阳
+https://d3fxkq5ndp4ipd.cloudfront.net:443/hls/suns/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.hualigs.cn/image/62070ee35c569.jpg" group-title="NBA League Pass" ,魔术
+https://d3fxkq5ndp4ipd.cloudfront.net:443/hls/magic/playlist.m3u8?SBN
+#EXTINF:-1 tvg-logo="https://www.hualigs.cn/image/62070ee35c569.jpg" group-title="NBA League Pass" ,黄蜂
+https://d3fxkq5ndp4ipd.cloudfront.net:443/hls/hornets/playlist.m3u8?SBN
+#EXTINF:-1 tvg-logo="https://www.hualigs.cn/image/62070ee35c569.jpg" group-title="NBA League Pass" ,金块
+https://d3fxkq5ndp4ipd.cloudfront.net:443/hls/nuggets/playlist.m3u8?SBN
+#EXTINF:-1 tvg-logo="https://www.hualigs.cn/image/62070ee35c569.jpg" group-title="NBA League Pass" ,独行侠
+https://d3fxkq5ndp4ipd.cloudfront.net:443/hls/mavericks/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.hualigs.cn/image/62070ee35c569.jpg" group-title="NBA League Pass" ,骑士
+https://d3fxkq5ndp4ipd.cloudfront.net:443/hls/cavaliers/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.hualigs.cn/image/62070ee35c569.jpg" group-title="NBA League Pass" ,篮网
+https://d3fxkq5ndp4ipd.cloudfront.net:443/hls/nets/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.hualigs.cn/image/62070ee35c569.jpg" group-title="NBA League Pass" ,公牛
+https://d3fxkq5ndp4ipd.cloudfront.net:443/hls/bulls/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.hualigs.cn/image/62070ee35c569.jpg" group-title="NBA League Pass" ,马刺
+https://d3fxkq5ndp4ipd.cloudfront.net:443/hls/spurs/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.hualigs.cn/image/62070ee35c569.jpg" group-title="NBA League Pass" ,拓荒者
+https://d3fxkq5ndp4ipd.cloudfront.net:443/hls/blazers/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.hualigs.cn/image/62070ee35c569.jpg" group-title="NBA League Pass" ,76人
+https://d3fxkq5ndp4ipd.cloudfront.net:443/hls/76ers/playlist.m3u8?SBN
+#EXTINF:-1 tvg-logo="https://www.hualigs.cn/image/62070ee35c569.jpg" group-title="NBA League Pass" ,鹰队
+https://d3fxkq5ndp4ipd.cloudfront.net:443/hls/hawks/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.hualigs.cn/image/62070ee35c569.jpg" group-title="NBA League Pass" ,热火
+https://d3fxkq5ndp4ipd.cloudfront.net:443/hls/heat/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.hualigs.cn/image/62070ee35c569.jpg" group-title="NBA League Pass" ,塞尔特人
+https://d3fxkq5ndp4ipd.cloudfront.net:443/hls/celtics/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.hualigs.cn/image/62070ee35c569.jpg" group-title="NBA League Pass" ,巫师
+https://d3fxkq5ndp4ipd.cloudfront.net:443/hls/wizards/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.hualigs.cn/image/62070ee35c569.jpg" group-title="NBA League Pass" ,速龙
+https://d3fxkq5ndp4ipd.cloudfront.net:443/hls/raptors/playlist.m3u8 
+#EXTINF:-1 tvg-logo="https://www.hualigs.cn/image/62070ee35c569.jpg" group-title="NBA League Pass" ,勇士
+https://d3fxkq5ndp4ipd.cloudfront.net:443/hls/warriors/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.hualigs.cn/image/62070ee35c569.jpg" group-title="NBA League Pass" ,尼克斯
+https://d3fxkq5ndp4ipd.cloudfront.net:443/hls/knicks/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.hualigs.cn/image/62070ee35c569.jpg" group-title="NBA League Pass" ,遛马
+https://d3fxkq5ndp4ipd.cloudfront.net:443/hls/pacers/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.hualigs.cn/image/62070ee35c569.jpg" group-title="NBA League Pass" ,活塞
+https://d3fxkq5ndp4ipd.cloudfront.net:443/hls/pistons/playlist.m3u8 
+#EXTINF:-1 tvg-logo="https://www.hualigs.cn/image/62070ee35c569.jpg" group-title="NBA League Pass" ,灰熊
+https://d3fxkq5ndp4ipd.cloudfront.net:443/hls/grizzlies/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.hualigs.cn/image/62070ee35c569.jpg" group-title="NBA League Pass" ,爵士
+https://d3fxkq5ndp4ipd.cloudfront.net:443/hls/jazz/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.hualigs.cn/image/62070ee35c569.jpg" group-title="NBA League Pass" ,木狼
+https://d3fxkq5ndp4ipd.cloudfront.net:443/hls/timberwolves/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.hualigs.cn/image/62070ee35c569.jpg" group-title="NBA League Pass" ,快艇
+https://d3fxkq5ndp4ipd.cloudfront.net:443/hls/clippers/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.hualigs.cn/image/62070ee35c569.jpg" group-title="NBA League Pass" ,湖人
+https://d3fxkq5ndp4ipd.cloudfront.net:443/hls/lakers/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.hualigs.cn/image/62070ee35c569.jpg" group-title="NBA League Pass" ,鹈鹕
+https://d3fxkq5ndp4ipd.cloudfront.net:443/hls/pelicans/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.hualigs.cn/image/62070ee35c569.jpg" group-title="NBA League Pass" ,雷霆
+https://d3fxkq5ndp4ipd.cloudfront.net:443/hls/thunder/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.hualigs.cn/image/62070ee35c569.jpg" group-title="NBA League Pass" ,国王
+https://d3fxkq5ndp4ipd.cloudfront.net:443/hls/kings/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.hualigs.cn/image/62070ee35c569.jpg" group-title="NBA League Pass" ,火箭
+https://d3fxkq5ndp4ipd.cloudfront.net:443/hls/rockets/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="BBCUHDTrial1.uk"  tvg-logo="" group-title="仅限英国IP",BBC UHD Trial 1
