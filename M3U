@@ -200,6 +200,76 @@ http://111.20.33.93/TVOD/88888893/224/3221226581/index.m3u8
 #EXTINF:-1  tvg-id="" tvg-name="" tvg-logo="https://www.hualigs.cn/image/61d94dc432f07.jpg" group-title="陕西移动-回看",爱上4K
 http://111.20.33.93/TVOD/88888893/224/3221226352/index.m3u8
 
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="陕西秦岭云",CCTV1
+http://119.167.231.18/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226013/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="陕西秦岭云",CCTV1
+http://119.167.231.18/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225490/index.m3u8
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="陕西秦岭云",CCTV2
+http://119.167.231.18/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225612/index.m3u8
+#EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="陕西秦岭云",CCTV4
+http://119.167.231.18/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225610/index.m3u8
+#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="陕西秦岭云",CCTV5+
+http://119.167.231.18/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225494/index.m3u8
+#EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="陕西秦岭云",CCTV7
+http://119.167.231.18/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226002/index.m3u8
+#EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" group-title="陕西秦岭云",CCTV9
+http://119.167.231.18/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225607/index.m3u8
+#EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" group-title="陕西秦岭云",CCTV10
+http://119.167.231.18/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225606/index.m3u8
+#EXTINF:-1 tvg-id="12" tvg-name="CCTV11" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png" group-title="陕西秦岭云",CCTV11
+http://119.167.231.18/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225853/index.m3u8
+#EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" group-title="陕西秦岭云",CCTV12
+http://119.167.231.18/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225605/index.m3u8
+#EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="陕西秦岭云",CCTV13
+http://119.167.231.18/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226062/index.m3u8
+#EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="陕西秦岭云",CCTV14
+http://119.167.231.18/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225604/index.m3u8
+#EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="陕西秦岭云",CCTV15
+http://119.167.231.18/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225854/index.m3u8
+#EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="陕西秦岭云",CCTV17
+http://119.167.231.18/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225608/index.m3u8
+#EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="陕西秦岭云",东方卫视
+http://119.167.231.18/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225503/index.m3u8
+#EXTINF:-1 tvg-id="58" tvg-name="云南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="陕西秦岭云",云南卫视
+http://119.167.231.18/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226063/index.m3u8
+#EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="陕西秦岭云",北京卫视
+http://119.167.231.18/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225502/index.m3u8
+#EXTINF:-1 tvg-id="51" tvg-name="吉林卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jilin.png" group-title="陕西秦岭云",吉林卫视
+http://119.167.231.18/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225598/index.m3u8
+#EXTINF:-1 tvg-id="56" tvg-name="四川卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sichuan.png" group-title="陕西秦岭云",四川卫视
+http://119.167.231.18/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225600/index.m3u8
+#EXTINF:-1 tvg-id="39" tvg-name="天津卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/tianjin.png" group-title="陕西秦岭云",天津卫视
+http://119.167.231.18/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225588/index.m3u8
+#EXTINF:-1 tvg-id="32" tvg-name="安徽卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png" group-title="陕西秦岭云",安徽卫视
+http://119.167.231.18/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225590/index.m3u8
+#EXTINF:-1 tvg-id="38" tvg-name="山东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png" group-title="陕西秦岭云",山东卫视
+http://119.167.231.18/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225591/index.m3u8
+#EXTINF:-1 tvg-id="33" tvg-name="广东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="陕西秦岭云",广东卫视
+http://119.167.231.18/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225589/index.m3u8
+#EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="陕西秦岭云",江苏卫视
+http://119.167.231.18/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225504/index.m3u8
+#EXTINF:-1 tvg-id="50" tvg-name="江西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangxi.png" group-title="陕西秦岭云",江西卫视
+http://119.167.231.18/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225599/index.m3u8
+#EXTINF:-1 tvg-id="47" tvg-name="河南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/henan.png" group-title="陕西秦岭云",河南卫视
+http://119.167.231.18/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226064/index.m3u8
+#EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="陕西秦岭云",浙江卫视
+http://119.167.231.18/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225505/index.m3u8
+#EXTINF:-1 tvg-id="34" tvg-name="深圳卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shenzhen.png" group-title="陕西秦岭云",深圳卫视
+http://119.167.231.18/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225592/index.m3u8
+#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="陕西秦岭云",湖南卫视
+http://119.167.231.18/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225506/index.m3u8
+#EXTINF:-1 tvg-id="44" tvg-name="贵州卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guizhou.png" group-title="陕西秦岭云",贵州卫视
+http://119.167.231.18/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225586/index.m3u8
+#EXTINF:-1 tvg-id="36" tvg-name="辽宁卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png" group-title="陕西秦岭云",辽宁卫视
+http://119.167.231.18/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225593/index.m3u8
+#EXTINF:-1 tvg-id="40" tvg-name="重庆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png" group-title="陕西秦岭云",重庆卫视
+http://119.167.231.18/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225601/index.m3u8
+#EXTINF:-1 tvg-id="55" tvg-name="陕西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi.png" group-title="陕西秦岭云",陕西卫视
+http://119.167.231.18/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225498/index.m3u8
+#EXTINF:-1 tvg-id="46" tvg-name="黑龙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png" group-title="陕西秦岭云",黑龙江卫视
+http://119.167.231.18/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225594/index.m3u8
+#EXTINF:-1 tvg-id="1872" tvg-name="北京纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png" group-title="陕西秦岭云",北京冬奥纪实
+http://119.167.231.18/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226011/index.m3u8
 
 
 #EXTINF:-1  tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="江苏移动-回看",CCTV1
@@ -3524,67 +3594,65 @@ http://39.135.138.60:18890/PLTV/88888910/224/3221226192/index.m3u8
 
 
 
-#EXTINF:-1 group-title="IHOT爱系列" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/IHOT16/IHOT16.jpg?1",IHOT爱经典
+#EXTINF:-1 group-title="iHOT爱系列" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/IHOT16/IHOT16.jpg?1",iHOT爱经典
 
-#EXTINF:-1 group-title="IHOT爱系列" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/IHOT14/IHOT14.jpg?1",IHOT爱历史
+#EXTINF:-1 group-title="iHOT爱系列" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/IHOT14/IHOT14.jpg?1",iHOT爱历史
 
-#EXTINF:-1 group-title="IHOT爱系列" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/IHOT7/IHOT7.jpg?1",IHOT爱旅行
+#EXTINF:-1 group-title="iHOT爱系列" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/IHOT7/IHOT7.jpg?1",iHOT爱旅行
 
-#EXTINF:-1 group-title="IHOT爱系列" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/IHOT6/IHOT6.jpg?1",IHOT爱美食
+#EXTINF:-1 group-title="iHOT爱系列" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/IHOT6/IHOT6.jpg?1",iHOT爱美食
 
-#EXTINF:-1 group-title="IHOT爱系列" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/IHOT8/IHOT8.jpg?1",IHOT爱赛车
+#EXTINF:-1 group-title="iHOT爱系列" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/IHOT8/IHOT8.jpg?1",iHOT爱赛车
 
-#EXTINF:-1 group-title="IHOT爱系列" tvg-logo="https://www.hualigs.cn/image/6153d999cbfa5.jpg",IHOT爱时尚
+#EXTINF:-1 group-title="iHOT爱系列" tvg-logo="https://www.hualigs.cn/image/6153d999cbfa5.jpg",iHOT爱时尚
 
-#EXTINF:-1 group-title="IHOT爱系列" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/IHOT12/IHOT12.jpg?1",IHOT爱探索
+#EXTINF:-1 group-title="iHOT爱系列" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/IHOT12/IHOT12.jpg?1",iHOT爱探索
 
-#EXTINF:-1 group-title="IHOT爱系列" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/IHOT5/IHOT5.jpg?1",IHOT爱体育
+#EXTINF:-1 group-title="iHOT爱系列" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/IHOT5/IHOT5.jpg?1",iHOT爱体育
 http://39.134.3.73:6610/000000001666/100000000100111206/1.m3u8?IASHttpSessionId=OTT
-#EXTINF:-1 group-title="IHOT爱系列" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/IHOT17/IHOT17.jpg?1",IHOT爱悬疑
+#EXTINF:-1 group-title="iHOT爱系列" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/IHOT17/IHOT17.jpg?1",iHOT爱悬疑
 
-#EXTINF:-1 group-title="IHOT爱系列" tvg-logo="https://www.hualigs.cn/image/61bc882f8cb3b.jpg",iHOT爱都市
+#EXTINF:-1 group-title="iHOT爱系列" tvg-logo="https://www.hualigs.cn/image/61bc882f8cb3b.jpg",iHOT爱都市
 
-#EXTINF:-1 group-title="IHOT爱系列" tvg-logo="https://www.hualigs.cn/image/61bc882f8cb3b.jpg",iHOT爱科学
+#EXTINF:-1 group-title="iHOT爱系列" tvg-logo="https://www.hualigs.cn/image/61bc882f8cb3b.jpg",iHOT爱科学
 http://39.134.3.73:6610/000000001666/100000000100111207/1.m3u8?IASHttpSessionId=OTT
-#EXTINF:-1 group-title="IHOT爱系列" tvg-logo="https://www.hualigs.cn/image/61bc882f8cb3b.jpg",iHOT爱动漫
+#EXTINF:-1 group-title="iHOT爱系列" tvg-logo="https://www.hualigs.cn/image/61bc882f8cb3b.jpg",iHOT爱动漫
 http://39.134.3.73:6610/000000001666/100000000100111205/1.m3u8?IASHttpSessionId=OTT
-#EXTINF:-1 group-title="IHOT爱系列" tvg-logo="https://www.hualigs.cn/image/61bc882f8cb3b.jpg",iHOT爱喜剧
+#EXTINF:-1 group-title="iHOT爱系列" tvg-logo="https://www.hualigs.cn/image/61bc882f8cb3b.jpg",iHOT爱喜剧
 
-#EXTINF:-1 group-title="IHOT爱系列" tvg-logo="https://www.hualigs.cn/image/61bc882f8cb3b.jpg",iHOT爱浪漫
+#EXTINF:-1 group-title="iHOT爱系列" tvg-logo="https://www.hualigs.cn/image/61bc882f8cb3b.jpg",iHOT爱浪漫
 http://39.134.3.73:6610/000000001666/100000000100111202/1.m3u8?IASHttpSessionId=OTT
-#EXTINF:-1 group-title="IHOT爱系列" tvg-logo="https://www.hualigs.cn/image/61bc882f8cb3b.jpg",iHOT爱院线
+#EXTINF:-1 group-title="iHOT爱系列" tvg-logo="https://www.hualigs.cn/image/61bc882f8cb3b.jpg",iHOT爱院线
 
-#EXTINF:-1 group-title="IHOT爱系列" tvg-logo="https://www.hualigs.cn/image/61bc882f8cb3b.jpg",iHOT爱科幻
+#EXTINF:-1 group-title="iHOT爱系列" tvg-logo="https://www.hualigs.cn/image/61bc882f8cb3b.jpg",iHOT爱科幻
 
-#EXTINF:-1 group-title="IHOT爱系列" tvg-logo="https://www.hualigs.cn/image/61bc882f8cb3b.jpg",iHOT爱谍战
+#EXTINF:-1 group-title="iHOT爱系列" tvg-logo="https://www.hualigs.cn/image/61bc882f8cb3b.jpg",iHOT爱谍战
 
-#EXTINF:-1 group-title="IHOT爱系列" tvg-logo="https://www.hualigs.cn/image/61bc882f8cb3b.jpg",iHOT爱家庭
+#EXTINF:-1 group-title="iHOT爱系列" tvg-logo="https://www.hualigs.cn/image/61bc882f8cb3b.jpg",iHOT爱家庭
 
-#EXTINF:-1 group-title="IHOT爱系列" tvg-logo="https://www.hualigs.cn/image/61bc882f8cb3b.jpg",iHOT爱青春
+#EXTINF:-1 group-title="iHOT爱系列" tvg-logo="https://www.hualigs.cn/image/61bc882f8cb3b.jpg",iHOT爱青春
 
-#EXTINF:-1 group-title="IHOT爱系列" tvg-logo="https://www.hualigs.cn/image/61bc882f8cb3b.jpg",iHOT爱奇谈
+#EXTINF:-1 group-title="iHOT爱系列" tvg-logo="https://www.hualigs.cn/image/61bc882f8cb3b.jpg",iHOT爱奇谈
 http://39.134.3.73:6610/000000001666/100000000100111201/1.m3u8?IASHttpSessionId=OTT
-#EXTINF:-1 group-title="IHOT爱系列" tvg-logo="https://www.hualigs.cn/image/61bc882f8cb3b.jpg",iHOT爱玩具
+#EXTINF:-1 group-title="iHOT爱系列" tvg-logo="https://www.hualigs.cn/image/61bc882f8cb3b.jpg",iHOT爱玩具
 http://39.134.3.73:6610/000000001666/100000000100111204/1.m3u8?IASHttpSessionId=OTT
-#EXTINF:-1 group-title="IHOT爱系列" tvg-logo="https://www.hualigs.cn/image/61bc882f8cb3b.jpg",iHOT爱电竞
+#EXTINF:-1 group-title="iHOT爱系列" tvg-logo="https://www.hualigs.cn/image/61bc882f8cb3b.jpg",iHOT爱电竞
 
-#EXTINF:-1 group-title="IHOT爱系列" tvg-logo="https://www.hualigs.cn/image/61bc882f8cb3b.jpg",iHOT爱世界
+#EXTINF:-1 group-title="iHOT爱系列" tvg-logo="https://www.hualigs.cn/image/61bc882f8cb3b.jpg",iHOT爱世界
 
-#EXTINF:-1 group-title="IHOT爱系列" tvg-logo="https://www.hualigs.cn/image/61bc882f8cb3b.jpg",iHOT爱怀旧
+#EXTINF:-1 group-title="iHOT爱系列" tvg-logo="https://www.hualigs.cn/image/61bc882f8cb3b.jpg",iHOT爱怀旧
 
-#EXTINF:-1 group-title="IHOT爱系列" tvg-logo="https://www.hualigs.cn/image/61bc882f8cb3b.jpg",iHOT爱江湖
+#EXTINF:-1 group-title="iHOT爱系列" tvg-logo="https://www.hualigs.cn/image/61bc882f8cb3b.jpg",iHOT爱江湖
 
-#EXTINF:-1 group-title="IHOT爱系列" tvg-logo="https://www.hualigs.cn/image/61bc882f8cb3b.jpg",iHOT爱娱乐
+#EXTINF:-1 group-title="iHOT爱系列" tvg-logo="https://www.hualigs.cn/image/61bc882f8cb3b.jpg",iHOT爱娱乐
 
-#EXTINF:-1 group-title="IHOT爱系列" tvg-logo="https://www.hualigs.cn/image/61bc882f8cb3b.jpg",iHOT爱解密
+#EXTINF:-1 group-title="iHOT爱系列" tvg-logo="https://www.hualigs.cn/image/61bc882f8cb3b.jpg",iHOT爱解密
 
-#EXTINF:-1 group-title="IHOT爱系列" tvg-logo="https://www.hualigs.cn/image/61bc882f8cb3b.jpg",iHOT爱军武
+#EXTINF:-1 group-title="iHOT爱系列" tvg-logo="https://www.hualigs.cn/image/61bc882f8cb3b.jpg",iHOT爱军武
 
-#EXTINF:-1 group-title="IHOT爱系列" tvg-logo="https://www.hualigs.cn/image/61bc882f8cb3b.jpg",iHOT爱幼教
+#EXTINF:-1 group-title="iHOT爱系列" tvg-logo="https://www.hualigs.cn/image/61bc882f8cb3b.jpg",iHOT爱幼教
 http://39.134.3.73:6610/000000001666/100000000100111203/1.m3u8?IASHttpSessionId=OTT
-#EXTINF:-1 group-title="IHOT爱系列" tvg-logo="https://www.hualigs.cn/image/61bc882f8cb3b.jpg",iHOT爱猎奇
-
-
+#EXTINF:-1 group-title="iHOT爱系列" tvg-logo="https://www.hualigs.cn/image/61bc882f8cb3b.jpg",iHOT爱猎奇
 
 
 
@@ -4116,23 +4184,23 @@ https://d3fxkq5ndp4ipd.cloudfront.net/hls/abc/playlist.m3u8
 https://d3fxkq5ndp4ipd.cloudfront.net:443/hls/bucks/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/12/HwQdMR.png" group-title="NBA League Pass",太阳
 https://d3fxkq5ndp4ipd.cloudfront.net:443/hls/suns/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.hualigs.cn/image/6207200c1950f.jpg" group-title="NBA League Pass",魔术
+#EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/12/HwQws1.png" group-title="NBA League Pass",魔术
 https://d3fxkq5ndp4ipd.cloudfront.net:443/hls/magic/playlist.m3u8?SBN
-#EXTINF:-1 tvg-logo="https://www.hualigs.cn/image/6207200c9cb87.jpg" group-title="NBA League Pass",黄蜂
+#EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/12/HwQjLq.png" group-title="NBA League Pass",黄蜂
 https://d3fxkq5ndp4ipd.cloudfront.net:443/hls/hornets/playlist.m3u8?SBN
 #EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/12/HwQHJg.png" group-title="NBA League Pass",丹佛掘金
 https://d3fxkq5ndp4ipd.cloudfront.net:443/hls/nuggets/playlist.m3u8?SBN
 #EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/12/HwQqzj.png" group-title="NBA League Pass",独行侠
 https://d3fxkq5ndp4ipd.cloudfront.net:443/hls/mavericks/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.hualigs.cn/image/6207200b9c170.jpg" group-title="NBA League Pass",骑士
+#EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/12/HwQbWQ.png" group-title="NBA League Pass",骑士
 https://d3fxkq5ndp4ipd.cloudfront.net:443/hls/cavaliers/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.hualigs.cn/image/6207200a82649.jpg" group-title="NBA League Pass",篮网
+#EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/12/HwQXyn.png" group-title="NBA League Pass",篮网
 https://d3fxkq5ndp4ipd.cloudfront.net:443/hls/nets/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.hualigs.cn/image/6207200ba3ba7.jpg" group-title="NBA League Pass",公牛
+#EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/12/HwQOQs.png" group-title="NBA League Pass",公牛
 https://d3fxkq5ndp4ipd.cloudfront.net:443/hls/bulls/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.hualigs.cn/image/620720090f5bc.jpg" group-title="NBA League Pass",马刺
+#EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/12/HwQ8aT.png" group-title="NBA League Pass",马刺
 https://d3fxkq5ndp4ipd.cloudfront.net:443/hls/spurs/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.hualigs.cn/image/620720093d7e8.jpg" group-title="NBA League Pass",波特兰开拓者
+#EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/12/HwQNRJ.png" group-title="NBA League Pass",波特兰开拓者
 https://d3fxkq5ndp4ipd.cloudfront.net:443/hls/blazers/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/12/HwQ0qx.png" group-title="NBA League Pass",76人
 https://d3fxkq5ndp4ipd.cloudfront.net:443/hls/76ers/playlist.m3u8?SBN
@@ -4144,7 +4212,7 @@ https://d3fxkq5ndp4ipd.cloudfront.net:443/hls/heat/playlist.m3u8
 https://d3fxkq5ndp4ipd.cloudfront.net:443/hls/celtics/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/12/HwQtG4.png" group-title="NBA League Pass",华盛顿奇才
 https://d3fxkq5ndp4ipd.cloudfront.net:443/hls/wizards/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.hualigs.cn/image/6207200be1351.jpg" group-title="NBA League Pass",多伦多猛龙
+#EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/12/HwQYiF.png" group-title="NBA League Pass",多伦多猛龙
 https://d3fxkq5ndp4ipd.cloudfront.net:443/hls/raptors/playlist.m3u8 
 #EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/12/HwQoo8.png" group-title="NBA League Pass",勇士
 https://d3fxkq5ndp4ipd.cloudfront.net:443/hls/warriors/playlist.m3u8
@@ -4156,11 +4224,11 @@ https://d3fxkq5ndp4ipd.cloudfront.net:443/hls/pacers/playlist.m3u8
 https://d3fxkq5ndp4ipd.cloudfront.net:443/hls/pistons/playlist.m3u8 
 #EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/12/HwQ2zd.png" group-title="NBA League Pass",灰熊
 https://d3fxkq5ndp4ipd.cloudfront.net:443/hls/grizzlies/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.hualigs.cn/image/6207200a9df86.jpg" group-title="NBA League Pass",爵士
+#EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/12/HwQGIU.png" group-title="NBA League Pass",爵士
 https://d3fxkq5ndp4ipd.cloudfront.net:443/hls/jazz/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/12/HwQsIO.png" group-title="NBA League Pass",明尼苏达森林狼
 https://d3fxkq5ndp4ipd.cloudfront.net:443/hls/timberwolves/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.hualigs.cn/image/6207200b4f46a.jpg" group-title="NBA League Pass",快艇
+#EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/12/HwQfsI.png" group-title="NBA League Pass",快艇
 https://d3fxkq5ndp4ipd.cloudfront.net:443/hls/clippers/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/12/HwQWQA.png" group-title="NBA League Pass",湖人
 https://d3fxkq5ndp4ipd.cloudfront.net:443/hls/lakers/playlist.m3u8
