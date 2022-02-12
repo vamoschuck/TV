@@ -4104,15 +4104,15 @@ http://unlimited6-cl.dps.live/sportinghd/sportinghd.smil/playlist.m3u8
 https://wowzaprod188-i.akamaihd.net/hls/live/728897/54d0bcd5/playlist.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://www.hualigs.cn/image/62070ebd8d198.jpg" group-title="NBA League Pass",NBA TV
+https://d3fxkq5ndp4ipd.cloudfront.net/hls/nbatv/playlist.m3u8?SBN
+#EXTINF:-1 tvg-logo="https://www.hualigs.cn/image/62070fbf8c47e.jpg" group-title="NBA League Pass",ESPN
+https://d3fxkq5ndp4ipd.cloudfront.net:443/hls/espn/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.hualigs.cn/image/62070feccd0b5.jpg" group-title="NBA League Pass",TNT
 https://d3fxkq5ndp4ipd.cloudfront.net:443/hls/TNT/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.hualigs.cn/image/62071029b78f7.jpg" group-title="NBA League Pass",ABC
 https://d3fxkq5ndp4ipd.cloudfront.net/hls/abc/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.hualigs.cn/image/62070fbf8c47e.jpg" group-title="NBA League Pass",ESPN
-https://d3fxkq5ndp4ipd.cloudfront.net:443/hls/espn/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.hualigs.cn/image/62070ebd8d198.jpg" group-title="NBA League Pass",NBA TV
-https://d3fxkq5ndp4ipd.cloudfront.net/hls/nbatv/playlist.m3u8?SBN
-#EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/12/HwQgRH.png" group-title="NBA League Pass",公鹿
+#EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/12/HwQgRH.png" group-title="NBA League Pass",密尔沃基雄鹿
 https://d3fxkq5ndp4ipd.cloudfront.net:443/hls/bucks/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/12/HwQdMR.png" group-title="NBA League Pass",太阳
 https://d3fxkq5ndp4ipd.cloudfront.net:443/hls/suns/playlist.m3u8
@@ -4120,7 +4120,7 @@ https://d3fxkq5ndp4ipd.cloudfront.net:443/hls/suns/playlist.m3u8
 https://d3fxkq5ndp4ipd.cloudfront.net:443/hls/magic/playlist.m3u8?SBN
 #EXTINF:-1 tvg-logo="https://www.hualigs.cn/image/6207200c9cb87.jpg" group-title="NBA League Pass",黄蜂
 https://d3fxkq5ndp4ipd.cloudfront.net:443/hls/hornets/playlist.m3u8?SBN
-#EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/12/HwQHJg.png" group-title="NBA League Pass",金块
+#EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/12/HwQHJg.png" group-title="NBA League Pass",丹佛掘金
 https://d3fxkq5ndp4ipd.cloudfront.net:443/hls/nuggets/playlist.m3u8?SBN
 #EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/12/HwQqzj.png" group-title="NBA League Pass",独行侠
 https://d3fxkq5ndp4ipd.cloudfront.net:443/hls/mavericks/playlist.m3u8
@@ -4132,25 +4132,25 @@ https://d3fxkq5ndp4ipd.cloudfront.net:443/hls/nets/playlist.m3u8
 https://d3fxkq5ndp4ipd.cloudfront.net:443/hls/bulls/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.hualigs.cn/image/620720090f5bc.jpg" group-title="NBA League Pass",马刺
 https://d3fxkq5ndp4ipd.cloudfront.net:443/hls/spurs/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.hualigs.cn/image/620720093d7e8.jpg" group-title="NBA League Pass",拓荒者
+#EXTINF:-1 tvg-logo="https://www.hualigs.cn/image/620720093d7e8.jpg" group-title="NBA League Pass",波特兰开拓者
 https://d3fxkq5ndp4ipd.cloudfront.net:443/hls/blazers/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/12/HwQ0qx.png" group-title="NBA League Pass",76人
 https://d3fxkq5ndp4ipd.cloudfront.net:443/hls/76ers/playlist.m3u8?SBN
-#EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/12/HwlSoT.png" group-title="NBA League Pass",鹰队
+#EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/12/HwlSoT.png" group-title="NBA League Pass",亚特兰大老鹰
 https://d3fxkq5ndp4ipd.cloudfront.net:443/hls/hawks/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.hualigs.cn/image/6207200b323ea.jpg" group-title="NBA League Pass",热火
 https://d3fxkq5ndp4ipd.cloudfront.net:443/hls/heat/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/12/HwQxe0.png" group-title="NBA League Pass",塞尔特人
+#EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/12/HwQxe0.png" group-title="NBA League Pass",波士顿凯尔特人
 https://d3fxkq5ndp4ipd.cloudfront.net:443/hls/celtics/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/12/HwQtG4.png" group-title="NBA League Pass",巫师
+#EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/12/HwQtG4.png" group-title="NBA League Pass",华盛顿奇才
 https://d3fxkq5ndp4ipd.cloudfront.net:443/hls/wizards/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.hualigs.cn/image/6207200be1351.jpg" group-title="NBA League Pass",速龙
+#EXTINF:-1 tvg-logo="https://www.hualigs.cn/image/6207200be1351.jpg" group-title="NBA League Pass",多伦多猛龙
 https://d3fxkq5ndp4ipd.cloudfront.net:443/hls/raptors/playlist.m3u8 
 #EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/12/HwQoo8.png" group-title="NBA League Pass",勇士
 https://d3fxkq5ndp4ipd.cloudfront.net:443/hls/warriors/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/12/HwQrdK.png" group-title="NBA League Pass",尼克斯
 https://d3fxkq5ndp4ipd.cloudfront.net:443/hls/knicks/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/12/HwQIdf.png" group-title="NBA League Pass",遛马
+#EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/12/HwQIdf.png" group-title="NBA League Pass",印第安纳步行者
 https://d3fxkq5ndp4ipd.cloudfront.net:443/hls/pacers/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/12/HwQ7FS.png" group-title="NBA League Pass",活塞
 https://d3fxkq5ndp4ipd.cloudfront.net:443/hls/pistons/playlist.m3u8 
@@ -4158,7 +4158,7 @@ https://d3fxkq5ndp4ipd.cloudfront.net:443/hls/pistons/playlist.m3u8
 https://d3fxkq5ndp4ipd.cloudfront.net:443/hls/grizzlies/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.hualigs.cn/image/6207200a9df86.jpg" group-title="NBA League Pass",爵士
 https://d3fxkq5ndp4ipd.cloudfront.net:443/hls/jazz/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/12/HwQsIO.png" group-title="NBA League Pass",木狼
+#EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/12/HwQsIO.png" group-title="NBA League Pass",明尼苏达森林狼
 https://d3fxkq5ndp4ipd.cloudfront.net:443/hls/timberwolves/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.hualigs.cn/image/6207200b4f46a.jpg" group-title="NBA League Pass",快艇
 https://d3fxkq5ndp4ipd.cloudfront.net:443/hls/clippers/playlist.m3u8
@@ -4172,6 +4172,7 @@ https://d3fxkq5ndp4ipd.cloudfront.net:443/hls/thunder/playlist.m3u8
 https://d3fxkq5ndp4ipd.cloudfront.net:443/hls/kings/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/12/HwQhLt.png" group-title="NBA League Pass",火箭
 https://d3fxkq5ndp4ipd.cloudfront.net:443/hls/rockets/playlist.m3u8
+
 
 #EXTINF:-1 group-title="粤语讲波 直播有效",英超 曼联vs修咸顿
 https://hls.zb.ssports.com/ssports/yue3559733_xinying1080.m3u8?k=58c74cf7544586fae3a7d745c7375fd2&t=5f569b90&UID=1644579692free3884254287&MATCHID=3372599&TYPE=1
