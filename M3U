@@ -4224,24 +4224,6 @@ https://d3fxkq5ndp4ipd.cloudfront.net:443/hls/kings/playlist.m3u8
 https://d3fxkq5ndp4ipd.cloudfront.net:443/hls/rockets/playlist.m3u8
 
 
-#EXTINF:-1 group-title="粤语讲波 直播有效",英超 曼联vs修咸顿
-https://hls.zb.ssports.com/ssports/yue3559733_xinying1080.m3u8?k=58c74cf7544586fae3a7d745c7375fd2&t=5f569b90&UID=1644579692free3884254287&MATCHID=3372599&TYPE=1
-#EXTINF:-1 group-title="粤语讲波 直播有效",西甲 卡迪斯vs切尔达
-https://hls.zb.ssports.com/ssports/yue3570779_xinying1080.m3u8?k=180ff4fdf9f8856a2d9fa26096d068c5&t=6207d9bc&UID=1644579791free4837316425&MATCHID=3570779&TYPE=1
-#EXTINF:-1 group-title="粤语讲波 直播有效",英超 屈福特vs白礼顿
-https://hls.zb.ssports.com/ssports/yue3559744_xinying1080.m3u8?k=7f3c7d07e8cbbd202686b8e51853d63f&t=6207f5dc&UID=1644579882free5264816316&MATCHID=3559744&TYPE=1
-#EXTINF:-1 group-title="粤语讲波 直播有效",英超 宾福特vs水晶宫
-https://hls.zb.ssports.com/ssports/yue3559724_xinying1080.m3u8?k=bcff1d1e07ff4d2865a38dc7934e89ce&t=6207f5dc&UID=1644579952free5030408180&MATCHID=3559724&TYPE=1
-#EXTINF:-1 group-title="粤语讲波 直播有效",英超 爱华顿vs列斯联
-https://hls.zb.ssports.com/ssports/yue3559749_xinying1080.m3u8?k=4edcb51236c4b2aea72141a6ac383459&t=6207f5dc&UID=1644580043free7567526616&MATCHID=3559749&TYPE=1
-#EXTINF:-1 group-title="粤语讲波 直播有效",西甲 维拉利尔vs皇家马德里
-https://hls.zb.ssports.com/ssports/yue3570786_xinying1080.m3u8?k=1cc211229938d93a163c0665326d4f9b&t=6207f960&UID=1644580196free0770080728&MATCHID=3570786&TYPE=1
-#EXTINF:-1 group-title="粤语讲波 直播有效",英超 诺域治vs曼城
-https://hls.zb.ssports.com/ssports/yue3559738_xinying1080.m3u8?k=41b484e5265a7c812269e3196816c680&t=5f569b90&UID=1644633129free6326530641&MATCHID=3372599&TYPE=1
-#EXTINF:-1 group-title="粤语讲波 直播有效",西甲 华历简奴vs奥沙辛拿
-https://hls.zb.ssports.com/ssports/yue3570783_xinying1080.m3u8?k=249cd6b823ed248905453ef19dab1503&t=62081904&UID=1644633234free6538406475&MATCHID=3570783&TYPE=1
-#EXTINF:-1 group-title="粤语讲波 直播有效",西甲 马体会vs基达菲
-https://hls.zb.ssports.com/ssports/yue3570778_xinying1080.m3u8?k=57b57c6e26b176290d95fe9ba4a797ea&t=5f569b90&UID=1644633358free3218363883&MATCHID=3372599&TYPE=1
 #EXTINF:-1 group-title="粤语讲波 直播有效",西甲 阿拉维斯vs华伦西亚
 https://hls.zb.ssports.com/ssports/yue3570777_xinying1080.m3u8?k=30ea14edbd98346f3cc242356214645c&t=5f569b90&UID=1644633450free0540650411&MATCHID=3372599&TYPE=1
 #EXTINF:-1 group-title="粤语讲波 直播有效",英超 般尼vs利物浦
@@ -4252,6 +4234,12 @@ https://hls.zb.ssports.com/ssports/yue3559742_xinying1080.m3u8?k=d75c37a6da62041
 https://hls.zb.ssports.com/ssports/yue3559735_xinying1080.m3u8?k=82369264ba67c49f846a97a0c17d8d19&t=6209394c&UID=1644633680free1445613411&MATCHID=3559735&TYPE=1
 #EXTINF:-1 group-title="粤语讲波 直播有效",西甲 利云特vs贝迪斯
 https://hls.zb.ssports.com/ssports/yue3570781_xinying1080.m3u8?k=0218b1b9b7fcd14f6e0b677d7cc5f5cc&t=62094ae0&UID=1644633764free0736384258&MATCHID=3570781&TYPE=1
+#EXTINF:-1 group-title="粤语讲波 直播有效",英超 李斯特城vs韦斯咸
+https://hls.zb.ssports.com/ssports/yue3559730_xinying1080.m3u8?k=b74aee0e3556bbf93bc3051fb7d5223d&t=5f569b90&UID=1644730453free7785166725&MATCHID=3372599&TYPE=1
+#EXTINF:-1 group-title="粤语讲波 直播有效",西甲 皇家苏斯达vs格兰纳特
+https://hls.zb.ssports.com/ssports/yue3570784_xinying1080.m3u8?k=7f8c131120c8a485cddf3b7c1fa06881&t=62096a84&UID=1644730628free5065863180&MATCHID=3570784&TYPE=1
+#EXTINF:-1 group-title="粤语讲波 直播有效",西甲 爱斯宾奴vs巴塞隆拿
+https://hls.zb.ssports.com/ssports/yue3570780_xinying1080.m3u8?k=8f87d3225cd92c6a8803286c68d4682b&t=5f569b90&UID=1644730747free5031428638&MATCHID=3372599&TYPE=1
 
 #EXTINF:-1 tvg-id="BBCUHDTrial1.uk"  tvg-logo="" group-title="仅限英国IP",BBC UHD Trial 1
 https://a.files.bbci.co.uk/media/live/manifesto/audio_video/webcast/dash/uk/full/ak/uhd_stream_01.mpd
