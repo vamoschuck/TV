@@ -242,8 +242,6 @@ http://119.167.231.18/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225600/index.m
 http://119.167.231.18/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225588/index.m3u8
 #EXTINF:-1 tvg-id="32" tvg-name="安徽卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png" group-title="陕西秦岭云",安徽卫视
 http://119.167.231.18/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225590/index.m3u8
-#EXTINF:-1 tvg-id="38" tvg-name="山东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png" group-title="陕西秦岭云",山东卫视
-http://119.167.231.18/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225591/index.m3u8
 #EXTINF:-1 tvg-id="33" tvg-name="广东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="陕西秦岭云",广东卫视
 http://119.167.231.18/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225589/index.m3u8
 #EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="陕西秦岭云",江苏卫视
@@ -555,8 +553,6 @@ http://117.148.179.160/TVOD/88888888/224/3221231694/index.m3u8
 #EXTINF:-1  tvg-id="10" tvg-name="CCTV9" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" group-title="杭州移动-回看",CCTV9HD
 http://117.148.179.162/TVOD/88888888/224/3221231697/index.m3u8
 #EXTINF:-1  tvg-id="11" tvg-name="CCTV10" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" group-title="杭州移动-回看",CCTV10HD
-http://117.148.179.164/TVOD/88888888/224/3221232492/index.m3u8
-#EXTINF:-1  tvg-id="11" tvg-name="CCTV10" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" group-title="杭州移动-回看",CCTV10HD
 http://117.148.179.175/TVOD/88888888/224/3221231666/index.m3u8
 #EXTINF:-1  tvg-id="12" tvg-name="CCTV11" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png" group-title="杭州移动-回看",CCTV11HD
 http://117.148.179.164/TVOD/88888888/224/3221231711/index.m3u8
@@ -655,7 +651,7 @@ http://117.148.179.142/TVOD/88888888/224/3221231885/index.m3u8
 
 
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="江苏移动-高码回看",CCTV1
-http://39.134.71.75/ott.js.chinamobile.com/TVOD/3/224/3221228149/index.m3u8
+
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="江苏移动-高码回看",CCTV1
 http://39.134.71.75/ott.js.chinamobile.com/TVOD/3/224/3221227467/index.m3u8
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="江苏移动-高码回看",CCTV2
@@ -671,23 +667,13 @@ http://39.134.71.75/ott.js.chinamobile.com/TVOD/3/224/3221228091/index.m3u8
 #EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="江苏移动-高码回看",CCTV4
 http://39.134.71.75/ott.js.chinamobile.com/TVOD/3/224/3221227549/index.m3u8
 #EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="江苏移动-高码回看",CCTV5
-http://39.134.71.75/ott.js.chinamobile.com/TVOD/3/224/3221227617/index.m3u8
-#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="江苏移动-高码回看",CCTV5
-http://39.134.71.75/ott.js.chinamobile.com/TVOD/3/224/3221227537/index.m3u8
-#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="江苏移动-高码回看",CCTV5
 http://39.134.71.75/ott.js.chinamobile.com/TVOD/3/224/3221228179/index.m3u8
 #EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="江苏移动-高码回看",CCTV5+
 http://39.134.71.75/ott.js.chinamobile.com/TVOD/3/224/3221228176/index.m3u8
 #EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="江苏移动-高码回看",CCTV5+
 http://39.134.71.75/ott.js.chinamobile.com/TVOD/3/224/3221227502/index.m3u8
-#EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="江苏移动-高码回看",CCTV6
-http://39.134.71.75/ott.js.chinamobile.com/TVOD/3/224/3221227505/index.m3u8
-#EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="江苏移动-高码回看",CCTV6
-http://39.134.71.75/ott.js.chinamobile.com/TVOD/3/224/3221228123/index.m3u8
 #EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="江苏移动-高码回看",CCTV8
 http://39.134.71.75/ott.js.chinamobile.com/TVOD/3/224/3221228194/index.m3u8
-#EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="江苏移动-高码回看",CCTV8
-http://39.134.71.75/ott.js.chinamobile.com/TVOD/3/224/3221227473/index.m3u8
 #EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="江苏移动-高码回看",CCTV奥林匹克
 http://39.134.71.75/ott.js.chinamobile.com/TVOD/3/224/3221228127/index.m3u8
 #EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="江苏移动-高码回看",CCTV奥林匹克
@@ -718,8 +704,6 @@ http://39.134.71.75/ott.js.chinamobile.com/TVOD/3/224/3221227476/index.m3u8
 http://39.134.71.75/ott.js.chinamobile.com/TVOD/3/224/3221227479/index.m3u8
 #EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="江苏移动-高码回看",湖南卫视
 http://39.134.71.75/ott.js.chinamobile.com/TVOD/3/224/3221227482/index.m3u8
-#EXTINF:-1 tvg-id="36" tvg-name="辽宁卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png" group-title="江苏移动-高码回看",辽宁卫视
-http://39.134.71.75/ott.js.chinamobile.com/TVOD/3/224/3221227485/index.m3u8
 #EXTINF:-1 tvg-id="39" tvg-name="天津卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/tianjin.png" group-title="江苏移动-高码回看",天津卫视
 http://39.134.71.75/ott.js.chinamobile.com/TVOD/3/224/3221227488/index.m3u8
 #EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="江苏移动-高码回看",浙江卫视
@@ -732,8 +716,6 @@ http://39.134.71.75/ott.js.chinamobile.com/TVOD/3/224/3221227511/index.m3u8
 http://39.134.71.75/ott.js.chinamobile.com/TVOD/3/224/3221227514/index.m3u8
 #EXTINF:-1 tvg-id="38" tvg-name="山东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png" group-title="江苏移动-高码回看",山东卫视
 http://39.134.71.75/ott.js.chinamobile.com/TVOD/3/224/3221227517/index.m3u8
-#EXTINF:-1 tvg-id="32" tvg-name="安徽卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png" group-title="江苏移动-高码回看",安徽卫视
-http://39.134.71.75/ott.js.chinamobile.com/TVOD/3/224/3221227558/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="江苏移动-高码回看",4K修复
 http://39.134.71.75/ott.js.chinamobile.com/TVOD/3/224/3221228141/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="江苏移动-高码回看",4K电影
