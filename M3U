@@ -2033,7 +2033,7 @@ http://39.134.65.162/PLTV/88888888/224/3221225715/index.m3u8
 http://39.134.65.162/PLTV/88888888/224/3221225730/index.m3u8
 #http://39.134.66.66/PLTV/88888888/224/3221225730/index.m3u8
 #EXTINF:-1 tvg-logo="http://pix1.tvzhe.com/images/logo/channel/IHOT12/IHOT12.jpg?1”, group-title="科普记录",爱探索
-
+http://39.134.30.217/0000000000001000/1.m3u8?Contentid=6000000006000300630&livemode=1&stbId=3&channel-id=wasusyt
 #EXTINF:-1 tvg-id="1988" tvg-name="上海纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png" group-title="科普记录",纪实人文
 http://39.134.65.162/PLTV/88888888/224/3221225673/index.m3u8
 #EXTINF:-1 tvg-id="1988" tvg-name="上海纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png" group-title="科普记录",纪实人文
@@ -2527,7 +2527,16 @@ https://cdn.hkdtmb.com/hls/85/index.m3u8
 https://cdn.hkdtmb.com/hls/99/index.m3u8 
 #EXTINF:-1 tvg-id="" tvg-name="ViuTV" tvg-logo="https://www.hkdtmb.com/png_logo/96.png" group-title="香港地面波",ViuTV Six 
 https://cdn.hkdtmb.com/hls/96/index.m3u8
-
+#EXTINF:-1 tvg-id="130" tvg-name="无线新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" group-title="香港地面波",无线新闻台
+http://ye23.win/iptv/tvb.php?id=1
+#EXTINF:-1 tvg-id="133" tvg-name="无线财经" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvbfinanceinformationchannel.png" group-title="香港地面波",无线财经台
+http://ye23.win/iptv/tvb.php?id=2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="香港地面波",无线LIVE台
+http://ye23.win/iptv/tvb.php?id=3
+#EXTINF:-1 tvg-id="130" tvg-name="无线新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" group-title="香港地面波",无线新闻台4
+http://ye23.win/iptv/tvb.php?id=4
+#EXTINF:-1 tvg-id="130" tvg-name="无线新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" group-title="香港地面波",无线新闻台5
+http://ye23.win/iptv/tvb.php?id=5
 
 #EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港澳台电视侠",翡翠台(第1声道繁体)
 http://iptv.tvfix.org/hls/jade.m3u8
@@ -3569,65 +3578,72 @@ http://39.135.138.60:18890/PLTV/88888910/224/3221226192/index.m3u8
 
 
 #EXTINF:-1 group-title="iHOT爱系列" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/IHOT16/IHOT16.jpg?1",iHOT爱经典
-
+http://39.134.30.217/0000000000001000/1.m3u8?Contentid=6000000006000060630&livemode=1&stbId=3&channel-id=wasusyt
 #EXTINF:-1 group-title="iHOT爱系列" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/IHOT14/IHOT14.jpg?1",iHOT爱历史
-
+http://39.134.30.217/0000000000001000/1.m3u8?Contentid=6000000006000150630&livemode=1&stbId=3&channel-id=wasusyt
 #EXTINF:-1 group-title="iHOT爱系列" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/IHOT7/IHOT7.jpg?1",iHOT爱旅行
-
+http://39.134.30.217/0000000000001000/1.m3u8?Contentid=6000000006000250630&livemode=1&stbId=3&channel-id=wasusyt
 #EXTINF:-1 group-title="iHOT爱系列" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/IHOT6/IHOT6.jpg?1",iHOT爱美食
-
+http://39.134.30.217/0000000000001000/1.m3u8?Contentid=6000000006000120630&livemode=1&stbId=3&channel-id=wasusyt
 #EXTINF:-1 group-title="iHOT爱系列" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/IHOT8/IHOT8.jpg?1",iHOT爱赛车
-
+http://39.134.30.217/0000000000001000/1.m3u8?Contentid=6000000006000240630&livemode=1&stbId=3&channel-id=wasusyt
 #EXTINF:-1 group-title="iHOT爱系列" tvg-logo="https://www.hualigs.cn/image/6153d999cbfa5.jpg",iHOT爱时尚
-
+http://39.134.30.217/0000000000001000/1.m3u8?Contentid=6000000006000140630&livemode=1&stbId=3&channel-id=wasusyt
 #EXTINF:-1 group-title="iHOT爱系列" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/IHOT12/IHOT12.jpg?1",iHOT爱探索
-
+http://39.134.30.217/0000000000001000/1.m3u8?Contentid=6000000006000300630&livemode=1&stbId=3&channel-id=wasusyt
 #EXTINF:-1 group-title="iHOT爱系列" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/IHOT5/IHOT5.jpg?1",iHOT爱体育
-http://39.134.3.73:6610/000000001666/100000000100111206/1.m3u8?IASHttpSessionId=OTT
+http://39.134.30.217/0000000000001000/1.m3u8?Contentid=6000000006000290630&livemode=1&stbId=3&channel-id=wasusyt
+#http://39.134.3.73:6610/000000001666/100000000100111206/1.m3u8?IASHttpSessionId=OTT
 #EXTINF:-1 group-title="iHOT爱系列" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/IHOT17/IHOT17.jpg?1",iHOT爱悬疑
-
+http://39.134.30.217/0000000000001000/1.m3u8?Contentid=6000000006000050630&livemode=1&stbId=3&channel-id=wasusyt
 #EXTINF:-1 group-title="iHOT爱系列" tvg-logo="https://www.hualigs.cn/image/61bc882f8cb3b.jpg",iHOT爱都市
-
+http://39.134.30.217/0000000000001000/1.m3u8?Contentid=6000000006000080630&livemode=1&stbId=3&channel-id=wasusyt
 #EXTINF:-1 group-title="iHOT爱系列" tvg-logo="https://www.hualigs.cn/image/61bc882f8cb3b.jpg",iHOT爱科学
-http://39.134.3.73:6610/000000001666/100000000100111207/1.m3u8?IASHttpSessionId=OTT
+http://39.134.30.217/0000000000001000/1.m3u8?Contentid=6000000006000160630&livemode=1&stbId=3&channel-id=wasusyt
+#http://39.134.3.73:6610/000000001666/100000000100111207/1.m3u8?IASHttpSessionId=OTT
 #EXTINF:-1 group-title="iHOT爱系列" tvg-logo="https://www.hualigs.cn/image/61bc882f8cb3b.jpg",iHOT爱动漫
-http://39.134.3.73:6610/000000001666/100000000100111205/1.m3u8?IASHttpSessionId=OTT
+http://39.134.30.217/0000000000001000/1.m3u8?Contentid=6000000006000280630&livemode=1&stbId=3&channel-id=wasusyt
+#http://39.134.3.73:6610/000000001666/100000000100111205/1.m3u8?IASHttpSessionId=OTT
 #EXTINF:-1 group-title="iHOT爱系列" tvg-logo="https://www.hualigs.cn/image/61bc882f8cb3b.jpg",iHOT爱喜剧
-
+http://39.134.30.217/0000000000001000/1.m3u8?Contentid=6000000006000010630&livemode=1&stbId=3&channel-id=wasusyt
 #EXTINF:-1 group-title="iHOT爱系列" tvg-logo="https://www.hualigs.cn/image/61bc882f8cb3b.jpg",iHOT爱浪漫
-http://39.134.3.73:6610/000000001666/100000000100111202/1.m3u8?IASHttpSessionId=OTT
+http://39.134.30.217/0000000000001000/1.m3u8?Contentid=6000000006000040630&livemode=1&stbId=3&channel-id=wasusyt
+#http://39.134.3.73:6610/000000001666/100000000100111202/1.m3u8?IASHttpSessionId=OTT
 #EXTINF:-1 group-title="iHOT爱系列" tvg-logo="https://www.hualigs.cn/image/61bc882f8cb3b.jpg",iHOT爱院线
-
+http://39.134.30.217/0000000000001000/1.m3u8?Contentid=6000000006000030630&livemode=1&stbId=3&channel-id=wasusyt
 #EXTINF:-1 group-title="iHOT爱系列" tvg-logo="https://www.hualigs.cn/image/61bc882f8cb3b.jpg",iHOT爱科幻
-
+http://39.134.30.217/0000000000001000/1.m3u8?Contentid=6000000006000020630&livemode=1&stbId=3&channel-id=wasusyt
 #EXTINF:-1 group-title="iHOT爱系列" tvg-logo="https://www.hualigs.cn/image/61bc882f8cb3b.jpg",iHOT爱谍战
-
+http://39.134.30.217/0000000000001000/1.m3u8?Contentid=6000000006000070630&livemode=1&stbId=3&channel-id=wasusyt
 #EXTINF:-1 group-title="iHOT爱系列" tvg-logo="https://www.hualigs.cn/image/61bc882f8cb3b.jpg",iHOT爱家庭
-
+http://39.134.30.217/0000000000001000/1.m3u8?Contentid=6000000006000090630&livemode=1&stbId=3&channel-id=wasusyt
 #EXTINF:-1 group-title="iHOT爱系列" tvg-logo="https://www.hualigs.cn/image/61bc882f8cb3b.jpg",iHOT爱青春
-
+http://39.134.30.217/0000000000001000/1.m3u8?Contentid=6000000006000100630&livemode=1&stbId=3&channel-id=wasusyt
 #EXTINF:-1 group-title="iHOT爱系列" tvg-logo="https://www.hualigs.cn/image/61bc882f8cb3b.jpg",iHOT爱奇谈
-http://39.134.3.73:6610/000000001666/100000000100111201/1.m3u8?IASHttpSessionId=OTT
+http://39.134.30.217/0000000000001000/1.m3u8?Contentid=6000000006000270630&livemode=1&stbId=3&channel-id=wasusyt
+#http://39.134.3.73:6610/000000001666/100000000100111201/1.m3u8?IASHttpSessionId=OTT
 #EXTINF:-1 group-title="iHOT爱系列" tvg-logo="https://www.hualigs.cn/image/61bc882f8cb3b.jpg",iHOT爱玩具
-http://39.134.3.73:6610/000000001666/100000000100111204/1.m3u8?IASHttpSessionId=OTT
+http://39.134.30.217/0000000000001000/1.m3u8?Contentid=6000000006000220630&livemode=1&stbId=3&channel-id=wasusyt
+#http://39.134.3.73:6610/000000001666/100000000100111204/1.m3u8?IASHttpSessionId=OTT
 #EXTINF:-1 group-title="iHOT爱系列" tvg-logo="https://www.hualigs.cn/image/61bc882f8cb3b.jpg",iHOT爱电竞
-
+http://39.134.30.217/0000000000001000/1.m3u8?Contentid=6000000006000230630&livemode=1&stbId=3&channel-id=wasusyt
 #EXTINF:-1 group-title="iHOT爱系列" tvg-logo="https://www.hualigs.cn/image/61bc882f8cb3b.jpg",iHOT爱世界
-
+http://39.134.30.217/0000000000001000/1.m3u8?Contentid=6000000006000210630&livemode=1&stbId=3&channel-id=wasusyt
 #EXTINF:-1 group-title="iHOT爱系列" tvg-logo="https://www.hualigs.cn/image/61bc882f8cb3b.jpg",iHOT爱怀旧
-
+http://39.134.30.217/0000000000001000/1.m3u8?Contentid=6000000006000260630&livemode=1&stbId=3&channel-id=wasusyt
 #EXTINF:-1 group-title="iHOT爱系列" tvg-logo="https://www.hualigs.cn/image/61bc882f8cb3b.jpg",iHOT爱江湖
-
+http://39.134.30.217/0000000000001000/1.m3u8?Contentid=6000000006000110630&livemode=1&stbId=3&channel-id=wasusyt
 #EXTINF:-1 group-title="iHOT爱系列" tvg-logo="https://www.hualigs.cn/image/61bc882f8cb3b.jpg",iHOT爱娱乐
-
+http://39.134.30.217/0000000000001000/1.m3u8?Contentid=6000000006000130630&livemode=1&stbId=3&channel-id=wasusyt
 #EXTINF:-1 group-title="iHOT爱系列" tvg-logo="https://www.hualigs.cn/image/61bc882f8cb3b.jpg",iHOT爱解密
-
+http://39.134.30.217/0000000000001000/1.m3u8?Contentid=6000000006000200630&livemode=1&stbId=3&channel-id=wasusyt
 #EXTINF:-1 group-title="iHOT爱系列" tvg-logo="https://www.hualigs.cn/image/61bc882f8cb3b.jpg",iHOT爱军武
-
+http://39.134.30.217/0000000000001000/1.m3u8?Contentid=6000000006000170630&livemode=1&stbId=3&channel-id=wasusyt
 #EXTINF:-1 group-title="iHOT爱系列" tvg-logo="https://www.hualigs.cn/image/61bc882f8cb3b.jpg",iHOT爱幼教
-http://39.134.3.73:6610/000000001666/100000000100111203/1.m3u8?IASHttpSessionId=OTT
+http://39.134.30.217/0000000000001000/1.m3u8?Contentid=6000000006000180630&livemode=1&stbId=3&channel-id=wasusyt
+#http://39.134.3.73:6610/000000001666/100000000100111203/1.m3u8?IASHttpSessionId=OTT
 #EXTINF:-1 group-title="iHOT爱系列" tvg-logo="https://www.hualigs.cn/image/61bc882f8cb3b.jpg",iHOT爱猎奇
-
+http://39.134.30.217/0000000000001000/1.m3u8?Contentid=6000000006000190630&livemode=1&stbId=3&channel-id=wasusyt
 
 
 
