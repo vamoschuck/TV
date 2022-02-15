@@ -2032,7 +2032,7 @@ http://39.134.65.162/PLTV/88888888/224/3221225715/index.m3u8
 #EXTINF:-1 tvg-id="6242" tvg-name="求索动物" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/QSDW.jpg" group-title="科普记录",求索动物
 http://39.134.65.162/PLTV/88888888/224/3221225730/index.m3u8
 #http://39.134.66.66/PLTV/88888888/224/3221225730/index.m3u8
-#EXTINF:-1 tvg-logo="http://pix1.tvzhe.com/images/logo/channel/IHOT12/IHOT12.jpg?1”, group-title="科普记录",爱探索
+#EXTINF:-1 tvg-logo="http://pix1.tvzhe.com/images/logo/channel/IHOT12/IHOT12.jpg?1” group-title="科普记录",爱探索
 http://39.134.30.217/0000000000001000/1.m3u8?Contentid=6000000006000300630&livemode=1&stbId=3&channel-id=wasusyt
 #EXTINF:-1 tvg-id="1988" tvg-name="上海纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png" group-title="科普记录",纪实人文
 http://39.134.65.162/PLTV/88888888/224/3221225673/index.m3u8
@@ -2096,140 +2096,65 @@ https://edgesports-sportstribal.amagi.tv/playlist.m3u8
 https://dai.google.com/linear/hls/event/d4zeSI-dTuqizFrByjs3OA/master.m3u8
 
 
-#EXTINF:-1 group-title="赛事直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",咪咕视频 西甲-1
-http://39.134.66.66/PLTV/88888888/224/3221225620/index.m3u8
+#EXTINF:-1 group-title="赛事直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",咪咕视频
+http://39.134.66.66/PLTV/88888888/224/3221225611/index.m3u8
 #EXTINF:-1 group-title="赛事直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",咪咕视频
 http://39.134.66.66/PLTV/88888888/224/3221225613/index.m3u8
 #EXTINF:-1 group-title="赛事直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",咪咕视频
 http://39.134.66.66/PLTV/88888888/224/3221225617/index.m3u8
-#EXTINF:-1 group-title="赛事直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",咪咕视频 NBA
+#EXTINF:-1 group-title="赛事直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",咪咕视频
 http://39.134.66.66/PLTV/88888888/224/3221225619/index.m3u8
-#EXTINF:-1 group-title="赛事直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",广西咪咕—法甲-1
-http://39.135.46.246:6610/PLTV/77777777/224/3221225786/index.m3u8?vamoschucktv
-#EXTINF:-1 group-title="赛事直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",广西咪咕—西甲-1
-http://39.135.46.246:6610/PLTV/77777777/224/3221225817/index.m3u8?vamoschucktv
-#EXTINF:-1 group-title="赛事直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",广西咪咕—意甲-1
-http://39.135.46.246:6610/PLTV/77777777/224/3221225814/index.m3u8?vamoschucktv
-#EXTINF:-1 group-title="赛事直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",广西咪咕—CBA-1
-http://39.135.46.246:6610/PLTV/77777777/224/3221225811/index.m3u8?vamoschucktv
-#EXTINF:-1 group-title="赛事直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",广西咪咕—CBA-2
-http://39.135.46.246:6610/PLTV/77777777/224/3221225783/index.m3u8?vamoschucktv
-#EXTINF:-1 group-title="赛事直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",广西咪咕—CBA-3
-http://39.135.46.246:6610/PLTV/77777777/224/3221225780/index.m3u8?vamoschucktv
-#EXTINF:-1 group-title="赛事直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",广西咪咕—CBA-4
-http://39.135.46.246:6610/PLTV/77777777/224/3221225848/index.m3u8?vamoschucktv
-#EXTINF:-1 group-title="赛事直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",广西咪咕—CBA-5
-http://39.135.46.246:6610/PLTV/77777777/224/3221225851/index.m3u8?vamoschucktv
-#EXTINF:-1 group-title="赛事直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",广西咪咕—CBA-6
-http://39.135.46.246:6610/PLTV/77777777/224/3221225857/index.m3u8?vamoschucktv
-#EXTINF:-1 group-title="赛事直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",广西咪咕-NBA-1
-http://39.135.46.246:6610/PLTV/77777777/224/3221225842/index.m3u8?vamoschucktv
-#EXTINF:-1 group-title="赛事直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",广西咪咕-4K
-http://39.135.41.243/PLTV/88888888/224/3221226716/index.m3u8?vamoschucktv
-#EXTINF:-1 group-title="赛事直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",广西咪咕-4K
-http://39.135.46.246:6610/PLTV/77777777/224/3221225863/index.m3u8?vamoschucktv
-#EXTINF:-1 group-title="赛事直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",广西咪咕-赛事轮播
-http://39.135.46.246:6610/PLTV/77777777/224/3221225965/index.m3u8?vamoschucktv
-#EXTINF:-1 group-title="赛事直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",广西咪咕-赛事轮播
-http://39.135.46.246:6610/PLTV/77777777/224/3221225876/index.m3u8?vamoschucktv
-#EXTINF:-1 group-title="赛事直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",广西咪咕-赛事轮播
-http://39.135.46.246:6610/PLTV/77777777/224/3221225935/index.m3u8?vamoschucktv
-#EXTINF:-1 group-title="赛事直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",广西咪咕-赛事轮播
-http://39.135.46.246:6610/PLTV/77777777/224/3221225906/index.m3u8?vamoschucktv
-#EXTINF:-1 group-title="赛事直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",广西咪咕-国内赛事
-http://39.135.46.246:6610/PLTV/77777777/224/3221225853/index.m3u8?vamoschucktv
-#EXTINF:-1 group-title="赛事直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",广西咪咕_4
-http://39.135.46.246:6610/PLTV/77777777/224/3221225962/index.m3u8?vamoschucktv
-#EXTINF:-1 group-title="赛事直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",广西咪咕_5
-http://39.135.46.246:6610/PLTV/77777777/224/3221225959/index.m3u8?vamoschucktv
-#EXTINF:-1 group-title="赛事直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",广西咪咕_9
-http://39.135.46.246:6610/PLTV/77777777/224/3221225920/index.m3u8?vamoschucktv
-#EXTINF:-1 group-title="赛事直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",广西咪咕_10
-http://39.135.46.246:6610/PLTV/77777777/224/3221225917/index.m3u8?vamoschucktv
-#EXTINF:-1 group-title="赛事直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",广西咪咕_11
-http://39.135.46.246:6610/PLTV/77777777/224/3221225914/index.m3u8?vamoschucktv
-#EXTINF:-1 group-title="赛事直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",广西咪咕_12
-http://39.135.46.246:6610/PLTV/77777777/224/3221225911/index.m3u8?vamoschucktv
-#EXTINF:-1 group-title="赛事直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",广西咪咕_13
-http://39.135.46.246:6610/PLTV/77777777/224/3221225908/index.m3u8?vamoschucktv
-#EXTINF:-1 group-title="赛事直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",广西咪咕_14
-http://39.135.46.246:6610/PLTV/77777777/224/3221225905/index.m3u8?vamoschucktv
-#EXTINF:-1 group-title="赛事直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",广西咪咕_15
-http://39.135.46.246:6610/PLTV/77777777/224/3221225902/index.m3u8?vamoschucktv
-#EXTINF:-1 group-title="赛事直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",广西咪咕_16
-http://39.135.46.246:6610/PLTV/77777777/224/3221225899/index.m3u8?vamoschucktv
-#EXTINF:-1 group-title="赛事直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",广西咪咕_17
-http://39.135.46.246:6610/PLTV/77777777/224/3221225896/index.m3u8?vamoschucktv
-#EXTINF:-1 group-title="赛事直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",广西咪咕_18
-http://39.135.46.246:6610/PLTV/77777777/224/3221225893/index.m3u8?vamoschucktv
-#EXTINF:-1 group-title="赛事直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",广西咪咕_19
-http://39.135.46.246:6610/PLTV/77777777/224/3221225871/index.m3u8?vamoschucktv
-#EXTINF:-1 group-title="赛事直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",广西咪咕_20
-http://39.135.46.246:6610/PLTV/77777777/224/3221225868/index.m3u8?vamoschucktv
-#EXTINF:-1 group-title="赛事直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",广西咪咕_21
-http://39.135.46.246:6610/PLTV/77777777/224/3221225865/index.m3u8?vamoschucktv
-#EXTINF:-1 group-title="赛事直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",广西咪咕_22
-http://39.135.46.246:6610/PLTV/77777777/224/3221225862/index.m3u8?vamoschucktv
-#EXTINF:-1 group-title="赛事直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",广西咪咕_23
-http://39.135.46.246:6610/PLTV/77777777/224/3221225861/index.m3u8?vamoschucktv
-#EXTINF:-1 group-title="赛事直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",广西咪咕_24
-http://39.135.46.246:6610/PLTV/77777777/224/3221225860/index.m3u8?vamoschucktv
-#EXTINF:-1 group-title="赛事直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",广西咪咕_25
-http://39.135.46.246:6610/PLTV/77777777/224/3221225859/index.m3u8?vamoschucktv
-#EXTINF:-1 group-title="赛事直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",广西咪咕_26
-http://39.135.46.246:6610/PLTV/77777777/224/3221225858/index.m3u8?vamoschucktv
-#EXTINF:-1 group-title="赛事直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",广西咪咕_28
-http://39.135.46.246:6610/PLTV/77777777/224/3221225856/index.m3u8?vamoschucktv
-#EXTINF:-1 group-title="赛事直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",广西咪咕_29
-http://39.135.46.246:6610/PLTV/77777777/224/3221225855/index.m3u8?vamoschucktv
-#EXTINF:-1 group-title="赛事直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",广西咪咕_30
-http://39.135.46.246:6610/PLTV/77777777/224/3221225854/index.m3u8?vamoschucktv
-#EXTINF:-1 group-title="赛事直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",广西咪咕_32
-http://39.135.46.246:6610/PLTV/77777777/224/3221225852/index.m3u8?vamoschucktv
-#EXTINF:-1 group-title="赛事直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",广西咪咕_34
-http://39.135.46.246:6610/PLTV/77777777/224/3221225849/index.m3u8?vamoschucktv
-#EXTINF:-1 group-title="赛事直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",广西咪咕_36
-http://39.135.46.246:6610/PLTV/77777777/224/3221225846/index.m3u8?vamoschucktv
-#EXTINF:-1 group-title="赛事直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",广西咪咕_37
-http://39.135.46.246:6610/PLTV/77777777/224/3221225845/index.m3u8?vamoschucktv
-#EXTINF:-1 group-title="赛事直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",广西咪咕_38
-http://39.135.46.246:6610/PLTV/77777777/224/3221225843/index.m3u8?vamoschucktv
-#EXTINF:-1 group-title="赛事直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",广西咪咕_40
-http://39.135.46.246:6610/PLTV/77777777/224/3221225840/index.m3u8?vamoschucktv
-#EXTINF:-1 group-title="赛事直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",广西咪咕_41
-http://39.135.46.246:6610/PLTV/77777777/224/3221225839/index.m3u8?vamoschucktv
-#EXTINF:-1 group-title="赛事直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",广西咪咕_42
-http://39.135.46.246:6610/PLTV/77777777/224/3221225837/index.m3u8?vamoschucktv
-#EXTINF:-1 group-title="赛事直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",广西咪咕_43
-http://39.135.46.246:6610/PLTV/77777777/224/3221225834/index.m3u8?vamoschucktv
-#EXTINF:-1 group-title="赛事直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",广西咪咕_44
-http://39.135.46.246:6610/PLTV/77777777/224/3221225820/index.m3u8?vamoschucktv
-#EXTINF:-1 group-title="赛事直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",广西咪咕_48
-http://39.135.46.246:6610/PLTV/77777777/224/3221225808/index.m3u8?vamoschucktv
-#EXTINF:-1 group-title="赛事直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",广西咪咕_49
-http://39.135.46.246:6610/PLTV/77777777/224/3221225805/index.m3u8?vamoschucktv
-#EXTINF:-1 group-title="赛事直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",广西咪咕_50
-http://39.135.46.246:6610/PLTV/77777777/224/3221225802/index.m3u8?vamoschucktv
-#EXTINF:-1 group-title="赛事直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",广西咪咕_51
-http://39.135.46.246:6610/PLTV/77777777/224/3221225799/index.m3u8?vamoschucktv
-#EXTINF:-1 group-title="赛事直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",广西咪咕_52
-http://39.135.46.246:6610/PLTV/77777777/224/3221225796/index.m3u8?vamoschucktv
-#EXTINF:-1 group-title="赛事直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",广西咪咕_53
-http://39.135.46.246:6610/PLTV/77777777/224/3221225793/index.m3u8?vamoschucktv
-#EXTINF:-1 group-title="赛事直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",广西咪咕_54
-http://39.135.46.246:6610/PLTV/77777777/224/3221225792/index.m3u8?vamoschucktv
-#EXTINF:-1 group-title="赛事直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",广西咪咕_55
-http://39.135.46.246:6610/PLTV/77777777/224/3221225789/index.m3u8?vamoschucktv
-#EXTINF:-1 group-title="赛事直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",广西咪咕_59
-http://39.135.46.246:6610/PLTV/77777777/224/3221225777/index.m3u8?vamoschucktv
-#EXTINF:-1 group-title="赛事直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",广西咪咕_60
-http://39.135.46.246:6610/PLTV/77777777/224/3221225774/index.m3u8?vamoschucktv
-#EXTINF:-1 group-title="赛事直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",广西咪咕_61
-http://39.135.46.246:6610/PLTV/77777777/224/3221225771/index.m3u8?vamoschucktv
-#EXTINF:-1 group-title="赛事直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",广西咪咕_62
-http://39.135.46.246:6610/PLTV/77777777/224/3221225769/index.m3u8?vamoschucktv
-#EXTINF:-1 group-title="赛事直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",广西咪咕_63
-http://39.135.46.246:6610/PLTV/77777777/224/3221225654/index.m3u8?vamoschucktv
+#EXTINF:-1 group-title="赛事直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",咪咕视频
+http://39.134.66.66/PLTV/88888888/224/3221225620/index.m3u8
+#EXTINF:-1 group-title="赛事直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",咪咕视频
+http://39.134.66.66/PLTV/88888888/224/3221225639/index.m3u8
+#EXTINF:-1 group-title="赛事直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",咪咕视频
+http://39.134.66.66/PLTV/88888888/224/3221225641/index.m3u8
+#EXTINF:-1 group-title="赛事直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",咪咕视频
+http://39.134.66.66/PLTV/88888888/224/3221225643/index.m3u8
+#EXTINF:-1 group-title="赛事直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",咪咕视频
+http://39.134.66.66/PLTV/88888888/224/3221225645/index.m3u8
+#EXTINF:-1 group-title="赛事直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",咪咕视频
+http://39.134.66.66/PLTV/88888888/224/3221225647/index.m3u8
+#EXTINF:-1 group-title="赛事直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",咪咕视频
+http://39.134.66.66/PLTV/88888888/224/3221225648/index.m3u8
+#EXTINF:-1 group-title="赛事直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",咪咕视频
+http://39.134.66.66/PLTV/88888888/224/3221225650/index.m3u8
+#EXTINF:-1 group-title="赛事直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",咪咕视频
+http://39.134.66.66/PLTV/88888888/224/3221225652/index.m3u8
+#EXTINF:-1 group-title="赛事直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",咪咕视频
+http://39.134.66.66/PLTV/88888888/224/3221225733/index.m3u8
+#EXTINF:-1 group-title="赛事直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",咪咕视频
+http://39.134.66.66/PLTV/88888888/224/3221225735/index.m3u8
+#EXTINF:-1 group-title="赛事直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",咪咕视频
+http://39.134.66.66/PLTV/88888888/224/3221225737/index.m3u8
+#EXTINF:-1 group-title="赛事直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",咪咕视频
+http://39.134.66.66/PLTV/88888888/224/3221225739/index.m3u8
+#EXTINF:-1 group-title="赛事直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",咪咕视频
+http://39.134.66.66/PLTV/88888888/224/3221225741/index.m3u8
+#EXTINF:-1 group-title="赛事直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",咪咕视频
+http://39.134.66.66/PLTV/88888888/224/3221225745/index.m3u8
+#EXTINF:-1 group-title="赛事直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",咪咕视频
+http://39.134.66.66/PLTV/88888888/224/3221225747/index.m3u8
+#EXTINF:-1 group-title="赛事直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",咪咕视频
+http://39.134.66.66/PLTV/88888888/224/3221225749/index.m3u8
+#EXTINF:-1 group-title="赛事直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",咪咕视频
+http://39.134.66.66/PLTV/88888888/224/3221225754/index.m3u8
+#EXTINF:-1 group-title="赛事直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",咪咕视频
+http://39.134.66.66/PLTV/88888888/224/3221225756/index.m3u8
+#EXTINF:-1 group-title="赛事直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",咪咕视频
+http://39.134.66.66/PLTV/88888888/224/3221225758/index.m3u8
+#EXTINF:-1 group-title="赛事直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",咪咕视频
+http://39.134.66.66/PLTV/88888888/224/3221225760/index.m3u8
+#EXTINF:-1 group-title="赛事直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",咪咕视频
+http://39.134.66.66/PLTV/88888888/224/3221225762/index.m3u8
+#EXTINF:-1 group-title="赛事直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",咪咕视频
+http://39.134.66.66/PLTV/88888888/224/3221225764/index.m3u8
+#EXTINF:-1 group-title="赛事直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",咪咕视频
+http://39.134.66.66/PLTV/88888888/224/3221225766/index.m3u8
+#EXTINF:-1 group-title="赛事直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",咪咕视频
+http://39.134.66.66/PLTV/88888888/224/3221225768/index.m3u8
+
 
 
 #EXTINF:-1 group-title="卷毛鼠代理" tvg-logo="https://www.hkdtmb.com/png_logo/81.png",翡翠台
@@ -4680,73 +4605,97 @@ https://wowzaprod188-i.akamaihd.net/hls/live/728897/54d0bcd5/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.hualigs.cn/image/62070ebd8d198.jpg" group-title="NBA League Pass",NBA TV
-https://d3fxkq5ndp4ipd.cloudfront.net/hls/nbatv/playlist.m3u8?SBN
+https://d1eqmybbugbqy9.cloudfront.net/hls/nbatv/playlist.m3u8?SBN
 #EXTINF:-1 tvg-logo="https://www.hualigs.cn/image/62070fbf8c47e.jpg" group-title="NBA League Pass",ESPN
-https://d3fxkq5ndp4ipd.cloudfront.net:443/hls/espn/playlist.m3u8
+https://d1eqmybbugbqy9.cloudfront.net:443/hls/espn/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.hualigs.cn/image/62070feccd0b5.jpg" group-title="NBA League Pass",TNT
-https://d3fxkq5ndp4ipd.cloudfront.net:443/hls/TNT/playlist.m3u8
+https://d1eqmybbugbqy9.cloudfront.net:443/hls/TNT/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.hualigs.cn/image/62071029b78f7.jpg" group-title="NBA League Pass",ABC
-https://d3fxkq5ndp4ipd.cloudfront.net/hls/abc/playlist.m3u8
+https://d1eqmybbugbqy9.cloudfront.net/hls/abc/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/12/HwQgRH.png" group-title="NBA League Pass",密尔沃基雄鹿
-https://d3fxkq5ndp4ipd.cloudfront.net:443/hls/bucks/playlist.m3u8
+https://d1eqmybbugbqy9.cloudfront.net:443/hls/bucks/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/12/HwQdMR.png" group-title="NBA League Pass",太阳
-https://d3fxkq5ndp4ipd.cloudfront.net:443/hls/suns/playlist.m3u8
+https://d1eqmybbugbqy9.cloudfront.net:443/hls/suns/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/12/HwQws1.png" group-title="NBA League Pass",魔术
-https://d3fxkq5ndp4ipd.cloudfront.net:443/hls/magic/playlist.m3u8?SBN
+https://d1eqmybbugbqy9.cloudfront.net:443/hls/magic/playlist.m3u8?SBN
 #EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/12/HwQjLq.png" group-title="NBA League Pass",黄蜂
-https://d3fxkq5ndp4ipd.cloudfront.net:443/hls/hornets/playlist.m3u8?SBN
+https://d1eqmybbugbqy9.cloudfront.net:443/hls/hornets/playlist.m3u8?SBN
 #EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/12/HwQHJg.png" group-title="NBA League Pass",丹佛掘金
-https://d3fxkq5ndp4ipd.cloudfront.net:443/hls/nuggets/playlist.m3u8?SBN
+https://d1eqmybbugbqy9.cloudfront.net:443/hls/nuggets/playlist.m3u8?SBN
 #EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/12/HwQqzj.png" group-title="NBA League Pass",独行侠
-https://d3fxkq5ndp4ipd.cloudfront.net:443/hls/mavericks/playlist.m3u8
+https://d1eqmybbugbqy9.cloudfront.net:443/hls/mavericks/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/12/HwQbWQ.png" group-title="NBA League Pass",骑士
-https://d3fxkq5ndp4ipd.cloudfront.net:443/hls/cavaliers/playlist.m3u8
+https://d1eqmybbugbqy9.cloudfront.net:443/hls/cavaliers/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/12/HwQXyn.png" group-title="NBA League Pass",篮网
-https://d3fxkq5ndp4ipd.cloudfront.net:443/hls/nets/playlist.m3u8
+https://d1eqmybbugbqy9.cloudfront.net:443/hls/nets/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/12/HwQOQs.png" group-title="NBA League Pass",公牛
-https://d3fxkq5ndp4ipd.cloudfront.net:443/hls/bulls/playlist.m3u8
+https://d1eqmybbugbqy9.cloudfront.net:443/hls/bulls/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/12/HwQ8aT.png" group-title="NBA League Pass",马刺
-https://d3fxkq5ndp4ipd.cloudfront.net:443/hls/spurs/playlist.m3u8
+https://d1eqmybbugbqy9.cloudfront.net:443/hls/spurs/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/12/HwQNRJ.png" group-title="NBA League Pass",波特兰开拓者
-https://d3fxkq5ndp4ipd.cloudfront.net:443/hls/blazers/playlist.m3u8
+https://d1eqmybbugbqy9.cloudfront.net:443/hls/blazers/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/12/HwQ0qx.png" group-title="NBA League Pass",76人
-https://d3fxkq5ndp4ipd.cloudfront.net:443/hls/76ers/playlist.m3u8?SBN
+https://d1eqmybbugbqy9.cloudfront.net:443/hls/76ers/playlist.m3u8?SBN
 #EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/12/HwlSoT.png" group-title="NBA League Pass",亚特兰大老鹰
-https://d3fxkq5ndp4ipd.cloudfront.net:443/hls/hawks/playlist.m3u8
+https://d1eqmybbugbqy9.cloudfront.net:443/hls/hawks/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.hualigs.cn/image/6207200b323ea.jpg" group-title="NBA League Pass",热火
-https://d3fxkq5ndp4ipd.cloudfront.net:443/hls/heat/playlist.m3u8
+https://d1eqmybbugbqy9.cloudfront.net:443/hls/heat/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/12/HwQxe0.png" group-title="NBA League Pass",波士顿凯尔特人
-https://d3fxkq5ndp4ipd.cloudfront.net:443/hls/celtics/playlist.m3u8
+https://d1eqmybbugbqy9.cloudfront.net:443/hls/celtics/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/12/HwQtG4.png" group-title="NBA League Pass",华盛顿奇才
-https://d3fxkq5ndp4ipd.cloudfront.net:443/hls/wizards/playlist.m3u8
+https://d1eqmybbugbqy9.cloudfront.net:443/hls/wizards/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/12/HwQYiF.png" group-title="NBA League Pass",多伦多猛龙
-https://d3fxkq5ndp4ipd.cloudfront.net:443/hls/raptors/playlist.m3u8 
+https://d1eqmybbugbqy9.cloudfront.net:443/hls/raptors/playlist.m3u8 
 #EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/12/HwQoo8.png" group-title="NBA League Pass",勇士
-https://d3fxkq5ndp4ipd.cloudfront.net:443/hls/warriors/playlist.m3u8
+https://d1eqmybbugbqy9.cloudfront.net:443/hls/warriors/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/12/HwQrdK.png" group-title="NBA League Pass",尼克斯
-https://d3fxkq5ndp4ipd.cloudfront.net:443/hls/knicks/playlist.m3u8
+https://d1eqmybbugbqy9.cloudfront.net:443/hls/knicks/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/12/HwQIdf.png" group-title="NBA League Pass",印第安纳步行者
-https://d3fxkq5ndp4ipd.cloudfront.net:443/hls/pacers/playlist.m3u8
+https://d1eqmybbugbqy9.cloudfront.net:443/hls/pacers/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/12/HwQ7FS.png" group-title="NBA League Pass",活塞
-https://d3fxkq5ndp4ipd.cloudfront.net:443/hls/pistons/playlist.m3u8 
+https://d1eqmybbugbqy9.cloudfront.net:443/hls/pistons/playlist.m3u8 
 #EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/12/HwQ2zd.png" group-title="NBA League Pass",灰熊
-https://d3fxkq5ndp4ipd.cloudfront.net:443/hls/grizzlies/playlist.m3u8
+https://d1eqmybbugbqy9.cloudfront.net:443/hls/grizzlies/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/12/HwQGIU.png" group-title="NBA League Pass",爵士
-https://d3fxkq5ndp4ipd.cloudfront.net:443/hls/jazz/playlist.m3u8
+https://d1eqmybbugbqy9.cloudfront.net:443/hls/jazz/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/12/HwQsIO.png" group-title="NBA League Pass",明尼苏达森林狼
-https://d3fxkq5ndp4ipd.cloudfront.net:443/hls/timberwolves/playlist.m3u8
+https://d1eqmybbugbqy9.cloudfront.net:443/hls/timberwolves/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/12/HwQfsI.png" group-title="NBA League Pass",快艇
-https://d3fxkq5ndp4ipd.cloudfront.net:443/hls/clippers/playlist.m3u8
+https://d1eqmybbugbqy9.cloudfront.net:443/hls/clippers/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/12/HwQWQA.png" group-title="NBA League Pass",湖人
-https://d3fxkq5ndp4ipd.cloudfront.net:443/hls/lakers/playlist.m3u8
+https://d1eqmybbugbqy9.cloudfront.net:443/hls/lakers/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/12/HwQ6iD.png" group-title="NBA League Pass",鹈鹕
-https://d3fxkq5ndp4ipd.cloudfront.net:443/hls/pelicans/playlist.m3u8
+https://d1eqmybbugbqy9.cloudfront.net:443/hls/pelicans/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/12/HwQDZ6.png" group-title="NBA League Pass",雷霆
-https://d3fxkq5ndp4ipd.cloudfront.net:443/hls/thunder/playlist.m3u8
+https://d1eqmybbugbqy9.cloudfront.net:443/hls/thunder/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/12/HwQ3ZV.png" group-title="NBA League Pass",国王
-https://d3fxkq5ndp4ipd.cloudfront.net:443/hls/kings/playlist.m3u8
+https://d1eqmybbugbqy9.cloudfront.net:443/hls/kings/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/12/HwQhLt.png" group-title="NBA League Pass",火箭
-https://d3fxkq5ndp4ipd.cloudfront.net:443/hls/rockets/playlist.m3u8
+https://d1eqmybbugbqy9.cloudfront.net:443/hls/rockets/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/15/Hcx05d.png" group-title="NBA League Pass",NBA Live Game 1
+https://d15xyumcalkui.cloudfront.net/flash1/_definst_/n1/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/15/Hcx05d.png" group-title="NBA League Pass",NBA Live Game 2
+https://d15xyumcalkui.cloudfront.net/flash1/_definst_/n2/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/15/Hcx05d.png" group-title="NBA League Pass",NBA Live Game 3
+https://d15xyumcalkui.cloudfront.net/flash1/_definst_/n3/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/15/Hcx05d.png" group-title="NBA League Pass",NBA Live Game 4
+https://d15xyumcalkui.cloudfront.net/flash1/_definst_/n4/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/15/Hcx05d.png" group-title="NBA League Pass",NBA Live Game 5
+https://d15xyumcalkui.cloudfront.net/flash1/_definst_/n5/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/15/Hcx05d.png" group-title="NBA League Pass",NBA Live Game 6
+https://d15xyumcalkui.cloudfront.net/flash1/_definst_/n6/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/15/Hcx05d.png" group-title="NBA League Pass",NBA Live Game 7
+https://d15xyumcalkui.cloudfront.net/flash1/_definst_/n7/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/15/Hcx05d.png" group-title="NBA League Pass",NBA Live Game 8
+https://d15xyumcalkui.cloudfront.net/flash1/_definst_/n8/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/15/Hcx05d.png" group-title="NBA League Pass",NBA Live Game 9
+https://d15xyumcalkui.cloudfront.net/flash1/_definst_/n9/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/15/Hcx05d.png" group-title="NBA League Pass",NBA Live Game 10
+https://d15xyumcalkui.cloudfront.net/flash1/_definst_/n10/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/15/Hcx05d.png" group-title="NBA League Pass",NBA Live Game 11
+https://d15xyumcalkui.cloudfront.net/flash1/_definst_/n11/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/15/Hcx05d.png" group-title="NBA League Pass",NBA Live Game 12
+https://d15xyumcalkui.cloudfront.net/flash1/_definst_/n12/chunklist.m3u8
 
 
 #EXTINF:-1 group-title="粤语讲波 直播有效",西甲 马略卡vs毕尔包
