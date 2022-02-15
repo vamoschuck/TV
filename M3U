@@ -4606,7 +4606,7 @@ https://wowzaprod188-i.akamaihd.net/hls/live/728897/54d0bcd5/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.hualigs.cn/image/62070ebd8d198.jpg" group-title="NBA League Pass",NBA TV
 https://d1eqmybbugbqy9.cloudfront.net/hls/nbatv/playlist.m3u8?SBN
-#EXTINF:-1 tvg-logo="https://www.hualigs.cn/image/62070fbf8c47e.jpg" group-title="NBA League Pass",ESPN
+#EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/15/HgKGR0.png" group-title="NBA League Pass",ESPN
 https://d1eqmybbugbqy9.cloudfront.net:443/hls/espn/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.hualigs.cn/image/62070feccd0b5.jpg" group-title="NBA League Pass",TNT
 https://d1eqmybbugbqy9.cloudfront.net:443/hls/TNT/playlist.m3u8
@@ -4672,34 +4672,38 @@ https://d1eqmybbugbqy9.cloudfront.net:443/hls/thunder/playlist.m3u8
 https://d1eqmybbugbqy9.cloudfront.net:443/hls/kings/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/12/HwQhLt.png" group-title="NBA League Pass",火箭
 https://d1eqmybbugbqy9.cloudfront.net:443/hls/rockets/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/15/Hcx05d.png" group-title="NBA League Pass",NBA Live Game 1
+#EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/15/HgnD0J.png" group-title="NBA League Pass",NBA Live Game 1
 https://d15xyumcalkui.cloudfront.net/flash1/_definst_/n1/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/15/Hcx05d.png" group-title="NBA League Pass",NBA Live Game 2
+#EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/15/HgnD0J.png" group-title="NBA League Pass",NBA Live Game 2
 https://d15xyumcalkui.cloudfront.net/flash1/_definst_/n2/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/15/Hcx05d.png" group-title="NBA League Pass",NBA Live Game 3
+#EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/15/HgnD0J.png" group-title="NBA League Pass",NBA Live Game 3
 https://d15xyumcalkui.cloudfront.net/flash1/_definst_/n3/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/15/Hcx05d.png" group-title="NBA League Pass",NBA Live Game 4
+#EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/15/HgnD0J.png" group-title="NBA League Pass",NBA Live Game 4
 https://d15xyumcalkui.cloudfront.net/flash1/_definst_/n4/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/15/Hcx05d.png" group-title="NBA League Pass",NBA Live Game 5
+#EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/15/HgnD0J.png" group-title="NBA League Pass",NBA Live Game 5
 https://d15xyumcalkui.cloudfront.net/flash1/_definst_/n5/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/15/Hcx05d.png" group-title="NBA League Pass",NBA Live Game 6
+#EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/15/HgnD0J.png" group-title="NBA League Pass",NBA Live Game 6
 https://d15xyumcalkui.cloudfront.net/flash1/_definst_/n6/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/15/Hcx05d.png" group-title="NBA League Pass",NBA Live Game 7
+#EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/15/HgnD0J.png" group-title="NBA League Pass",NBA Live Game 7
 https://d15xyumcalkui.cloudfront.net/flash1/_definst_/n7/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/15/Hcx05d.png" group-title="NBA League Pass",NBA Live Game 8
+#EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/15/HgnD0J.png" group-title="NBA League Pass",NBA Live Game 8
 https://d15xyumcalkui.cloudfront.net/flash1/_definst_/n8/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/15/Hcx05d.png" group-title="NBA League Pass",NBA Live Game 9
+#EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/15/HgnD0J.png" group-title="NBA League Pass",NBA Live Game 9
 https://d15xyumcalkui.cloudfront.net/flash1/_definst_/n9/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/15/Hcx05d.png" group-title="NBA League Pass",NBA Live Game 10
+#EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/15/HgnD0J.png" group-title="NBA League Pass",NBA Live Game 10
 https://d15xyumcalkui.cloudfront.net/flash1/_definst_/n10/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/15/Hcx05d.png" group-title="NBA League Pass",NBA Live Game 11
+#EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/15/HgnD0J.png" group-title="NBA League Pass",NBA Live Game 11
 https://d15xyumcalkui.cloudfront.net/flash1/_definst_/n11/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/15/Hcx05d.png" group-title="NBA League Pass",NBA Live Game 12
+#EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/15/HgnD0J.png" group-title="NBA League Pass",NBA Live Game 12
 https://d15xyumcalkui.cloudfront.net/flash1/_definst_/n12/chunklist.m3u8
 
 
-#EXTINF:-1 group-title="粤语讲波 直播有效",西甲 马略卡vs毕尔包
-https://hls.zb.ssports.com/ssports/yue3570782_xinying1080.m3u8?k=442e098ee32ded645ff6ccafa5f9a93b&t=620adf2c&UID=1644823131free1034382216&MATCHID=3570782&TYPE=1
+#EXTINF:-1 group-title="粤语讲波 直播有效",歐冠 巴黎聖日耳門vs皇家馬德里 粵 何輝
+https://hls.zb.ssports.com/ssports/yue3665735_xinying1080.m3u8?k=4284b5f99940ae1aec20aa14973f5096&t=620c30ac&UID=1644892657free8007712473&MATCHID=3665735&TYPE=1
+#EXTINF:-1 group-title="粤语讲波 直播有效",英超 曼聯vs白礼顿 粵
+https://hls.zb.ssports.com/ssports/yue3559731_xinying1080.m3u8?k=da64b2dcc1528e9d68c9279640c675ae&t=5f569b90&UID=1644892765free6310673185&MATCHID=3372599&TYPE=1
+#EXTINF:-1 group-title="粤语讲波 直播有效",歐冠 里斯本競技vs曼城 國
+https://hls.zb.ssports.com/ssports/ch3665731_xinying1080.m3u8?k=82f563c148d35ebb50cbf214f282a571&t=620c30ac&UID=1644892829free6684340746&MATCHID=3665731&TYPE=1
 
 #EXTINF:-1 tvg-id="BBCUHDTrial1.uk"  tvg-logo="" group-title="仅限英国IP",BBC UHD Trial 1
 https://a.files.bbci.co.uk/media/live/manifesto/audio_video/webcast/dash/uk/full/ak/uhd_stream_01.mpd
