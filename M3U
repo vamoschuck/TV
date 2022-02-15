@@ -2229,8 +2229,6 @@ http://206.119.173.184/tv/js.php?id=11
 http://206.119.173.184/tv/js.php?id=12
 #EXTINF:-1 tvg-id="133" tvg-name="无线财经" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvbfinanceinformationchannel.png" group-title="2.11港澳台随缘",无线财经
 http://206.119.173.184/tv/js.php?id=13
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="2.11港澳台随缘",三立
-http://206.119.173.184/tv/js.php?id=146
 #EXTINF:-1 tvg-id="6054" tvg-name="中天综合台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiVariety.png" group-title="2.11港澳台随缘",中天综合
 http://206.119.173.184/tv/js.php?id=25
 #EXTINF:-1 tvg-id="6057" tvg-name="中天娱乐台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiEntertainment.png" group-title="2.11港澳台随缘",中天娱乐
@@ -2287,8 +2285,6 @@ http://206.119.173.184/tv/js.php?id=43
 http://206.119.173.184/tv/js.php?id=100
 #EXTINF:-1 tvg-id="6075" tvg-name="东森财经新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCFinancialNews.png" group-title="2.11港澳台随缘",东森财经
 http://206.119.173.184/tv/js.php?id=44
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="2.11港澳台随缘",东森呦呦
-http://206.119.173.184/tv/js.php?id=54
 #EXTINF:-1 tvg-id="6084" tvg-name="东森洋片台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCWesternMovies.png" group-title="2.11港澳台随缘",东森洋片
 http://206.119.173.184/tv/js.php?id=99
 #EXTINF:-1 tvg-id="6090" tvg-name="纬来体育台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandSportsHD.png" group-title="2.11港澳台随缘",纬来体育
