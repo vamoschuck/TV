@@ -24,6 +24,8 @@ http://ye23.win/iptv/4k.cctv.php
 https://p.ggiptv.com/v/4k.m3u8
 #EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="北京冬奥",CCTV16 4K
 http://ott.js.chinamobile.com/PLTV/3/224/3221228127/index.m3u8
+#EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="北京冬奥",CCTV16 4K
+http://39.135.41.243/PLTV/88888888/224/3221226716/index.m3u8
 #EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="北京冬奥",CCTV16 回看
 http://39.135.138.60:18890/TVOD/88888910/224/3221226230/index.m3u8
 #EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="北京冬奥",CCTV16 回看
