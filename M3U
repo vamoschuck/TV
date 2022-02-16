@@ -65,78 +65,90 @@ http://223.110.244.139:6610/jsyd/live1/G_CCTV-5PLUS-MD/G_CCTV-5PLUS-MD/
 
 
 
-
-
-
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="江苏HEVC5.1声道",CCTV-1 综合
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="HEVC5.1声道",CCTV1HD
 http://ott.js.chinamobile.com/PLTV/3/224/3221227675/index.m3u8
-#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="江苏HEVC5.1声道",CCTV-2 财经
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="HEVC5.1声道",CCTV2HD
 http://ott.js.chinamobile.com/PLTV/3/224/3221227708/index.m3u8
-#EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="江苏HEVC5.1声道",CCTV-3 综艺
+#EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="HEVC5.1声道",CCTV3HD
 http://ott.js.chinamobile.com/PLTV/3/224/3221227650/index.m3u8
-#EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="江苏HEVC5.1声道",CCTV-4 中文国际
+#EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="HEVC5.1声道",CCTV4HD
 http://ott.js.chinamobile.com/PLTV/3/224/3221227658/index.m3u8
-#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="江苏HEVC5.1声道",CCTV-5 体育
+#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="HEVC5.1声道",CCTV5
 http://ott.js.chinamobile.com/PLTV/3/224/3221227661/index.m3u8
-#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="江苏HEVC5.1声道",CCTV-5+ 体育赛事
+#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="HEVC5.1声道",CCTV5+
 http://ott.js.chinamobile.com/PLTV/3/224/3221227714/index.m3u8
-#EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="江苏HEVC5.1声道",CCTV-6 电影
+#EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="HEVC5.1声道",CCTV6HD
 http://ott.js.chinamobile.com/PLTV/3/224/3221227664/index.m3u8
-#EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="江苏HEVC5.1声道",CCTV-7 国防军事
+#EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="HEVC5.1声道",CCTV7HD
 http://ott.js.chinamobile.com/PLTV/3/224/3221227642/index.m3u8
-#EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="江苏HEVC5.1声道",CCTV-8 电视剧
+#EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="HEVC5.1声道",CCTV8HD
 http://ott.js.chinamobile.com/PLTV/3/224/3221227667/index.m3u8
-#EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" group-title="江苏HEVC5.1声道",CCTV-9 记录
+#EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" group-title="HEVC5.1声道",CCTV9HD
 http://ott.js.chinamobile.com/PLTV/3/224/3221227659/index.m3u8
-#EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" group-title="江苏HEVC5.1声道",CCTV-10 科教
+#EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" group-title="HEVC5.1声道",CCTV10HD
 http://ott.js.chinamobile.com/PLTV/3/224/3221227717/index.m3u8
-#EXTINF:-1 tvg-id="12" tvg-name="CCTV11" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png" group-title="江苏HEVC5.1声道",CCTV-11 戏曲
+#EXTINF:-1 tvg-id="12" tvg-name="CCTV11" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png" group-title="HEVC5.1声道",CCTV11HD
 http://ott.js.chinamobile.com/PLTV/3/224/3221227720/index.m3u8
-#EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" group-title="江苏HEVC5.1声道",CCTV-12 社会与法
+#EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" group-title="HEVC5.1声道",CCTV12HD
 http://ott.js.chinamobile.com/PLTV/3/224/3221227655/index.m3u8
-#EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="江苏HEVC5.1声道",CCTV-14 少儿
+#EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="HEVC5.1声道",CCTV13HD
+http://ott.js.chinamobile.com/PLTV/3/224/3221225560/index.m3u8
+#EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="HEVC5.1声道",CCTV14HD
 http://ott.js.chinamobile.com/PLTV/3/224/3221227656/index.m3u8
-#EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="江苏HEVC5.1声道",CCTV-15 音乐
+#EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="HEVC5.1声道",CCTV15HD
 http://ott.js.chinamobile.com/PLTV/3/224/3221227723/index.m3u8
-#EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="江苏HEVC5.1声道",CCTV-17 农业农村
+#EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="HEVC5.1声道",CCTV16HD
+http://ott.js.chinamobile.com/PLTV/3/224/3221228144/index.m3u8
+#EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="HEVC5.1声道",CCTV16HD
+http://ott.js.chinamobile.com/PLTV/3/224/3221228112/index.m3u8
+#EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="HEVC5.1声道",CCTV16 4K
+http://ott.js.chinamobile.com/PLTV/3/224/3221228127/index.m3u8
+#EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="HEVC5.1声道",CCTV17HD
 http://ott.js.chinamobile.com/PLTV/3/224/3221227726/index.m3u8
-#EXTINF:-1 tvg-id="1872" tvg-name="北京纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png" group-title="江苏HEVC5.1声道",北京冬奥纪实
-http://ott.js.chinamobile.com/PLTV/3/224/3221227711/index.m3u8
-
-#EXTINF:-1 tvg-id="1988" tvg-name="上海纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png" group-title="江苏HEVC5.1声道",纪实人文
-http://ott.js.chinamobile.com/PLTV/3/224/3221227674/index.m3u8
-#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="江苏HEVC5.1声道",湖南卫视
-http://ott.js.chinamobile.com/PLTV/3/224/3221227735/index.m3u8
-#EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="江苏HEVC5.1声道",浙江卫视
-http://ott.js.chinamobile.com/PLTV/3/224/3221227744/index.m3u8
-#EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="江苏HEVC5.1声道",江苏卫视
+#EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="HEVC5.1声道",江苏卫视HD
 http://ott.js.chinamobile.com/PLTV/3/224/3221227668/index.m3u8
-#EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="江苏HEVC5.1声道",东方卫视
-http://ott.js.chinamobile.com/PLTV/3/224/3221227732/index.m3u8
-#EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="江苏HEVC5.1声道",北京卫视
+#EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="HEVC5.1声道",浙江卫视HD
+http://ott.js.chinamobile.com/PLTV/3/224/3221227744/index.m3u8
+#EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="HEVC5.1声道",北京卫视HD
 http://ott.js.chinamobile.com/PLTV/3/224/3221227652/index.m3u8
-#EXTINF:-1 tvg-id="33" tvg-name="广东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="江苏HEVC5.1声道",广东卫视
+#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="HEVC5.1声道",湖南卫视HD
+http://ott.js.chinamobile.com/PLTV/3/224/3221227735/index.m3u8
+#EXTINF:-1 tvg-id="33" tvg-name="广东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="HEVC5.1声道",广东卫视HD
 http://ott.js.chinamobile.com/PLTV/3/224/3221227673/index.m3u8
-#EXTINF:-1 tvg-id="40" tvg-name="重庆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png" group-title="江苏HEVC5.1声道",重庆卫视
-http://ott.js.chinamobile.com/PLTV/3/224/3221227729/index.m3u8
-#EXTINF:-1 tvg-id="34" tvg-name="深圳卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shenzhen.png" group-title="江苏HEVC5.1声道",深圳卫视
-http://ott.js.chinamobile.com/PLTV/3/224/3221227695/index.m3u8
-#EXTINF:-1 tvg-id="38" tvg-name="山东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png" group-title="江苏HEVC5.1声道",山东卫视
-http://ott.js.chinamobile.com/PLTV/3/224/3221227671/index.m3u8
-#EXTINF:-1 tvg-id="32" tvg-name="安徽卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png" group-title="江苏HEVC5.1声道",安徽卫视
-http://ott.js.chinamobile.com/PLTV/3/224/3221227653/index.m3u8
-#EXTINF:-1 tvg-id="41" tvg-name="东南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongnan.png" group-title="江苏HEVC5.1声道",东南卫视
-http://ott.js.chinamobile.com/PLTV/3/224/3221227670/index.m3u8
-#EXTINF:-1 tvg-id="46" tvg-name="黑龙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png" group-title="江苏HEVC5.1声道",黑龙江卫视
+#EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="HEVC5.1声道",东方卫视HD
+http://ott.js.chinamobile.com/PLTV/3/224/3221227732/index.m3u8
+#EXTINF:-1 tvg-id="46" tvg-name="黑龙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png" group-title="HEVC5.1声道",黑龙江卫视HD
 http://ott.js.chinamobile.com/PLTV/3/224/3221227662/index.m3u8
-#EXTINF:-1 tvg-id="36" tvg-name="辽宁卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png" group-title="江苏HEVC5.1声道",辽宁卫视
-http://ott.js.chinamobile.com/PLTV/3/224/3221227676/index.m3u8
-#EXTINF:-1 tvg-id="39" tvg-name="天津卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/tianjin.png" group-title="江苏HEVC5.1声道",天津卫视
-http://ott.js.chinamobile.com/PLTV/3/224/3221227756/index.m3u8
-#EXTINF:-1 tvg-id="48" tvg-name="湖北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hubei.png" group-title="江苏HEVC5.1声道",湖北卫视
+#EXTINF:-1 tvg-id="34" tvg-name="深圳卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shenzhen.png" group-title="HEVC5.1声道",深圳卫视HD
+http://ott.js.chinamobile.com/PLTV/3/224/3221227677/index.m3u8
+#EXTINF:-1 tvg-id="38" tvg-name="山东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png" group-title="HEVC5.1声道",山东卫视HD
+http://ott.js.chinamobile.com/PLTV/3/224/3221227671/index.m3u8
+#EXTINF:-1 tvg-id="39" tvg-name="天津卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/tianjin.png" group-title="HEVC5.1声道",天津卫视HD
+http://ott.js.chinamobile.com/PLTV/3/224/3221227741/index.m3u8
+#EXTINF:-1 tvg-id="48" tvg-name="湖北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hubei.png" group-title="HEVC5.1声道",湖北卫视HD
 http://ott.js.chinamobile.com/PLTV/3/224/3221227665/index.m3u8
-#EXTINF:-1 tvg-id="50" tvg-name="江西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangxi.png" group-title="江苏HEVC5.1声道",江西卫视
+#EXTINF:-1 tvg-id="40" tvg-name="重庆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png" group-title="HEVC5.1声道",重庆卫视HD
+http://ott.js.chinamobile.com/PLTV/3/224/3221227729/index.m3u8
+#EXTINF:-1 tvg-id="32" tvg-name="安徽卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png" group-title="HEVC5.1声道",安徽卫视HD
+http://ott.js.chinamobile.com/PLTV/3/224/3221227653/index.m3u8
+#EXTINF:-1 tvg-id="50" tvg-name="江西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangxi.png" group-title="HEVC5.1声道",江西卫视HD
 http://ott.js.chinamobile.com/PLTV/3/224/3221227738/index.m3u8
+#EXTINF:-1 tvg-id="36" tvg-name="辽宁卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png" group-title="HEVC5.1声道",辽宁卫视HD
+http://ott.js.chinamobile.com/PLTV/3/224/3221227676/index.m3u8
+#EXTINF:-1 tvg-id="41" tvg-name="东南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongnan.png" group-title="HEVC5.1声道",东南卫视HD
+http://ott.js.chinamobile.com/PLTV/3/224/3221227670/index.m3u8
+#EXTINF:-1 tvg-id="34" tvg-name="深圳卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shenzhen.png" group-title="HEVC5.1声道",深圳卫视
+http://ott.js.chinamobile.com/PLTV/3/224/3221227695/index.m3u8
+#EXTINF:-1 tvg-id="39" tvg-name="天津卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/tianjin.png" group-title="HEVC5.1声道",天津卫视
+http://ott.js.chinamobile.com/PLTV/3/224/3221227756/index.m3u8
+#EXTINF:-1 tvg-id="1872" tvg-name="北京纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png" group-title="HEVC5.1声道",北京冬奥纪实
+http://ott.js.chinamobile.com/PLTV/3/224/3221227711/index.m3u8
+#EXTINF:-1 tvg-id="1988" tvg-name="上海纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png" group-title="HEVC5.1声道",纪实人文
+http://ott.js.chinamobile.com/PLTV/3/224/3221227674/index.m3u8
+
+
+
+
 
 
 #EXTINF:-1  tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="陕西移动-回看",CCTV1
@@ -854,78 +866,6 @@ http://223.110.236.17/ott.js.chinamobile.com/PLTV/3/224/3221227512/index.m3u8
 http://223.110.236.16/ott.js.chinamobile.com/PLTV/3/224/3221227579/index.m3u8
 
 
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="江苏移动-高码",CCTV1HD
-http://ott.js.chinamobile.com/PLTV/3/224/3221227675/index.m3u8
-#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="江苏移动-高码",CCTV2HD
-http://ott.js.chinamobile.com/PLTV/3/224/3221227708/index.m3u8
-#EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="江苏移动-高码",CCTV3HD
-http://ott.js.chinamobile.com/PLTV/3/224/3221227650/index.m3u8
-#EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="江苏移动-高码",CCTV4HD
-http://ott.js.chinamobile.com/PLTV/3/224/3221227658/index.m3u8
-#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="江苏移动-高码",CCTV5
-http://ott.js.chinamobile.com/PLTV/3/224/3221227661/index.m3u8
-#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="江苏移动-高码",CCTV5+
-http://ott.js.chinamobile.com/PLTV/3/224/3221227714/index.m3u8
-#EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="江苏移动-高码",CCTV6HD
-http://ott.js.chinamobile.com/PLTV/3/224/3221227664/index.m3u8
-#EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="江苏移动-高码",CCTV7HD
-http://ott.js.chinamobile.com/PLTV/3/224/3221227642/index.m3u8
-#EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="江苏移动-高码",CCTV8HD
-http://ott.js.chinamobile.com/PLTV/3/224/3221227667/index.m3u8
-#EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" group-title="江苏移动-高码",CCTV9HD
-http://ott.js.chinamobile.com/PLTV/3/224/3221227659/index.m3u8
-#EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" group-title="江苏移动-高码",CCTV10HD
-http://ott.js.chinamobile.com/PLTV/3/224/3221227717/index.m3u8
-#EXTINF:-1 tvg-id="12" tvg-name="CCTV11" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png" group-title="江苏移动-高码",CCTV11HD
-http://ott.js.chinamobile.com/PLTV/3/224/3221227720/index.m3u8
-#EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" group-title="江苏移动-高码",CCTV12HD
-http://ott.js.chinamobile.com/PLTV/3/224/3221227655/index.m3u8
-#EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="江苏移动-高码",CCTV13HD
-http://ott.js.chinamobile.com/PLTV/3/224/3221225560/index.m3u8
-#EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="江苏移动-高码",CCTV14HD
-http://ott.js.chinamobile.com/PLTV/3/224/3221227656/index.m3u8
-#EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="江苏移动-高码",CCTV15HD
-http://ott.js.chinamobile.com/PLTV/3/224/3221227723/index.m3u8
-#EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="江苏移动-高码",CCTV16HD
-http://ott.js.chinamobile.com/PLTV/3/224/3221228144/index.m3u8
-#EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="江苏移动-高码",CCTV16HD
-http://ott.js.chinamobile.com/PLTV/3/224/3221228112/index.m3u8
-#EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="江苏移动-高码",CCTV16 4K
-http://ott.js.chinamobile.com/PLTV/3/224/3221228127/index.m3u8
-#EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="江苏移动-高码",CCTV17HD
-http://ott.js.chinamobile.com/PLTV/3/224/3221227726/index.m3u8
-#EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="江苏移动-高码",江苏卫视HD
-http://ott.js.chinamobile.com/PLTV/3/224/3221227668/index.m3u8
-#EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="江苏移动-高码",浙江卫视HD
-http://ott.js.chinamobile.com/PLTV/3/224/3221227744/index.m3u8
-#EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="江苏移动-高码",北京卫视HD
-http://ott.js.chinamobile.com/PLTV/3/224/3221227652/index.m3u8
-#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="江苏移动-高码",湖南卫视HD
-http://ott.js.chinamobile.com/PLTV/3/224/3221227735/index.m3u8
-#EXTINF:-1 tvg-id="33" tvg-name="广东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="江苏移动-高码",广东卫视HD
-http://ott.js.chinamobile.com/PLTV/3/224/3221227673/index.m3u8
-#EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="江苏移动-高码",东方卫视HD
-http://ott.js.chinamobile.com/PLTV/3/224/3221227732/index.m3u8
-#EXTINF:-1 tvg-id="46" tvg-name="黑龙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png" group-title="江苏移动-高码",黑龙江卫视HD
-http://ott.js.chinamobile.com/PLTV/3/224/3221227662/index.m3u8
-#EXTINF:-1 tvg-id="34" tvg-name="深圳卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shenzhen.png" group-title="江苏移动-高码",深圳卫视HD
-http://ott.js.chinamobile.com/PLTV/3/224/3221227677/index.m3u8
-#EXTINF:-1 tvg-id="38" tvg-name="山东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png" group-title="江苏移动-高码",山东卫视HD
-http://ott.js.chinamobile.com/PLTV/3/224/3221227671/index.m3u8
-#EXTINF:-1 tvg-id="39" tvg-name="天津卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/tianjin.png" group-title="江苏移动-高码",天津卫视HD
-http://ott.js.chinamobile.com/PLTV/3/224/3221227741/index.m3u8
-#EXTINF:-1 tvg-id="48" tvg-name="湖北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hubei.png" group-title="江苏移动-高码",湖北卫视HD
-http://ott.js.chinamobile.com/PLTV/3/224/3221227665/index.m3u8
-#EXTINF:-1 tvg-id="40" tvg-name="重庆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png" group-title="江苏移动-高码",重庆卫视HD
-http://ott.js.chinamobile.com/PLTV/3/224/3221227729/index.m3u8
-#EXTINF:-1 tvg-id="32" tvg-name="安徽卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png" group-title="江苏移动-高码",安徽卫视HD
-http://ott.js.chinamobile.com/PLTV/3/224/3221227653/index.m3u8
-#EXTINF:-1 tvg-id="50" tvg-name="江西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangxi.png" group-title="江苏移动-高码",江西卫视HD
-http://ott.js.chinamobile.com/PLTV/3/224/3221227738/index.m3u8
-#EXTINF:-1 tvg-id="36" tvg-name="辽宁卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png" group-title="江苏移动-高码",辽宁卫视HD
-http://ott.js.chinamobile.com/PLTV/3/224/3221227676/index.m3u8
-#EXTINF:-1 tvg-id="41" tvg-name="东南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongnan.png" group-title="江苏移动-高码",东南卫视HD
-http://ott.js.chinamobile.com/PLTV/3/224/3221227670/index.m3u8
 
 
 
