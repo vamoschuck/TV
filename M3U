@@ -651,15 +651,11 @@ http://117.148.179.142/TVOD/88888888/224/3221231885/index.m3u8
 
 
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="江苏移动-高码回看",CCTV1
-
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="江苏移动-高码回看",CCTV1
 http://39.134.71.75/ott.js.chinamobile.com/TVOD/3/224/3221227467/index.m3u8
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="江苏移动-高码回看",CCTV2
 http://39.134.71.75/ott.js.chinamobile.com/TVOD/3/224/3221228094/index.m3u8
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="江苏移动-高码回看",CCTV2
 http://39.134.71.75/ott.js.chinamobile.com/TVOD/3/224/3221227543/index.m3u8
-#EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="江苏移动-高码回看",CCTV3
-http://39.134.71.75/ott.js.chinamobile.com/TVOD/3/224/3221227546/index.m3u8
 #EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="江苏移动-高码回看",CCTV3
 http://39.134.71.75/ott.js.chinamobile.com/TVOD/3/224/3221228126/index.m3u8
 #EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="江苏移动-高码回看",CCTV4
@@ -761,8 +757,6 @@ http://ott.js.chinamobile.com/TVOD/3/224/3221227670/index.m3u8
 http://ott.js.chinamobile.com/TVOD/3/224/3221227556/index.m3u8
 #EXTINF:-1 tvg-id="40" tvg-name="重庆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png" group-title="江苏移动-高码",重庆卫视
 http://39.134.115.163:8080/TVOD/88888910/224/3221225692/index.m3u8
-
-
 
 
 
@@ -1130,25 +1124,25 @@ http://live7.plus.hebtv.com/hbggx/playlist.m3u8
 #EXTINF:-1 tvg-id="9999" tvg-name="" tvg-logo="https://www.hualigs.cn/image/61dfcd87dab1f.jpg" group-title="京津冀鲁豫",河北影视剧
 
 #EXTINF:-1 tvg-id="9999" tvg-name="" tvg-logo="" group-title="京津冀鲁豫",河北收视指南
-http://180.97.123.180/1301-txt.otvstream.otvcloud.com/otv/skcc/live/channel13010/index.m3u8
+
 #EXTINF:-1 tvg-id="9999" tvg-name="" tvg-logo="" group-title="京津冀鲁豫",河北收视指南
-http://180.97.123.180/1301-txt.otvstream.otvcloud.com/otv/skcc/live/channel13010/2300.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.hualigs.cn/image/61e16b19df249.jpg" group-title="京津冀鲁豫",石家庄生活
-http://180.97.123.180/1301-txt.otvstream.otvcloud.com/otv/skcc/live/channel13012/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.hualigs.cn/image/61e16b19df249.jpg" group-title="京津冀鲁豫",石家庄生活
-http://180.97.123.180/1301-txt.otvstream.otvcloud.com/otv/skcc/live/channel13012/2300.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.hualigs.cn/image/61e16b199ef0e.jpg" group-title="京津冀鲁豫",石家庄都市
-http://180.97.123.180/1301-txt.otvstream.otvcloud.com/otv/skcc/live/channel13013/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.hualigs.cn/image/61e16b199ef0e.jpg" group-title="京津冀鲁豫",石家庄都市
-http://180.97.123.180/1301-txt.otvstream.otvcloud.com/otv/skcc/live/channel13013/2300.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.hualigs.cn/image/61e16b19abc12.jpg" group-title="京津冀鲁豫",石家庄新闻综合
-http://180.97.123.180/1301-txt.otvstream.otvcloud.com/otv/skcc/live/channel13014/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.hualigs.cn/image/61e16b19abc12.jpg" group-title="京津冀鲁豫",石家庄新闻综合
-http://180.97.123.180/1301-txt.otvstream.otvcloud.com/otv/skcc/live/channel13014/2300.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.hualigs.cn/image/61e16bcab6983.jpg" group-title="京津冀鲁豫",邯郸新闻综合
-http://180.97.123.180/1301-txt.otvstream.otvcloud.com/otv/skcc/live/channel13009/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.hualigs.cn/image/61e16bcab6983.jpg" group-title="京津冀鲁豫",邯郸新闻综合
-http://180.97.123.180/1301-txt.otvstream.otvcloud.com/otv/skcc/live/channel13009/2300.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.hualigs.cn/image/61e16bcdc7c66.jpg" group-title="京津冀鲁豫",衡水影视娱乐
 http://hls.hsrtv.cn/hls/hstv2.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.hualigs.cn/image/61e16bcab98ef.jpg" group-title="京津冀鲁豫",衡水新闻综合
@@ -1171,7 +1165,7 @@ http://222.175.202.90:9901/tsfile/live/1002_1.m3u8
 #EXTINF:-1 tvg-id="1431" tvg-name="山东少儿" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/sd_shaoer.png" group-title="京津冀鲁豫",山东少儿
 http://222.175.202.90:9901/tsfile/live/1008_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.hualigs.cn/image/61dfdab525c22.jpg" group-title="京津冀鲁豫",山东国际
-http://222.175.202.90:9901/tsfile/live/1009_1.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.hualigs.cn/image/61dfdab53654b.jpg" group-title="京津冀鲁豫",山东购物
 http://222.175.202.90:9901/tsfile/live/1012_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="京津冀鲁豫",山东教育
@@ -1691,15 +1685,15 @@ https://hwapi.yunshicloud.com/62hdvf/rjwt14.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="云贵川渝青",云南影视
 https://hwapi.yunshicloud.com/62hdvf/utrat7.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="云贵川渝青",云南娱乐
-http://tvlive.ynradio.com/live/yunnanyule/playlist.m3u8
+
 #EXTINF:-1 tvg-id="云南公共" tvg-name="云南公共" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="云贵川渝青",云南公共
 https://hwapi.yunshicloud.com/62hdvf/227q43.m3u8
 #EXTINF:-1 tvg-id="云南国际" tvg-name="云南国际" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="云贵川渝青",云南国际
-http://tvlive.ynradio.com/live/yunnanguoji/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="云贵川渝青",云南生活资讯
 https://hwapi.yunshicloud.com/62hdvf/180p57.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="云贵川渝青",云南少儿
-http://tvlive.ynradio.com/live/yunnanshaoer/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.hualigs.cn/image/61e12bafac36b.jpg" group-title="云贵川渝青",云南·昆明新闻综合
 
@@ -1879,7 +1873,7 @@ http://ye23.win/iptv/sztv.php?id=8
 http://ye23.win/iptv/sztv.php?id=9
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="闽粤桂琼",广东·惠州二台
-http://livehuiz.chinamcache.com/live/zb02.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="闽粤桂琼",广东·蛇口综合
 http://218.17.99.211:82/hls/d4encs75.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="闽粤桂琼",广东·番禺电视
@@ -2082,10 +2076,6 @@ https://d2up1hmow19bcd.cloudfront.net/livecf/liveracing/playlist.m3u8
 http://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist_b1600000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://admango.cdn.mangomolo.com/analytics/uploads/71/5bfea86c98.png" group-title="体育频道",Dubai Racing 3
 http://dmithrvll.cdn.mangomolo.com/dubaimubasher/smil:dubaimubasher.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/6h10JDk.png" group-title="体育频道",EDGEsport
-https://csm-e-stv.tls1.yospace.com/csm/live/195300285.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/AjRCYwR.png" group-title="体育频道",EDGEsport
 https://edgesport-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/aAUbLhE.png" group-title="体育频道",EDGEsport
@@ -2219,86 +2209,7 @@ https://iptv.jmsooo.com/live/hsxw/index.m3u8
 #EXTINF:-1 tvg-id="6075" tvg-name="东森财经新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCFinancialNews.png" group-title="卷毛鼠无私推流",东森财经
 https://iptv.jmsooo.com/live/dscj/index.m3u8
 
-#EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="2.11港澳台随缘",翡翠台
-http://206.119.173.184/tv/js.php?id=4
-#EXTINF:-1 tvg-id="127" tvg-name="明珠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB明珠台.png" group-title="2.11港澳台随缘",明珠台
-http://206.119.173.184/tv/js.php?id=6
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="2.11港澳台随缘",经典台
-http://206.119.173.184/tv/js.php?id=11
-#EXTINF:-1 tvg-id="130" tvg-name="无线新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" group-title="2.11港澳台随缘",无线新闻
-http://206.119.173.184/tv/js.php?id=12
-#EXTINF:-1 tvg-id="133" tvg-name="无线财经" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvbfinanceinformationchannel.png" group-title="2.11港澳台随缘",无线财经
-http://206.119.173.184/tv/js.php?id=13
-#EXTINF:-1 tvg-id="6054" tvg-name="中天综合台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiVariety.png" group-title="2.11港澳台随缘",中天综合
-http://206.119.173.184/tv/js.php?id=25
-#EXTINF:-1 tvg-id="6057" tvg-name="中天娱乐台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiEntertainment.png" group-title="2.11港澳台随缘",中天娱乐
-http://206.119.173.184/tv/js.php?id=23
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="2.11港澳台随缘",中天新闻
-http://206.119.173.184/tv/js.php?id=137
-#EXTINF:-1 tvg-id="7176" tvg-name="中视新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/中视新闻.png" group-title="2.11港澳台随缘",中视新闻
-http://206.119.173.184/tv/js.php?id=138
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="2.11港澳台随缘",环宇新闻
-http://206.119.173.184/tv/js.php?id=142
-#EXTINF:-1 tvg-id="408" tvg-name="ViuTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png" group-title="2.11港澳台随缘",ViUTV
-http://206.119.173.184/tv/js.php?id=15
-#EXTINF:-1 tvg-id="6037" tvg-name="Discovery" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DiscoveryHD.png" group-title="2.11港澳台随缘",探索频道
-http://206.119.173.184/tv/js.php?id=127
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="2.11港澳台随缘",地理野生
-http://206.119.173.184/tv/js.php?id=121
-#EXTINF:-1 tvg-id="6028" tvg-name="中视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/中视.png" group-title="2.11港澳台随缘",中视
-http://206.119.173.184/tv/js.php?id=29
-#EXTINF:-1 tvg-id="6030" tvg-name="华视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CTS.png" group-title="2.11港澳台随缘",华视
-http://206.119.173.184/tv/js.php?id=32
-#EXTINF:-1 tvg-id="7135" tvg-name="民视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/民视.png" group-title="2.11港澳台随缘",民视
-http://206.119.173.184/tv/js.php?id=30
-#EXTINF:-1 tvg-id="6026" tvg-name="台视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/台视.png" group-title="2.11港澳台随缘",台视
-http://206.119.173.184/tv/js.php?id=143
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="2.11港澳台随缘",TVBS综合台
-http://206.119.173.184/tv/js.php?id=136
-#EXTINF:-1 tvg-id="7127" tvg-name="龙华戏剧" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/龙华戏剧.png" group-title="2.11港澳台随缘",龙华戏剧
-http://206.119.173.184/tv/js.php?id=45
-#EXTINF:-1 tvg-id="7126" tvg-name="龙华偶像" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/龙华偶像.png" group-title="2.11港澳台随缘",龙华偶像
-http://206.119.173.184/tv/js.php?id=47
-#EXTINF:-1 tvg-id="6175" tvg-name="博斯网球台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/sport_tennis.png" group-title="2.11港澳台随缘",博斯网球
-http://206.119.173.184/tv/js.php?id=62
-#EXTINF:-1 tvg-id="6179" tvg-name="博斯魅力网" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/sport-trendsport.png" group-title="2.11港澳台随缘",博斯魅力
-http://206.119.173.184/tv/js.php?id=59
-#EXTINF:-1 tvg-id="6046" tvg-name="八大综合台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GTVVarietyHD.png" group-title="2.11港澳台随缘",八大综合台
-http://206.119.173.184/tv/js.php?id=35
-#EXTINF:-1 tvg-id="6045" tvg-name="八大第一台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GTVOneHD.png" group-title="2.11港澳台随缘",八大第一台
-http://206.119.173.184/tv/js.php?id=34
-#EXTINF:-1 tvg-id="6059" tvg-name="八大戏剧台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GTVDramaHD.png" group-title="2.11港澳台随缘",八大戏剧台
-http://206.119.173.184/tv/js.php?id=36
-#EXTINF:-1 tvg-id="7201" tvg-name="爱尔达影剧" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/elta_yingju.png" group-title="2.11港澳台随缘",爱尔达影剧
-http://206.119.173.184/tv/js.php?id=55
-#EXTINF:-1 tvg-id="6079" tvg-name="卫视电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/StarChineseMovies.png" group-title="2.11港澳台随缘",卫视电影台
-http://206.119.173.184/tv/js.php?id=109
-#EXTINF:-1 tvg-id="145" tvg-name="美亚高清电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/meiyamovie.png" group-title="2.11港澳台随缘",美亚电影台
-http://206.119.173.184/tv/js.php?id=110
-#EXTINF:-1 tvg-id="6086" tvg-name="好莱坞电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HMC.png" group-title="2.11港澳台随缘",好莱坞电影
-http://206.119.173.184/tv/js.php?id=94
-#EXTINF:-1 tvg-id="6069" tvg-name="东森新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCNews.png" group-title="2.11港澳台随缘",东森新闻
-http://206.119.173.184/tv/js.php?id=140
-#EXTINF:-1 tvg-id="6051" tvg-name="东森超视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCSuper.png" group-title="2.11港澳台随缘",东森超视
-http://206.119.173.184/tv/js.php?id=43
-#EXTINF:-1 tvg-id="6058" tvg-name="东森戏剧台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCDrama.png" group-title="2.11港澳台随缘",东森戏剧
-http://206.119.173.184/tv/js.php?id=100
-#EXTINF:-1 tvg-id="6075" tvg-name="东森财经新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCFinancialNews.png" group-title="2.11港澳台随缘",东森财经
-http://206.119.173.184/tv/js.php?id=44
-#EXTINF:-1 tvg-id="6084" tvg-name="东森洋片台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCWesternMovies.png" group-title="2.11港澳台随缘",东森洋片
-http://206.119.173.184/tv/js.php?id=99
-#EXTINF:-1 tvg-id="6090" tvg-name="纬来体育台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandSportsHD.png" group-title="2.11港澳台随缘",纬来体育
-http://206.119.173.184/tv/js.php?id=56
-#EXTINF:-1 tvg-id="6172" tvg-name="亚洲旅游台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/asiatravel.png" group-title="2.11港澳台随缘",亚洲旅游
-http://206.119.173.184/tv/js.php?id=128
-#EXTINF:-1 tvg-id="7222" tvg-name="EYE戏剧" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/eyexiju.png" group-title="2.11港澳台随缘",EYETV戏剧
-http://206.119.173.184/tv/js.php?id=52
-#EXTINF:-1 tvg-id="6159" tvg-name="tvN" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png" group-title="2.11港澳台随缘",TVN
-http://206.119.173.184/tv/js.php?id=119
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="2.11港澳台随缘",ONE
-http://206.119.173.184/tv/js.php?id=115
-#EXTINF:-1 tvg-id="6083" tvg-name="HBO" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBO.png" group-title="2.11港澳台随缘",HBO
-http://206.119.173.184/tv/js.php?id=91
+
 
 
 #EXTINF:-1 group-title="港澳台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png",凤凰资讯
@@ -2322,11 +2233,11 @@ http://223.110.245.136/PLTV/3/224/3221226975/index.m3u8
 #EXTINF:-1 group-title="港澳台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png",凤凰香港
 http://223.110.245.136/ott.js.chinamobile.com/PLTV/3/224/3221226975/index.m3u8
 #EXTINF:-1 group-title="港澳台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/youxianxinwen.png",有线新闻台
-https://api.leonardpark.dev/live/icable/109
+
 #EXTINF:-1 group-title="港澳台" tvg-logo="http://www.nettvpro.live/uploads/allimg/20/1-2002151054390-L.jpg",有线直播新闻台
 https://api.leonardpark.dev/live/icable/110
 #EXTINF:-1 group-title="港澳台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/youxiancaijingzixun.png",有线财经资讯台
-https://api.leonardpark.dev/live/icable/108
+
 #EXTINF:-1 group-title="港澳台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hkguojicaijing.png",香港国际财经台
 http://uc6.i-cable.com/live_freedirect/opentvhd002_h.live/playlist.m3u8
 #EXTINF:-1 group-title="港澳台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png",无线新闻台
@@ -2886,6 +2797,8 @@ https://liveprodapnortheast.global.ssl.fastly.net/ap1/Channel-APTVqvs-AWS-tokyo-
 https://www.bloomberg.com/media-manifest/streams/asia-event.m3u8
 #EXTINF:-1 group-title="英语新闻" tvg-logo="https://www.hualigs.cn/image/61554efc526e7.jpg",ChannelNewsAsia FHD
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+#EXTINF:-1 group-title="英语新闻" tvg-logo="https://www.hualigs.cn/image/6155648caf500.jpg",CNN HD
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 group-title="英语新闻" tvg-logo="https://www.hualigs.cn/image/6155648caf500.jpg",CNN HD
 https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 group-title="英语新闻" tvg-logo="https://www.hualigs.cn/image/6155648caf500.jpg",CNN HD
@@ -3755,26 +3668,7 @@ https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f
 http://bamus-eng-roku.amagi.tv/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://www.hualigs.cn/image/61bb2a0b06f8d.jpg" group-title="FashionTV",Fashion TV
-https://fashiontv-fashiontv-4-de.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.hualigs.cn/image/61bb2a0b06f8d.jpg" group-title="FashionTV",Fashion TV Engliand
-https://fashiontv-fashiontv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.hualigs.cn/image/61bb2a0b06f8d.jpg" group-title="FashionTV",Fashion TV Italy
-https://fashiontv-fashiontv-3-it.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.hualigs.cn/image/61bb2a0b06f8d.jpg" group-title="FashionTV",Fashion TV Spain
-https://fashiontv-fashiontv-2-es.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.hualigs.cn/image/61bb2a0b06f8d.jpg" group-title="FashionTV",Fashion TV UHD
-https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.hualigs.cn/image/61bb2a0b06f8d.jpg" group-title="FashionTV",FashionTV Midnite Secrets FHD
-https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.hualigs.cn/image/61bb2a0b06f8d.jpg" group-title="FashionTV",Fashion TV Paris FHD
-http://fash1043.cloudycdn.services/slive/ftv_paris_adaptive.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.hualigs.cn/image/61bb2a0b06f8d.jpg" group-title="FashionTV",Fashion TV Tokyo FHD
-https://fash1043.cloudycdn.services/slive/ftv_ftv_pg13_zw9_27065_ftv_pg13_196_hls.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.hualigs.cn/image/61bb2a0b06f8d.jpg" group-title="FashionTV",Fashion TV Singapore FHD
-https://fash2043.cloudycdn.services/slive/ftv_ftv_asia_ada_xiv_42149_default_137_hls.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.hualigs.cn/image/61bb2a0b06f8d.jpg" group-title="FashionTV",FashionBox FHD
-https://fashionbox-localnow.cinedigm.com/playlist.m3u8
+
 
 #EXTINF:-1 group-title="美国Local听力磨耳朵",12 Music+ TV | HD
 http://s02.diazol.hu:10192/stream.m3u8
@@ -3790,10 +3684,6 @@ https://content.uplynk.com/channel/cf4dfec179064664ae326fa10ff4a43f.m3u8
 https://content.uplynk.com/2c88dfe19e1447e6a6aa27e8e143a140.m3u8
 #EXTINF:-1 group-title="美国Local听力磨耳朵",ABC 7 Denver (KMGH)
 https://content.uplynk.com/channel/64ca339f04964a5e961c3207a7771bf1.m3u8
-#EXTINF:-1 group-title="美国Local听力磨耳朵" tvg-logo="https://myhealthhub.frontline.ca/myhealthhubtv/channellogos/abc.png",ABC Buffalo NY (WKBW-TV1)
-http://encodercdn1.frontline.ca/vantrix/ltv/Bell_ABCHB_AtopItci_2015_01_12_HD/hls_hd.m3u8
-#EXTINF:-1 group-title="美国Local听力磨耳朵",ABC Burlington-VA (WVNY-TV1)
-http://encodercdn1.frontline.ca/kamino/output/ABC_Burlington_720p/playlist.m3u8
 #EXTINF:-1 group-title="美国Local听力磨耳朵",ABC Las Vegas NV
 https://content.uplynk.com/channel/39919d3f7a074eefa8bf579214e952f9.m3u8
 #EXTINF:-1 group-title="美国Local听力磨耳朵" tvg-logo="https://i.imgur.com/HQhdVG1.png",ABC News
@@ -3822,10 +3712,6 @@ https://abcnews-streams.akamaized.net/hls/live/2023567/abcnews8/master.m3u8
 https://abcnews-streams.akamaized.net/hls/live/2023568/abcnews9/master.m3u8
 #EXTINF:-1 group-title="美国Local听力磨耳朵",ABC Phoenix AZ
 https://content.uplynk.com/channel/9deaf22aaa33461f9cac22e030ed00ec.m3u8
-#EXTINF:-1 group-title="美国Local听力磨耳朵" tvg-logo="https://myhealthhub.frontline.ca/myhealthhubtv/channellogos/abc.png",ABC Seattle WA (KOMO-TV1)
-http://encodercdn1.frontline.ca/yavin/output/ABC_Seattle_720p/playlist.m3u8
-#EXTINF:-1 group-title="美国Local听力磨耳朵",ABC Spokane WA (KXLY-TV1)
-http://encodercdn1.frontline.ca/kamino/output/ABC_Spokane_720p/playlist.m3u8
 #EXTINF:-1 group-title="美国Local听力磨耳朵" tvg-logo="https://i.imgur.com/onnkc5F.png",ActionNewsJax (WJAX-TV)
 https://d3nzocdfkx2ybv.cloudfront.net/in/cmg-wjaxtv-hls-v3/live.m3u8
 #EXTINF:-1 group-title="美国Local听力磨耳朵" tvg-logo="https://i.imgur.com/FLKdEzZ.png",AFV Family
@@ -3842,8 +3728,6 @@ https://video.blivenyc.com/broadcast/prod/2061/61/file-4692k.m3u8
 https://5d658d7e9f562.streamlock.net/alhorreya.tv/alhorreya.smil/playlist.m3u8
 #EXTINF:-1 group-title="美国Local听力磨耳朵" tvg-logo="https://i.imgur.com/ENtRDds.png",American Horrors
 http://170.178.189.66:1935/live/Stream1/playlist.m3u8
-#EXTINF:-1 group-title="美国Local听力磨耳朵" tvg-logo="https://i.imgur.com/sdtvEgr.png",Beach TV | CSULB
-http://stream04.amp.csulb.edu:1935/Beach_TV/smil:BeachTV.smil/chunklist_w1055393741_b2128000_sleng.m3u8
 #EXTINF:-1 group-title="美国Local听力磨耳朵" tvg-logo="https://i.imgur.com/xiaJPqq.png",Beauty IQ
 https://lsqvc4us-lh.akamaihd.net/i/lsqvc4us_01@802711/master.m3u8
 #EXTINF:-1 group-title="美国Local听力磨耳朵",Bek Sports East | HD
@@ -3876,10 +3760,6 @@ https://dai.google.com/linear/hls/event/n3PVAFmPTJSVYjdSVf7XZw/master.m3u8
 http://186.0.233.76:1935/Garage/smil:garage.smil/playlist.m3u8
 #EXTINF:-1 group-title="美国Local听力磨耳朵",CBS 3 Omaha(KMTV)
 http://content.uplynk.com/channel/328d1434fb51476cb6567c74d5b2cc70.m3u8
-#EXTINF:-1 group-title="美国Local听力磨耳朵" tvg-logo="https://myhealthhub.frontline.ca/myhealthhubtv/channellogos/cbs.png",CBS Buffalo NY (WIVB-TV1)
-http://encodercdn1.frontline.ca/vantrix/ltv/Bell_CBSHB_AtopItci_2015_01_12_HD/hls_hd.m3u8
-#EXTINF:-1 group-title="美国Local听力磨耳朵",CBS Detroit MI (WWJ-TV1)
-http://encodercdn1.frontline.ca/encoder183/output/CBS_Detroit_720p/playlist.m3u8
 #EXTINF:-1 group-title="美国Local听力磨耳朵",CBS New York WCBS
 https://v-ny.theus6tv.tk/hls/2.1/playlist.m3u8
 #EXTINF:-1 group-title="美国Local听力磨耳朵" tvg-logo="https://i.imgur.com/Qu9NAwe.png",CBS News
@@ -3894,8 +3774,6 @@ https://dai.google.com/linear/hls/event/EUo67MWSRh6toPi0heJKnQ/master.m3u8?iu=/4
 https://dai.google.com/linear/hls/event/i5SXVKI4QIuV-eF2XAH4FQ/master.m3u8?iu=/4128/CBS.PITTS.OTT
 #EXTINF:-1 group-title="美国Local听力磨耳朵",CBS News Los Angeles
 https://dai.google.com/linear/hls/event/TxSbNMu4R5anKrjV02VOBg/master.m3u8?iu=/4128/CBS.LA.OTT
-#EXTINF:-1 group-title="美国Local听力磨耳朵",CBS Seattle WA (KIRO-TV1)
-http://encodercdn1.frontline.ca/geonosis/output/CBS_Seattle_720p/playlist.m3u8
 #EXTINF:-1 group-title="美国Local听力磨耳朵",CBSN 11 Dallas / Fort Worth TX (KTVT)
 https://dai.google.com/linear/hls/event/o5J3g4U9T16CvYnS7Qd86Q/master.m3u8
 #EXTINF:-1 group-title="美国Local听力磨耳朵",CBSN 2 Los Angeles CA (KCBS-TV)
@@ -3928,8 +3806,6 @@ https://dai.google.com/linear/hls/event/EUo67MWSRh6toPi0heJKnQ/master.m3u8
 https://granicusliveus3-a.akamaihd.net/charlotte/G0055_002/playlist.m3u8
 #EXTINF:-1 group-title="美国Local听力磨耳朵",CCX Media North Brooklyn Park MN
 http://156.142.85.152/live/WIFI-2096k-1080p/WIFI-2096k-1080p.m3u8
-#EXTINF:-1 group-title="美国Local听力磨耳朵",Cerritos TV3 (360p)
-https://granicusliveus4-a.akamaihd.net/cerritos/G0010_002/playlist.m3u8
 #EXTINF:-1 group-title="美国Local听力磨耳朵",Channel 23 Clark Vancouver TV (CVTV) [Not 24/7]
 https://wowzaprod3-i.akamaihd.net/hls/live/252233/15b8d438/playlist.m3u8
 #EXTINF:-1 group-title="美国Local听力磨耳朵",Channel 9 Orlando FL (WFTV)
@@ -3950,8 +3826,6 @@ https://live.chdrstatic.com/cheddar/primary/index.m3u8
 https://livecdn.fptplay.net/hda1/cinemax_hls.smil/playlist.m3u8
 #EXTINF:-1 group-title="美国Local听力磨耳朵",Circle TV | HD
 https://5e6cea03e25b6.streamlock.net/live/ION.stream/playlist.m3u8
-#EXTINF:-1 group-title="美国Local听力磨耳朵" tvg-logo="https://myhealthhub.frontline.ca/myhealthhubtv/channellogos/cnn.png",CNN
-http://encodercdn1.frontline.ca/encoder184/output/CNN_720p/playlist.m3u8
 #EXTINF:-1 group-title="美国Local听力磨耳朵",Comet | HD
 http://content.uplynk.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a.m3u8
 #EXTINF:-1 group-title="美国Local听力磨耳朵" tvg-logo="https://i.imgur.com/aL4DvbN.png",Country Music 4U (Opt-1)
@@ -4002,20 +3876,8 @@ https://dai.google.com/linear/hls/event/ji4LMCwtRCOw3TrRUKlQMQ/master.m3u8
 http://584b0aa350b92.streamlock.net:1935/folk-tv/myStream.sdp/playlist.m3u8?fluxustv.m3u8
 #EXTINF:-1 group-title="美国Local听力磨耳朵",Fox 23 Tulsa OK (KOKI-TV)
 https://d3nzocdfkx2ybv.cloudfront.net/in/cmg-kokitv-hls-v3/live.m3u8
-#EXTINF:-1 group-title="美国Local听力磨耳朵",Fox Boston MA (WFXT-DT1)
-http://encodercdn1.frontline.ca/encoder182/output/FOX_Boston_720p/playlist.m3u8
-#EXTINF:-1 group-title="美国Local听力磨耳朵" tvg-logo="https://myhealthhub.frontline.ca/myhealthhubtv/channellogos/fox.png",Fox Buffalo NY (WUTV1)
-http://encodercdn1.frontline.ca/vantrix/ltv/Bell_FOXHB_AtopItci_2015_01_12_HD/hls_hd.m3u8
-#EXTINF:-1 group-title="美国Local听力磨耳朵" tvg-logo="http://static.epg.best/us/FoxNews.us.png",Fox News Channel
-http://encodercdn1.frontline.ca/encoder181/output/FOX_News_720p/playlist.m3u8
 #EXTINF:-1 group-title="美国Local听力磨耳朵" tvg-logo="https://i.imgur.com/Z5SATrd.png",Fox News Radio
 http://fnurtmp-f.akamaihd.net/i/FNRADIO_1@92141/master.m3u8
-#EXTINF:-1 group-title="美国Local听力磨耳朵" tvg-logo="https://myhealthhub.frontline.ca/myhealthhubtv/channellogos/fox.png",FOX Rochester NY (WUHF-DT1)
-http://encodercdn1.frontline.ca/encoder184/output/FOX_Rochester_720p/playlist.m3u8
-#EXTINF:-1 group-title="美国Local听力磨耳朵",Fox Seattle WA (KCPQ-DT1)
-http://encodercdn1.frontline.ca/geonosis/output/FOX_Seattle_720p/playlist.m3u8
-#EXTINF:-1 group-title="美国Local听力磨耳朵" tvg-logo="https://myhealthhub.frontline.ca/myhealthhubtv/channellogos/fox.png",FOX Spokane WA (KAYU-TV1)
-http://encodercdn1.frontline.ca/encoder182/output/FOX_Spokane_720p/playlist.m3u8
 #EXTINF:-1 group-title="美国Local听力磨耳朵" tvg-logo="https://i.imgur.com/X491SzR.gif",Fox Sports pluto
 https://stitcher.pluto.tv/stitch/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=3fab7580-8b86-11e8-a44b-996a399dacd8&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=67.0.3396.99&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
 #EXTINF:-1 group-title="美国Local听力磨耳朵",Georgia: Albany (STIRR)
@@ -4110,8 +3972,6 @@ https://ott.mobcrush.com/hls/0/ott.m3u8
 https://dai.google.com/linear/hls/event/ARX9M-X8RieADdAEYPXNuA/master.m3u8
 #EXTINF:-1 group-title="美国Local听力磨耳朵",Motorvisison TV | HD
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
-#EXTINF:-1 group-title="美国Local听力磨耳朵" tvg-logo="https://static-s.aa-cdn.net/img/ios/396885309/4ad7161a83db264f3ba4b62ef1ab662a?v=1",MSNBC
-http://encodercdn1.frontline.ca/encoder182/output/MSNBC_720p/playlist.m3u8
 #EXTINF:-1 group-title="美国Local听力磨耳朵",MVMN Noticias Oaxaca HDTV
 http://dcunilive21-lh.akamaihd.net/i/dclive_1@59479/index_1_av-p.m3u8
 #EXTINF:-1 group-title="美国Local听力磨耳朵" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/nasatv-269x151.jpg",NASA TV
@@ -4122,16 +3982,8 @@ https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
 https://content.uplynk.com/channel/1fbfb28ae5044f619f75ae0adb011989.m3u8
 #EXTINF:-1 group-title="美国Local听力磨耳朵",NBC Baltimore
 https://v-pi.theus6tv.tk/hls/10.1/playlist.m3u8
-#EXTINF:-1 group-title="美国Local听力磨耳朵" tvg-logo="https://myhealthhub.frontline.ca/myhealthhubtv/channellogos/nbc.png",NBC Buffalo NY (WGRZ1)
-http://encodercdn1.frontline.ca/vantrix/ltv/Bell_NBCHB_AtopItci_2015_01_12_HD/hls_hd.m3u8
-#EXTINF:-1 group-title="美国Local听力磨耳朵",NBC East WBTS-CD1 Boston ET
-http://encodercdn1.frontline.ca/encoder183/output/NBC_Boston_720p/playlist.m3u8
 #EXTINF:-1 group-title="美国Local听力磨耳朵",NBC Pittsburgh
 https://d3nzocdfkx2ybv.cloudfront.net/in/cmg-wpxitv-hls-v3/live.m3u8
-#EXTINF:-1 group-title="美国Local听力磨耳朵" tvg-logo="https://myhealthhub.frontline.ca/myhealthhubtv/channellogos/nbc.png",NBC Spokane WA (KHQ-TV1)
-http://encodercdn1.frontline.ca/encoder184/output/NBC_Spokane_720p/playlist.m3u8
-#EXTINF:-1 group-title="美国Local听力磨耳朵",NBC West KING-DT1 Seattle PT
-http://encodercdn1.frontline.ca/bespin/output/NBC_Seattle_720p/playlist.m3u8
 #EXTINF:-1 group-title="美国Local听力磨耳朵" tvg-logo="https://i.imgur.com/dTfi25n.png",NBC WTMJ4
 https://content.uplynk.com/channel/50bb38f57f0547319060274f3b94db4e.m3u8
 #EXTINF:-1 group-title="美国Local听力磨耳朵",Nebraska: Hastings (STIRR)
@@ -4184,8 +4036,6 @@ https://forerunnerrtmp.livestreamingcdn.com/output18-2/output18-2.stream/HasBahC
 https://v-ny.theus6tv.tk/hls/21.4/playlist.m3u8
 #EXTINF:-1 group-title="美国Local听力磨耳朵",PBS Allentown PA
 https://forerunnerrtmp.livestreamingcdn.com/output18/output18.stream/playlist.m3u8
-#EXTINF:-1 group-title="美国Local听力磨耳朵" tvg-logo="https://myhealthhub.frontline.ca/myhealthhubtv/channellogos/pbs.png",PBS Buffalo NY (WNED-TV)
-http://encodercdn1.frontline.ca/vantrix/ltv/Bell_PBSHB_AtopItci_2015_01_12_HD/hls_hd.m3u8
 #EXTINF:-1 group-title="美国Local听力磨耳朵",PBS CreateTV New York NY
 https://v-ny.theus6tv.tk/hls/21.2/playlist.m3u8
 #EXTINF:-1 group-title="美国Local听力磨耳朵",PBS Extra Philadelphia PA
@@ -4206,10 +4056,6 @@ https://v-pi.theus6tv.tk/hls/12.3/playlist.m3u8
 https://v-ny.theus6tv.tk/hls/21.1/playlist.m3u8
 #EXTINF:-1 group-title="美国Local听力磨耳朵",PBS Philadelphia
 https://v-pi.theus6tv.tk/hls/12.1/playlist.m3u8
-#EXTINF:-1 group-title="美国Local听力磨耳朵" tvg-logo="https://myhealthhub.frontline.ca/myhealthhubtv/channellogos/pbs.png",PBS Seattle WA (KCTS-TV1)
-http://encodercdn1.frontline.ca/bespin/output/PBS_Seattle_720p/playlist.m3u8
-#EXTINF:-1 group-title="美国Local听力磨耳朵" tvg-logo="https://myhealthhub.frontline.ca/myhealthhubtv/channellogos/pbs.png",PBS Spokane WA (KSPS-TV1)
-http://encodercdn1.frontline.ca/encoder183/output/PBS_Spokane_720p/playlist.m3u8
 #EXTINF:-1 group-title="美国Local听力磨耳朵",PBS World Channel | HD
 https://cs.ebmcdn.net/eastbay-live-hs-1/apt/mp4:apt-world/playlist.m3u8
 #EXTINF:-1 group-title="美国Local听力磨耳朵",PBS World New York NY
@@ -4234,8 +4080,6 @@ https://granicusliveus1-a.akamaihd.net/tempe/G0355_003/playlist.m3u8
 https://dai.google.com/linear/hls/event/uxPBn5ErTQ-FOjxIYle2PA/master.m3u8
 #EXTINF:-1 group-title="美国Local听力磨耳朵",Texas: Beaumont (STIRR)
 https://dai.google.com/linear/hls/event/FKoa3RaEQxyyrf8PfPbgkg/master.m3u8
-#EXTINF:-1 group-title="美国Local听力磨耳朵",The CW New York NY (WPIX-DT1)
-http://encodercdn1.frontline.ca/kamino/output/pix11_720p/playlist.m3u8
 #EXTINF:-1 group-title="美国Local听力磨耳朵",The Design Network TV
 https://thedesignnetwork-tdn-1.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 group-title="美国Local听力磨耳朵",TSTV
@@ -4264,8 +4108,6 @@ https://content.uplynk.com/channel/29aff31fecb848ab9044369db2d61642.m3u8
 https://dai.google.com/linear/hls/event/im0MqOKRTHy9nVa1sirQSg/master.m3u8
 #EXTINF:-1 group-title="美国Local听力磨耳朵",WCCA-TV (Worcester)
 http://worcester.vod.castus.tv/live/ch1.m3u8
-#EXTINF:-1 group-title="美国Local听力磨耳朵" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/wgn-america-us.png",WGN Chicago IL (WGN-TV1)
-http://encodercdn1.frontline.ca/encoder182/output/WGN_720p/playlist.m3u8
 #EXTINF:-1 group-title="美国Local听力磨耳朵",White Plains Community Media | HD 720p
 https://stream.swagit.com/live-edge/whiteplainsny/smil:std-4x3-1-b/playlist.m3u8
 #EXTINF:-1 group-title="美国Local听力磨耳朵",Winthrop Community Access TV (WCAT 3) (480p)
@@ -4466,138 +4308,6 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60fb028c2e6a0c00075275
 #EXTINF:-1 channel-id="pluto-60fb040d4795a6000762fe8f" tvg-id="60fb040d4795a6000762fe8f" tvg-chno="1002" tvg-logo="https://images.pluto.tv/channels/60fb040d4795a6000762fe8f/colorLogoPNG.png" group-title="英语儿童频道",Kartoon Channel!
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60fb040d4795a6000762fe8f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 group-title="海外体育-随缘",BEIN SPORT AR 1
-http://93.152.174.144:4000/play/bein1ar/index.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 group-title="海外体育-随缘",MOVISTAR LALIGA
-http://qqtv.nl:8080/live/norma/12345/87460.m3u8
-#EXTINF:-1 group-title="海外体育-随缘",MOVISTAR LALIGA
-http://qqtv.nl:8080/live/norma/12345/31019.m3u8
-#EXTINF:-1 group-title="海外体育-随缘",LALIGA televisión BAR
-http://qqtv.nl:8080/live/norma/12345/88295.m3u8
-#EXTINF:-1 group-title="海外体育-随缘",BEIN SPORT 1 TRUE VISIONS
-https://smart-tv.livedoomovie.com:4431/02_sport2_480p/chunklist.m3u8
-#EXTINF:-1 group-title="海外体育-随缘",BEIN SPORT 1 TRUE VISIONS
-https://www.livedoomovie.com/02_epl1_720p/chunklist.m3u8
-#EXTINF:-1 group-title="海外体育-随缘",ESPN 1
-http://qqtv.nl:8080/live/norma/12345/20269.m3u8
-#EXTINF:-1 group-title="海外体育-随缘",ESPN 2
-http://qqtv.nl:8080/live/norma/12345/20268.m3u8
-#EXTINF:-1 group-title="海外体育-随缘",ESPN 3
-http://qqtv.nl:8080/live/norma/12345/20267.m3u8
-#EXTINF:-1 group-title="海外体育-随缘",ESPN +
-http://qqtv.nl:8080/live/norma/12345/20062.m3u8
-#EXTINF:-1 group-title="海外体育-随缘",GEO SUPER
-http://221.120.204.4/geo-super-LOCKLE/index.m3u8
-#EXTINF:-1 group-title="海外体育-随缘",BEIN SPORT 1 LIVE AR
-http://93.152.174.144:4000/play/bein1ar/index.m3u8
-#EXTINF:-1 group-title="海外体育-随缘",BEIN SPORT 1 PREMIUM
-http://130.193.166.18/cache/Bein-Prem-1-HEVC/master.m3u8
-#EXTINF:-1 group-title="海外体育-随缘",DIRECTV SPORT 1
-http://user.tvcluboficial.com/stream/nov/nov/259.m3u8
-#EXTINF:-1 group-title="海外体育-随缘",BT SPORT HD 2
-http://93.152.174.144:4000/play/btsport2/index.m3u8
-#EXTINF:-1 group-title="海外体育-随缘",BT SPORT 1
-https://smart-tv.livedoomovie.com:4431/02_BTSPORTHD_1_720p/chunklist.m3u8
-#EXTINF:-1 group-title="海外体育-随缘",BT SPORT 2
-https://smart-tv.livedoomovie.com:4431/02_BTSPORTHD_2_720p/chunklist.m3u8
-#EXTINF:-1 group-title="海外体育-随缘",SPORTTV 1
-https://smart-tv.livedoomovie.com:4431/02_SPORTTV_1_720p/chunklist.m3u8
-#EXTINF:-1 group-title="海外体育-随缘",SPORTTV 2
-https://smart-tv.livedoomovie.com:4431/02_SPORTTV_2_720p/chunklist.m3u8
-#EXTINF:-1 group-title="海外体育-随缘",SPORTTV 3
-https://smart-tv.livedoomovie.com:4431/02_SPORTTV_3_720p/chunklist.m3u8
-#EXTINF:-1 group-title="海外体育-随缘",SPORTTV 4
-https://smart-tv.livedoomovie.com:4431/02_SPORTTV_4_720p/chunklist.m3u8
-#EXTINF:-1 group-title="海外体育-随缘",SPORTTV 5
-https://smart-tv.livedoomovie.com:4431/02_SPORTTV_5_720p/chunklist.m3u8
-#EXTINF:-1 group-title="海外体育-随缘",BEIN SPORT EXTRA
-https://siloh.pluto.tv/lilo/production/bein/1/master.m3u8
-#EXTINF:-1 group-title="海外体育-随缘",BEIN SPORT EXTRA Ñ
-https://siloh.pluto.tv/lilo/production/BEIN/ES/master.m3u8
-#EXTINF:-1 group-title="海外体育-随缘",BEIN SPORT EXTRA Ñ
-http://user.tvcluboficial.com/stream/nov/nov/753.m3u8
-#EXTINF:-1 group-title="海外体育-随缘",BEINS SPORT Ñ
-http://user.tvcluboficial.com/stream/nov/nov/761.m3u8
-#EXTINF:-1 group-title="海外体育-随缘",LOOK SPORTS HD
-https://stream1.1616.ro:1945/look/livestream/playlist.m3u8?wowzatokenhash=NqSD4qaHc94SbTW05NBB-lXC78ZiAOIbnbUBOHj1DAM=&checkedby:iptvcat.com
-#EXTINF:-1 group-title="海外体育-随缘",LOOK SPORTS +
-https://stream1.1616.ro:1945/lookplus/livestream/chunklist.m3u8?tla
-#EXTINF:-1 group-title="海外体育-随缘",LOOK SPORTS +
-https://stream1.1616.ro:1945/lookplus/livestream/chunklist.m3u8
-#EXTINF:-1 group-title="海外体育-随缘",LOOK SPORTS 2
-https://stream1.1616.ro:1945/looksport2/livestream/chunklist_w1538106197.m3u8
-#EXTINF:-1 group-title="海外体育-随缘",LOOK SPORTS 2
-https://stream1.1616.ro:1945/looksport2/livestream/playlist.m3u8
-#EXTINF:-1 group-title="海外体育-随缘",LOOK SPORTS 3
-https://stream1.1616.ro:1945/looksport3/livestream/chunklist_w64015557.m3u8
-#EXTINF:-1 group-title="海外体育-随缘",LOOK SPORTS 3
-https://stream1.1616.ro:1945/looksport3/livestream/playlist.m3u8
-#EXTINF:-1 group-title="海外体育-随缘",SSC1
-https://ssc-5-ak.akamaized.net:443/out/v1/6ae0a2ebab224c72ab9c298afeec8d91/index_3.m3u8
-#EXTINF:-1 group-title="海外体育-随缘",FOX SPORTS 1
-http://user.tvcluboficial.com/stream/nov/nov/493.m3u8
-#EXTINF:-1 group-title="海外体育-随缘",TV 2 SPORT
-https://ws31-hls-live.akamaized.net/out/u/1416253.m3u8
-#EXTINF:-1 group-title="海外体育-随缘",SPORT RU
-http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v3a1/index.m3u8
-#EXTINF:-1 group-title="海外体育-随缘",X SPORT
-http://iptv.prosto.tv:7000/ch109/video.m3u8
-#EXTINF:-1 group-title="海外体育-随缘",RTSH SPORT
-http://93.157.62.180/RTSHSport/index.m3u8
-#EXTINF:-1 group-title="海外体育-随缘",CID 1
-http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8
-#EXTINF:-1 group-title="海外体育-随缘",BEIN SPORT 4 TUR
-http://visionmedaitv.nl:7444/live/VisionMediaClubOnL1n3/q2i9MCc7NK/70.m3u8
-#EXTINF:-1 group-title="海外体育-随缘",BEIN MAX 1 HD
-http://visionmedaitv.nl:7444/live/VisionMediaClubOnL1n3/q2i9MCc7NK/65.m3u8
-#EXTINF:-1 group-title="海外体育-随缘",BEIN MAX 2 HD
-http://visionmedaitv.nl:7444/live/VisionMediaClubOnL1n3/q2i9MCc7NK/66.m3u8
-#EXTINF:-1 group-title="海外体育-随缘",TNT SPORTS
-http://user.tvcluboficial.com/stream/nov/nov/509.m3u8
-#EXTINF:-1 group-title="海外体育-随缘",TNT SPORTS HD
-http://user.tvcluboficial.com/stream/nov/nov/725.m3u8
-#EXTINF:-1 group-title="海外体育-随缘",TNT SPORTS 3
-http://qqtv.nl:8080/live/norma/12345/389559.m3u8
-#EXTINF:-1 group-title="海外体育-随缘",CLARO SPORTS
-http://user.tvcluboficial.com/stream/nov/nov/328.m3u8
-#EXTINF:-1 group-title="海外体育-随缘",CLARO SPORTS
-http://qqtv.nl:8080/live/norma/12345/20130.m3u8
-#EXTINF:-1 group-title="海外体育-随缘",CLARO SPORTS
-http://qqtv.nl:8080/live/norma/12345/20162.m3u8
-#EXTINF:-1 group-title="海外体育-随缘",TyC SPORT
-https://d3awnlgqz0szay.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index_9.m3u8
-#EXTINF:-1 group-title="海外体育-随缘",TyC SPORT
-https://dj8bzwveg7go9.cloudfront.net/out/v1/09e35529553d472b8f14e437af642e2f/index_15.m3u8
-#EXTINF:-1 group-title="海外体育-随缘",TyC SPORT
-https://d3awnlgqz0szay.cloudfront.net:443/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index_9.m3u8
-#EXTINF:-1 group-title="海外体育-随缘",TyC SPORT
-http://qqtv.nl:8080/live/norma/12345/20198.m3u8
-#EXTINF:-1 group-title="海外体育-随缘",TUDN
-http://qqtv.nl:8080/live/norma/12345/20116.m3u8
-#EXTINF:-1 group-title="海外体育-随缘",GOL SUD TV
-http://user.tvcluboficial.com/stream/nov/nov/514.m3u8
-#EXTINF:-1 group-title="海外体育-随缘",GOL televisión USA
-http://qqtv.nl:8080/live/norma/12345/20286.m3u8
-#EXTINF:-1 group-title="海外体育-随缘",ESTADIO TV
-http://user.tvcluboficial.com/stream/nov/nov/318.m3u8
-#EXTINF:-1 group-title="海外体育-随缘",ECDF
-http://qqtv.nl:8080/live/norma/12345/416280.m3u8
-#EXTINF:-1 group-title="海外体育-随缘",WIN SPORTS 1
-http://qqtv.nl:8080/live/norma/12345/20234.m3u8
-#EXTINF:-1 group-title="海外体育-随缘",WIN SPORTS +
-http://qqtv.nl:8080/live/norma/12345/20321.m3u8
-#EXTINF:-1 group-title="海外体育-随缘",DUBAI SPORTS 3 FHD
-http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist.m3u8?checkedby
-#EXTINF:-1 group-title="海外体育-随缘",SSC1 HD (Saudi)
-https://ssc-5-ak.akamaized.net/out/v1/6ae0a2ebab224c72ab9c298afeec8d91/index.m3u8
-#EXTINF:-1 group-title="海外体育-随缘",DAZN 1
-http://qqtv.nl:8080/live/norma/12345/391225.m3u8
-#EXTINF:-1 group-title="海外体育-随缘",FootballHub
-https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
-#EXTINF:-1 group-title="海外体育-随缘",TELETRAK
-http://unlimited6-cl.dps.live/sportinghd/sportinghd.smil/playlist.m3u8
-#EXTINF:-1 group-title="海外体育-随缘",BEK SPORTS
-https://wowzaprod188-i.akamaihd.net/hls/live/728897/54d0bcd5/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.hualigs.cn/image/62070ebd8d198.jpg" group-title="NBA League Pass",NBA TV
@@ -4694,12 +4404,37 @@ https://d15xyumcalkui.cloudfront.net/flash1/_definst_/n11/chunklist.m3u8
 https://d15xyumcalkui.cloudfront.net/flash1/_definst_/n12/chunklist.m3u8
 
 
-#EXTINF:-1 group-title="粤语讲波 直播有效",歐冠 巴黎聖日耳門vs皇家馬德里 粵 何輝
-https://hls.zb.ssports.com/ssports/yue3665735_xinying1080.m3u8?k=4284b5f99940ae1aec20aa14973f5096&t=620c30ac&UID=1644892657free8007712473&MATCHID=3665735&TYPE=1
-#EXTINF:-1 group-title="粤语讲波 直播有效",英超 曼聯vs白礼顿 粵
-https://hls.zb.ssports.com/ssports/yue3559731_xinying1080.m3u8?k=da64b2dcc1528e9d68c9279640c675ae&t=5f569b90&UID=1644892765free6310673185&MATCHID=3372599&TYPE=1
-#EXTINF:-1 group-title="粤语讲波 直播有效",歐冠 里斯本競技vs曼城 國
-https://hls.zb.ssports.com/ssports/ch3665731_xinying1080.m3u8?k=82f563c148d35ebb50cbf214f282a571&t=620c30ac&UID=1644892829free6684340746&MATCHID=3665731&TYPE=1
+#EXTINF:-1 group-title="粤语讲波 直播有效",西甲 马德里体育会vs利云特 粤语
+https://hls.zb.ssports.com/ssports/yue3570748_xinying1080.m3u8?k=d03be676111032a8742fc01c2c1ced6b&t=620d660c&UID=1644978519free3187800534&MATCHID=3570748&TYPE=1
+#EXTINF:-1 group-title="粤语讲波 直播有效",西甲 马德里体育会vs利云特 国语
+https://hls.zb.ssports.com/ssports/ch3570748_xinying1080.m3u8?k=d03be676111032a8742fc01c2c1ced6b&t=620d660c&UID=1644978519free3187800534&MATCHID=3570748&TYPE=1
+#EXTINF:-1 group-title="粤语讲波 直播有效",欧冠 国际米兰vs利物浦  粤语 何辉
+https://hls.zb.ssports.com/ssports/yue3665729_xinying1080.m3u8?k=f87969e24667a71c0a64d84a3d077126&t=620d822c&UID=1644978651free8767228223&MATCHID=3665729&TYPE=1
+#EXTINF:-1 group-title="粤语讲波 直播有效",欧冠 国际米兰vs利物浦 国语
+https://hls.zb.ssports.com/ssports/ch3665729_xinying1080.m3u8?k=f87969e24667a71c0a64d84a3d077126&t=620d822c&UID=1644978651free8767228223&MATCHID=3665729&TYPE=1
+#EXTINF:-1 group-title="粤语讲波 直播有效",欧冠 萨尔斯堡vs拜仁 国语
+https://hls.zb.ssports.com/ssports/ch3665727_xinying1080.m3u8?k=4ba0f54f73a1c4dafaedc1ef3173b4d4&t=620d822c&UID=1644978765free3335440216&MATCHID=3665727&TYPE=1
+
+#EXTINF:-1 tvg-logo="https://www.hualigs.cn/image/61bb2a0b06f8d.jpg" group-title="FashionTV",Fashion TV
+https://fashiontv-fashiontv-4-de.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.hualigs.cn/image/61bb2a0b06f8d.jpg" group-title="FashionTV",Fashion TV Engliand
+https://fashiontv-fashiontv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.hualigs.cn/image/61bb2a0b06f8d.jpg" group-title="FashionTV",Fashion TV Italy
+https://fashiontv-fashiontv-3-it.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.hualigs.cn/image/61bb2a0b06f8d.jpg" group-title="FashionTV",Fashion TV Spain
+https://fashiontv-fashiontv-2-es.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.hualigs.cn/image/61bb2a0b06f8d.jpg" group-title="FashionTV",Fashion TV UHD
+https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.hualigs.cn/image/61bb2a0b06f8d.jpg" group-title="FashionTV",FashionTV Midnite Secrets FHD
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.hualigs.cn/image/61bb2a0b06f8d.jpg" group-title="FashionTV",Fashion TV Paris FHD
+http://fash1043.cloudycdn.services/slive/ftv_paris_adaptive.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.hualigs.cn/image/61bb2a0b06f8d.jpg" group-title="FashionTV",Fashion TV Tokyo FHD
+https://fash1043.cloudycdn.services/slive/ftv_ftv_pg13_zw9_27065_ftv_pg13_196_hls.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.hualigs.cn/image/61bb2a0b06f8d.jpg" group-title="FashionTV",Fashion TV Singapore FHD
+https://fash2043.cloudycdn.services/slive/ftv_ftv_asia_ada_xiv_42149_default_137_hls.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.hualigs.cn/image/61bb2a0b06f8d.jpg" group-title="FashionTV",FashionBox FHD
+https://fashionbox-localnow.cinedigm.com/playlist.m3u8
 
 #EXTINF:-1 tvg-id="BBCUHDTrial1.uk"  tvg-logo="" group-title="仅限英国IP",BBC UHD Trial 1
 https://a.files.bbci.co.uk/media/live/manifesto/audio_video/webcast/dash/uk/full/ak/uhd_stream_01.mpd
