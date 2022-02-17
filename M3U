@@ -3944,8 +3944,6 @@ https://akaku.vod.castus.tv/live/ch1.m3u8
 https://akaku.vod.castus.tv/live/ch2.m3u8
 #EXTINF:-1 group-title="美国Local听力磨耳朵",Akaku 55 (Hawaii)
 https://akaku.vod.castus.tv/live/ch3.m3u8
-#EXTINF:-1 group-title="美国Local听力磨耳朵",AKC TV - Meet the Breeds
-https://video.blivenyc.com/broadcast/prod/2061/61/file-4692k.m3u8
 #EXTINF:-1 group-title="美国Local听力磨耳朵" tvg-logo="https://alhorreya.org/images/alhorreya-logo_new.png",Alhorreya TV
 https://5d658d7e9f562.streamlock.net/alhorreya.tv/alhorreya.smil/playlist.m3u8
 #EXTINF:-1 group-title="美国Local听力磨耳朵" tvg-logo="https://i.imgur.com/ENtRDds.png",American Horrors
@@ -4178,8 +4176,6 @@ https://granicusliveus2-a.akamaihd.net/lfucg/G0264_002/playlist.m3u8
 https://dai.google.com/linear/hls/event/OaqAqJ0yQPiEIUIYqD7IGQ/master.m3u8
 #EXTINF:-1 group-title="美国Local听力磨耳朵",Maryland: Baltimore (STIRR)
 https://dai.google.com/linear/hls/event/jCNW8TtPRe6lnJMMVBZWVA/master.m3u8
-#EXTINF:-1 group-title="美国Local听力磨耳朵",Miami City TV (360p) [Not 24/7]
-https://granicusliveus9-a.akamaihd.net/miamifl/G2076_003/playlist.m3u8
 #EXTINF:-1 group-title="美国Local听力磨耳朵",Michigan: Bay City (STIRR)
 https://dai.google.com/linear/hls/event/kJPGlFKuS0itUoW7TfuDYQ/master.m3u8
 #EXTINF:-1 group-title="美国Local听力磨耳朵",Michigan: Cadillac (STIRR)
