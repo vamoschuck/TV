@@ -1996,7 +1996,7 @@ http://39.134.66.66/PLTV/88888888/224/3221225768/index.m3u8
 
 
 
-#EXTINF:-1 group-title="港澳台" tvg-logo="",爆谷台
+#EXTINF:-1 tvg-id="Now Baogu Movies" tvg-name="Now Baogu Movies" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch133_160_115" group-title="港澳台",爆谷台
 http://v3948069e.live.126.net/live/Nowbg.flv
 #EXTINF:-1 group-title="港澳台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png",凤凰资讯
 http://playtv-live.ifeng.com:80/live/06OLEEWQKN4.m3u8
