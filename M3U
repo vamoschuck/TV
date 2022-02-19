@@ -1984,7 +1984,48 @@ https://edgesports-sportstribal.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/9661e155-c5b8-43f3-9e1c-0e87cb75ae94-small3x1_STIRR_Logo_0320_EdgeSport_1920x1080_EPG.png?cb=c81e728d9d4c2f636f067f89cc14862c" group-title="体育频道",EDGEsport (STIRR)
 https://dai.google.com/linear/hls/event/d4zeSI-dTuqizFrByjs3OA/master.m3u8
 
-
+#EXTINF:-1 group-title="赛事直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",新咪咕广西_1
+http://39.135.42.203/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225837/index.m3u8
+#EXTINF:-1 group-title="赛事直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",新咪咕广西_4
+http://39.135.42.203/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225777/index.m3u8
+#EXTINF:-1 group-title="赛事直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",新咪咕广西_6
+http://39.135.42.203/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225783/index.m3u8
+#EXTINF:-1 group-title="赛事直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",新咪咕广西_7
+http://39.135.42.203/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225786/index.m3u8
+#EXTINF:-1 group-title="赛事直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",新咪咕广西_8
+http://39.135.42.203/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225789/index.m3u8
+#EXTINF:-1 group-title="赛事直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",新咪咕广西_9
+http://39.135.42.203/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225792/index.m3u8
+#EXTINF:-1 group-title="赛事直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",新咪咕广西_10
+http://39.135.42.203/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225793/index.m3u8
+#EXTINF:-1 group-title="赛事直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",新咪咕广西_12
+http://39.135.42.203/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225799/index.m3u8
+#EXTINF:-1 group-title="赛事直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",新咪咕广西_13
+http://39.135.42.203/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225802/index.m3u8
+#EXTINF:-1 group-title="赛事直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",新咪咕广西_16
+http://39.135.42.203/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225811/index.m3u8
+#EXTINF:-1 group-title="赛事直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",新咪咕广西_18
+http://39.135.42.203/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225817/index.m3u8
+#EXTINF:-1 group-title="赛事直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",新咪咕广西_19
+http://39.135.42.203/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225820/index.m3u8
+#EXTINF:-1 group-title="赛事直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",新咪咕广西_20
+http://39.135.42.203/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225834/index.m3u8
+#EXTINF:-1 group-title="赛事直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",新咪咕广西_22
+http://39.135.42.203/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225840/index.m3u8
+#EXTINF:-1 group-title="赛事直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",新咪咕广西_23
+http://39.135.42.203/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225842/index.m3u8
+#EXTINF:-1 group-title="赛事直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",新咪咕广西_24
+http://39.135.42.203/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225843/index.m3u8
+#EXTINF:-1 group-title="赛事直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",新咪咕广西_28
+http://39.135.42.203/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225848/index.m3u8
+#EXTINF:-1 group-title="赛事直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",新咪咕广西_31
+http://39.135.42.203/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225851/index.m3u8
+#EXTINF:-1 group-title="赛事直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",新咪咕广西_34
+http://39.135.42.203/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225853/index.m3u8
+#EXTINF:-1 group-title="赛事直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",新咪咕广西_43
+http://39.135.42.203/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225860/index.m3u8
+#EXTINF:-1 group-title="赛事直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",新咪咕广西_50
+http://39.135.42.203/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225896/index.m3u8
 #EXTINF:-1 group-title="赛事直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",咪咕视频
 http://39.134.66.66/PLTV/88888888/224/3221225611/index.m3u8
 #EXTINF:-1 group-title="赛事直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",咪咕视频
