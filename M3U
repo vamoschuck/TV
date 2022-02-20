@@ -260,70 +260,73 @@ http://39.134.66.66/TVOD/88888888/224/3221225787/index.m3u8
 http://39.134.66.66/TVOD/88888888/224/3221225785/index.m3u8
 
 
-#EXTINF:-1 tvg-id="41" tvg-name="东南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongnan.png" group-title="江西宜春-高码回看",东南卫视 HD
-http://39.135.138.59:18890/TVOD/88888910/224/3221225657/index.m3u8
-#EXTINF:-1 tvg-id="40" tvg-name="重庆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png" group-title="江西宜春-高码回看",重庆卫视 HD
-http://39.135.138.59:18890/TVOD/88888910/224/3221225692/index.m3u8
-#EXTINF:-1 tvg-id="39" tvg-name="天津卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/tianjin.png" group-title="江西宜春-高码回看",天津卫视 HD
-http://39.135.138.59:18890/TVOD/88888910/224/3221225698/index.m3u8
-#EXTINF:-1 tvg-id="46" tvg-name="黑龙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png" group-title="江西宜春-高码回看",黑龙江卫视 HD
-http://39.135.138.59:18890/TVOD/88888910/224/3221225690/index.m3u8
-#EXTINF:-1 tvg-id="33" tvg-name="广东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="江西宜春-高码回看",广东卫视 HD
-http://39.135.138.59:18890/TVOD/88888910/224/3221225701/index.m3u8
-#EXTINF:-1 tvg-id="36" tvg-name="辽宁卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png" group-title="江西宜春-高码回看",辽宁卫视 HD
-http://39.135.138.59:18890/TVOD/88888910/224/3221225696/index.m3u8
-#EXTINF:-1 tvg-id="38" tvg-name="山东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png" group-title="江西宜春-高码回看",山东卫视 HD
-http://39.135.138.59:18890/TVOD/88888910/224/3221225697/index.m3u8
-#EXTINF:-1 tvg-id="34" tvg-name="深圳卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shenzhen.png" group-title="江西宜春-高码回看",深圳卫视 HD
-http://39.135.138.59:18890/TVOD/88888910/224/3221225700/index.m3u8
-#EXTINF:-1 tvg-id="48" tvg-name="湖北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hubei.png" group-title="江西宜春-高码回看",湖北卫视 HD
-http://39.135.138.59:18890/TVOD/88888910/224/3221225699/index.m3u8
-#EXTINF:-1 tvg-id="32" tvg-name="安徽卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png" group-title="江西宜春-高码回看",安徽卫视 HD
-http://39.135.138.59:18890/TVOD/88888910/224/3221225691/index.m3u8
-#EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="江西宜春-高码回看",江苏卫视 HD
-http://39.135.138.59:18890/TVOD/88888910/224/3221225702/index.m3u8
-#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="江西宜春-高码回看",湖南卫视 HD
-http://39.135.138.59:18890/TVOD/88888910/224/3221225704/index.m3u8
-#EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="江西宜春-高码回看",东方卫视 HD
-http://39.135.138.59:18890/TVOD/88888910/224/3221225659/index.m3u8
-#EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="江西宜春-高码回看",浙江卫视 HD
-http://39.135.138.59:18890/TVOD/88888910/224/3221225703/index.m3u8
-#EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="江西宜春-高码回看",北京卫视 HD
-http://39.135.138.59:18890/TVOD/88888910/224/3221225674/index.m3u8
-#EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="江西宜春-高码回看",CCTV-17农业农村
-http://39.135.138.59:18890/TVOD/88888910/224/3221225909/index.m3u8
-#EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="江西宜春-高码回看",CCTV-15音乐
-http://39.135.138.59:18890/TVOD/88888910/224/3221225641/index.m3u8
-#EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="江西宜春-高码回看",CCTV-14少儿
-http://39.135.138.59:18890/TVOD/88888910/224/3221225639/index.m3u8
-#EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="江西宜春-高码回看",CCTV-13新闻
-http://39.135.138.59:18890/TVOD/88888910/224/3221225638/index.m3u8
-#EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" group-title="江西宜春-高码回看",CCTV-12社会与法
-http://39.135.138.59:18890/TVOD/88888910/224/3221225637/index.m3u8
-#EXTINF:-1 tvg-id="12" tvg-name="CCTV11" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png" group-title="江西宜春-高码回看",CCTV-11戏曲
-http://39.135.138.59:18890/TVOD/88888910/224/3221225628/index.m3u8
-#EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" group-title="江西宜春-高码回看",CCTV-10科教
-http://39.135.138.59:18890/TVOD/88888910/224/3221225636/index.m3u8
-#EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" group-title="江西宜春-高码回看",CCTV-9纪录
-http://39.135.138.59:18890/TVOD/88888910/224/3221225646/index.m3u8
-#EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="江西宜春-高码回看",CCTV-8电视剧
-http://39.135.138.59:18890/TVOD/88888910/224/3221225631/index.m3u8
-#EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="江西宜春-高码回看",CCTV-7国防军事
-http://39.135.138.59:18890/TVOD/88888910/224/3221225644/index.m3u8
-#EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="江西宜春-高码回看",CCTV-6电影
-http://39.135.138.59:18890/TVOD/88888910/224/3221225632/index.m3u8
-#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="江西宜春-高码回看",CCTV-5+体育赛事
-http://39.135.138.59:18890/TVOD/88888910/224/3221225706/index.m3u8
-#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="江西宜春-高码回看",CCTV-5体育
-http://39.135.138.59:18890/TVOD/88888910/224/3221225633/index.m3u8
-#EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="江西宜春-高码回看",CCTV-4国际
-http://39.135.138.59:18890/TVOD/88888910/224/3221225621/index.m3u8
-#EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="江西宜春-高码回看",CCTV-3综艺
-http://39.135.138.59:18890/TVOD/88888910/224/3221225634/index.m3u8
-#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="江西宜春-高码回看",CCTV-2财经
-http://39.135.138.59:18890/TVOD/88888910/224/3221225643/index.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="江西宜春-高码回看",CCTV-1综合
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="江西宜春-回看",CCTV-1综合
 http://39.135.138.59:18890/TVOD/88888910/224/3221225642/index.m3u8
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="江西宜春-回看",CCTV-2财经
+http://39.135.138.59:18890/TVOD/88888910/224/3221225643/index.m3u8
+#EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="江西宜春-回看",CCTV-3综艺
+http://39.135.138.59:18890/TVOD/88888910/224/3221225634/index.m3u8
+#EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="江西宜春-回看",CCTV-4国际
+http://39.135.138.59:18890/TVOD/88888910/224/3221225621/index.m3u8
+#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="江西宜春-回看",CCTV-5
+http://39.135.138.59:18890/TVOD/88888910/224/3221225633/index.m3u8
+#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="江西宜春-回看",CCTV-5+
+http://39.135.138.59:18890/TVOD/88888910/224/3221225706/index.m3u8
+#EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="江西宜春-回看",CCTV-6电影
+http://39.135.138.59:18890/TVOD/88888910/224/3221225632/index.m3u8
+#EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="江西宜春-回看",CCTV-7国防军事
+http://39.135.138.59:18890/TVOD/88888910/224/3221225644/index.m3u8
+#EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="江西宜春-回看",CCTV-8电视剧
+http://39.135.138.59:18890/TVOD/88888910/224/3221225631/index.m3u8
+#EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" group-title="江西宜春-回看",CCTV-9纪录
+http://39.135.138.59:18890/TVOD/88888910/224/3221225646/index.m3u8
+#EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" group-title="江西宜春-回看",CCTV-10科教
+http://39.135.138.59:18890/TVOD/88888910/224/3221225636/index.m3u8
+#EXTINF:-1 tvg-id="12" tvg-name="CCTV11" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png" group-title="江西宜春-回看",CCTV-11戏曲
+http://39.135.138.59:18890/TVOD/88888910/224/3221225628/index.m3u8
+#EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" group-title="江西宜春-回看",CCTV-12社会与法
+http://39.135.138.59:18890/TVOD/88888910/224/3221225637/index.m3u8
+#EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="江西宜春-回看",CCTV-13新闻
+http://39.135.138.59:18890/TVOD/88888910/224/3221225638/index.m3u8
+#EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="江西宜春-回看",CCTV-14少儿
+http://39.135.138.59:18890/TVOD/88888910/224/3221225639/index.m3u8
+#EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="江西宜春-回看",CCTV-15音乐
+http://39.135.138.59:18890/TVOD/88888910/224/3221225641/index.m3u8
+#EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="江西宜春-回看",CCTV-17农业农村
+http://39.135.138.59:18890/TVOD/88888910/224/3221225909/index.m3u8
+#EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="江西宜春-回看",北京卫视 HD
+http://39.135.138.59:18890/TVOD/88888910/224/3221225674/index.m3u8
+#EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="江西宜春-回看",浙江卫视 HD
+http://39.135.138.59:18890/TVOD/88888910/224/3221225703/index.m3u8
+#EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="江西宜春-回看",东方卫视 HD
+http://39.135.138.59:18890/TVOD/88888910/224/3221225659/index.m3u8
+#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="江西宜春-回看",湖南卫视 HD
+http://39.135.138.59:18890/TVOD/88888910/224/3221225704/index.m3u8
+#EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="江西宜春-回看",江苏卫视 HD
+http://39.135.138.59:18890/TVOD/88888910/224/3221225702/index.m3u8
+#EXTINF:-1 tvg-id="32" tvg-name="安徽卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png" group-title="江西宜春-回看",安徽卫视 HD
+http://39.135.138.59:18890/TVOD/88888910/224/3221225691/index.m3u8
+#EXTINF:-1 tvg-id="48" tvg-name="湖北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hubei.png" group-title="江西宜春-回看",湖北卫视 HD
+http://39.135.138.59:18890/TVOD/88888910/224/3221225699/index.m3u8
+#EXTINF:-1 tvg-id="34" tvg-name="深圳卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shenzhen.png" group-title="江西宜春-回看",深圳卫视 HD
+http://39.135.138.59:18890/TVOD/88888910/224/3221225700/index.m3u8
+#EXTINF:-1 tvg-id="38" tvg-name="山东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png" group-title="江西宜春-回看",山东卫视 HD
+http://39.135.138.59:18890/TVOD/88888910/224/3221225697/index.m3u8
+#EXTINF:-1 tvg-id="36" tvg-name="辽宁卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png" group-title="江西宜春-回看",辽宁卫视 HD
+http://39.135.138.59:18890/TVOD/88888910/224/3221225696/index.m3u8
+#EXTINF:-1 tvg-id="33" tvg-name="广东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="江西宜春-回看",广东卫视 HD
+http://39.135.138.59:18890/TVOD/88888910/224/3221225701/index.m3u8
+#EXTINF:-1 tvg-id="46" tvg-name="黑龙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png" group-title="江西宜春-回看",黑龙江卫视 HD
+http://39.135.138.59:18890/TVOD/88888910/224/3221225690/index.m3u8
+#EXTINF:-1 tvg-id="39" tvg-name="天津卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/tianjin.png" group-title="江西宜春-回看",天津卫视 HD
+http://39.135.138.59:18890/TVOD/88888910/224/3221225698/index.m3u8
+#EXTINF:-1 tvg-id="40" tvg-name="重庆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png" group-title="江西宜春-回看",重庆卫视 HD
+http://39.135.138.59:18890/TVOD/88888910/224/3221225692/index.m3u8
+#EXTINF:-1 tvg-id="41" tvg-name="东南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongnan.png" group-title="江西宜春-回看",东南卫视 HD
+http://39.135.138.59:18890/TVOD/88888910/224/3221225657/index.m3u8
+#EXTINF:-1 tvg-id="50" tvg-name="江西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangxi.png" group-title="江西宜春-回看",江西卫视 HD
+http://39.135.138.59:18890/TVOD/88888910/224/3221225705/index.m3u8
+
 
 
 
@@ -2262,9 +2265,9 @@ http://iptv.tvfix.org/hls/finance2.m3u8
 http://iptv.tvfix.org/hls/financenhk.m3u8
 #EXTINF:-1 tvg-id="408" tvg-name="ViuTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png" group-title="港澳台电视侠",ViuTV
 http://iptv.tvfix.org/hls/viutv.m3u8
-#EXTINF:-1 tvg-id="408" tvg-name="ViuTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png" group-title="港澳台电视侠",ViuTV 粤语
+#EXTINF:-1 tvg-id="408" tvg-name="ViuTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png" group-title="港澳台电视侠",ViuTV 第二声道
 http://iptv.tvfix.org/hls/viutv2.m3u8
-#EXTINF:-1 tvg-id="408" tvg-name="ViuTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png" group-title="港澳台电视侠",ViuTV6
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台电视侠",ViuTV6
 http://iptv.tvfix.org/hls/viutv6.m3u8
 #EXTINF:-1 tvg-id="7117" tvg-name="香港国际财经台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hkguojicaijing.png" group-title="港澳台电视侠",香港国际财经台
 http://iptv.tvfix.org/hls/hkibc.m3u8
@@ -4193,54 +4196,7 @@ https://d15xyumcalkui.cloudfront.net/flash1/_definst_/n11/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/15/HgnD0J.png" group-title="NBA League Pass",NBA Live Game 12
 https://d15xyumcalkui.cloudfront.net/flash1/_definst_/n12/chunklist.m3u8
 
-#EXTINF:-1 group-title="粤语讲波 直播有效",西甲 艾尔切vs华历简奴 粤语
-https://hls.zb.ssports.com/ssports/yue3570791_xinying1080.m3u8?k=60e3acf749e092c855381ff6146e9175&t=6210252c&UID=1645157968free0143867440&MATCHID=3570791&TYPE=1
-#EXTINF:-1 group-title="粤语讲波 直播有效",西甲 埃尔切vs巴内卡罗 国语
-https://hls.zb.ssports.com/ssports/ch3570791_xinying1080.m3u8?k=60e3acf749e092c855381ff6146e9175&t=6210252c&UID=1645157968free0143867440&MATCHID=3570791&TYPE=1
-#EXTINF:-1 group-title="粤语讲波 直播有效",英超 韦斯咸vs纽卡素 粤语
-https://hls.zb.ssports.com/ssports/yue3559776_xinying1080.m3u8?k=074e4411a335308ca61ce59f7dbd3981&t=5f569b90&UID=1645158255free4413531158&MATCHID=3372599&TYPE=1
-#EXTINF:-1 group-title="粤语讲波 直播有效",英超 韦斯咸vs纽卡素 国语
-https://hls.zb.ssports.com/ssports/ch3559776_xinying1080.m3u8?k=074e4411a335308ca61ce59f7dbd3981&t=5f569b90&UID=1645158255free4413531158&MATCHID=3372599&TYPE=1
-#EXTINF:-1 group-title="粤语讲波 直播有效",西甲 格拉纳特vs维拉利尔 粤语
-https://hls.zb.ssports.com/ssports/yue3570793_xinying1080.m3u8?k=d68c6220fb925926fe74c83ea7348df6&t=5f569b90&UID=1645158349free8661420063&MATCHID=3372599&TYPE=1
-#EXTINF:-1 group-title="粤语讲波 直播有效",西甲 格拉纳特vs维拉利尔 国语
-https://hls.zb.ssports.com/ssports/ch3570793_xinying1080.m3u8?k=d68c6220fb925926fe74c83ea7348df6&t=5f569b90&UID=1645158349free8661420063&MATCHID=3372599&TYPE=1
-#EXTINF:-1 group-title="粤语讲波 直播有效",英超 利物浦vs诺域治 粤语
-https://hls.zb.ssports.com/ssports/yue3559769_xinying1080.m3u8?k=1ce4375c2971b85bf11a8c85ff149c04&t=6211305c&UID=1645158482free6464774445&MATCHID=3559769&TYPE=1
-#EXTINF:-1 group-title="粤语讲波 直播有效",英超 利物浦vs诺域治 国语
-https://hls.zb.ssports.com/ssports/ch3559769_xinying1080.m3u8?k=1ce4375c2971b85bf11a8c85ff149c04&t=6211305c&UID=1645158482free6464774445&MATCHID=3559769&TYPE=1
-#EXTINF:-1 group-title="粤语讲波 直播有效",英超 利物浦vs诺维奇
-https://d3rwour00l8w6d.cloudfront.net/stream/MjkxMA==/1080p.m3u8
-#EXTINF:-1 group-title="粤语讲波 直播有效",英超 水晶宫vs车路士 粤语
-https://hls.zb.ssports.com/ssports/yue3559766_xinying1080.m3u8?k=79c13cbc406e2b3fba7c63c3a889224e&t=5f569b90&UID=1645158571free5041437443&MATCHID=3372599&TYPE=1
-#EXTINF:-1 group-title="粤语讲波 直播有效",英超 水晶宫vs车路士 国语
-https://hls.zb.ssports.com/ssports/ch3559766_xinying1080.m3u8?k=79c13cbc406e2b3fba7c63c3a889224e&t=5f569b90&UID=1645158571free5041437443&MATCHID=3372599&TYPE=1
-#EXTINF:-1 group-title="粤语讲波 直播有效",英超 水晶宫vs切尔西
-https://d3rwour00l8w6d.cloudfront.net/stream/MjkwOQ==/1080p.m3u8
-#EXTINF:-1 group-title="粤语讲波 直播有效",英超 阿仙奴vs宾福特 粤语
-https://hls.zb.ssports.com/ssports/yue3559754_xinying1080.m3u8?k=0bee80efa95643bd6b3d479b037626fb&t=5f569b90&UID=1645158647free6615816542&MATCHID=3372599&TYPE=1
-#EXTINF:-1 group-title="粤语讲波 直播有效",英超 阿仙奴vs宾福特 国语
-https://hls.zb.ssports.com/ssports/ch3559754_xinying1080.m3u8?k=0bee80efa95643bd6b3d479b037626fb&t=5f569b90&UID=1645158647free6615816542&MATCHID=3372599&TYPE=1
-#EXTINF:-1 group-title="粤语讲波 直播有效",英超 阿森纳vs布伦特福德
-https://d3rwour00l8w6d.cloudfront.net/stream/MjkwNg==/1080p.m3u8
-#EXTINF:-1 group-title="粤语讲波 直播有效",英超 白礼顿vs般尼 国语
-https://hls.zb.ssports.com/ssports/ch3559764_xinying1080.m3u8?k=aeecf3e69784bf35e918a27e0ed2ebcf&t=6211305c&UID=1645158752free4848735554&MATCHID=3559764&TYPE=1
-#EXTINF:-1 group-title="粤语讲波 直播有效",英超 修咸顿VS爱华顿 国语
-https://hls.zb.ssports.com/ssports/ch3559773_xinying1080.m3u8?k=106977993daa950503804050b111eacf&t=6211305c&UID=1645158842free8587775761&MATCHID=3559773&TYPE=1
-#EXTINF:-1 group-title="粤语讲波 直播有效",英超 阿士东维拉vs屈福特 粤语
-https://hls.zb.ssports.com/ssports/yue3559762_xinying1080.m3u8?k=f72979ff7e11256a054797e9a46e673a&t=6211305c&UID=1645158943free7400128141&MATCHID=3559762&TYPE=1
-#EXTINF:-1 group-title="粤语讲波 直播有效",英超 阿士东维拉vs屈福特 国语
-https://hls.zb.ssports.com/ssports/ch3559762_xinying1080.m3u8?k=f72979ff7e11256a054797e9a46e673a&t=6211305c&UID=1645158943free7400128141&MATCHID=3559762&TYPE=1
-#EXTINF:-1 group-title="粤语讲波 直播有效",西甲 奥沙辛拿vs马德里体育会 粤语
-https://hls.zb.ssports.com/ssports/yue3570794_xinying1080.m3u8?k=69ee87b14a07681325288d67a2a4d5d7&t=621133e0&UID=1645159020free1714108218&MATCHID=3570794&TYPE=1
-#EXTINF:-1 group-title="粤语讲波 直播有效",西甲 奥沙辛拿vs马德里体育会 国语
-https://hls.zb.ssports.com/ssports/ch3570794_xinying1080.m3u8?k=69ee87b14a07681325288d67a2a4d5d7&t=621133e0&UID=1645159020free1714108218&MATCHID=3570794&TYPE=1
-#EXTINF:-1 group-title="粤语讲波 直播有效",英超 曼城vs热刺 粤语 何辉
-https://hls.zb.ssports.com/ssports/yue3559771_xinying1080.m3u8?k=f70865bfda6c079d57bf427ed9e3afc5&t=5f569b90&UID=1645241733free4628478435&MATCHID=3372599&TYPE=1
-#EXTINF:-1 group-title="粤语讲波 直播有效",西甲 加的斯vs赫塔菲 国语
-https://hls.zb.ssports.com/ssports/ch3570789_xinying1080.m3u8?k=652fe2c6f4dac07c038c76237fb38f36&t=62115384&UID=1645241843free8575360842&MATCHID=3570789&TYPE=1
-#EXTINF:-1 group-title="粤语讲波 直播有效",西甲 皇家马德里vs阿拉维斯 粤语
-https://hls.zb.ssports.com/ssports/yue3570795_xinying1080.m3u8?k=3e1f7ff074791e2f511bff1491c46bae&t=5f569b90&UID=1645241949free3436858300&MATCHID=3372599&TYPE=1
+
 #EXTINF:-1 group-title="粤语讲波 直播有效",西甲 爱斯宾奴vs西维尔 粤语
 https://hls.zb.ssports.com/ssports/yue3570792_xinying1080.m3u8?k=5a5689dda1c3416b6c90e832c291c4a9&t=5f569b90&UID=1645242109free7105742007&MATCHID=3372599&TYPE=1
 #EXTINF:-1 group-title="粤语讲波 直播有效",英超 列斯联vs曼联 粤语
@@ -4251,7 +4207,14 @@ https://hls.zb.ssports.com/ssports/ch3559768_xinying1080.m3u8?k=7553eed3ddf04c68
 https://hls.zb.ssports.com/ssports/yue3570796_xinying1080.m3u8?k=0dc2ccbe6a9ba83ba279edd34f385fee&t=62128560&UID=1645242370free6452014870&MATCHID=3570796&TYPE=1
 #EXTINF:-1 group-title="粤语讲波 直播有效",西甲 华伦西亚vs巴塞隆拿 国语
 https://hls.zb.ssports.com/ssports/ch3570796_xinying1080.m3u8?k=0dc2ccbe6a9ba83ba279edd34f385fee&t=62128560&UID=1645242370free6452014870&MATCHID=3570796&TYPE=1
-
+#EXTINF:-1 group-title="粤语讲波 直播有效",英超 狼队vs李斯特城 粤语
+https://hls.zb.ssports.com/ssports/yue3559779_xinying1080.m3u8?k=b62f1a0f5fab193f23cc70022da100da&t=5f569b90&UID=1645324181free8762868178&MATCHID=3372599&TYPE=1
+#EXTINF:-1 group-title="粤语讲波 直播有效",英超 狼队vs李斯特城 国语
+https://hls.zb.ssports.com/ssports/ch3559779_xinying1080.m3u8?k=b62f1a0f5fab193f23cc70022da100da&t=5f569b90&UID=1645324181free8762868178&MATCHID=3372599&TYPE=1
+#EXTINF:-1 group-title="粤语讲波 直播有效",西甲 贝迪斯vs马略卡 粤语 何辉
+https://hls.zb.ssports.com/ssports/yue3570788_xinying1080.m3u8?k=f73332e465a1d44377dec4225690a7a4&t=5f569b90&UID=1645324361free4811187741&MATCHID=3372599&TYPE=1
+#EXTINF:-1 group-title="粤语讲波 直播有效",西甲 毕尔包vs皇家苏斯达 粤语
+https://hls.zb.ssports.com/ssports/yue3570787_xinying1080.m3u8?k=91f60e4693ae96c466d5050434277067&t=6212c82c&UID=1645324491free6424230676&MATCHID=3570787&TYPE=1
 
 #EXTINF:-1 tvg-logo="https://www.hualigs.cn/image/61bb2a0b06f8d.jpg" group-title="FashionTV",Fashion TV
 https://fashiontv-fashiontv-4-de.samsung.wurl.com/manifest/playlist.m3u8
