@@ -2,12 +2,15 @@
 
 
 
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s4.ax1x.com/2022/02/19/Hbh3GQ.png" group-title="北京冬奥",CCTV8K
 http://live.aikan.miguvideo.com/PLTV/88888888/224/3221233413/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s4.ax1x.com/2022/02/19/Hbh3GQ.png" group-title="北京冬奥",CCTV8K
 http://117.148.179.148:80/PLTV/88888888/224/3221233350/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s4.ax1x.com/2022/02/19/Hbh3GQ.png" group-title="北京冬奥",CCTV8K
 http://117.148.179.141:80/PLTV/88888888/224/3221233404/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s4.ax1x.com/2022/02/19/Hbh3GQ.png" group-title="北京冬奥",CCTV8K
+http://117.148.179.157/PLTV/88888888/224/3221233404/index.m3u8
 #EXTINF:-1 tvg-id="1872" tvg-name="北京纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png" group-title="北京冬奥",北京冬奥纪实8K
 http://117.148.179.157/PLTV/88888888/224/3221233448/index.m3u8
 #EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="北京冬奥",CCTV4K
@@ -484,117 +487,102 @@ http://119.167.231.18/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226011/index.m
 
 
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="陕西秦岭云备用IP",CCTV1
-http://220.185.175.94:80/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225490/index.m3u8
+http://61.164.158.154:843/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225490/index.m3u8
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="陕西秦岭云备用IP",CCTV2
-http://220.185.175.94:80/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225612/index.m3u8
+http://61.164.158.154:843/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225612/index.m3u8
 #EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="陕西秦岭云备用IP",CCTV3
-http://220.185.175.94:80/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225611/index.m3u8
+http://61.164.158.154:843/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225611/index.m3u8
 #EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="陕西秦岭云备用IP",CCTV4
-http://220.185.175.94:80/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225610/index.m3u8
+http://61.164.158.154:843/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225610/index.m3u8
 #EXTINF:-1 tvg-id=“5” tvg-name="CCTV5” tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="陕西秦岭云备用IP",CCTV5
-http://220.185.175.94:80/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225489/index.m3u8
+http://61.164.158.154:843/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225489/index.m3u8
 #EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="陕西秦岭云备用IP",CCTV5+
-http://220.185.175.94:80/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225494/index.m3u8
+http://61.164.158.154:843/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225494/index.m3u8
 #EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="陕西秦岭云备用IP",CCTV6
-http://220.185.175.94:80/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225609/index.m3u8
+http://61.164.158.154:843/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225609/index.m3u8
 #EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="陕西秦岭云备用IP",CCTV7
-http://220.185.175.94:80/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226002/index.m3u8
+http://61.164.158.154:843/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226002/index.m3u8
 #EXTINF:-1  tvg-id="9" tvg-name="CCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="陕西秦岭云备用IP",CCTV8
-http://220.185.175.94:80/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225492/index.m3u8
+http://61.164.158.154:843/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225492/index.m3u8
 #EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" group-title="陕西秦岭云备用IP",CCTV9
-http://220.185.175.94:80/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225607/index.m3u8
+http://61.164.158.154:843/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225607/index.m3u8
 #EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" group-title="陕西秦岭云备用IP",CCTV10
-http://220.185.175.94:80/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225606/index.m3u8
+http://61.164.158.154:843/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225606/index.m3u8
 #EXTINF:-1 tvg-id="12" tvg-name="CCTV11" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png" group-title="陕西秦岭云备用IP",CCTV11
-http://220.185.175.94:80/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225853/index.m3u8
+http://61.164.158.154:843/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225853/index.m3u8
 #EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" group-title="陕西秦岭云备用IP",CCTV12
-http://220.185.175.94:80/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225605/index.m3u8
+http://61.164.158.154:843/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225605/index.m3u8
 #EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="陕西秦岭云备用IP",CCTV13
-http://220.185.175.94:80/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226062/index.m3u8
+http://61.164.158.154:843/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226062/index.m3u8
 #EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="陕西秦岭云备用IP",CCTV14
-http://220.185.175.94:80/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225604/index.m3u8
+http://61.164.158.154:843/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225604/index.m3u8
 #EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="陕西秦岭云备用IP",CCTV15
-http://220.185.175.94:80/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225854/index.m3u8
+http://61.164.158.154:843/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225854/index.m3u8
 #EXTINF:-1  tvg-id="7249" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="陕西秦岭云备用IP",CCTV16
-http://220.185.175.94:80/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226095/index.m3u8
+http://61.164.158.154:843/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226095/index.m3u8
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="陕西秦岭云备用IP",CCTV17
-http://220.185.175.94:80/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225608/index.m3u8
+http://61.164.158.154:843/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225608/index.m3u8
 #EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="陕西秦岭云备用IP",东方卫视
-http://220.185.175.94:80/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225503/index.m3u8
+http://61.164.158.154:843/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225503/index.m3u8
 #EXTINF:-1 tvg-id="58" tvg-name="云南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="陕西秦岭云备用IP",云南卫视
-http://220.185.175.94:80/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226063/index.m3u8
+http://61.164.158.154:843/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226063/index.m3u8
 #EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="陕西秦岭云备用IP",北京卫视
-http://220.185.175.94:80/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225502/index.m3u8
+http://61.164.158.154:843/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225502/index.m3u8
 #EXTINF:-1 tvg-id="51" tvg-name="吉林卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jilin.png" group-title="陕西秦岭云备用IP",吉林卫视
-http://220.185.175.94:80/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225598/index.m3u8
+http://61.164.158.154:843/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225598/index.m3u8
 #EXTINF:-1 tvg-id="56" tvg-name="四川卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sichuan.png" group-title="陕西秦岭云备用IP",四川卫视
-http://220.185.175.94:80/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225600/index.m3u8
+http://61.164.158.154:843/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225600/index.m3u8
 #EXTINF:-1 tvg-id="39" tvg-name="天津卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/tianjin.png" group-title="陕西秦岭云备用IP",天津卫视
-http://220.185.175.94:80/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225588/index.m3u8
+http://61.164.158.154:843/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225588/index.m3u8
 #EXTINF:-1 tvg-id="32" tvg-name="安徽卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png" group-title="陕西秦岭云备用IP",安徽卫视
-http://220.185.175.94:80/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225590/index.m3u8
+http://61.164.158.154:843/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225590/index.m3u8
 #EXTINF:-1 tvg-id="33" tvg-name="广东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="陕西秦岭云备用IP",广东卫视
-http://220.185.175.94:80/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225589/index.m3u8
+http://61.164.158.154:843/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225589/index.m3u8
 #EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="陕西秦岭云备用IP",江苏卫视
-http://220.185.175.94:80/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225504/index.m3u8
+http://61.164.158.154:843/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225504/index.m3u8
 #EXTINF:-1 tvg-id="50" tvg-name="江西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangxi.png" group-title="陕西秦岭云备用IP",江西卫视
-http://220.185.175.94:80/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225599/index.m3u8
+http://61.164.158.154:843/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225599/index.m3u8
 #EXTINF:-1 tvg-id="47" tvg-name="河南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/henan.png" group-title="陕西秦岭云备用IP",河南卫视
-http://220.185.175.94:80/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226064/index.m3u8
+http://61.164.158.154:843/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226064/index.m3u8
 #EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="陕西秦岭云备用IP",浙江卫视
-http://220.185.175.94:80/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225505/index.m3u8
+http://61.164.158.154:843/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225505/index.m3u8
 #EXTINF:-1 tvg-id="34" tvg-name="深圳卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shenzhen.png" group-title="陕西秦岭云备用IP",深圳卫视
-http://220.185.175.94:80/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225592/index.m3u8
+http://61.164.158.154:843/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225592/index.m3u8
 #EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="陕西秦岭云备用IP",湖南卫视
-http://220.185.175.94:80/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225506/index.m3u8
+http://61.164.158.154:843/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225506/index.m3u8
 #EXTINF:-1 tvg-id="44" tvg-name="贵州卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guizhou.png" group-title="陕西秦岭云备用IP",贵州卫视
-http://220.185.175.94:80/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225586/index.m3u8
+http://61.164.158.154:843/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225586/index.m3u8
 #EXTINF:-1 tvg-id="36" tvg-name="辽宁卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png" group-title="陕西秦岭云备用IP",辽宁卫视
-http://220.185.175.94:80/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225593/index.m3u8
+http://61.164.158.154:843/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225593/index.m3u8
 #EXTINF:-1 tvg-id="40" tvg-name="重庆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png" group-title="陕西秦岭云备用IP",重庆卫视
-http://220.185.175.94:80/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225601/index.m3u8
+http://61.164.158.154:843/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225601/index.m3u8
 #EXTINF:-1 tvg-id="55" tvg-name="陕西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi.png" group-title="陕西秦岭云备用IP",陕西卫视
-http://220.185.175.94:80/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225498/index.m3u8
+http://61.164.158.154:843/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225498/index.m3u8
 #EXTINF:-1 tvg-id="46" tvg-name="黑龙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png" group-title="陕西秦岭云备用IP",黑龙江卫视
-http://220.185.175.94:80/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225594/index.m3u8
+http://61.164.158.154:843/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225594/index.m3u8
 #EXTINF:-1 tvg-id="1872" tvg-name="北京纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png" group-title="陕西秦岭云备用IP",北京冬奥纪实
-http://220.185.175.94:80/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226011/index.m3u8
-
+http://61.164.158.154:843/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226011/index.m3u8
 
 #秦岭云其他可用IP
-#http://220.185.175.94:80/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225498/index.m3u8
-#http://60.163.142.235:80/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225498/index.m3u8
-#http://60.163.142.166:80/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225498/index.m3u8
-#http://101.71.76.222:80/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225498/index.m3u8
-#http://60.163.142.159:80/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225498/index.m3u8
+
+
 #http://61.164.158.154:843/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225498/index.m3u8
-#http://60.163.142.35:80/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225498/index.m3u8
+
 #http://122.228.87.30:843/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225498/index.m3u8
-#http://117.147.184.233:80/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225498/index.m3u8
-#http://122.246.23.34:843/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225498/index.m3u8
+
 #http://122.228.87.26:843/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225498/index.m3u8
+
 #http://61.164.158.23:843/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225498/index.m3u8
+
 #http://122.228.87.14:80/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225498/index.m3u8
+
 #http://61.164.158.24:843/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225498/index.m3u8
+
 #http://61.164.158.161:80/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225498/index.m3u8
+
 #http://122.228.119.169:843/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225498/index.m3u8
-#http://111.0.27.36:80/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225498/index.m3u8
-#http://101.71.75.103:80/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225498/index.m3u8
+
 #http://61.164.158.154:80/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225498/index.m3u8
-#http://119.188.155.87:80/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225498/index.m3u8
-#http://140.249.86.40:80/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225498/index.m3u8 
-#http://140.249.86.38:80/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225498/index.m3u8 
-#http://140.249.30.175:80/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225498/index.m3u8 
-#http://140.249.31.209:80/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225498/index.m3u8 
-#http://120.221.199.32:80/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225498/index.m3u8 
-#http://120.221.180.141:80/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225498/index.m3u8 
-#http://140.249.30.173:80/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225498/index.m3u8 
-#http://120.221.198.146:80/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225498/index.m3u8 
-#http://120.221.180.153:80/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225498/index.m3u8 
-#http://140.249.85.169:80/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225498/index.m3u8 
-#http://120.221.179.23:80/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225498/index.m3u8 
-#http://120.221.199.17:80/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225498/index.m3u8
-#http://120.221.198.91:80/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225498/index.m3u8
 
 
 
@@ -4423,73 +4411,73 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60fb040d4795a6000762fe
 
 
 #EXTINF:-1 tvg-logo="https://www.hualigs.cn/image/62070ebd8d198.jpg" group-title="NBA League Pass",NBA TV
-https://d1eqmybbugbqy9.cloudfront.net/hls/nbatv/playlist.m3u8?SBN
+https://d2ugkn5if9b7a4.cloudfront.net/hls/nbatv/playlist.m3u8?SBN
 #EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/15/HgKGR0.png" group-title="NBA League Pass",ESPN
-https://d1eqmybbugbqy9.cloudfront.net:443/hls/espn/playlist.m3u8
+https://d2ugkn5if9b7a4.cloudfront.net/hls/espn/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.hualigs.cn/image/62070feccd0b5.jpg" group-title="NBA League Pass",TNT
-https://d1eqmybbugbqy9.cloudfront.net:443/hls/TNT/playlist.m3u8
+https://d2ugkn5if9b7a4.cloudfront.net/hls/TNT/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.hualigs.cn/image/62071029b78f7.jpg" group-title="NBA League Pass",ABC
-https://d1eqmybbugbqy9.cloudfront.net/hls/abc/playlist.m3u8
+https://d2ugkn5if9b7a4.cloudfront.net/hls/abc/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/12/HwQgRH.png" group-title="NBA League Pass",密尔沃基雄鹿
-https://d1eqmybbugbqy9.cloudfront.net:443/hls/bucks/playlist.m3u8
+https://d2ugkn5if9b7a4.cloudfront.net/hls/bucks/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/12/HwQdMR.png" group-title="NBA League Pass",太阳
-https://d1eqmybbugbqy9.cloudfront.net:443/hls/suns/playlist.m3u8
+https://d2ugkn5if9b7a4.cloudfront.net/hls/suns/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/12/HwQws1.png" group-title="NBA League Pass",魔术
-https://d1eqmybbugbqy9.cloudfront.net:443/hls/magic/playlist.m3u8?SBN
+https://d2ugkn5if9b7a4.cloudfront.net/hls/magic/playlist.m3u8?SBN
 #EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/12/HwQjLq.png" group-title="NBA League Pass",黄蜂
-https://d1eqmybbugbqy9.cloudfront.net:443/hls/hornets/playlist.m3u8?SBN
+https://d2ugkn5if9b7a4.cloudfront.net/hls/hornets/playlist.m3u8?SBN
 #EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/12/HwQHJg.png" group-title="NBA League Pass",丹佛掘金
-https://d1eqmybbugbqy9.cloudfront.net:443/hls/nuggets/playlist.m3u8?SBN
+https://d2ugkn5if9b7a4.cloudfront.net/hls/nuggets/playlist.m3u8?SBN
 #EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/12/HwQqzj.png" group-title="NBA League Pass",独行侠
-https://d1eqmybbugbqy9.cloudfront.net:443/hls/mavericks/playlist.m3u8
+https://d2ugkn5if9b7a4.cloudfront.net/hls/mavericks/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/12/HwQbWQ.png" group-title="NBA League Pass",骑士
-https://d1eqmybbugbqy9.cloudfront.net:443/hls/cavaliers/playlist.m3u8
+https://d2ugkn5if9b7a4.cloudfront.net/hls/cavaliers/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/12/HwQXyn.png" group-title="NBA League Pass",篮网
-https://d1eqmybbugbqy9.cloudfront.net:443/hls/nets/playlist.m3u8
+https://d2ugkn5if9b7a4.cloudfront.net/hls/nets/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/12/HwQOQs.png" group-title="NBA League Pass",公牛
-https://d1eqmybbugbqy9.cloudfront.net:443/hls/bulls/playlist.m3u8
+https://d2ugkn5if9b7a4.cloudfront.net/hls/bulls/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/12/HwQ8aT.png" group-title="NBA League Pass",马刺
-https://d1eqmybbugbqy9.cloudfront.net:443/hls/spurs/playlist.m3u8
+https://d2ugkn5if9b7a4.cloudfront.net/hls/spurs/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/12/HwQNRJ.png" group-title="NBA League Pass",波特兰开拓者
-https://d1eqmybbugbqy9.cloudfront.net:443/hls/blazers/playlist.m3u8
+https://d2ugkn5if9b7a4.cloudfront.net/hls/blazers/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/12/HwQ0qx.png" group-title="NBA League Pass",76人
-https://d1eqmybbugbqy9.cloudfront.net:443/hls/76ers/playlist.m3u8?SBN
+https://d2ugkn5if9b7a4.cloudfront.net/hls/76ers/playlist.m3u8?SBN
 #EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/12/HwlSoT.png" group-title="NBA League Pass",亚特兰大老鹰
-https://d1eqmybbugbqy9.cloudfront.net:443/hls/hawks/playlist.m3u8
+https://d2ugkn5if9b7a4.cloudfront.net/hls/hawks/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.hualigs.cn/image/6207200b323ea.jpg" group-title="NBA League Pass",热火
-https://d1eqmybbugbqy9.cloudfront.net:443/hls/heat/playlist.m3u8
+https://d2ugkn5if9b7a4.cloudfront.net/hls/heat/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/12/HwQxe0.png" group-title="NBA League Pass",波士顿凯尔特人
-https://d1eqmybbugbqy9.cloudfront.net:443/hls/celtics/playlist.m3u8
+https://d2ugkn5if9b7a4.cloudfront.net/hls/celtics/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/12/HwQtG4.png" group-title="NBA League Pass",华盛顿奇才
-https://d1eqmybbugbqy9.cloudfront.net:443/hls/wizards/playlist.m3u8
+https://d2ugkn5if9b7a4.cloudfront.net/hls/wizards/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/12/HwQYiF.png" group-title="NBA League Pass",多伦多猛龙
-https://d1eqmybbugbqy9.cloudfront.net:443/hls/raptors/playlist.m3u8 
+https://d2ugkn5if9b7a4.cloudfront.net/hls/raptors/playlist.m3u8 
 #EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/12/HwQoo8.png" group-title="NBA League Pass",勇士
-https://d1eqmybbugbqy9.cloudfront.net:443/hls/warriors/playlist.m3u8
+https://d2ugkn5if9b7a4.cloudfront.net/hls/warriors/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/12/HwQrdK.png" group-title="NBA League Pass",尼克斯
-https://d1eqmybbugbqy9.cloudfront.net:443/hls/knicks/playlist.m3u8
+https://d2ugkn5if9b7a4.cloudfront.net/hls/knicks/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/12/HwQIdf.png" group-title="NBA League Pass",印第安纳步行者
-https://d1eqmybbugbqy9.cloudfront.net:443/hls/pacers/playlist.m3u8
+https://d2ugkn5if9b7a4.cloudfront.net/hls/pacers/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/12/HwQ7FS.png" group-title="NBA League Pass",活塞
-https://d1eqmybbugbqy9.cloudfront.net:443/hls/pistons/playlist.m3u8 
+https://d2ugkn5if9b7a4.cloudfront.net/hls/pistons/playlist.m3u8 
 #EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/12/HwQ2zd.png" group-title="NBA League Pass",灰熊
-https://d1eqmybbugbqy9.cloudfront.net:443/hls/grizzlies/playlist.m3u8
+https://d2ugkn5if9b7a4.cloudfront.net/hls/grizzlies/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/12/HwQGIU.png" group-title="NBA League Pass",爵士
-https://d1eqmybbugbqy9.cloudfront.net:443/hls/jazz/playlist.m3u8
+https://d2ugkn5if9b7a4.cloudfront.net/hls/jazz/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/12/HwQsIO.png" group-title="NBA League Pass",明尼苏达森林狼
-https://d1eqmybbugbqy9.cloudfront.net:443/hls/timberwolves/playlist.m3u8
+https://d2ugkn5if9b7a4.cloudfront.net/hls/timberwolves/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/12/HwQfsI.png" group-title="NBA League Pass",快艇
-https://d1eqmybbugbqy9.cloudfront.net:443/hls/clippers/playlist.m3u8
+https://d2ugkn5if9b7a4.cloudfront.net/hls/clippers/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/12/HwQWQA.png" group-title="NBA League Pass",湖人
-https://d1eqmybbugbqy9.cloudfront.net:443/hls/lakers/playlist.m3u8
+https://d2ugkn5if9b7a4.cloudfront.net/hls/lakers/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/12/HwQ6iD.png" group-title="NBA League Pass",鹈鹕
-https://d1eqmybbugbqy9.cloudfront.net:443/hls/pelicans/playlist.m3u8
+https://d2ugkn5if9b7a4.cloudfront.net/hls/pelicans/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/12/HwQDZ6.png" group-title="NBA League Pass",雷霆
-https://d1eqmybbugbqy9.cloudfront.net:443/hls/thunder/playlist.m3u8
+https://d2ugkn5if9b7a4.cloudfront.net/hls/thunder/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/12/HwQ3ZV.png" group-title="NBA League Pass",国王
-https://d1eqmybbugbqy9.cloudfront.net:443/hls/kings/playlist.m3u8
+https://d2ugkn5if9b7a4.cloudfront.net/hls/kings/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/12/HwQhLt.png" group-title="NBA League Pass",火箭
-https://d1eqmybbugbqy9.cloudfront.net:443/hls/rockets/playlist.m3u8
+https://d2ugkn5if9b7a4.cloudfront.net/hls/rockets/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/15/HgnD0J.png" group-title="NBA League Pass",NBA Live Game 1
 https://d15xyumcalkui.cloudfront.net/flash1/_definst_/n1/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/15/HgnD0J.png" group-title="NBA League Pass",NBA Live Game 2
@@ -4516,35 +4504,13 @@ https://d15xyumcalkui.cloudfront.net/flash1/_definst_/n11/chunklist.m3u8
 https://d15xyumcalkui.cloudfront.net/flash1/_definst_/n12/chunklist.m3u8
 
 
-#EXTINF:-1 group-title="粤语讲波 直播有效",西甲 爱斯宾奴vs西维尔 粤语
-https://hls.zb.ssports.com/ssports/yue3570792_xinying1080.m3u8?k=5a5689dda1c3416b6c90e832c291c4a9&t=5f569b90&UID=1645242109free7105742007&MATCHID=3372599&TYPE=1
-#EXTINF:-1 group-title="粤语讲波 直播有效",英超 列斯联vs曼联 粤语
-https://hls.zb.ssports.com/ssports/yue3559768_xinying1080.m3u8?k=7553eed3ddf04c68c46eb4c403649b8e&t=621273cc&UID=1645242253free2670778458&MATCHID=3559768&TYPE=1
-#EXTINF:-1 group-title="粤语讲波 直播有效",英超 列斯联vs曼联 国语
-https://hls.zb.ssports.com/ssports/ch3559768_xinying1080.m3u8?k=7553eed3ddf04c68c46eb4c403649b8e&t=621273cc&UID=1645242253free2670778458&MATCHID=3559768&TYPE=1
-#EXTINF:-1 group-title="粤语讲波 直播有效",西甲 华伦西亚vs巴塞隆拿 粤语
-https://hls.zb.ssports.com/ssports/yue3570796_xinying1080.m3u8?k=0dc2ccbe6a9ba83ba279edd34f385fee&t=62128560&UID=1645242370free6452014870&MATCHID=3570796&TYPE=1
-#EXTINF:-1 group-title="粤语讲波 直播有效",西甲 华伦西亚vs巴塞隆拿 国语
-https://hls.zb.ssports.com/ssports/ch3570796_xinying1080.m3u8?k=0dc2ccbe6a9ba83ba279edd34f385fee&t=62128560&UID=1645242370free6452014870&MATCHID=3570796&TYPE=1
-#EXTINF:-1 group-title="粤语讲波 直播有效",英超 狼队vs李斯特城 粤语
-https://hls.zb.ssports.com/ssports/yue3559779_xinying1080.m3u8?k=b62f1a0f5fab193f23cc70022da100da&t=5f569b90&UID=1645324181free8762868178&MATCHID=3372599&TYPE=1
-#EXTINF:-1 group-title="粤语讲波 直播有效",英超 狼队vs李斯特城 国语
-https://hls.zb.ssports.com/ssports/ch3559779_xinying1080.m3u8?k=b62f1a0f5fab193f23cc70022da100da&t=5f569b90&UID=1645324181free8762868178&MATCHID=3372599&TYPE=1
-#EXTINF:-1 group-title="粤语讲波 直播有效",西甲 贝迪斯vs马略卡 粤语 何辉
-https://hls.zb.ssports.com/ssports/yue3570788_xinying1080.m3u8?k=f73332e465a1d44377dec4225690a7a4&t=5f569b90&UID=1645324361free4811187741&MATCHID=3372599&TYPE=1
-#EXTINF:-1 group-title="粤语讲波 直播有效",西甲 毕尔包vs皇家苏斯达 粤语
-https://hls.zb.ssports.com/ssports/yue3570787_xinying1080.m3u8?k=91f60e4693ae96c466d5050434277067&t=6212c82c&UID=1645324491free6424230676&MATCHID=3570787&TYPE=1
+#EXTINF:-1 group-title="粤语讲波 直播有效",西甲 切尔达vs利云特 粤语
+https://hls.zb.ssports.com/ssports/yue3570790_xinying1080.m3u8?k=9ed8f52b2c1582f1ebc830b2aea42efe&t=621419ac&UID=1645422421free3654654343&MATCHID=3570790&TYPE=1
+#EXTINF:-1 group-title="粤语讲波 直播有效",西甲 切尔达vs利云特 国语
+https://hls.zb.ssports.com/ssports/ch3570790_xinying1080.m3u8?k=9ed8f52b2c1582f1ebc830b2aea42efe&t=621419ac&UID=1645422421free3654654343&MATCHID=3570790&TYPE=1
+#EXTINF:-1 group-title="粤语讲波 直播有效",西甲 切尔达vs利云特 英语
+https://hls.zb.ssports.com/ssports/en3570790_xinying1080.m3u8?k=9ed8f52b2c1582f1ebc830b2aea42efe&t=621419ac&UID=1645422421free3654654343&MATCHID=3570790&TYPE=1
 
-#EXTINF:-1 group-title="粤语讲波 直播有效",德甲 多特蒙德vs门兴 国语
-http://ppw.xsmnews.com/live/proxy/z79Jyd3dXPulWYt9GZzN3byNmJ1gTY4MDM5IGN4IWM2IjYxgTOihjZzEjM1MzMzIzNyUWNzMTM9U3YsF2QkRmJxMjMzUzM4kTMyEDOiBDO4UTYzkDNiZjY4ImZyMzN1MTPhRXYEVHcmc3d3B3cn1WPuFWZiZCN2IDa9MWZk92YvVGZpZnJ90GatpmJ9QWayV2c1ZCVPh0UQFkTT1SMuEjLx4SNtETQto0U942bpNnclZFbyVXehxGcmUzM0IzNxADMwAjMx0DZpBXbmAjMwADM10DZpNWbmgzN5cjMwATM1cTPklmdtZSN0gTM2EDMyIDMyIDMy0TeltUe0lmc1NWZTZSN1EjLzIjLycjLxETM9AXafRnbllGbjZyM2IjN1ADMxUzN9QUS0JXZzNXYmkTOt0DRJVGZv5EduVmchBlJ4EjM3EDOzIzN9QUStFmcn9mcQZSNwATMwADMxADMx8lMzEDM9QUSfxWZu5WYoNkJ1QDOxYTMwIjMwIjMwITPw1WY0NXZtlGdmkzMxcTO1gjMwITPklGcmMjNyYTNwATM1cTPkl2cmATPlBXeURXZuZyMzADMwgTPklGczZSPklGczRWbmQGZyMTNwQzM2MjNxcTY4MDZ1MDO1YDN2AzNjBjYhdjY94GZzl2ct9DO1NTbugXZk5WavIDM3ATMyAjMvETNvkTMwMWaw1Wes92LzRncvB3cvU3Zp12Lt92Yu8WZklmd1dWat5SZ2lGbwN3ZtJGbzd2LvoDc0RHaiojI1JCLigTMycTM4MjM3cWbiojIklGciwiIlNHbhZmI6IyQQJCLiU3Zp1mI6IiZwJye.m3u8?skey=qj4MTMkF2NkhjNkFzMjRDNwcTNwQXYwFmb0QDZyMTM1UDO0kzMkVTN0EmNwEjN&
-#EXTINF:-1 group-title="粤语讲波 直播有效",意甲 佛罗伦萨vs亚特兰大 国语
-http://myurl.f3322.net:33280/live/proxy/o39Jyd3dXPulWYt9GZzN3byNmJkBzNxM2Y0gjZ5kTZ4M2MiVTYldDMkFDO0MDMhJDNlV2M3YTO9U3YsF2QkRmJ5cTZhRDZ3EmYjVWO4MWMwQ2NjRjZ5gzM1UGM4ADNzYTPhRXYEVHcmc3d3B3cn1WPuFWZiZCN2IDa9MWZk92YvVGZpZnJ90GatpmJ9QWayV2c1ZCVPh0UQFkTT1SMuEjLx4SNtETQto0U942bpNnclZFbyVXehxGcmkjMyMzNxADMwAjMx0DZpBXbmAjMwADM10DZpNWbmQzMwgjMwATM1cTPklmdtZiNyQjM2EDMyIDMyIDMy0TeltUe0lmc1NWZTZSN1EjLzIjLycjLxETM9AXafRnbllGbjZSN3MjN1ADMxUzN9QUS0JXZzNXYmkTOt0DRJVGZv5EduVmchBlJ2YjM4YDOzIzN9QUStFmcn9mcQZSNwATMwADMxADMx8lMzEDM9QUSfxWZu5WYoNkJ2IDNyYTMwIjMwIjMwITPw1WY0NXZtlGdmkzMxcTO1gjMwITPklGcmUzNzYTNwATM1cTPkl2cmATPlBXeURXZuZyMzADMwgTPklGczZSPklGczRWbmIGOlJjMkdjNiNjNxI2Y5gTNwMjYkVGZjFzMlhzYxIDN94GZzl2ct9DO1NTbugXZk5WavIDM3ATMyAjMvETNvUjMwMWaw1Wes92LzRncvB3cvU3Zp12Lt92Yu8WZklmd1dWat5SZ2lGbwN3ZtJGbzd2LvoDc0RHaiojI1JCLiYjNygjN4MjM3cWbiojIklGciwiIlNHbhZmI6IyQQJCLiU3Zp1mI6IiZwJye.m3u8?skey=sxwcTYyEzMjJGOlNWNkljMiFzM0Q3NwJjb0UjY2EDNhVDZ0AzMmVjY0IjN4EjZ&
-#EXTINF:-1 group-title="粤语讲波 直播有效",德甲 拜仁vs菲尔德 国语
-http://ppw1.gy940830.com/live/proxy/3v9Jyd3dXPulWYt9GZzN3byNmJ4QjY1MmNhRjYzYzN5MjZ1UGMyIzNkFzM2MjNiJjNhVmY5YGN9U3YsF2QkRmJ0kTYiZDZyATNzczM0YTN0gjYjFmY2kjZlJzNzYjNiZWPhRXYEVHcmc3d3B3cn1WPuFWZiZCN2IDa9MWZk92YvVGZpZnJ90GatpmJ9QWayV2c1ZCVPh0UQFkTT1SMuEjLx4SNtETQto0U942bpNnclZFbyVXehxGcmEzM0IzNxADMwAjMx0DZpBXbmAjMwADM10DZpNWbmUzN5cjMwATM1cTPklmdtZyN0cjM2EDMyIDMyIDMy0TeltUe0lmc1NWZTZSN1EjLzIjLycjLxETM9AXafRnbllGbjZyN1IjN1ADMxUzN9QUS0JXZzNXYmkTOt0DRJVGZv5EduVmchBlJzYTO2EDOzIzN9QUStFmcn9mcQZSNwATMwADMxADMx8lMzEDM9QUSfxWZu5WYoNkJ3QzNyYTMwIjMwIjMwITPw1WY0NXZtlGdmkzMxcTO1gjMwITPklGcmcTNyYTNwATM1cTPkl2cmATPlBXeURXZuZyMzADMwgTPklGczZSPklGczRWbmkzY3gzNzkzNlNjNxMjM1IzMwEGMxgzY3gjN3ITM2kTY94GZzl2ct9DO1NTbugXZk5WavIDM3ATMyAjMvETNvAjMwMWaw1Wes92LzRncvB3cvU3Zp12Lt92Yu8WZklmd1dWat5SZ2lGbwN3ZtJGbzd2LvoDc0RHaiojI1JCLiMjN5YTM4MjM3cWbiojIklGciwiIlNHbhZmI6IyQQJCLiU3Zp1mI6IiZwJye.m3u8?skey=6g1AjYiRTMiVzYzgzMwImZjVTNjRHZwZjbmZTY2MjNkVDM0EzMxUTZ0MjNiFzY&
-#EXTINF:-1 group-title="粤语讲波 直播有效",意甲 国际米兰vs萨索洛  国语
-http://ppw1.xsmnews.com/live/proxy/pg9Jyd3dXPulWYt9GZzN3byNmJzYTNjZmZwMDM0gzYmJWNxEDZ0EjZmFTYxMTZ2ITY2UWM4QmN9U3YsF2QkRmJ2gjN2EjZxQWMiNGNzY2Y2MTNmBDM4YWNxQjZhVWYxQWPhRXYEVHcmc3d3B3cn1WPuFWZiZCN2IDa9MWZk92YvVGZpZnJ90GatpmJ9QWayV2c1ZCVPh0UQFkTT1SMuEjLx4SNtETQto0U942bpNnclZFbyVXehxGcmAzMyMzNxADMwAjMx0DZpBXbmAjMwADM10DZpNWbmgDNwgjMwATM1cTPklmdtZSM1kjM2EDMyIDMyIDMy0TeltUe0lmc1NWZTZSN1EjLzIjLycjLxETM9AXafRnbllGbjZyMwQjN1ADMxUzN9QUS0JXZzNXYmkTOt0DRJVGZv5EduVmchBlJwEzMxcDOzIzN9QUStFmcn9mcQZSNwATMwADMxADMx8lMzEDM9QUSfxWZu5WYoNkJxUTOyYTMwIjMwIjMwITPw1WY0NXZtlGdmkzMxcTO1gjMwITPklGcmMDM0YTNwATM1cTPkl2cmATPlBXeURXZuZyMzADMwgTPklGczZSPklGczRWbmUGN2QWZ2MWNwQjNxUWZzUTOwkDZhNTZ4IWYkZjNkhjM94GZzl2ct9DO1NTbugXZk5WavIDM3ATMyAjMvETNvYjMwMWaw1Wes92LzRncvB3cvU3Zp12Lt92Yu8WZklmd1dWat5SZ2lGbwN3ZtJGbzd2LvoDc0RHaiojI1JCLiATMzEzN4MjM3cWbiojIklGciwiIlNHbhZmI6IyQQJCLiU3Zp1mI6IiZwJye.m3u8?skey=01kRGNlFzNkV2MykjYmlDM2gTZiRXNwFjbkBTZ5QzN0UDO0E2MlVDZ0gjN1ETN&
-#EXTINF:-1 group-title="粤语讲波 直播有效",德甲 柏林赫塔vsRB莱比锡 国语
-http://ppw1.xsmnews.com/live/proxy/dvQfic3d31jbpFWbvR2cz9mcjZSOkFGM0YjZjZzNwEDO2gDMxYWZyETNxgzYzADNygjZlFzM5cTP1NGbhNEZkZyNzYGNjVjMmBjNxczY2ADZ5EGNmZDM4gTMlFDOwgTM50TY0FGR1BnJ3d3dwN3Zt1jbhVmYmQjNygWPjVGZvN2blRWa2ZSPthWbqZSPklmclNXdmQ1TINFUB50UtEjLx4SMuUTLxEULKNVPu9WazJXZWxmc1lXYsBnJ1UDNycTMwADMwITM9QWaw1mJwIDMwATN9QWaj1mJwgTO3IDMwETN30DZpZXbmgDN2MjNxAjMyAjMyAjM9kXZLlHdpJXdjV2UmUTNx4yMy4iM34SMxETPwl2X05WZpx2YmcjNyYTNwATM1cTPElEdyV2czFmJ5kTL9QUSlR2bORnblJXYQZCM2QzNxgzMycTPElUbhJ3ZvJHUmUDMwEDMwATMwATMfJzMxATPEl0XsVmbuFGaDZCO0YzM2EDMyIDMyIDMy0DctFGdzVWbpRnJ5MTM3kTN4IDMy0DZpBnJ3YjM2UDMwETN30DZpNnJw0TZwlHV0VmbmMzMwADM40DZpB3cm0DZpB3ck1mJ0UmY3MWMhJmN0YTM5I2N0QGM3EmM3Q2N0MmN1EGZkNWPuR2cpNXb/gTdz0mL4VGZul2LxUzLxEjbvlGdhR3cjB3L1EjMxAjMwIzLzRncvB3cvU3Zp12Lt92Yu8WZklmd1dWat5SZ2lGbwN3ZtJGbzd2LvoDc0RHaiojI1JCLiAjN0cTM4MjM3cWbiojIklGciwiIlNHbhZmI6IyQQJCLiU3Zp1mI6IiZwJye.m3u8?skey=n82ETYzUTOihjMjZmZ4I2MykjY1QnNwJmb0cjYwMjM0YjY0AzMhVjZ0YmNiFzY&
 
 #EXTINF:-1 tvg-logo="https://www.hualigs.cn/image/61bb2a0b06f8d.jpg" group-title="FashionTV",Fashion TV
 https://fashiontv-fashiontv-4-de.samsung.wurl.com/manifest/playlist.m3u8
