@@ -4504,12 +4504,17 @@ https://d15xyumcalkui.cloudfront.net/flash1/_definst_/n11/chunklist.m3u8
 https://d15xyumcalkui.cloudfront.net/flash1/_definst_/n12/chunklist.m3u8
 
 
-#EXTINF:-1 group-title="粤语讲波 直播有效",西甲 切尔达vs利云特 粤语
-https://hls.zb.ssports.com/ssports/yue3570790_xinying1080.m3u8?k=9ed8f52b2c1582f1ebc830b2aea42efe&t=621419ac&UID=1645422421free3654654343&MATCHID=3570790&TYPE=1
-#EXTINF:-1 group-title="粤语讲波 直播有效",西甲 切尔达vs利云特 国语
-https://hls.zb.ssports.com/ssports/ch3570790_xinying1080.m3u8?k=9ed8f52b2c1582f1ebc830b2aea42efe&t=621419ac&UID=1645422421free3654654343&MATCHID=3570790&TYPE=1
-#EXTINF:-1 group-title="粤语讲波 直播有效",西甲 切尔达vs利云特 英语
-https://hls.zb.ssports.com/ssports/en3570790_xinying1080.m3u8?k=9ed8f52b2c1582f1ebc830b2aea42efe&t=621419ac&UID=1645422421free3654654343&MATCHID=3570790&TYPE=1
+#EXTINF:-1 group-title="粤语讲波 直播有效",欧冠 车路士vs里尔 粤语
+https://hls.zb.ssports.com/ssports/yue3665733_xinying1080.m3u8?k=184728984bdf297ca888a8ca8e5d7d69&t=62156b2c&UID=1645500346free8852432618&MATCHID=3665733&TYPE=1
+#EXTINF:-1 group-title="粤语讲波 直播有效",欧冠 车路士vs里尔 国语
+https://hls.zb.ssports.com/ssports/ch3665733_xinying1080.m3u8?k=184728984bdf297ca888a8ca8e5d7d69&t=62156b2c&UID=1645500346free8852432618&MATCHID=3665733&TYPE=1
+#EXTINF:-1 group-title="粤语讲波 直播有效",欧冠 车路士vs里尔 英语
+https://hls.zb.ssports.com/ssports/en3665733_xinying1080.m3u8?k=184728984bdf297ca888a8ca8e5d7d69&t=62156b2c&UID=1645500346free8852432618&MATCHID=3665733&TYPE=1
+
+#EXTINF:-1 group-title="粤语讲波 直播有效",欧冠 比利亚雷亚尔vs尤文图斯 国语
+https://hls.zb.ssports.com/ssports/ch3665723_xinying1080.m3u8?k=9ee871ba78364e43c25685e72e91f080&t=62156b2c&UID=1645500538free8545371642&MATCHID=3665723&TYPE=1
+#EXTINF:-1 group-title="粤语讲波 直播有效",欧冠 比利亚雷亚尔vs尤文图斯 英
+https://hls.zb.ssports.com/ssports/en3665723_xinying1080.m3u8?k=9ee871ba78364e43c25685e72e91f080&t=62156b2c&UID=1645500538free8545371642&MATCHID=3665723&TYPE=1
 
 
 #EXTINF:-1 tvg-logo="https://www.hualigs.cn/image/61bb2a0b06f8d.jpg" group-title="FashionTV",Fashion TV
