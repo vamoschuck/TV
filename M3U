@@ -824,7 +824,110 @@ http://117.148.179.142/TVOD/88888888/224/3221231885/index.m3u8
 
 
 
-
+#EXTINF:-1 group-title="河北移动直播源" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png",CCTV1 FHD
+http://111.63.117.13:6060/030000001000/CCTV-1-HD/CCTV-1-HD.m3u8
+#EXTINF:-1 group-title="河北移动直播源" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png",CCTV2 SD
+http://111.63.117.13:6060/030000001000/G_CCTV-2/G_CCTV-2.m3u8
+#EXTINF:-1 group-title="河北移动直播源" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png",CCTV3 SD
+http://111.63.117.13:6060/030000001000/CCTV-3/CCTV-3.m3u8
+#EXTINF:-1 group-title="河北移动直播源" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png",CCTV4 SD
+http://111.63.117.13:6060/030000001000/CCTV-4/CCTV-4.m3u8
+#EXTINF:-1 group-title="河北移动直播源" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png",CCTV5
+http://111.63.117.13:6060/030000001000/CCTV-5/CCTV-5.m3u8
+#EXTINF:-1 group-title="河北移动直播源" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png",CCTV5+ HD
+http://111.63.117.13:6060/030000001000/G_CCTV-5PLUS/G_CCTV-5PLUS.m3u8
+#EXTINF:-1 group-title="河北移动直播源" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png",CCTV6 SD
+http://111.63.117.13:6060/030000001000/CCTV-6/CCTV-6.m3u8
+#EXTINF:-1 group-title="河北移动直播源" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png",CCTV7 SD
+http://111.63.117.13:6060/030000001000/CCTV-7/CCTV-7.m3u8
+#EXTINF:-1 group-title="河北移动直播源" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png",CCTV8 SD
+http://111.63.117.13:6060/030000001000/G_CCTV-8/G_CCTV-8.m3u8
+#EXTINF:-1 group-title="河北移动直播源" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png",CCTV9 SD
+http://111.63.117.13:6060/030000001000/G_CCTV-9/G_CCTV-9.m3u8
+#EXTINF:-1 group-title="河北移动直播源" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png",CCTV-10 SD
+http://111.63.117.13:6060/030000001000/CCTV-10/CCTV-10.m3u8
+#EXTINF:-1 group-title="河北移动直播源" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png",CCTV-11 SD
+http://111.63.117.13:6060/030000001000/CCTV-11/CCTV-11.m3u8
+#EXTINF:-1 group-title="河北移动直播源" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png",CCTV-12 SD
+http://111.63.117.13:6060/030000001000/CCTV-12/CCTV-12.m3u8
+#EXTINF:-1 group-title="河北移动直播源" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png",CCTV-13 SD
+http://111.63.117.13:6060/030000001000/CCTV-13/CCTV_13.m3u8
+#EXTINF:-1 group-title="河北移动直播源" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png",CCTV-14 SD
+http://111.63.117.13:6060/030000001000/G_CCTV-14/G_CCTV_14.m3u8
+#EXTINF:-1 group-title="河北移动直播源" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png",CCTV-15 SD
+http://111.63.117.13:6060/030000001000/G_CCTV-15/G_CCTV-15.m3u8
+#EXTINF:-1 group-title="河北移动直播源" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png",CCTV-17 SD
+http://111.63.117.13:6060/030000001000/G_CCTV-17/G_CCTV-17.m3u8
+#EXTINF:-1 group-title="河北移动直播源" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png",黑龙江卫视
+http://111.63.117.13:6060/030000001000/HEILONGJIANG-CQ/HEILONGJIANG-CQ.m3u8
+#EXTINF:-1 group-title="河北移动直播源" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jilin.png",吉林卫视
+http://111.63.117.13:6060/030000001000/G_JILIN/G_JILIN.m3u8
+#EXTINF:-1 group-title="河北移动直播源" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png",辽宁卫视
+http://111.63.117.13:6060/030000001000/LNWS/LNWS.m3u8
+#EXTINF:-1 group-title="河北移动直播源" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png",北京卫视
+http://111.63.117.13:6060/030000001000/G_BEIJING/G_BEIJING.m3u8
+#EXTINF:-1 group-title="河北移动直播源" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/tianjin.png",天津卫视
+http://111.63.117.13:6060/030000001000/TJWS/TJWS.m3u8
+#EXTINF:-1 group-title="河北移动直播源" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hebei.png",河北卫视
+http://111.63.117.13:6060/030000001000/G_HEBEI/G_HEBEI.m3u8
+#EXTINF:-1 group-title="河北移动直播源" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png",山东卫视
+http://111.63.117.13:6060/030000001000/SDWS/SDWS.m3u8
+#EXTINF:-1 group-title="河北移动直播源" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi_.png",山西卫视
+http://111.63.117.13:6060/030000001000/SXWS/SXWS.m3u8
+#EXTINF:-1 group-title="河北移动直播源" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/henan.png",河南卫视
+http://111.63.117.13:6060/030000001000/HENAN/HENAN.m3u8
+#EXTINF:-1 group-title="河北移动直播源" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png",江苏卫视
+http://111.63.117.13:6060/030000001000/G_JIANGSU-HQ/G_JIANGSU-HQ.m3u8
+#EXTINF:-1 group-title="河北移动直播源" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png",浙江卫视
+http://111.63.117.13:6060/030000001000/G_ZHEJIANG/G_ZHEJIANG.m3u8
+#EXTINF:-1 group-title="河北移动直播源" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png",安徽卫视
+http://111.63.117.13:6060/030000001000/AHWS/AHWS.m3u8
+#EXTINF:-1 group-title="河北移动直播源" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png",东方卫视
+http://111.63.117.13:6060/030000001000/G_DONGFANG/G_DONGFANG.m3u8
+#EXTINF:-1 group-title="河北移动直播源" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongnan.png",东南卫视
+http://111.63.117.13:6060/030000001000/DNWS/DNWS.m3u8
+#EXTINF:-1 group-title="河北移动直播源" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangxi.png",江西卫视
+http://111.63.117.13:6060/030000001000/JXWS/JXWS.m3u8
+#EXTINF:-1 group-title="河北移动直播源" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hubei.png",湖北卫视
+http://111.63.117.13:6060/030000001000/G_HUBEI/G_HUBEI.m3u8
+#EXTINF:-1 group-title="河北移动直播源" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png",湖南卫视
+http://111.63.117.13:6060/030000001000/G_HUNAN/G_HUNAN.m3u8
+#EXTINF:-1 group-title="河北移动直播源" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png",广东卫视
+http://111.63.117.13:6060/030000001000/G_GUANGDONG/G_GUANGDONG.m3u8
+#EXTINF:-1 group-title="河北移动直播源" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangxi.png",广西卫视
+http://111.63.117.13:6060/030000001000/GXWS/GXWS.m3u8
+#EXTINF:-1 group-title="河北移动直播源" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/lvyou.png",旅游卫视
+http://111.63.117.13:6060/030000001000/LYWS/LYWS.m3u8
+#EXTINF:-1 group-title="河北移动直播源" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shenzhen.png",深圳卫视
+http://111.63.117.13:6060/030000001000/G_SHENZHEN/G_SHENZHEN.m3u8
+#EXTINF:-1 group-title="河北移动直播源" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sichuan.png",四川卫视
+http://111.63.117.13:6060/030000001000/SCWS/SCWS.m3u8
+#EXTINF:-1 group-title="河北移动直播源" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png",重庆卫视
+http://111.63.117.13:6060/030000001000/G_CHONGQING/G_CHONGQING.m3u8
+#EXTINF:-1 group-title="河北移动直播源" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png",云南卫视
+http://111.63.117.13:6060/030000001000/G_YUNNAN/G_YUNNAN.m3u8
+#EXTINF:-1 group-title="河北移动直播源" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guizhou.png",贵州卫视
+http://111.63.117.13:6060/030000001000/G_GUIZHOU/G_GUIZHOU.m3u8
+#EXTINF:-1 group-title="河北移动直播源" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/qinghai.png",青海卫视
+http://111.63.117.13:6060/030000001000/G_QINGHAI/G_QINGHAI.m3u8
+#EXTINF:-1 group-title="河北移动直播源" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/neimeng.png",内蒙卫视
+http://111.63.117.13:6060/030000001000/G_NEIMENGGU/G_NEIMENGGU.m3u8
+#EXTINF:-1 group-title="河北移动直播源" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/gansu.png",甘肃卫视
+http://111.63.117.13:6060/030000001000/G_GANSU/G_GANSU.m3u8
+#EXTINF:-1 group-title="河北移动直播源" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/ningxia.png",宁夏卫视
+http://111.63.117.13:6060/030000001000/G_NINGXIA/G_NINGXIA.m3u8
+#EXTINF:-1 group-title="河北移动直播源" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xinjiang.png",新疆卫视
+http://111.63.117.13:6060/030000001000/G_XINJIANG/G_XINJIANG.m3u8
+#EXTINF:-1 group-title="河北移动直播源" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/kaku.png",卡酷少儿
+http://111.63.117.13:6060/030000001000/G_KAKU/G_KAKU.m3u8
+#EXTINF:-1 group-title="河北移动直播源" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinyingkatong.png",金鹰卡通
+http://111.63.117.13:6060/030000001000/G_JINYING/G_JINYING.m3u8
+#EXTINF:-1 group-title="河北移动直播源",炫动卡通
+http://111.63.117.13:6060/030000001000/G_XUANDONG/G_XUANDONG.m3u8
+#EXTINF:-1 group-title="河北移动直播源" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",优漫卡通
+http://111.63.117.13:6060/030000001000/G_YOUMAN/G_YOUMAN.m3u8
+#EXTINF:-1 group-title="河北移动直播源" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jiajiakt.png",嘉佳卡通
+http://111.63.117.13:6060/030000001000/G_JIAJIA/G_JIAJIA.m3u8
 
 
 
@@ -4306,18 +4409,29 @@ https://d15xyumcalkui.cloudfront.net/flash1/_definst_/n11/chunklist.m3u8
 https://d15xyumcalkui.cloudfront.net/flash1/_definst_/n12/chunklist.m3u8
 
 
-#EXTINF:-1 group-title="粤语讲波 直播有效",欧冠 车路士vs里尔 粤语
-https://hls.zb.ssports.com/ssports/yue3665733_xinying1080.m3u8?k=184728984bdf297ca888a8ca8e5d7d69&t=62156b2c&UID=1645500346free8852432618&MATCHID=3665733&TYPE=1
-#EXTINF:-1 group-title="粤语讲波 直播有效",欧冠 车路士vs里尔 国语
-https://hls.zb.ssports.com/ssports/ch3665733_xinying1080.m3u8?k=184728984bdf297ca888a8ca8e5d7d69&t=62156b2c&UID=1645500346free8852432618&MATCHID=3665733&TYPE=1
-#EXTINF:-1 group-title="粤语讲波 直播有效",欧冠 车路士vs里尔 英语
-https://hls.zb.ssports.com/ssports/en3665733_xinying1080.m3u8?k=184728984bdf297ca888a8ca8e5d7d69&t=62156b2c&UID=1645500346free8852432618&MATCHID=3665733&TYPE=1
+#EXTINF:-1 group-title="粤语讲波 直播有效",英超 般尼vs热刺 粤语
+https://hls.zb.ssports.com/ssports/yue3559617_xinying1080.m3u8?k=da66b67b8ba648d89bc0fedd7102b7ed&t=5f569b90&UID=1645582551free0418231044&MATCHID=3372599&TYPE=1
+#EXTINF:-1 group-title="粤语讲波 直播有效",英超 屈福特vs水晶宫 粤语
+https://hls.zb.ssports.com/ssports/yue3559740_xinying1080.m3u8?k=fb75bec99e454c907d8c25f5faf0a4c0&t=6216b5a4&UID=1645582669free0868065873&MATCHID=3559740&TYPE=1
+#EXTINF:-1 group-title="粤语讲波 直播有效",英超 利物浦vs列斯联 粤语
+https://hls.zb.ssports.com/ssports/yue3559774_xinying1080.m3u8?k=f0d8e99bbc0102fe023de51c608021d8&t=5f569b90&UID=1645582727free4457638850&MATCHID=3372599&TYPE=1
+#EXTINF:-1 group-title="粤语讲波 直播有效",欧冠 马德里体育会vs曼联 粤语
+https://hls.zb.ssports.com/ssports/yue3665725_xinying1080.m3u8?k=71a61a3487051bad5672c9da1c2f05a3&t=6216bcac&UID=1645582887free6521815872&MATCHID=3665725&TYPE=1
+#EXTINF:-1 group-title="粤语讲波 直播有效",欧冠 马德里体育会vs曼联 国语
+https://hls.zb.ssports.com/ssports/ch3665725_xinying1080.m3u8?k=71a61a3487051bad5672c9da1c2f05a3&t=6216bcac&UID=1645582887free6521815872&MATCHID=3665725&TYPE=1
+#EXTINF:-1 group-title="粤语讲波 直播有效",欧冠 马德里体育会vs曼联 英
+https://hls.zb.ssports.com/ssports/en3665725_xinying1080.m3u8?k=71a61a3487051bad5672c9da1c2f05a3&t=6216bcac&UID=1645582887free6521815872&MATCHID=3665725&TYPE=1
+#EXTINF:-1 group-title="粤语讲波 直播有效",欧冠 宾菲加vs阿积士 爱奇艺国语
+https://hls.zb.ssports.com/ssports/ch3665721_xinying1080.m3u8?k=d2243dfdd68a1dc6fc927434d382b75c&t=6216bcac&UID=1645582780free1364633802&MATCHID=3665721&TYPE=1
+#EXTINF:-1 group-title="粤语讲波 直播有效",欧冠 宾菲加vs阿积士 英
+https://hls.zb.ssports.com/ssports/en3665721_xinying1080.m3u8?k=d2243dfdd68a1dc6fc927434d382b75c&t=6216bcac&UID=1645582780free1364633802&MATCHID=3665721&TYPE=1
 
-#EXTINF:-1 group-title="粤语讲波 直播有效",欧冠 比利亚雷亚尔vs尤文图斯 国语
-https://hls.zb.ssports.com/ssports/ch3665723_xinying1080.m3u8?k=9ee871ba78364e43c25685e72e91f080&t=62156b2c&UID=1645500538free8545371642&MATCHID=3665723&TYPE=1
-#EXTINF:-1 group-title="粤语讲波 直播有效",欧冠 比利亚雷亚尔vs尤文图斯 英
-https://hls.zb.ssports.com/ssports/en3665723_xinying1080.m3u8?k=9ee871ba78364e43c25685e72e91f080&t=62156b2c&UID=1645500538free8545371642&MATCHID=3665723&TYPE=1
-
+#EXTINF:-1 tvg-logo=“https://s4.ax1x.com/2022/02/23/b9MtZd.png” group-title="赛事点播",2022 NBA 全明星赛 腾讯国语
+https://apd-748a880323eccdb627930a4256380059.v.smtcdns.com/sportsts.tc.qq.com/AUfhvesR8ohDceXKxW4UVLvzYZkk24GoroQYnIhCp23Y/uwMROfz2r57AoaQXGdGnC2de64-aQGMBaghPzSlG8CDdub8-/svp_50124/urmRJnknTndD1bYR3Ve1c9R2xN3JZ4uayv1-69fHLij4VEgX_v1FGgGj70wCJwZF6bsMTGpOVI3-oBXd0rWB9MvnqJkgD1KvmPYi2Wly2D_zUGuRvj_QWj3FWCOLC7-yAVhVytEVNZd4pVoCc6fxC56A6os-1zWtEqkfoaDhve1wC1hIcZg9dA/gzc_1000115_0b53jaaaaaaa4aaboqatnfrmysgdabxaabca.f321003.ts.m3u8?ver=4
+#EXTINF:-1 tvg-logo=“https://s4.ax1x.com/2022/02/23/b9McZj.png” group-title="赛事点播",欧冠 切尔西vs里尔 腾讯 国语
+https://ltscsy.qq.com/kHhnpf7mTc7SkWxk1Lotp025tdT9XxmVG4TRwtg7cSAPNFnbZFh5pqERUk1y5b7xI_Y3Zk4_6-vCo6IYa11gEDfCzEO174cQqurMOKm9djYUQi_Z001-jiWDyZP9QFvJpEN8u07ovZfsVh0Zd-3hnbhKP138D_vHeRfA1_B9yWLxLkfw2W1YqQ/gzc_1000115_0b53tyaaeaaa7eaeyoaverrmzhwdak5qabsa.f321003.ts.m3u8?ver=4
+#EXTINF:-1 tvg-logo=“https://s4.ax1x.com/2022/02/23/b9McZj.png” group-title="赛事点播",欧冠 比利亚雷亚尔vs尤文图斯 腾讯国语
+https://ltssjy.qq.com/uwMROfz2r57AoaQXGdGnC2de64-aQGMBaghPzSlG8CDdub8-/WlHJ-d6zelmCpjj5F0Nq5c2bmf5P9iXXRGl_nEMXtK9AfTe2x-AqrS6QL5pIIAhLWVPh2Uze0Xpis1BDcDoL3z_nohq9yR2FBTibxZKyI0S0sreyZi08CnsijrK4CTNpEjGs4hlRLpENoYHFbGRXt3s_dyw860NxS8_7I3xfCNgL1e27cNAWag/gzc_1000115_0b53kqaagaaapqae2zavijrmyvgdanyqab2a.f321003.ts.m3u8?ver=4
 
 #EXTINF:-1 tvg-logo="https://www.hualigs.cn/image/61bb2a0b06f8d.jpg" group-title="FashionTV",Fashion TV
 https://fashiontv-fashiontv-4-de.samsung.wurl.com/manifest/playlist.m3u8
