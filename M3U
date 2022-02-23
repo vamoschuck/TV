@@ -1783,17 +1783,17 @@ http://111.20.33.93/PLTV/88888893/224/3221226556/index.m3u8
 
 
 #EXTINF:-1 tvg-id="贵州公共" tvg-name="贵州公共" tvg-logo="https://www.hualigs.cn/image/61e12eb5cf946.jpg" group-title="云贵川渝青",贵州公共
-http://ye23.win/iptv/2021/guizhou.php?id=ch02
+
 #EXTINF:-1 tvg-id="贵州影视文艺" tvg-name="贵州影视文艺" tvg-logo="https://www.hualigs.cn/image/61e12eb5a4dfd.jpg" group-title="云贵川渝青",贵州影视文艺
-http://ye23.win/iptv/2021/guizhou.php?id=ch03
+
 #EXTINF:-1 tvg-id="贵州大众生活" tvg-name="贵州大众生活" tvg-logo="https://www.hualigs.cn/image/61e12eb5aa628.jpg" group-title="云贵川渝青",贵州大众生活
-http://ye23.win/iptv/2021/guizhou.php?id=ch04
+
 #EXTINF:-1 tvg-id="贵州法制" tvg-name="贵州法制" tvg-logo="https://www.hualigs.cn/image/61e12eb5af1c3.jpg" group-title="云贵川渝青",贵州5频道
-http://ye23.win/iptv/2021/guizhou.php?id=ch05
+
 #EXTINF:-1 tvg-id="贵州科教健康" tvg-name="贵州科教健康" tvg-logo="https://www.hualigs.cn/image/61e12eb5cefa7.jpg" group-title="云贵川渝青",贵州科教健康
-http://ye23.win/iptv/2021/guizhou.php?id=ch06
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.hualigs.cn/image/61e12f3cb02de.jpg" group-title="云贵川渝青",贵州移动数字
-http://ye23.win/iptv/2021/guizhou.php?id=ch13
+
 
 #EXTINF:-1 tvg-id="2054" tvg-name="SCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/sctv2.png" group-title="云贵川渝青",四川文化旅游
 
@@ -2261,8 +2261,6 @@ http://39.134.66.66/PLTV/88888888/224/3221225768/index.m3u8
 
 
 
-#EXTINF:-1 tvg-id="Now Baogu Movies" tvg-name="Now Baogu Movies" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch133_160_115" group-title="港澳台",爆谷台
-http://v3948069e.live.126.net/live/Nowbg.flv
 #EXTINF:-1 group-title="港澳台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png",凤凰资讯
 http://playtv-live.ifeng.com:80/live/06OLEEWQKN4.m3u8
 #EXTINF:-1 group-title="港澳台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png",凤凰资讯
@@ -2272,7 +2270,7 @@ http://playtv-live.ifeng.com:80/live/06OLEGEGM4G.m3u8
 #EXTINF:-1 group-title="港澳台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/youxianxinwen.png",有线新闻台
 
 #EXTINF:-1 group-title="港澳台" tvg-logo="http://www.nettvpro.live/uploads/allimg/20/1-2002151054390-L.jpg",有线直播新闻台
-https://api.leonardpark.dev/live/icable/110
+
 #EXTINF:-1 group-title="港澳台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/youxiancaijingzixun.png",有线财经资讯台
 
 #EXTINF:-1 group-title="港澳台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hkguojicaijing.png",香港国际财经台
@@ -2972,280 +2970,27 @@ http://39.134.115.163:8080/PLTV/88888910/224/3221225786/index.m3u8
 
 
 
-#EXTINF:-1 tvg-id="setanta-ua" tvg-name="" tvg-logo="https://www.hualigs.cn/image/6167a07ab5edd.jpg" group-title="东欧体育频道",SETANTA SPORTS UA FHD
-https://95-213-224-169.livesports24.online/setantaukraine.m3u8
-#EXTINF:-1 tvg-id="setanta-ua" tvg-name="" tvg-logo="https://www.hualigs.cn/image/6167a07ab5edd.jpg" group-title="东欧体育频道",SETANTA SPORTS UA FHD
-https://95-213-224-173.livesports24.online/setantaukraine.m3u8
-#EXTINF:-1 tvg-id="setanta-ua" tvg-name="" tvg-logo="https://www.hualigs.cn/image/6167a07ab5edd.jpg" group-title="东欧体育频道",SETANTA SPORTS UA FHD
-https://95-213-224-175.livesports24.online/setantaukraine.m3u8
 
-
-#EXTINF:-1 tvg-id="setanta-plus-ua" tvg-name="" tvg-logo="https://www.hualigs.cn/image/61677e0d3a92d.jpg" group-title="东欧体育频道",SETANTA SPORTS + UA FHD
-https://95-213-224-169.livesports24.online/setantaplusukr.m3u8
-#EXTINF:-1 tvg-id="setanta-plus-ua" tvg-name="" tvg-logo="https://www.hualigs.cn/image/61677e0d3a92d.jpg" group-title="东欧体育频道",SETANTA SPORTS + UA FHD
-https://95-213-224-173.livesports24.online/setantaplusukr.m3u8
-#EXTINF:-1 tvg-id="setanta-plus-ua" tvg-name="" tvg-logo="https://www.hualigs.cn/image/61677e0d3a92d.jpg" group-title="东欧体育频道",SETANTA SPORTS + UA FHD
-https://95-213-224-175.livesports24.online/setantaplusukr.m3u8
-
-
-#EXTINF:-1 tvg-id="football1-ua" tvg-name="" tvg-logo="https://www.hualigs.cn/image/61677e0d57de4.jpg" group-title="东欧体育频道",Футбол 1
-https://95-213-224-169.livesports24.online/uafootballua1.m3u8
-#EXTINF:-1 tvg-id="football1-ua" tvg-name="" tvg-logo="https://www.hualigs.cn/image/61677e0d57de4.jpg" group-title="东欧体育频道",Футбол 1
-https://95-213-224-173.livesports24.online/uafootballua1.m3u8
-#EXTINF:-1 tvg-id="football1-ua" tvg-name="" tvg-logo="https://www.hualigs.cn/image/61677e0d57de4.jpg" group-title="东欧体育频道",Футбол 1
-https://95-213-224-175.livesports24.online/uafootballua1.m3u8
-
-
-#EXTINF:-1 tvg-id="football2-ua" tvg-name="" tvg-logo="https://www.hualigs.cn/image/61677e0d64aab.jpg" group-title="东欧体育频道",Футбол 2
-https://95-213-224-169.livesports24.online/fooootball2.m3u8
-#EXTINF:-1 tvg-id="football2-ua" tvg-name="" tvg-logo="https://www.hualigs.cn/image/61677e0d64aab.jpg" group-title="东欧体育频道",Футбол 2
-https://95-213-224-173.livesports24.online/fooootball2.m3u8
-#EXTINF:-1 tvg-id="football2-ua" tvg-name="" tvg-logo="https://www.hualigs.cn/image/61677e0d64aab.jpg" group-title="东欧体育频道",Футбол 2
-https://95-213-224-175.livesports24.online/fooootball2.m3u8
-
-
-#EXTINF:-1 tvg-id="football3-ua" tvg-name="" tvg-logo="https://www.hualigs.cn/image/61677e1862963.jpg" group-title="东欧体育频道",Футбол 3
-https://95-213-224-169.livesports24.online/football3ua.m3u8
-#EXTINF:-1 tvg-id="football3-ua" tvg-name="" tvg-logo="https://www.hualigs.cn/image/61677e1862963.jpg" group-title="东欧体育频道",Футбол 3
-https://95-213-224-173.livesports24.online/football3ua.m3u8
-#EXTINF:-1 tvg-id="football3-ua" tvg-name="" tvg-logo="https://www.hualigs.cn/image/61677e1862963.jpg" group-title="东欧体育频道",Футбол 3
-https://95-213-224-175.livesports24.online/football3ua.m3u8
-
-
-#EXTINF:-1 tvg-id="sport1-ua” tvg-name="" tvg-logo="https://www.hualigs.cn/image/6167d5ffe93bb.jpg" group-title="东欧体育频道",SPORT 1 UA
-https://95-213-224-169.livesports24.online/sport1ua.m3u8
-#EXTINF:-1 tvg-id="sport1-ua” tvg-name="" tvg-logo="https://www.hualigs.cn/image/6167d5ffe93bb.jpg" group-title="东欧体育频道",SPORT 1 UA
-https://95-213-224-173.livesports24.online/sport1ua.m3u8
-#EXTINF:-1 tvg-id="sport1-ua” tvg-name="" tvg-logo="https://www.hualigs.cn/image/6167d5ffe93bb.jpg" group-title="东欧体育频道",SPORT 1 UA
-https://95-213-224-175.livesports24.online/sport1ua.m3u8
-
-
-#EXTINF:-1 tvg-id="belarus5" tvg-name="" tvg-logo="https://www.hualigs.cn/image/6167b1079db62.jpg" group-title="东欧体育频道",BELARUS 5 FHD
-https://95-213-224-169.livesports24.online/belarusss5.m3u8
-#EXTINF:-1 tvg-id="belarus5" tvg-name="" tvg-logo="https://www.hualigs.cn/image/6167b1079db62.jpg" group-title="东欧体育频道",BELARUS 5 FHD
-https://95-213-224-173.livesports24.online/belarusss5.m3u8
-#EXTINF:-1 tvg-id="belarus5" tvg-name="" tvg-logo="https://www.hualigs.cn/image/6167b1079db62.jpg" group-title="东欧体育频道",BELARUS 5 FHD
-https://95-213-224-175.livesports24.online/belarusss5.m3u8
-
-
-#EXTINF:-1 tvg-id="setanta-sports" tvg-name="" tvg-logo="https://www.hualigs.cn/image/6167a0545b651.jpg" group-title="东欧体育频道",SETANTA SPORTS FHD
-https://95-213-224-169.livesports24.online/rusetantaeurasia.m3u8
-#EXTINF:-1 tvg-id="setanta-sports" tvg-name="" tvg-logo="https://www.hualigs.cn/image/6167a0545b651.jpg" group-title="东欧体育频道",SETANTA SPORTS FHD
-https://95-213-224-173.livesports24.online/rusetantaeurasia.m3u8
-#EXTINF:-1 tvg-id="setanta-sports" tvg-name="" tvg-logo="https://www.hualigs.cn/image/6167a0545b651.jpg" group-title="东欧体育频道",SETANTA SPORTS FHD
-https://95-213-224-175.livesports24.online/rusetantaeurasia.m3u8
-
-
-#EXTINF:-1 tvg-id="match-tv" tvg-name="" tvg-logo="https://www.hualigs.cn/image/616e2987d2f8a.jpg" group-title="东欧体育频道",Матч! 
-https://95-213-224-169.livesports24.online/ooomatch.m3u8
-#EXTINF:-1 tvg-id="match-tv" tvg-name="" tvg-logo="https://www.hualigs.cn/image/616e2987d2f8a.jpg" group-title="东欧体育频道",Матч! 
-https://95-213-224-173.livesports24.online/ooomatch.m3u8
-#EXTINF:-1 tvg-id="match-tv" tvg-name="" tvg-logo="https://www.hualigs.cn/image/616e2987d2f8a.jpg" group-title="东欧体育频道",Матч! 
-https://95-213-224-175.livesports24.online/ooomatch.m3u8
-
-#EXTINF:-1 tvg-id="football-ru" tvg-name="" tvg-logo="https://www.hualigs.cn/image/6167d842c8aef.jpg" group-title="东欧体育频道",ФУТБОЛ
-https://95-213-224-169.livesports24.online/footballrus.m3u8
-#EXTINF:-1 tvg-id="football-ru" tvg-name="" tvg-logo="https://www.hualigs.cn/image/6167d842c8aef.jpg" group-title="东欧体育频道",ФУТБОЛ
-https://95-213-224-173.livesports24.online/footballrus.m3u8
-#EXTINF:-1 tvg-id="football-ru" tvg-name="" tvg-logo="https://www.hualigs.cn/image/6167d842c8aef.jpg" group-title="东欧体育频道",ФУТБОЛ
-https://95-213-224-175.livesports24.online/footballrus.m3u8
-
-
-#EXTINF:-1 tvg-id="match-football1" tvg-name="" tvg-logo="https://www.hualigs.cn/image/616d7d2eda465.jpg" group-title="东欧体育频道",МАТЧ! ФУТБОЛ 1
-https://95-213-224-169.livesports24.online/ntvmatchfoot1.m3u8
-#EXTINF:-1 tvg-id="match-football1" tvg-name="" tvg-logo="https://www.hualigs.cn/image/616d7d2eda465.jpg" group-title="东欧体育频道",МАТЧ! ФУТБОЛ 1
-https://95-213-224-173.livesports24.online/ntvmatchfoot1.m3u8
-#EXTINF:-1 tvg-id="match-football1" tvg-name="" tvg-logo="https://www.hualigs.cn/image/616d7d2eda465.jpg" group-title="东欧体育频道",МАТЧ! ФУТБОЛ 1
-https://95-213-224-175.livesports24.online/ntvmatchfoot1.m3u8
-
-
-
-
-#EXTINF:-1 tvg-id="match-football2" tvg-name="" tvg-logo="https://www.hualigs.cn/image/6167d3a2a1f15.jpg" group-title="东欧体育频道",МАТЧ! ФУТБОЛ 2
-https://95-213-224-169.livesports24.online/mfootball2rus.m3u8
-#EXTINF:-1 tvg-id="match-football2" tvg-name="" tvg-logo="https://www.hualigs.cn/image/6167d3a2a1f15.jpg" group-title="东欧体育频道",МАТЧ! ФУТБОЛ 2
-https://95-213-224-173.livesports24.online/mfootball2rus.m3u8
-#EXTINF:-1 tvg-id="match-football2" tvg-name="" tvg-logo="https://www.hualigs.cn/image/6167d3a2a1f15.jpg" group-title="东欧体育频道",МАТЧ! ФУТБОЛ 2
-https://95-213-224-175.livesports24.online/mfootball2rus.m3u8
-
-
-
-#EXTINF:-1 tvg-id="match-football3” tvg-name="" tvg-logo="https://www.hualigs.cn/image/6167d3a232bbb.jpg" group-title="东欧体育频道",МАТЧ! ФУТБОЛ 3
-https://95-213-224-169.livesports24.online/rumatchf3.m3u8
-#EXTINF:-1 tvg-id="match-football3” tvg-name="" tvg-logo="https://www.hualigs.cn/image/6167d3a232bbb.jpg" group-title="东欧体育频道",МАТЧ! ФУТБОЛ 3
-https://95-213-224-173.livesports24.online/rumatchf3.m3u8
-#EXTINF:-1 tvg-id="match-football3” tvg-name="" tvg-logo="https://www.hualigs.cn/image/6167d3a232bbb.jpg" group-title="东欧体育频道",МАТЧ! ФУТБОЛ 3
-https://95-213-224-175.livesports24.online/rumatchf3.m3u8
-
-
-
-#EXTINF:-1 tvg-id="match-arena" tvg-name="" tvg-logo="https://www.hualigs.cn/image/6169006935a9c.jpg" group-title="东欧体育频道",МАТЧ! Арена Arena
-https://95-213-224-169.livesports24.online/rumatcharena.m3u8
-#EXTINF:-1 tvg-id="match-arena" tvg-name="" tvg-logo="https://www.hualigs.cn/image/6169006935a9c.jpg" group-title="东欧体育频道",МАТЧ! Арена Arena
-https://95-213-224-173.livesports24.online/rumatcharena.m3u8
-#EXTINF:-1 tvg-id="match-arena" tvg-name="" tvg-logo="https://www.hualigs.cn/image/6169006935a9c.jpg" group-title="东欧体育频道",МАТЧ! Арена Arena
-https://95-213-224-175.livesports24.online/rumatcharena.m3u8
-
-
-
-#EXTINF:-1 tvg-id="match-boets" tvg-name="" tvg-logo="https://www.hualigs.cn/image/6168f82109fc1.jpg" group-title="东欧体育频道",МАТЧ! Боец Fighter
-https://95-213-224-169.livesports24.online/matchboetsru.m3u8
-#EXTINF:-1 tvg-id="match-boets" tvg-name="" tvg-logo="https://www.hualigs.cn/image/6168f82109fc1.jpg" group-title="东欧体育频道",МАТЧ! Боец Fighter
-https://95-213-224-173.livesports24.online/matchboetsru.m3u8
-#EXTINF:-1 tvg-id="match-boets" tvg-name="" tvg-logo="https://www.hualigs.cn/image/6168f82109fc1.jpg" group-title="东欧体育频道",МАТЧ! Боец Fighter
-https://95-213-224-175.livesports24.online/matchboetsru.m3u8
-
-
-
-#EXTINF:-1 tvg-id="match-premier" tvg-name="" tvg-logo="https://www.hualigs.cn/image/6168f38d3bba5.jpg" group-title="东欧体育频道",МАТЧ! Премьер Premier
-https://95-213-224-169.livesports24.online/mpremierrus.m3u8
-#EXTINF:-1 tvg-id="match-premier" tvg-name="" tvg-logo="https://www.hualigs.cn/image/6168f38d3bba5.jpg" group-title="东欧体育频道",МАТЧ! Премьер Premier
-https://95-213-224-173.livesports24.online/mpremierrus.m3u8
-#EXTINF:-1 tvg-id="match-premier" tvg-name="" tvg-logo="https://www.hualigs.cn/image/6168f38d3bba5.jpg" group-title="东欧体育频道",МАТЧ! Премьер Premier
-https://95-213-224-175.livesports24.online/mpremierrus.m3u8
-
-
-
-
-#EXTINF:-1 tvg-id="match-planeta" tvg-name="" tvg-logo="https://www.hualigs.cn/image/6168f46876e41.jpg" group-title="东欧体育频道",МАТЧ! Планета Planet
-https://95-213-224-169.livesports24.online/matchplanetarus.m3u8
-#EXTINF:-1 tvg-id="match-planeta" tvg-name="" tvg-logo="https://www.hualigs.cn/image/6168f46876e41.jpg" group-title="东欧体育频道",МАТЧ! Планета Planet
-https://95-213-224-173.livesports24.online/matchplanetarus.m3u8
-#EXTINF:-1 tvg-id="match-planeta" tvg-name="" tvg-logo="https://www.hualigs.cn/image/6168f46876e41.jpg" group-title="东欧体育频道",МАТЧ! Планета Planet
-https://95-213-224-175.livesports24.online/matchplanetarus.m3u8
-
-
-
-#EXTINF:-1 tvg-id="match-nash-sport" tvg-name="" tvg-logo="https://www.hualigs.cn/image/6168f28c60cc4.jpg" group-title="东欧体育频道",МАТЧ! Страна Country
-https://95-213-224-169.livesports24.online/mnashsport.m3u8
-#EXTINF:-1 tvg-id="match-nash-sport" tvg-name="" tvg-logo="https://www.hualigs.cn/image/6168f28c60cc4.jpg" group-title="东欧体育频道",МАТЧ! Страна Country
-https://95-213-224-173.livesports24.online/mnashsport.m3u8
-#EXTINF:-1 tvg-id="match-nash-sport" tvg-name="" tvg-logo="https://www.hualigs.cn/image/6168f28c60cc4.jpg" group-title="东欧体育频道",МАТЧ! Страна Country
-https://95-213-224-175.livesports24.online/mnashsport.m3u8
-
-
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.hualigs.cn/image/6168fbf5ce9e4.jpg" group-title="东欧体育频道",КХЛ HD KHL
-https://95-213-224-169.livesports24.online/khlhdru.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.hualigs.cn/image/6168fbf5ce9e4.jpg" group-title="东欧体育频道",КХЛ HD KHL
-https://95-213-224-173.livesports24.online/khlhdru.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.hualigs.cn/image/6168fbf5ce9e4.jpg" group-title="东欧体育频道",КХЛ HD KHL
-https://95-213-224-175.livesports24.online/khlhdru.m3u8
-
-
-#EXTINF:-1 tvg-id="eurosport1-ru" tvg-name="" tvg-logo="https://www.hualigs.cn/image/6168fda690382.jpg" group-title="东欧体育频道",Eurosport 1
-https://95-213-224-169.livesports24.online/eurosport1ru.m3u8
-#EXTINF:-1 tvg-id="eurosport1-ru" tvg-name="" tvg-logo="https://www.hualigs.cn/image/6168fda690382.jpg" group-title="东欧体育频道",Eurosport 1
-https://95-213-224-173.livesports24.online/eurosport1ru.m3u8
-#EXTINF:-1 tvg-id="eurosport1-ru" tvg-name="" tvg-logo="https://www.hualigs.cn/image/6168fda690382.jpg" group-title="东欧体育频道",Eurosport 1
-https://95-213-224-175.livesports24.online/eurosport1ru.m3u8
-
-
-
-
-#EXTINF:-1 tvg-id="eurosport2-ru" tvg-name="" tvg-logo="https://www.hualigs.cn/image/6168fda646dd3.jpg" group-title="东欧体育频道",Eurosport 2
-https://95-213-224-169.livesports24.online/ruseurosport2.m3u8
-#EXTINF:-1 tvg-id="eurosport2-ru" tvg-name="" tvg-logo="https://www.hualigs.cn/image/6168fda646dd3.jpg" group-title="东欧体育频道",Eurosport 2
-https://95-213-224-173.livesports24.online/ruseurosport2.m3u8
-#EXTINF:-1 tvg-id="eurosport2-ru" tvg-name="" tvg-logo="https://www.hualigs.cn/image/6168fda646dd3.jpg" group-title="东欧体育频道",Eurosport 2
-https://95-213-224-175.livesports24.online/ruseurosport2.m3u8
 
 #EXTINF:-1 group-title="亚洲体育频道" tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/31682adb-c504-409d-b2ea-d43245491a9a_320.png",Premier HD1
 https://sport.livedoomovie.com:4431/02_PremierHD1_720p/chunklist.m3u8
-#EXTINF:-1 group-title="亚洲体育频道" tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/31682adb-c504-409d-b2ea-d43245491a9a_320.png",Premier HD1
-https://smart-tv.livedoomovie.com:4432/02_PremierHD1_720p/chunklist.m3u8
+
 #EXTINF:-1 group-title="亚洲体育频道" tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/afc53720-a686-4376-8ab3-a910f1821c0e_320.png",Premier HD2
 https://sport.livedoomovie.com:4431/02_PremierHD2_720p/chunklist.m3u8
-#EXTINF:-1 group-title="亚洲体育频道" tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/afc53720-a686-4376-8ab3-a910f1821c0e_320.png",Premier HD2
-https://smart-tv.livedoomovie.com:4432/02_PremierHD2_720p/chunklist.m3u8
+
 #EXTINF:-1 group-title="亚洲体育频道" tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/d777c947-a608-4d84-b61a-3d1d04d05ba0_320.png",Premier HD3
 https://sport.livedoomovie.com:4431/02_PremierHD3_720p/chunklist.m3u8
-#EXTINF:-1 group-title="亚洲体育频道" tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/d777c947-a608-4d84-b61a-3d1d04d05ba0_320.png",Premier HD3
-https://smart-tv.livedoomovie.com:4432/02_PremierHD3_720p/chunklist.m3u8
-#EXTINF:-1 group-title="亚洲体育频道" tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/feddd690-f972-11e9-91cd-2f79be09d2b3_320.png",True Sport HD
-https://smart-tv.livedoomovie.com:4431/02_2sporthd1_720p/chunklist.m3u8
+
+
 #EXTINF:-1 group-title="亚洲体育频道" tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/feddd690-f972-11e9-91cd-2f79be09d2b3_320.png",True Sport HD
 https://www.livedoomovie.com:4431/02_2sporthd1_720p/chunklist.m3u8
-#EXTINF:-1 group-title="亚洲体育频道" tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/1e8bbb60-f973-11e9-91cd-2f79be09d2b3_320.png",True Sport HD2
-https://smart-tv.livedoomovie.com:4431/02_2sporthd2_720p/chunklist.m3u8
+
 #EXTINF:-1 group-title="亚洲体育频道" tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/1e8bbb60-f973-11e9-91cd-2f79be09d2b3_320.png",True Sport HD2
 https://www.livedoomovie.com:4431/02_2sporthd2_720p/chunklist.m3u8
-#EXTINF:-1 group-title="亚洲体育频道" tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/2dc8f250-f973-11e9-86dd-238985cbbd60_320.png",True Sport HD3
-https://smart-tv.livedoomovie.com:4431/02_2sporthd3_720p/chunklist.m3u8
+
 #EXTINF:-1 group-title="亚洲体育频道" tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/2dc8f250-f973-11e9-86dd-238985cbbd60_320.png",True Sport HD3
 https://www.livedoomovie.com:4431/02_2sporthd3_720p/chunklist.m3u8
-#EXTINF:-1 group-title="亚洲体育频道" tvg-logo="https://sv1.picz.in.th/images/2021/11/27/61B9zD.jpg",bt sport1
-https://wopep.com/02_BTSPORTHD_1_720p/chunklist.m3u8
-#EXTINF:-1 group-title="亚洲体育频道" tvg-logo="https://sv1.picz.in.th/images/2021/11/27/61B9zD.jpg",bt sport2
-https://wopep.com/02_BTSPORTHD_2_720p/chunklist.m3u8
-#EXTINF:-1 group-title="亚洲体育频道" tvg-logo="https://sv1.picz.in.th/images/2021/11/27/61fW9q.jpg",Sport TV1
-https://wopep.com/02_SPORTTV_1_720p/chunklist.m3u8
-#EXTINF:-1 group-title="亚洲体育频道" tvg-logo="https://sv1.picz.in.th/images/2021/11/27/61fW9q.jpg",Sport TV2
-https://wopep.com/02_SPORTTV_2_720p/chunklist.m3u8
-#EXTINF:-1 group-title="亚洲体育频道" tvg-logo="https://sv1.picz.in.th/images/2021/11/27/61fW9q.jpg",Sport TV3
-https://wopep.com/02_SPORTTV_3_720p/chunklist.m3u8
-#EXTINF:-1 group-title="亚洲体育频道" tvg-logo="https://sv1.picz.in.th/images/2021/11/27/61fW9q.jpg",Sport TV4
-https://wopep.com/02_SPORTTV_4_720p/chunklist.m3u8
-#EXTINF:-1 group-title="亚洲体育频道" tvg-logo="https://sv1.picz.in.th/images/2021/11/27/61fW9q.jpg",Sport TV5
-https://wopep.com/02_SPORTTV_5_720p/chunklist.m3u8
-#EXTINF:-1 group-title="亚洲体育频道" tvg-logo="https://sv1.picz.in.th/images/2021/10/01/CLLt3y.jpg",True SPOTV1
-https://smart-tv.livedoomovie.com:4431/02_foxsport_720p/chunklist.m3u8
-#EXTINF:-1 group-title="亚洲体育频道" tvg-logo="https://sv1.picz.in.th/images/2021/10/01/CLLt3y.jpg",True SPOTV1
-https://wopep.com/02_foxsport_720p/chunklist.m3u8
-#EXTINF:-1 group-title="亚洲体育频道" tvg-logo="https://sv1.picz.in.th/images/2021/10/01/CLOBu2.jpg",True SPOTV2
-https://wopep.com/02_FoxSport3_TH_720p/chunklist.m3u8
-#EXTINF:-1 group-title="亚洲体育频道" tvg-logo="https://sv1.picz.in.th/images/2022/01/25/n67Rhg.png",beIN 1
-https://www.livedoomovie.com:4431/02_epl1_720p/chunklist.m3u8
-#EXTINF:-1 group-title="亚洲体育频道" tvg-logo="https://sv1.picz.in.th/images/2022/01/25/n67Rhg.png",beIN 1
-https://master.server-cdn-streaming.com/api/live-player/28/live.m3u8
-#EXTINF:-1 group-title="亚洲体育频道" tvg-logo="https://sv1.picz.in.th/images/2022/01/25/n67gJn.png",beIN 2
-https://www.livedoomovie.com:4431/02_epl2_720p/chunklist.m3u8
-#EXTINF:-1 group-title="亚洲体育频道" tvg-logo="https://sv1.picz.in.th/images/2022/01/25/n67gJn.png",beIN 2
-https://master.server-cdn-streaming.com/api/live-player/29/live.m3u8
-#EXTINF:-1 group-title="亚洲体育频道" tvg-logo="https://doo2you.com/icon/TrueSportTennis.png",True TENNIS
-https://sport.livedoomovie.com/02_TennisHD_720p/chunklist.m3u8
-#EXTINF:-1 group-title="亚洲体育频道" tvg-logo="https://www.img03.xyz/assets/img/ch_logo/hd-nba.png",NBA
-https://sport.livedoomovie.com/02_nbahd_720p/chunklist.m3u8
-#EXTINF:-1 group-title="亚洲体育频道" tvg-logo="https://doo2you.com/icon/GolfChannel.png",GOLF
-https://sport.livedoomovie.com/02_golfhd_720p/chunklist.m3u8
-#EXTINF:-1 group-title="亚洲体育频道" tvg-logo="https://sv1.picz.in.th/images/2021/12/30/n7OICl.png",3BB Sport
-http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/401/401.mpd
-#EXTINF:-1 group-title="亚洲体育频道" tvg-logo="https://sv1.picz.in.th/images/2021/11/09/up45aV.jpg",TSports7
-http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/7/7.mpd
-#EXTINF:-1 group-title="亚洲体育频道" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-cro-arena-sport-1-314.png",Arena Sport 1 HR
-http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/750
-#EXTINF:-1 group-title="亚洲体育频道" tvg-logo="https://img.sport-tv-guide.live/images/stations/a315.png",Arena Sport 2 HR
-http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/748
-#EXTINF:-1 group-title="亚洲体育频道" tvg-logo="https://img.sport-tv-guide.live/images/stations/a316.png",Arena Sport 3 HR
-http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/746
-#EXTINF:-1 group-title="亚洲体育频道" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-cro-arena-sport-4-317.png",Arena Sport 4 HR
-http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/744
-#EXTINF:-1 group-title="亚洲体育频道" tvg-logo="https://img.sport-tv-guide.live/images/stations/a318.png",Arena Sport 5 HR
-http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/742
-#EXTINF:-1 group-title="亚洲体育频道" tvg-logo="https://sport-tv-guide.live/images/stations/a314.png",Arena Sport 1 RS
-http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/749
-#EXTINF:-1 group-title="亚洲体育频道" tvg-logo="https://img.sport-tv-guide.live/images/stations/a320.png",Arena Sport 2 RS
-http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/747
-#EXTINF:-1 group-title="亚洲体育频道" tvg-logo="https://img.sport-tv-guide.live/images/stations/a321.png",Arena Sport 3 RS
-http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/745
-#EXTINF:-1 group-title="亚洲体育频道" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-rs-arena-sport-4-322.png",Arena Sport 4 RS
-http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/743
-#EXTINF:-1 group-title="亚洲体育频道" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-rs-arena-sport-5-323.png",Arena Sport 5 RS
-http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/741
-#EXTINF:-1 group-title="亚洲体育频道" tvg-logo="https://img.sport-tv-guide.live/images/stations/a325.png",Sport Klub 1
-http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/740
-#EXTINF:-1 group-title="亚洲体育频道" tvg-logo="https://img.sport-tv-guide.live/images/stations/a326.png",Sport Klub 2
-http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/739
-#EXTINF:-1 group-title="亚洲体育频道" tvg-logo="https://img.sport-tv-guide.live/images/stations/a343.png",Sport Klub 3
-http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/738
-#EXTINF:-1 group-title="亚洲体育频道" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-cro-sportklub-4-328.png",Sport Klub 4
-http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/737
-#EXTINF:-1 group-title="亚洲体育频道" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-rs-sportklub-5-337.png",Sport Klub 5
-http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/736
-#EXTINF:-1 group-title="亚洲体育频道" tvg-logo="https://img.sport-tv-guide.live/images/stations/a338.png",Sport Klub 6
-http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/735
+
 
 #EXTINF:-1 group-title="TVB轮播" tvg-logo="https://www.hualigs.cn/image/615937c8b1735.jpg",埋堆堆1
 http://121.51.249.6/txdirect.hls.huya.com/src/1199561241049-1199561241049-5434703289662832640-2399122605554-10057-A-0-1.m3u8
