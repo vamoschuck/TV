@@ -58,8 +58,6 @@ http://117.148.179.141:80/PLTV/88888888/224/3221233404/index.m3u8
 http://117.148.179.157/PLTV/88888888/224/3221233404/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s4.ax1x.com/2022/02/19/Hbh3GQ.png" group-title="北京冬残奥",CCTV8K
 http://58.220.43.166/mgzb.live.miguvideo.com/migu/sports/50zhenyh7/57/20210608/index.m3u8?&encrypt=
-
-
 #EXTINF:-1 tvg-id="1872" tvg-name="北京纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png" group-title="北京冬残奥",北京冬奥纪实8K
 http://117.148.179.157/PLTV/88888888/224/3221233448/index.m3u8
 #EXTINF:-1 tvg-id="1872" tvg-name="北京纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png" group-title="北京冬残奥",北京冬奥纪实8K
@@ -84,10 +82,8 @@ http://liveop.cctv.cn/hls/CCTV16HD/playlist.m3u8
 http://39.135.138.60:18890/TVOD/88888910/224/3221226230/index.m3u8
 #EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="北京冬残奥",CCTV16 回看
 http://39.135.138.60:18890/TVOD/88888910/224/3221226233/index.m3u8
-
 #EXTINF:-1  tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="北京冬残奥",CCTV-5体育
 http://39.135.138.60:18890/TVOD/88888910/224/3221225633/index.m3u8
-
 #EXTINF:-1  tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="北京冬残奥",CCTV-5体育
 http://39.135.138.60:18890/TVOD/88888910/224/3221225633/index.m3u8
 #EXTINF:-1  tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="北京冬残奥",CCTV5+
@@ -2496,8 +2492,6 @@ http://39.135.42.203/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225793/index.m3u8
 http://39.135.42.203/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225799/index.m3u8
 #EXTINF:-1 group-title="赛事直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",新咪咕广西_13
 http://39.135.42.203/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225802/index.m3u8
-#EXTINF:-1 group-title="赛事直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",新咪咕广西_16
-http://39.135.42.203/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225811/index.m3u8
 #EXTINF:-1 group-title="赛事直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",新咪咕广西_18
 http://39.135.42.203/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225817/index.m3u8
 #EXTINF:-1 group-title="赛事直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",新咪咕广西_20
@@ -2516,6 +2510,10 @@ http://39.135.42.203/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225851/index.m3u8
 http://39.135.42.203/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225853/index.m3u8
 #EXTINF:-1 group-title="赛事直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",新咪咕广西_43
 http://39.135.42.203/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225860/index.m3u8
+#EXTINF:-1 group-title="赛事直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",咪咕视频
+http://39.134.66.66/PLTV/88888888/224/3221225905/index.m3u8
+#EXTINF:-1 group-title="赛事直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",咪咕视频
+http://39.134.66.66/PLTV/88888888/224/3221225910/index.m3u8
 #EXTINF:-1 group-title="赛事直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",咪咕视频
 http://39.134.66.66/PLTV/88888888/224/3221225613/index.m3u8
 #EXTINF:-1 group-title="赛事直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",咪咕视频
@@ -2536,14 +2534,18 @@ http://playtv-live.ifeng.com:80/live/06OLEEWQKN4.m3u8
 http://117.169.120.138:8080/live/fhzixun/.m3u8
 #http://hkss3.phoenixtv.com/fs/pic.stream/.m3u8
 #https://al-pull2.hkatv.vip/live/phoenixPIN.m3u8
+#http://59.44.10.113:9901/tsfile/live/1078_1.m3u8
 #EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="港澳台",凤凰中文
 http://playtv-live.ifeng.com:80/live/06OLEGEGM4G.m3u8
 #EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="港澳台",凤凰中文
 http://hkss3.phoenixtv.com/fs/pcc.stream/.m3u8
 #https://al-pull2.hkatv.vip/live/phoenixPCC.m3u8
+#http://59.44.10.113:9901/tsfile/live/1079_1.m3u8
 #EXTINF:-1 tvg-id="143" tvg-name="凤凰香港" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png" group-title="港澳台",凤凰香港
 http://hkss3.phoenixtv.com/fs/phk.stream/.m3u8
 #https://al-pull2.hkatv.vip/live/phoenixPHK.m3u8
+#EXTINF:-1 tvg-id="143" tvg-name="凤凰香港" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png" group-title="港澳台",凤凰香港
+http://59.44.10.113:9901/tsfile/live/1080_1.m3u8
 
 #EXTINF:-1 group-title="港澳台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/youxianxinwen.png",有线新闻台
 
@@ -3319,30 +3321,6 @@ https://d83tn4bh2lria.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 #EXTINF:-1 tvg-logo="https://www.hualigs.cn/image/61d94dc42bb55.jpg" group-title="4K体验",纯享4K
 http://39.134.115.163:8080/PLTV/88888910/224/3221225786/index.m3u8
 
-
-
-
-
-
-
-#EXTINF:-1 group-title="亚洲体育频道" tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/31682adb-c504-409d-b2ea-d43245491a9a_320.png",Premier HD1
-https://sport.livedoomovie.com:4431/02_PremierHD1_720p/chunklist.m3u8
-
-#EXTINF:-1 group-title="亚洲体育频道" tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/afc53720-a686-4376-8ab3-a910f1821c0e_320.png",Premier HD2
-https://sport.livedoomovie.com:4431/02_PremierHD2_720p/chunklist.m3u8
-
-#EXTINF:-1 group-title="亚洲体育频道" tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/d777c947-a608-4d84-b61a-3d1d04d05ba0_320.png",Premier HD3
-https://sport.livedoomovie.com:4431/02_PremierHD3_720p/chunklist.m3u8
-
-
-#EXTINF:-1 group-title="亚洲体育频道" tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/feddd690-f972-11e9-91cd-2f79be09d2b3_320.png",True Sport HD
-https://www.livedoomovie.com:4431/02_2sporthd1_720p/chunklist.m3u8
-
-#EXTINF:-1 group-title="亚洲体育频道" tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/1e8bbb60-f973-11e9-91cd-2f79be09d2b3_320.png",True Sport HD2
-https://www.livedoomovie.com:4431/02_2sporthd2_720p/chunklist.m3u8
-
-#EXTINF:-1 group-title="亚洲体育频道" tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/2dc8f250-f973-11e9-86dd-238985cbbd60_320.png",True Sport HD3
-https://www.livedoomovie.com:4431/02_2sporthd3_720p/chunklist.m3u8
 
 
 #EXTINF:-1 group-title="TVB轮播" tvg-logo="https://www.hualigs.cn/image/615937c8b1735.jpg",埋堆堆1
@@ -4543,29 +4521,7 @@ http://pullhls3948069e.live.126.net/live/n12/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/24/biP0df.png" group-title="粤语讲波 直播有效", 西甲 比利亚雷亚尔 VS 西班牙人 粤语
-https://hls.zb.ssports.com/ssports/yue3570806_xinying1080.m3u8?k=db991df1b1e55aee9f6db1abaed771b9&t=5f569b90&UID=1645843422free3382271651&MATCHID=3372599&TYPE=1
-#EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/24/biP0df.png" group-title="粤语讲波 直播有效", 英超 西汉姆 VS 狼队 粤语
-https://hls.zb.ssports.com/ssports/yue3559814_xinying1080.m3u8?k=f9a0ef918abd130ed901af825cca0a3f&t=621bae4c&UID=1645843539free0422557232&MATCHID=3559814&TYPE=1
-#EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/24/biP0df.png" group-title="粤语讲波 直播有效", 西甲 塞维利亚 VS 贝蒂斯 粤语
-https://hls.zb.ssports.com/ssports/yue3570805_xinying1080.m3u8?k=983d439ab63a3d2e728202fa40d20d9f&t=621bbfe0&UID=1645843596free1478815520&MATCHID=3570805&TYPE=1
 
-#EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/24/biP0df.png" group-title="粤语讲波 直播有效", 西甲 皇家社会 VS 奥萨苏纳 粤语
-https://hls.zb.ssports.com/ssports/yue3570804_xinying1080.m3u8?k=62472a9b352bcb01fa1baa9268febfcb&t=621bdf84&UID=1645927746free2620670023&MATCHID=3570804&TYPE=1
-#EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/24/biP0df.png" group-title="粤语讲波 直播有效", 西甲 巴塞罗那 VS 毕尔巴鄂竞技 粤语
-https://hls.zb.ssports.com/ssports/yue3570798_xinying1080.m3u8?k=12f653d15bef5e76e683d9df1ac355ad&t=5f569b90&UID=1645927831free6457738772&MATCHID=3372599&TYPE=1
-
-#EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/24/biP0df.png" group-title="粤语讲波 直播有效",英超 爱华顿vs曼城 粤语
-https://hls.zb.ssports.com/ssports/yue3559806_xinying1080.m3u8?k=c77c5284379f6d75acc8fc223201fe5e&t=5f569b90&UID=1645843184free8483774028&MATCHID=3372599&TYPE=1
-#EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/24/biP0df.png" group-title="粤语讲波 直播有效",西甲 華歷簡奴vs皇家馬德里 粵語
-https://hls.zb.ssports.com/ssports/yue3570803_xinying1080.m3u8?k=88c668cb9b2e765c55da1386760a30eb&t=5f569b90&UID=1645843114free0418172343&MATCHID=3372599&TYPE=1
-#EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/24/biP0df.png" group-title="粤语讲波 直播有效", 馬德里體育會vs切爾達 粵語
-https://hls.zb.ssports.com/ssports/yue3570797_xinying1080.m3u8?k=fe674328c06f5a6aae2deb0caf2cedef&t=621ab12c&UID=1645843244free5472783557&MATCHID=3570797&TYPE=1
-#EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/24/biP0df.png" group-title="粤语讲波 直播有效", 西甲 比利亚雷亚尔 VS 西班牙人 粤语
-https://hls.zb.ssports.com/ssports/yue3570806_xinying1080.m3u8?k=db991df1b1e55aee9f6db1abaed771b9&t=5f569b90&UID=1645843422free3382271651&MATCHID=3372599&TYPE=1
-#EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/24/biP0df.png" group-title="粤语讲波 直播有效", 英超 西汉姆 VS 狼队 粤语
-https://hls.zb.ssports.com/ssports/yue3559814_xinying1080.m3u8?k=f9a0ef918abd130ed901af825cca0a3f&t=621bae4c&UID=1645843539free0422557232&MATCHID=3559814&TYPE=1
-#EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/24/biP0df.png" group-title="粤语讲波 直播有效", 西甲 塞维利亚 VS 贝蒂斯 粤语
-https://hls.zb.ssports.com/ssports/yue3570805_xinying1080.m3u8?k=983d439ab63a3d2e728202fa40d20d9f&t=621bbfe0&UID=1645843596free1478815520&MATCHID=3570805&TYPE=1
 
 
 
