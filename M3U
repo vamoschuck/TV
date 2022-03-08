@@ -4579,28 +4579,6 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60fb028c2e6a0c00075275
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60fb040d4795a6000762fe8f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 
-#EXTINF:-1 tvg-logo="" group-title="Rudy供源",RMC Sport
-http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/27960
-#EXTINF:-1 tvg-logo="" group-title="Rudy供源",Canal+ Sport
-http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/33521
-#EXTINF:-1 tvg-logo="" group-title="Rudy供源", Bein sport max
-http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/71118
-#EXTINF:-1 tvg-logo="" group-title="Rudy供源", Univision
-http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/59234
-#EXTINF:-1 tvg-logo="" group-title="Rudy供源",DAZN
-http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/3038
-#EXTINF:-1 tvg-logo="" group-title="Rudy供源", CBS
-http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/3080
-#EXTINF:-1 tvg-logo="" group-title="Rudy供源", ASSP 3
-http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/1720
-#EXTINF:-1 tvg-logo="" group-title="Rudy供源",NBC
-http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/30029
-#EXTINF:-1 tvg-logo="" group-title="Rudy供源", 湖人
-http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/60983
-#EXTINF:-1 tvg-logo="" group-title="Rudy供源",NBA
-http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/30076
-#EXTINF:-1 tvg-logo="" group-title="Rudy供源",NBA
-http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/30033
 
 
 #EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/28/buAeDP.png" group-title="NBA League Pass",TSN
