@@ -4700,8 +4700,12 @@ http://pullhls3948069e.live.126.net/live/n11/playlist.m3u8
 http://pullhls3948069e.live.126.net/live/n12/playlist.m3u8
 
 
-
-#EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/24/biP0df.png" group-title="粤语讲波 直播有效", 西甲 马洛卡 VS 皇家社会 粤语
+#EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/24/biP0df.png" group-title="粤语讲波 直播有效",欧冠 拜仁 VS 萨尔茨堡 国语
+https://hls.zb.ssports.com/ssports/ch3665728_xinying1080.m3u8?k=6ed596e56c136b3fd8b6810d1958f6dc&t=6227e02c&UID=1646705474free3247163712&MATCHID=3665728&TYPE=1
+#EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/24/biP0df.png" group-title="粤语讲波 直播有效",欧冠 利物浦vs国际米兰 粤语
+https://hls.zb.ssports.com/ssports/yue3665730_xinying1080.m3u8?k=2ec56d1f0618f0f2855bc065173ee653&t=6227e02c&UID=1646705579free8020887816&MATCHID=3665730&TYPE=1
+#EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/24/biP0df.png" group-title="粤语讲波 直播有效",欧冠 利物浦vs国际米兰 国语
+https://hls.zb.ssports.com/ssports/ch3665730_xinying1080.m3u8?k=2ec56d1f0618f0f2855bc065173ee653&t=6227e02c&UID=1646705579free8020887816&MATCHID=3665730&TYPE=1
 
 
 
