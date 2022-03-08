@@ -10,23 +10,9 @@ https://s4.ax1x.com/2022/02/24/biFtbt.jpg
 https://s4.ax1x.com/2022/02/24/biFtbt.jpg
 
 
-#EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/03/05/bwK0sS.png" group-title="英超临时直播",沃特福德  -  阿森纳
-http://asdasdasasdsad.azureedge.net/stream/MzEyMQ==/1080p.m3u8
-#EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/03/05/bwK0sS.png" group-title="英超临时直播",沃特福德  -  阿森纳
-https://hll.hnzzdf.com.cn/live/H111246.m3u8?txSecret=8f5bde2e6f6e8df698bb4929c8214d96&txTime=6225F782&_s=stream&fr=qr1&ten=5a025e8e432b5c575421561b5e675a4c54395e542532d5246409b8d58f&w=1100&h=620
 
 
-#EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/03/05/bwK0sS.png" group-title="英超临时直播" ,西甲  加的斯 VS 巴列卡诺 粤语
-https://hls.zb.ssports.com/ssports/yue3570810_xinying1080.m3u8?k=adcb26a417a824174c3f9e9b72340992&t=5f569b90&UID=1646482291free5547087753&MATCHID=3372599&TYPE=1
-#EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/03/05/bwK0sS.png" group-title="英超临时直播" ,西甲 埃尔切 VS 巴塞罗那 粤语
-https://hls.zb.ssports.com/ssports/yue3570812_xinying1080.m3u8?k=8c8a7135ceda5f1bf94e57122b06a999&t=6224fa60&UID=1646482345free8706665766&MATCHID=3570812&TYPE=1
-#EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/03/05/bwK0sS.png" group-title="英超临时直播" ,西甲 维戈塞尔塔 VS 马洛卡 粤语
-https://hls.zb.ssports.com/ssports/yue3570811_xinying1080.m3u8?k=70fe8741477513d4eaa85757cc67a242&t=62251a04&UID=1646533302free8467253265&MATCHID=3570811&TYPE=1
-#EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/03/05/bwK0sS.png" group-title="英超临时直播" ,西甲 贝蒂斯 VS 马德里竞技 国语
-https://hls.zb.ssports.com/ssports/ch3570809_xinying1080.m3u8?k=3d0d5e87d78baf3148e2650c9679877f&t=5f569b90&UID=1646533370free2260857382&MATCHID=3372599&TYPE=1
 
-
-#EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/03/05/bwK0sS.png" group-title="英超临时直播",曼城  -  曼联
 
 
 
@@ -3221,8 +3207,6 @@ http://iptv.tvfix.org/hls/natlgeo2.m3u8
 http://dllb.jxin122.top/jj.php?id=78&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
 #EXTINF:-1 group-title="3.3瞎眼画质随缘时效",无线新闻
 http://dllb.jxin122.top/jj.php?id=73&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
-#EXTINF:-1 group-title="3.3瞎眼画质随缘时效",有线18 
-http://dllb.jxin122.top/jj.php?id=59&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
 #EXTINF:-1 group-title="3.3瞎眼画质随缘时效",TVB星河频道
 http://dllb.jxin122.top/jj.php?id=76&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
 #EXTINF:-1 group-title="3.3瞎眼画质随缘时效",1?美亚
@@ -3245,8 +3229,6 @@ http://dllb.jxin122.top/jj.php?id=5&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
 http://dllb.jxin122.top/jj.php?id=6&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
 #EXTINF:-1 group-title="3.3瞎眼画质随缘时效",年代新闻 
 http://dllb.jxin122.top/jj.php?id=7&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
-#EXTINF:-1 group-title="3.3瞎眼画质随缘时效",??育樂
-http://dllb.jxin122.top/jj.php?id=9&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
 #EXTINF:-1 group-title="3.3瞎眼画质随缘时效",??体育
 http://dllb.jxin122.top/jj.php?id=11&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
 #EXTINF:-1 group-title="3.3瞎眼画质随缘时效",中视新闻
@@ -4429,7 +4411,7 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=73
 
 
 #EXTINF:-1 group-title="澳大利亚限IP" tvg-id="tv.101406020623" tvg-logo="https://i.mjh.nz/.images/tv.101406020623.png",10 SHAKE
-https://i.mjh.nz/au/Sydney/tv.101406020623.m3u8
+
 #EXTINF:-1 group-title="澳大利亚限IP" tvg-id="tv.101406020628" tvg-logo="https://i.mjh.nz/.images/tv.101406020628.png",10 Peach
 https://i.mjh.nz/au/Sydney/tv.101406020628.m3u8
 #EXTINF:-1 group-title="澳大利亚限IP" tvg-id="tv.101406020627" tvg-logo="https://i.mjh.nz/.images/tv.101406020627.png",10 BOLD
@@ -4449,7 +4431,7 @@ https://i.mjh.nz/au/Sydney/tv.7pac12.m3u8
 #EXTINF:-1 group-title="澳大利亚限IP" tvg-id="tv.7outdoor" tvg-logo="http://i.mjh.nz/.images/tv.7outdoor.png",Outdoor Channel
 https://i.mjh.nz/au/Sydney/tv.7outdoor.m3u8
 #EXTINF:-1 group-title="澳大利亚限IP" tvg-id="tv.7olympics" tvg-logo="http://i.mjh.nz/.images/tv.7olympics.png",Olympics Channel
-https://i.mjh.nz/au/Sydney/tv.7olympics.m3u8
+
 #EXTINF:-1 group-title="澳大利亚限IP" tvg-id="tv.7fueltv" tvg-logo="http://i.mjh.nz/.images/tv.7fueltv.png",Fuel TV
 https://i.mjh.nz/au/Sydney/tv.7fueltv.m3u8
 #EXTINF:-1 group-title="澳大利亚限IP" tvg-id="tv.101305020523" tvg-logo="https://i.mjh.nz/.images/tv.101305020523.png",7mate
@@ -4485,7 +4467,7 @@ https://i.mjh.nz/au/Sydney/tv.abc_news_90
 #EXTINF:-1 group-title="澳大利亚限IP" tvg-id="tv.101002210220" tvg-logo="https://i.mjh.nz/.images/tv.101002210220.png",ABC News
 https://c.mjh.nz/101002210220/
 #EXTINF:-1 group-title="澳大利亚限IP" tvg-id="tv.101002210224" tvg-logo="https://i.mjh.nz/.images/tv.101002210224.png",ABC Me
-https://c.mjh.nz/101002210224/
+
 #EXTINF:-1 group-title="澳大利亚限IP" tvg-id="tv.101002210222" tvg-logo="https://i.mjh.nz/.images/tv.abckids2.png",ABC KIDS
 https://c.mjh.nz/101002210222/
 #EXTINF:-1 group-title="澳大利亚限IP" tvg-id="tv.101002210221" tvg-logo="https://i.mjh.nz/.images/tv.101002210221.png",ABC
@@ -4509,14 +4491,12 @@ https://i.mjh.nz/au/Sydney/tv.bloomberg.m3u8
 #EXTINF:-1 group-title="澳大利亚限IP" tvg-id="tv.46" tvg-logo="http://i.mjh.nz/.images/tv.46.png",Al Jazeera
 https://i.mjh.nz/au/Sydney/tv.46.m3u8
 #EXTINF:-1 group-title="澳大利亚限IP" tvg-id="tv.acctv" tvg-logo="http://i.mjh.nz/.images/tv.acctv.png",ACCTV
-https://i.mjh.nz/au/Sydney/tv.acctv.m3u8
+
 
 
 
 #EXTINF:-1 group-title="英语儿童频道",Baby TV
 https://livecdn.fptplay.net/hda3/babytvhd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 group-title="英语儿童频道",Baby First
-https://babyfirst.akamaized.net/hls/live/2028842/bftvusaott/playlist.m3u8
 #EXTINF:-1 group-title="英语儿童频道",Baby First
 https://vips-livecdn.fptplay.net/hda1/babyfirst_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="英语儿童频道",Baby First
@@ -4599,76 +4579,100 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60fb028c2e6a0c00075275
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60fb040d4795a6000762fe8f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 
+#EXTINF:-1 tvg-logo="" group-title="Rudy供源",RMC Sport
+http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/27960
+#EXTINF:-1 tvg-logo="" group-title="Rudy供源",Canal+ Sport
+http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/33521
+#EXTINF:-1 tvg-logo="" group-title="Rudy供源", Bein sport max
+http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/71118
+#EXTINF:-1 tvg-logo="" group-title="Rudy供源", Univision
+http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/59234
+#EXTINF:-1 tvg-logo="" group-title="Rudy供源",DAZN
+http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/3038
+#EXTINF:-1 tvg-logo="" group-title="Rudy供源", CBS
+http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/3080
+#EXTINF:-1 tvg-logo="" group-title="Rudy供源", ASSP 3
+http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/1720
+#EXTINF:-1 tvg-logo="" group-title="Rudy供源",NBC
+http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/30029
+#EXTINF:-1 tvg-logo="" group-title="Rudy供源", 湖人
+http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/60983
+#EXTINF:-1 tvg-logo="" group-title="Rudy供源",NBA
+http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/30076
+#EXTINF:-1 tvg-logo="" group-title="Rudy供源",NBA
+http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/30033
+
+
 #EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/28/buAeDP.png" group-title="NBA League Pass",TSN
-https://dnog3rmny3g3p.cloudfront.net/hls/tsn/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/15/HgKGR0.png" group-title="NBA League Pass",ESPN
-https://dnog3rmny3g3p.cloudfront.net/hls/espn/playlist.m3u8
+https://d3bh6k6cdgaj10.cloudfront.net/hls/espn/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.hualigs.cn/image/62070feccd0b5.jpg" group-title="NBA League Pass",TNT
-https://dnog3rmny3g3p.cloudfront.net/hls/TNT/playlist.m3u8
+https://d3bh6k6cdgaj10.cloudfront.net/hls/TNT/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.hualigs.cn/image/62071029b78f7.jpg" group-title="NBA League Pass",ABC
-https://dnog3rmny3g3p.cloudfront.net/hls/abc/playlist.m3u8
+https://d3bh6k6cdgaj10.cloudfront.net/hls/abc/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.hualigs.cn/image/62070ebd8d198.jpg" group-title="NBA League Pass",NBA TV
-https://dnog3rmny3g3p.cloudfront.net/hls/nbatv/playlist.m3u8?SBN
+https://d3bh6k6cdgaj10.cloudfront.net/hls/nbatv/playlist.m3u8?SBN
 #EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/12/HwQgRH.png" group-title="NBA League Pass",密尔沃基雄鹿
-https://dnog3rmny3g3p.cloudfront.net/hls/bucks/playlist.m3u8
+https://d3bh6k6cdgaj10.cloudfront.net/hls/bucks/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/12/HwQdMR.png" group-title="NBA League Pass",太阳
-https://dnog3rmny3g3p.cloudfront.net/hls/suns/playlist.m3u8
+https://d3bh6k6cdgaj10.cloudfront.net/hls/suns/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/12/HwQws1.png" group-title="NBA League Pass",魔术
-https://dnog3rmny3g3p.cloudfront.net/hls/magic/playlist.m3u8?SBN
+https://d3bh6k6cdgaj10.cloudfront.net/hls/magic/playlist.m3u8?SBN
 #EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/12/HwQjLq.png" group-title="NBA League Pass",黄蜂
-https://dnog3rmny3g3p.cloudfront.net/hls/hornets/playlist.m3u8
+https://d3bh6k6cdgaj10.cloudfront.net/hls/hornets/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/12/HwQHJg.png" group-title="NBA League Pass",丹佛掘金
-https://dnog3rmny3g3p.cloudfront.net/hls/nuggets/playlist.m3u8?SBN
+https://d3bh6k6cdgaj10.cloudfront.net/hls/nuggets/playlist.m3u8?SBN
 #EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/12/HwQqzj.png" group-title="NBA League Pass",独行侠
-https://dnog3rmny3g3p.cloudfront.net/hls/mavericks/playlist.m3u8
+https://d3bh6k6cdgaj10.cloudfront.net/hls/mavericks/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/12/HwQbWQ.png" group-title="NBA League Pass",骑士
-https://dnog3rmny3g3p.cloudfront.net/hls/cavaliers/playlist.m3u8
+https://d3bh6k6cdgaj10.cloudfront.net/hls/cavaliers/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/12/HwQXyn.png" group-title="NBA League Pass",篮网
-https://dnog3rmny3g3p.cloudfront.net/hls/nets/playlist.m3u8
+https://d3bh6k6cdgaj10.cloudfront.net/hls/nets/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/12/HwQOQs.png" group-title="NBA League Pass",公牛
-https://dnog3rmny3g3p.cloudfront.net/hls/bulls/playlist.m3u8
+https://d3bh6k6cdgaj10.cloudfront.net/hls/bulls/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/12/HwQ8aT.png" group-title="NBA League Pass",马刺
-https://dnog3rmny3g3p.cloudfront.net/hls/spurs/playlist.m3u8
+https://d3bh6k6cdgaj10.cloudfront.net/hls/spurs/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/12/HwQNRJ.png" group-title="NBA League Pass",波特兰开拓者
-https://dnog3rmny3g3p.cloudfront.net/hls/blazers/playlist.m3u8
+https://d3bh6k6cdgaj10.cloudfront.net/hls/blazers/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/12/HwQ0qx.png" group-title="NBA League Pass",76人
-https://dnog3rmny3g3p.cloudfront.net/hls/76ers/playlist.m3u8?SBN
+https://d3bh6k6cdgaj10.cloudfront.net/hls/76ers/playlist.m3u8?SBN
 #EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/12/HwlSoT.png" group-title="NBA League Pass",亚特兰大老鹰
-https://dnog3rmny3g3p.cloudfront.net/hls/hawks/playlist.m3u8
+https://d3bh6k6cdgaj10.cloudfront.net/hls/hawks/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.hualigs.cn/image/6207200b323ea.jpg" group-title="NBA League Pass",热火
-https://dnog3rmny3g3p.cloudfront.net/hls/heat/playlist.m3u8
+https://d3bh6k6cdgaj10.cloudfront.net/hls/heat/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/12/HwQxe0.png" group-title="NBA League Pass",波士顿凯尔特人
-https://dnog3rmny3g3p.cloudfront.net/hls/celtics/playlist.m3u8
+https://d3bh6k6cdgaj10.cloudfront.net/hls/celtics/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/12/HwQtG4.png" group-title="NBA League Pass",华盛顿奇才
-https://dnog3rmny3g3p.cloudfront.net/hls/wizards/playlist.m3u8
+https://d3bh6k6cdgaj10.cloudfront.net/hls/wizards/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/12/HwQYiF.png" group-title="NBA League Pass",多伦多猛龙
-https://dnog3rmny3g3p.cloudfront.net/hls/raptors/playlist.m3u8 
+https://d3bh6k6cdgaj10.cloudfront.net/hls/raptors/playlist.m3u8 
 #EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/12/HwQoo8.png" group-title="NBA League Pass",勇士
-https://dnog3rmny3g3p.cloudfront.net/hls/warriors/playlist.m3u8
+https://d3bh6k6cdgaj10.cloudfront.net/hls/warriors/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/12/HwQrdK.png" group-title="NBA League Pass",尼克斯
-https://dnog3rmny3g3p.cloudfront.net/hls/knicks/playlist.m3u8
+https://d3bh6k6cdgaj10.cloudfront.net/hls/knicks/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/12/HwQIdf.png" group-title="NBA League Pass",印第安纳步行者
-https://dnog3rmny3g3p.cloudfront.net/hls/pacers/playlist.m3u8
+https://d3bh6k6cdgaj10.cloudfront.net/hls/pacers/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/12/HwQ7FS.png" group-title="NBA League Pass",活塞
-https://dnog3rmny3g3p.cloudfront.net/hls/pistons/playlist.m3u8 
+https://d3bh6k6cdgaj10.cloudfront.net/hls/pistons/playlist.m3u8 
 #EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/12/HwQ2zd.png" group-title="NBA League Pass",灰熊
-https://dnog3rmny3g3p.cloudfront.net/hls/grizzlies/playlist.m3u8
+https://d3bh6k6cdgaj10.cloudfront.net/hls/grizzlies/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/12/HwQGIU.png" group-title="NBA League Pass",爵士
-https://dnog3rmny3g3p.cloudfront.net/hls/jazz/playlist.m3u8
+https://d3bh6k6cdgaj10.cloudfront.net/hls/jazz/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/12/HwQsIO.png" group-title="NBA League Pass",明尼苏达森林狼
-https://dnog3rmny3g3p.cloudfront.net/hls/timberwolves/playlist.m3u8
+https://d3bh6k6cdgaj10.cloudfront.net/hls/timberwolves/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/12/HwQfsI.png" group-title="NBA League Pass",快艇
-https://dnog3rmny3g3p.cloudfront.net/hls/clippers/playlist.m3u8
+https://d3bh6k6cdgaj10.cloudfront.net/hls/clippers/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/12/HwQWQA.png" group-title="NBA League Pass",湖人
-https://dnog3rmny3g3p.cloudfront.net/hls/lakers/playlist.m3u8
+https://d3bh6k6cdgaj10.cloudfront.net/hls/lakers/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/12/HwQ6iD.png" group-title="NBA League Pass",鹈鹕
-https://dnog3rmny3g3p.cloudfront.net/hls/pelicans/playlist.m3u8
+https://d3bh6k6cdgaj10.cloudfront.net/hls/pelicans/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/12/HwQDZ6.png" group-title="NBA League Pass",雷霆
-https://dnog3rmny3g3p.cloudfront.net/hls/thunder/playlist.m3u8
+https://d3bh6k6cdgaj10.cloudfront.net/hls/thunder/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/12/HwQ3ZV.png" group-title="NBA League Pass",国王
-https://dnog3rmny3g3p.cloudfront.net/hls/kings/playlist.m3u8
+https://d3bh6k6cdgaj10.cloudfront.net/hls/kings/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/12/HwQhLt.png" group-title="NBA League Pass",火箭
-https://dnog3rmny3g3p.cloudfront.net/hls/rockets/playlist.m3u8
+https://d3bh6k6cdgaj10.cloudfront.net/hls/rockets/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/15/HgnD0J.png" group-title="NBA League Pass",NBA Live Game 1
 http://pullhls3948069e.live.126.net/live/n1/playlist.m3u8
