@@ -3212,9 +3212,10 @@ https://cdn.hkyoutv.com/raw/96.ts
 
 
 
-
 #EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港澳台电视侠",翡翠台(第1声道繁体)
 http://iptv.tvfix.org/hls/jade.m3u8
+#EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港澳台电视侠",翡翠台(第1声道无字)
+http://livesec.mudu.tv/watch/ow7vfa.m3u8
 #EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港澳台电视侠",翡翠台(第2声道简体)
 http://iptv.tvfix.org/hls/jade2.m3u8
 #EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港澳台电视侠",翡翠台海外版(粤语繁体)
@@ -3227,6 +3228,8 @@ http://iptv.tvfix.org/hls/j2.m3u8
 http://iptv.tvfix.org/hls/j22.m3u8
 #EXTINF:-1 tvg-id="130" tvg-name="无线新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" group-title="港澳台电视侠",无线新闻台
 http://iptv.tvfix.org/hls/inews.m3u8
+#EXTINF:-1 tvg-id="130" tvg-name="无线新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" group-title="港澳台电视侠",无线新闻台(第2声道)
+http://iptv.tvfix.org/hls/inews2.m3u8
 #EXTINF:-1 tvg-id="127" tvg-name="明珠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB明珠台.png" group-title="港澳台电视侠",明珠台
 http://iptv.tvfix.org/hls/pearl.m3u8
 #EXTINF:-1 tvg-id="127" tvg-name="明珠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB明珠台.png" group-title="港澳台电视侠",明珠台(第2声道)
@@ -3241,38 +3244,56 @@ http://iptv.tvfix.org/hls/financenhk.m3u8
 http://iptv.tvfix.org/hls/viutv.m3u8
 #EXTINF:-1 tvg-id="408" tvg-name="ViuTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png" group-title="港澳台电视侠",ViuTV 第二声道
 http://iptv.tvfix.org/hls/viutv2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台电视侠",ViuTV6
+#EXTINF:-1 tvg-id="408" tvg-name="ViuTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png" group-title="港澳台电视侠",ViuTV6
 http://iptv.tvfix.org/hls/viutv6.m3u8
-#EXTINF:-1 tvg-id="7117" tvg-name="香港国际财经台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hkguojicaijing.png" group-title="港澳台电视侠",香港国际财经台
-http://iptv.tvfix.org/hls/hkibc.m3u8
-#EXTINF:-1 tvg-id="7118" tvg-name="香港开电视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hongkongkai.png" group-title="港澳台电视侠",香港开电视
-http://iptv.tvfix.org/hls/opentv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台电视侠",RTHK31
 http://iptv.tvfix.org/hls/rthk31.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台电视侠",RTHK32
 http://iptv.tvfix.org/hls/rthk32.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台电视侠",NHK综合
-http://iptv.tvfix.org/hls/nhkg.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台电视侠",NHK教育
-http://iptv.tvfix.org/hls/nhke.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台电视侠",TVBS亚洲台
-http://iptv.tvfix.org/hls/tvbs.m3u8
-#EXTINF:-1 tvg-id="6073" tvg-name="TVBS新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS新闻.png" group-title="港澳台电视侠",TVBS新闻台
-http://iptv.tvfix.org/hls/tvbsnews.m3u8
+#EXTINF:-1 tvg-id="7117" tvg-name="香港国际财经台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hkguojicaijing.png" group-title="港澳台电视侠",香港国际财经台
+http://iptv.tvfix.org/hls/hkibc.m3u8
+#EXTINF:-1 tvg-id="7118" tvg-name="香港开电视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hongkongkai.png" group-title="港澳台电视侠",香港开电视
+http://iptv.tvfix.org/hls/opentv.m3u8
 #EXTINF:-1 tvg-id="145" tvg-name="美亚高清电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/meiyamovie.png" group-title="港澳台电视侠",美亚电影台(粤语)
 http://iptv.tvfix.org/hls/mydy.m3u8
 #EXTINF:-1 tvg-id="145" tvg-name="美亚高清电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/meiyamovie.png" group-title="港澳台电视侠",美亚电影台(普通话)
 http://iptv.tvfix.org/hls/mydy2.m3u8
+#EXTINF:-1 tvg-id="6079" tvg-name="卫视电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/StarChineseMovies.png" group-title="港澳台电视侠",卫视电影台
+http://iptv.tvfix.org/hls/starmovies.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台电视侠",天映频道
+http://iptv.tvfix.org/hls/typd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台电视侠",天映经典(粤语)
 http://iptv.tvfix.org/hls/tyjd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台电视侠",天映经典(普通话)
 http://iptv.tvfix.org/hls/tyjd2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台电视侠",HBO(粤语)
+http://iptv.tvfix.org/hls/hbo.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台电视侠",HBO(原声)
+http://iptv.tvfix.org/hls/hbo2.m3u8
+#EXTINF:-1 tvg-id="6153" tvg-name="HBOHits" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOHits.png" group-title="港澳台电视侠",HBO Hits(粤语)
+http://iptv.tvfix.org/hls/hbohits.m3u8
+#EXTINF:-1 tvg-id="6153" tvg-name="HBOHits" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOHits.png" group-title="港澳台电视侠",HBO Hits(原声)
+http://iptv.tvfix.org/hls/hbohits2.m3u8
+#EXTINF:-1 tvg-id="6155" tvg-name="HBOFamily" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOFamily.png" group-title="港澳台电视侠",HBO Family(粤语)
+http://iptv.tvfix.org/hls/hbofamily.m3u8
+#EXTINF:-1 tvg-id="6155" tvg-name="HBOFamily" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOFamily.png" group-title="港澳台电视侠",HBO Family(原声)
+http://iptv.tvfix.org/hls/hbofamily2.m3u8
+#EXTINF:-1 tvg-id="6154" tvg-name="HBOSignature" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOSignature.png" group-title="港澳台电视侠",HBO Signature(粤语)
+http://iptv.tvfix.org/hls/hbosignature.m3u8
+#EXTINF:-1 tvg-id="6154" tvg-name="HBOSignature" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOSignature.png" group-title="港澳台电视侠",HBO Signature(原声)
+http://iptv.tvfix.org/hls/hbosignature2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台电视侠",HUB都会
+http://iptv.tvfix.org/hls/hubcity.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台电视侠",HUB娱家
+http://iptv.tvfix.org/hls/hubvv.m3u8
 #EXTINF:-1 tvg-id="7238" tvg-name="Animax" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ANIMAX.png" group-title="港澳台电视侠",Animax
 http://iptv.tvfix.org/hls/animax.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ANIMAX.png" group-title="港澳台电视侠",Animax(第2声道)
 http://iptv.tvfix.org/hls/animax2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台电视侠",Hands Up Channel
 http://iptv.tvfix.org/hls/kid.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台电视侠",Hands Up Channel(第2声道)
+http://iptv.tvfix.org/hls/kid2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台电视侠",Thrill
 http://iptv.tvfix.org/hls/thrill.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台电视侠",Thrill(第2声道)
@@ -3289,62 +3310,56 @@ http://iptv.tvfix.org/hls/tvbxh2.m3u8
 http://iptv.tvfix.org/hls/tvbkf.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台电视侠",TVB功夫(普通话)
 http://iptv.tvfix.org/hls/tvbkf2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台电视侠",TVBS亚洲台
+http://iptv.tvfix.org/hls/tvbs.m3u8
+#EXTINF:-1 tvg-id="6073" tvg-name="TVBS新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS新闻.png" group-title="港澳台电视侠",TVBS新闻台
+http://iptv.tvfix.org/hls/tvbsnews.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台电视侠",NHK综合
+http://iptv.tvfix.org/hls/nhkg.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台电视侠",NHK综合(第2声道)
+http://iptv.tvfix.org/hls/nhkg2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台电视侠",NHK教育
+http://iptv.tvfix.org/hls/nhke.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台电视侠",NHK教育(第2声道)
+http://iptv.tvfix.org/hls/nhke2.m3u8
+#EXTINF:-1 tvg-id="7110" tvg-name="NHKWorldPremium" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/nhkworldp.png" group-title="港澳台电视侠",NHK WORLD Premium
+http://iptv.tvfix.org/hls/nhkworldpremium.m3u8
+#EXTINF:-1 tvg-id="331" tvg-name="NHKWorld" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NHKWorld.png" group-title="港澳台电视侠",NHK WORLD
+http://iptv.tvfix.org/hls/nhkworld.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台电视侠",NHK WORLD (中文字幕)
+http://iptv.tvfix.org/hls/nhkworld2.m3u8
+#EXTINF:-1 tvg-id="6159" tvg-name="tvN" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png" group-title="港澳台电视侠",tvN
+http://iptv.tvfix.org/hls/tvn.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台电视侠",瞬间看地球
+http://iptv.tvfix.org/hls/earth.m3u8
 #EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="港澳台电视侠",凤凰资讯
 http://iptv.tvfix.org/hls/fhzx.m3u8
 #EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="港澳台电视侠",凤凰中文
 http://iptv.tvfix.org/hls/fhzw.m3u8
+#EXTINF:-1 tvg-id="143" tvg-name="凤凰香港" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png" group-title="港澳台电视侠",凤凰香港
+http://iptv.tvfix.org/hls/fhxg.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台电视侠",凤凰电影
+http://iptv.tvfix.org/hls/fhdy.m3u8
 #EXTINF:-1 tvg-id="6037" tvg-name="Discovery" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DiscoveryHD.png" group-title="港澳台电视侠",Discovery
 http://iptv.tvfix.org/hls/discovery.m3u8
 #EXTINF:-1 tvg-id="6039" tvg-name="动物星球" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/AnimalPlanet.png" group-title="港澳台电视侠",动物星球
 http://iptv.tvfix.org/hls/animal.m3u8
+#EXTINF:-1 tvg-id="6039" tvg-name="动物星球" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/AnimalPlanet.png" group-title="港澳台电视侠",动物星球
+http://iptv.tvfix.org/hls/animal2.m3u8
+#EXTINF:-1 tvg-id="691" tvg-name="国家地理频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/natgeo.png" group-title="港澳台电视侠",国家地理
+http://iptv.tvfix.org/hls/natlgeo.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台电视侠",国家地理 第二声道
+http://iptv.tvfix.org/hls/natlgeo2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台电视侠",Channel V
+http://iptv.tvfix.org/hls/channelv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台电视侠",星空卫视
+http://iptv.tvfix.org/hls/startv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台电视侠",Star Sports
+http://iptv.tvfix.org/hls/starsports.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台电视侠",Love Nature
 http://iptv.tvfix.org/hls/lovenature4k.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台电视侠",Love Nature
 http://iptv.tvfix.org/hls/lovenature4k2.m3u8
-#EXTINF:-1 group-title="港澳台电视侠",卫视电影台
-http://iptv.tvfix.org/hls/starmovies.m3u8
-#EXTINF:-1 group-title="港澳台电视侠",天映频道
-http://iptv.tvfix.org/hls/typd.m3u8
-#EXTINF:-1 group-title="港澳台电视侠",HBO(粤语)
-http://iptv.tvfix.org/hls/hbo.m3u8
-#EXTINF:-1 group-title="港澳台电视侠",HBO(原声)
-http://iptv.tvfix.org/hls/hbo2.m3u8
-#EXTINF:-1 group-title="港澳台电视侠",HBO Hits(粤语)
-http://iptv.tvfix.org/hls/hbohits.m3u8
-#EXTINF:-1 group-title="港澳台电视侠",HBO Hits(原声)
-http://iptv.tvfix.org/hls/hbohits2.m3u8
-#EXTINF:-1 group-title="港澳台电视侠",HBO Family(粤语)
-http://iptv.tvfix.org/hls/hbofamily.m3u8
-#EXTINF:-1 group-title="港澳台电视侠",HBO Family(原声)
-http://iptv.tvfix.org/hls/hbofamily2.m3u8
-#EXTINF:-1 group-title="港澳台电视侠",HBO Signature(粤语)
-http://iptv.tvfix.org/hls/hbosignature.m3u8
-#EXTINF:-1 group-title="港澳台电视侠",HBO Signature(原声)
-http://iptv.tvfix.org/hls/hbosignature2.m3u8
-#EXTINF:-1 group-title="港澳台电视侠",Hands Up Channel(第2声道)
-http://iptv.tvfix.org/hls/kid2.m3u8
-#EXTINF:-1 group-title="港澳台电视侠",国家地理
-http://iptv.tvfix.org/hls/natlgeo.m3u8
-#EXTINF:-1 group-title="港澳台电视侠",国家地理 第二声道
-http://iptv.tvfix.org/hls/natlgeo2.m3u8
-#EXTINF:-1 group-title="港澳台电视侠",翡翠台(第1声道无字) 
-http://livesec.mudu.tv/watch/ow7vfa.m3u8
-#EXTINF:-1 group-title="港澳台电视侠",HUB都会 
-http://iptv.tvfix.org/hls/hubcity.m3u8
-#EXTINF:-1 group-title="港澳台电视侠",HUB娱家 
-http://iptv.tvfix.org/hls/hubvv.m3u8
-#EXTINF:-1 group-title="港澳台电视侠",无线新闻台(第2声道)
-http://iptv.tvfix.org/hls/inews2.m3u8
-#EXTINF:-1 group-title="港澳台电视侠",动物星球(第2声道) 
-http://iptv.tvfix.org/hls/animal2.m3u8
-#EXTINF:-1 group-title="港澳台电视侠",Channel V 
-http://iptv.tvfix.org/hls/channelv.m3u8
-#EXTINF:-1 group-title="港澳台电视侠",星空卫视 
-http://iptv.tvfix.org/hls/startv.m3u8
-#EXTINF:-1 group-title="港澳台电视侠",Star Sports
-http://iptv.tvfix.org/hls/starsports.m3u8
-
-
 
 #EXTINF:-1 group-title="3.3瞎眼画质随缘时效",翡翠 
 http://dllb.jxin122.top/jj.php?id=78&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
