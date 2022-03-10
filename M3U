@@ -3213,7 +3213,6 @@ https://cdn.hkyoutv.com/raw/96.ts
 
 
 
-
 #EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港澳台电视侠",翡翠台(第1声道繁体)
 http://iptv.tvfix.org/hls/jade.m3u8
 #EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港澳台电视侠",翡翠台(第2声道简体)
@@ -3328,6 +3327,22 @@ http://iptv.tvfix.org/hls/kid2.m3u8
 http://iptv.tvfix.org/hls/natlgeo.m3u8
 #EXTINF:-1 group-title="港澳台电视侠",国家地理 第二声道
 http://iptv.tvfix.org/hls/natlgeo2.m3u8
+#EXTINF:-1 group-title="港澳台电视侠",翡翠台(第1声道无字) 
+http://livesec.mudu.tv/watch/ow7vfa.m3u8
+#EXTINF:-1 group-title="港澳台电视侠",HUB都会 
+http://iptv.tvfix.org/hls/hubcity.m3u8
+#EXTINF:-1 group-title="港澳台电视侠",HUB娱家 
+http://iptv.tvfix.org/hls/hubvv.m3u8
+#EXTINF:-1 group-title="港澳台电视侠",无线新闻台(第2声道)
+http://iptv.tvfix.org/hls/inews2.m3u8
+#EXTINF:-1 group-title="港澳台电视侠",动物星球(第2声道) 
+http://iptv.tvfix.org/hls/animal2.m3u8
+#EXTINF:-1 group-title="港澳台电视侠",Channel V 
+http://iptv.tvfix.org/hls/channelv.m3u8
+#EXTINF:-1 group-title="港澳台电视侠",星空卫视 
+http://iptv.tvfix.org/hls/startv.m3u8
+#EXTINF:-1 group-title="港澳台电视侠",Star Sports
+http://iptv.tvfix.org/hls/starsports.m3u8
 
 
 
@@ -4806,14 +4821,28 @@ http://pullhls3948069e.live.126.net/live/n11/playlist.m3u8
 http://pullhls3948069e.live.126.net/live/n12/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/24/biP0df.png" group-title="粤语讲波 直播有效",欧冠 拜仁 VS 萨尔茨堡 国语
-https://hls.zb.ssports.com/ssports/ch3665728_xinying1080.m3u8?k=6ed596e56c136b3fd8b6810d1958f6dc&t=6227e02c&UID=1646705474free3247163712&MATCHID=3665728&TYPE=1
-#EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/24/biP0df.png" group-title="粤语讲波 直播有效",欧冠 利物浦vs国际米兰 粤语
-https://hls.zb.ssports.com/ssports/yue3665730_xinying1080.m3u8?k=2ec56d1f0618f0f2855bc065173ee653&t=6227e02c&UID=1646705579free8020887816&MATCHID=3665730&TYPE=1
-#EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/24/biP0df.png" group-title="粤语讲波 直播有效",欧冠 利物浦vs国际米兰 国语
-https://hls.zb.ssports.com/ssports/ch3665730_xinying1080.m3u8?k=2ec56d1f0618f0f2855bc065173ee653&t=6227e02c&UID=1646705579free8020887816&MATCHID=3665730&TYPE=1
-
-
+#EXTINF:-1 tvg-logo="https://s1.ax1x.com/2022/03/10/bhYIBt.png" group-title="粤语讲波 直播有效" ,欧协联 维特斯 VS 罗马 粤语
+https://hls.zb.ssports.com/ssports/yue3697444_xinying1080.m3u8?k=371e2b41f56ec836d1ad5f5897ae40bf&t=622a6388&UID=1646882383free5684687186&MATCHID=3697444&TYPE=1
+#EXTINF:-1 tvg-logo="https://s1.ax1x.com/2022/03/10/bhYIBt.png" group-title="粤语讲波 直播有效" ,欧联杯 塞维利亚 VS 西汉姆 国语
+https://hls.zb.ssports.com/ssports/ch3697430_xinying1080.m3u8?k=02887424976befb0fef5d705b4ff373f&t=622a6388&UID=1646882568free6754838002&MATCHID=3697430&TYPE=1
+#EXTINF:-1 tvg-logo="https://s1.ax1x.com/2022/03/10/bhYIBt.png" group-title="粤语讲波 直播有效" ,英超 南安普顿 VS 纽卡斯尔联 粤语
+https://hls.zb.ssports.com/ssports/yue3559595_xinying1080.m3u8?k=4fc29afa735499426f8376af24b18ae4&t=622a7c24&UID=1646882053free7548380020&MATCHID=3559595&TYPE=1
+#EXTINF:-1 tvg-logo="https://s1.ax1x.com/2022/03/10/bhYIBt.png" group-title="粤语讲波 直播有效" , 英超 诺维奇 VS 切尔西 粤语
+https://hls.zb.ssports.com/ssports/yue3559856_xinying1080.m3u8?k=ef830e6f93e3b2812154ce1662d91182&t=5f569b90&UID=1646882137free1644280087&MATCHID=3372599&TYPE=1
+#EXTINF:-1 tvg-logo="https://s1.ax1x.com/2022/03/10/bhYIBt.png" group-title="粤语讲波 直播有效" ,英超 狼队 VS 沃特福德 粤语
+https://hls.zb.ssports.com/ssports/yue3559750_xinying1080.m3u8?k=a672c8d942ac9b76ac4d404e49fdf3f1&t=5f569b90&UID=1646882209free5578716223&MATCHID=3372599&TYPE=1
+#EXTINF:-1 tvg-logo="https://s1.ax1x.com/2022/03/10/bhYIBt.png" group-title="粤语讲波 直播有效" ,英超 利兹 VS 阿斯顿维拉 粤语
+https://hls.zb.ssports.com/ssports/yue3559794_xinying1080.m3u8?k=2025c010f4d7b1492230f48d74aab2b4&t=622a7fa8&UID=1646882276free7103664488&MATCHID=3559794&TYPE=1
+#EXTINF:-1 tvg-logo="https://s1.ax1x.com/2022/03/10/bhYIBt.png" group-title="粤语讲波 直播有效" ,欧协联 莱斯特城 VS 雷恩 粤语
+https://hls.zb.ssports.com/ssports/yue3697440_xinying1080.m3u8?k=cd9d6e4689dfdb2c24b4f6a43ef0f97b&t=622a832c&UID=1646882769free0110465432&MATCHID=3697440&TYPE=1
+#EXTINF:-1 tvg-logo="https://s1.ax1x.com/2022/03/10/bhYIBt.png" group-title="粤语讲波 直播有效" ,欧联杯 亚特兰大 VS 勒沃库森 国语
+https://hls.zb.ssports.com/ssports/ch3697428_xinying1080.m3u8?k=9e9cae0d3167a6dbc14460345ec73dbe&t=622a832c&UID=1646882871free6872061315&MATCHID=3697428&TYPE=1
+#EXTINF:-1 tvg-logo="https://s1.ax1x.com/2022/03/10/bhYIBt.png" group-title="粤语讲波 直播有效" ,欧联杯 巴塞罗那 VS 加拉塔萨雷 国语
+https://hls.zb.ssports.com/ssports/ch3697432_xinying1080.m3u8?k=1360ee11d32edad15f162b269320cd0c&t=622a832c&UID=1646882921free5261007153&MATCHID=3697432&TYPE=1
+#EXTINF:-1 tvg-logo="https://s1.ax1x.com/2022/03/10/bhYIBt.png" group-title="粤语讲波 直播有效" ,欧联杯 流浪者 VS 贝尔格莱德红星 国语
+https://hls.zb.ssports.com/ssports/ch3697422_xinying1080.m3u8?k=8b0098f1ffdbf4fdc90d9fbf19e33224&t=622a832c&UID=1646883016free8564135864&MATCHID=3697422&TYPE=1
+#EXTINF:-1 tvg-logo="https://s1.ax1x.com/2022/03/10/bhYIBt.png" group-title="粤语讲波 直播有效" ,欧联杯 布拉加 VS 摩纳哥 国语
+https://hls.zb.ssports.com/ssports/ch3697424_xinying1080.m3u8?k=3b1a3d0eb8e47f9178573a23806a7392&t=622a832c&UID=1646883082free6005878000&MATCHID=3697424&TYPE=1
 
 
 #EXTINF:-1 tvg-logo="https://www.hualigs.cn/image/61bb2a0b06f8d.jpg" group-title="FashionTV",Fashion TV
@@ -4842,163 +4871,162 @@ https://a.files.bbci.co.uk/media/live/manifesto/audio_video/webcast/dash/uk/full
 #EXTINF:-1 tvg-id="BBCUHDTrial5.uk"  tvg-logo="" group-title="仅限英国IP",BBC UHD Trial 5
 https://a.files.bbci.co.uk/media/live/manifesto/audio_video/webcast/dash/uk/full/ak/uhd_stream_05.mpd
 
-#EXTINF:-1 tvg-name="女团" tvg-logo="https://s4.ax1x.com/2022/02/24/biP0df.png" group-title="VOD测试",女团 1
+#EXTINF:-1 tvg-name="女团" tvg-logo="https://s1.ax1x.com/2022/03/08/b2i66x.jpg" group-title="VOD测试",女团 1
 https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240147051191.mp4
-#EXTINF:-1 tvg-name="女团" tvg-logo="https://s4.ax1x.com/2022/02/24/biP0df.png" group-title="VOD测试",女团 2
+#EXTINF:-1 tvg-name="女团" tvg-logo="https://s1.ax1x.com/2022/03/08/b2i66x.jpg" group-title="VOD测试",女团 2
 https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240145171654.mp4
-#EXTINF:-1 tvg-name="女团" tvg-logo="https://s4.ax1x.com/2022/02/24/biP0df.png" group-title="VOD测试",女团 3
+#EXTINF:-1 tvg-name="女团" tvg-logo="https://s1.ax1x.com/2022/03/08/b2i66x.jpg" group-title="VOD测试",女团 3
 https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240025046562.mp4
-#EXTINF:-1 tvg-name="女团" tvg-logo="https://s4.ax1x.com/2022/02/24/biP0df.png" group-title="VOD测试",女团 52
+#EXTINF:-1 tvg-name="女团" tvg-logo="https://s1.ax1x.com/2022/03/08/b2i66x.jpg" group-title="VOD测试",女团 52
 https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239755956819.mp4
-#EXTINF:-1 tvg-name="女团" tvg-logo="https://s4.ax1x.com/2022/02/24/biP0df.png" group-title="VOD测试",女团 58
+#EXTINF:-1 tvg-name="女团" tvg-logo="https://s1.ax1x.com/2022/03/08/b2i66x.jpg" group-title="VOD测试",女团 58
 https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239799088974.mp4
-#EXTINF:-1 tvg-name="女团" tvg-logo="https://s4.ax1x.com/2022/02/24/biP0df.png" group-title="VOD测试",女团 57
+#EXTINF:-1 tvg-name="女团" tvg-logo="https://s1.ax1x.com/2022/03/08/b2i66x.jpg" group-title="VOD测试",女团 57
 https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239799872402.mp4
-#EXTINF:-1 tvg-name="女团" tvg-logo="https://s4.ax1x.com/2022/02/24/biP0df.png" group-title="VOD测试",女团 64
+#EXTINF:-1 tvg-name="女团" tvg-logo="https://s1.ax1x.com/2022/03/08/b2i66x.jpg" group-title="VOD测试",女团 64
 https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239805200933.mp4
-#EXTINF:-1 tvg-name="女团" tvg-logo="https://s4.ax1x.com/2022/02/24/biP0df.png" group-title="VOD测试",女团 66
+#EXTINF:-1 tvg-name="女团" tvg-logo="https://s1.ax1x.com/2022/03/08/b2i66x.jpg" group-title="VOD测试",女团 66
 https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239806164759.mp4
-#EXTINF:-1 tvg-name="女团" tvg-logo="https://s4.ax1x.com/2022/02/24/biP0df.png" group-title="VOD测试",女团 67
+#EXTINF:-1 tvg-name="女团" tvg-logo="https://s1.ax1x.com/2022/03/08/b2i66x.jpg" group-title="VOD测试",女团 67
 https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239807872136.mp4
-#EXTINF:-1 tvg-name="女团" tvg-logo="https://s4.ax1x.com/2022/02/24/biP0df.png" group-title="VOD测试",女团 51
+#EXTINF:-1 tvg-name="女团" tvg-logo="https://s1.ax1x.com/2022/03/08/b2i66x.jpg" group-title="VOD测试",女团 51
 https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239858729476.mp4
-#EXTINF:-1 tvg-name="女团" tvg-logo="https://s4.ax1x.com/2022/02/24/biP0df.png" group-title="VOD测试",女团 54
+#EXTINF:-1 tvg-name="女团" tvg-logo="https://s1.ax1x.com/2022/03/08/b2i66x.jpg" group-title="VOD测试",女团 54
 https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239880949246.mp4
-#EXTINF:-1 tvg-name="女团" tvg-logo="https://s4.ax1x.com/2022/02/24/biP0df.png" group-title="VOD测试",女团 56
+#EXTINF:-1 tvg-name="女团" tvg-logo="https://s1.ax1x.com/2022/03/08/b2i66x.jpg" group-title="VOD测试",女团 56
 https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239903321355.mp4
-#EXTINF:-1 tvg-name="女团" tvg-logo="https://s4.ax1x.com/2022/02/24/biP0df.png" group-title="VOD测试",女团 55
+#EXTINF:-1 tvg-name="女团" tvg-logo="https://s1.ax1x.com/2022/03/08/b2i66x.jpg" group-title="VOD测试",女团 55
 https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239903717006.mp4
-#EXTINF:-1 tvg-name="女团" tvg-logo="https://s4.ax1x.com/2022/02/24/biP0df.png" group-title="VOD测试",女团 65
+#EXTINF:-1 tvg-name="女团" tvg-logo="https://s1.ax1x.com/2022/03/08/b2i66x.jpg" group-title="VOD测试",女团 65
 https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239910253332.mp4
-#EXTINF:-1 tvg-name="女团" tvg-logo="https://s4.ax1x.com/2022/02/24/biP0df.png" group-title="VOD测试",女团 50
+#EXTINF:-1 tvg-name="女团" tvg-logo="https://s1.ax1x.com/2022/03/08/b2i66x.jpg" group-title="VOD测试",女团 50
 https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239978750464.mp4
-#EXTINF:-1 tvg-name="女团" tvg-logo="https://s4.ax1x.com/2022/02/24/biP0df.png" group-title="VOD测试",女团 53
+#EXTINF:-1 tvg-name="女团" tvg-logo="https://s1.ax1x.com/2022/03/08/b2i66x.jpg" group-title="VOD测试",女团 53
 https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239987758613.mp4
-#EXTINF:-1 tvg-name="女团" tvg-logo="https://s4.ax1x.com/2022/02/24/biP0df.png" group-title="VOD测试",女团 59
+#EXTINF:-1 tvg-name="女团" tvg-logo="https://s1.ax1x.com/2022/03/08/b2i66x.jpg" group-title="VOD测试",女团 59
 https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240024786285.mp4
-#EXTINF:-1 tvg-name="女团" tvg-logo="https://s4.ax1x.com/2022/02/24/biP0df.png" group-title="VOD测试",女团 68
+#EXTINF:-1 tvg-name="女团" tvg-logo="https://s1.ax1x.com/2022/03/08/b2i66x.jpg" group-title="VOD测试",女团 68
 https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240032526123.mp4
-#EXTINF:-1 tvg-name="女团" tvg-logo="https://s4.ax1x.com/2022/02/24/biP0df.png" group-title="VOD测试",女团 08
+#EXTINF:-1 tvg-name="女团" tvg-logo="https://s1.ax1x.com/2022/03/08/b2i66x.jpg" group-title="VOD测试",女团 08
 https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240059400880.mp4
-#EXTINF:-1 tvg-name="女团" tvg-logo="https://s4.ax1x.com/2022/02/24/biP0df.png" group-title="VOD测试",女团 10
+#EXTINF:-1 tvg-name="女团" tvg-logo="https://s1.ax1x.com/2022/03/08/b2i66x.jpg" group-title="VOD测试",女团 10
 https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240062596020.mp4
-#EXTINF:-1 tvg-name="女团" tvg-logo="https://s4.ax1x.com/2022/02/24/biP0df.png" group-title="VOD测试",女团 15
+#EXTINF:-1 tvg-name="女团" tvg-logo="https://s1.ax1x.com/2022/03/08/b2i66x.jpg" group-title="VOD测试",女团 15
 https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240066736888.mp4
-#EXTINF:-1 tvg-name="女团" tvg-logo="https://s4.ax1x.com/2022/02/24/biP0df.png" group-title="VOD测试",女团 21
+#EXTINF:-1 tvg-name="女团" tvg-logo="https://s1.ax1x.com/2022/03/08/b2i66x.jpg" group-title="VOD测试",女团 21
 https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240070652257.mp4
-#EXTINF:-1 tvg-name="女团" tvg-logo="https://s4.ax1x.com/2022/02/24/biP0df.png" group-title="VOD测试",女团 23
+#EXTINF:-1 tvg-name="女团" tvg-logo="https://s1.ax1x.com/2022/03/08/b2i66x.jpg" group-title="VOD测试",女团 23
 https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240070884570.mp4
-#EXTINF:-1 tvg-name="女团" tvg-logo="https://s4.ax1x.com/2022/02/24/biP0df.png" group-title="VOD测试",女团 30
+#EXTINF:-1 tvg-name="女团" tvg-logo="https://s1.ax1x.com/2022/03/08/b2i66x.jpg" group-title="VOD测试",女团 30
 https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240075164377.mp4
-#EXTINF:-1 tvg-name="女团" tvg-logo="https://s4.ax1x.com/2022/02/24/biP0df.png" group-title="VOD测试",女团 49
+#EXTINF:-1 tvg-name="女团" tvg-logo="https://s1.ax1x.com/2022/03/08/b2i66x.jpg" group-title="VOD测试",女团 49
 https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240095359203.mp4
-#EXTINF:-1 tvg-name="女团" tvg-logo="https://s4.ax1x.com/2022/02/24/biP0df.png" group-title="VOD测试",女团 32
+#EXTINF:-1 tvg-name="女团" tvg-logo="https://s1.ax1x.com/2022/03/08/b2i66x.jpg" group-title="VOD测试",女团 32
 https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240121912724.mp4
-#EXTINF:-1 tvg-name="女团" tvg-logo="https://s4.ax1x.com/2022/02/24/biP0df.png" group-title="VOD测试",女团 33
+#EXTINF:-1 tvg-name="女团" tvg-logo="https://s1.ax1x.com/2022/03/08/b2i66x.jpg" group-title="VOD测试",女团 33
 https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240126480392.mp4
-#EXTINF:-1 tvg-name="女团" tvg-logo="https://s4.ax1x.com/2022/02/24/biP0df.png" group-title="VOD测试",女团 37
+#EXTINF:-1 tvg-name="女团" tvg-logo="https://s1.ax1x.com/2022/03/08/b2i66x.jpg" group-title="VOD测试",女团 37
 https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240130092025.mp4
-#EXTINF:-1 tvg-name="女团" tvg-logo="https://s4.ax1x.com/2022/02/24/biP0df.png" group-title="VOD测试",女团 40
+#EXTINF:-1 tvg-name="女团" tvg-logo="https://s1.ax1x.com/2022/03/08/b2i66x.jpg" group-title="VOD测试",女团 40
 https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240139316317.mp4
-#EXTINF:-1 tvg-name="女团" tvg-logo="https://s4.ax1x.com/2022/02/24/biP0df.png" group-title="VOD测试",女团 42
+#EXTINF:-1 tvg-name="女团" tvg-logo="https://s1.ax1x.com/2022/03/08/b2i66x.jpg" group-title="VOD测试",女团 42
 https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240139720035.mp4
-#EXTINF:-1 tvg-name="女团" tvg-logo="https://s4.ax1x.com/2022/02/24/biP0df.png" group-title="VOD测试",女团 60
+#EXTINF:-1 tvg-name="女团" tvg-logo="https://s1.ax1x.com/2022/03/08/b2i66x.jpg" group-title="VOD测试",女团 60
 https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240142715042.mp4
-#EXTINF:-1 tvg-name="女团" tvg-logo="https://s4.ax1x.com/2022/02/24/biP0df.png" group-title="VOD测试",女团 46
+#EXTINF:-1 tvg-name="女团" tvg-logo="https://s1.ax1x.com/2022/03/08/b2i66x.jpg" group-title="VOD测试",女团 46
 https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240160716008.mp4
-#EXTINF:-1 tvg-name="女团" tvg-logo="https://s4.ax1x.com/2022/02/24/biP0df.png" group-title="VOD测试",女团 47
+#EXTINF:-1 tvg-name="女团" tvg-logo="https://s1.ax1x.com/2022/03/08/b2i66x.jpg" group-title="VOD测试",女团 47
 https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240161212784.mp4
-#EXTINF:-1 tvg-name="女团" tvg-logo="https://s4.ax1x.com/2022/02/24/biP0df.png" group-title="VOD测试",女团 06
+#EXTINF:-1 tvg-name="女团" tvg-logo="https://s1.ax1x.com/2022/03/08/b2i66x.jpg" group-title="VOD测试",女团 06
 https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240162304531.mp4
-#EXTINF:-1 tvg-name="女团" tvg-logo="https://s4.ax1x.com/2022/02/24/biP0df.png" group-title="VOD测试",女团 07
+#EXTINF:-1 tvg-name="女团" tvg-logo="https://s1.ax1x.com/2022/03/08/b2i66x.jpg" group-title="VOD测试",女团 07
 https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240167997205.mp4
-#EXTINF:-1 tvg-name="女团" tvg-logo="https://s4.ax1x.com/2022/02/24/biP0df.png" group-title="VOD测试",女团 11
+#EXTINF:-1 tvg-name="女团" tvg-logo="https://s1.ax1x.com/2022/03/08/b2i66x.jpg" group-title="VOD测试",女团 11
 https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240170661907.mp4
-#EXTINF:-1 tvg-name="女团" tvg-logo="https://s4.ax1x.com/2022/02/24/biP0df.png" group-title="VOD测试",女团 13
+#EXTINF:-1 tvg-name="女团" tvg-logo="https://s1.ax1x.com/2022/03/08/b2i66x.jpg" group-title="VOD测试",女团 13
 https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240174309994.mp4
-#EXTINF:-1 tvg-name="女团" tvg-logo="https://s4.ax1x.com/2022/02/24/biP0df.png" group-title="VOD测试",女团 16
+#EXTINF:-1 tvg-name="女团" tvg-logo="https://s1.ax1x.com/2022/03/08/b2i66x.jpg" group-title="VOD测试",女团 16
 https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240175161903.mp4
-#EXTINF:-1 tvg-name="女团" tvg-logo="https://s4.ax1x.com/2022/02/24/biP0df.png" group-title="VOD测试",女团 14
+#EXTINF:-1 tvg-name="女团" tvg-logo="https://s1.ax1x.com/2022/03/08/b2i66x.jpg" group-title="VOD测试",女团 14
 https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240175225325.mp4
-#EXTINF:-1 tvg-name="女团" tvg-logo="https://s4.ax1x.com/2022/02/24/biP0df.png" group-title="VOD测试",女团 19
+#EXTINF:-1 tvg-name="女团" tvg-logo="https://s1.ax1x.com/2022/03/08/b2i66x.jpg" group-title="VOD测试",女团 19
 https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240177321736.mp4
-#EXTINF:-1 tvg-name="女团" tvg-logo="https://s4.ax1x.com/2022/02/24/biP0df.png" group-title="VOD测试",女团 20
+#EXTINF:-1 tvg-name="女团" tvg-logo="https://s1.ax1x.com/2022/03/08/b2i66x.jpg" group-title="VOD测试",女团 20
 https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240177941288.mp4
-#EXTINF:-1 tvg-name="女团" tvg-logo="https://s4.ax1x.com/2022/02/24/biP0df.png" group-title="VOD测试",女团 27
+#EXTINF:-1 tvg-name="女团" tvg-logo="https://s1.ax1x.com/2022/03/08/b2i66x.jpg" group-title="VOD测试",女团 27
 https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240181409471.mp4
-#EXTINF:-1 tvg-name="女团" tvg-logo="https://s4.ax1x.com/2022/02/24/biP0df.png" group-title="VOD测试",女团 28
+#EXTINF:-1 tvg-name="女团" tvg-logo="https://s1.ax1x.com/2022/03/08/b2i66x.jpg" group-title="VOD测试",女团 28
 https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240182993056.mp4
-#EXTINF:-1 tvg-name="女团" tvg-logo="https://s4.ax1x.com/2022/02/24/biP0df.png" group-title="VOD测试",女团 99
+#EXTINF:-1 tvg-name="女团" tvg-logo="https://s1.ax1x.com/2022/03/08/b2i66x.jpg" group-title="VOD测试",女团 99
 https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240185196924.mp4
-#EXTINF:-1 tvg-name="女团" tvg-logo="https://s4.ax1x.com/2022/02/24/biP0df.png" group-title="VOD测试",女团 01
+#EXTINF:-1 tvg-name="女团" tvg-logo="https://s1.ax1x.com/2022/03/08/b2i66x.jpg" group-title="VOD测试",女团 01
 https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240187012417.mp4
-#EXTINF:-1 tvg-name="女团" tvg-logo="https://s4.ax1x.com/2022/02/24/biP0df.png" group-title="VOD测试",女团 36
+#EXTINF:-1 tvg-name="女团" tvg-logo="https://s1.ax1x.com/2022/03/08/b2i66x.jpg" group-title="VOD测试",女团 36
 https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240237453313.mp4
-#EXTINF:-1 tvg-name="女团" tvg-logo="https://s4.ax1x.com/2022/02/24/biP0df.png" group-title="VOD测试",女团 41
+#EXTINF:-1 tvg-name="女团" tvg-logo="https://s1.ax1x.com/2022/03/08/b2i66x.jpg" group-title="VOD测试",女团 41
 https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240248465975.mp4
-#EXTINF:-1 tvg-name="女团" tvg-logo="https://s4.ax1x.com/2022/02/24/biP0df.png" group-title="VOD测试",女团 44
+#EXTINF:-1 tvg-name="女团" tvg-logo="https://s1.ax1x.com/2022/03/08/b2i66x.jpg" group-title="VOD测试",女团 44
 https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240250429573.mp4
-#EXTINF:-1 tvg-name="女团" tvg-logo="https://s4.ax1x.com/2022/02/24/biP0df.png" group-title="VOD测试",女团 95
+#EXTINF:-1 tvg-name="女团" tvg-logo="https://s1.ax1x.com/2022/03/08/b2i66x.jpg" group-title="VOD测试",女团 95
 https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240291625836.mp4
-#EXTINF:-1 tvg-name="女团" tvg-logo="https://s4.ax1x.com/2022/02/24/biP0df.png" group-title="VOD测试",女团 00
+#EXTINF:-1 tvg-name="女团" tvg-logo="https://s1.ax1x.com/2022/03/08/b2i66x.jpg" group-title="VOD测试",女团 00
 https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240294981335.mp4
-#EXTINF:-1 tvg-name="女团" tvg-logo="https://s4.ax1x.com/2022/02/24/biP0df.png" group-title="VOD测试",女团 17
+#EXTINF:-1 tvg-name="女团" tvg-logo="https://s1.ax1x.com/2022/03/08/b2i66x.jpg" group-title="VOD测试",女团 17
 https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240295526170.mp4
-#EXTINF:-1 tvg-name="女团" tvg-logo="https://s4.ax1x.com/2022/02/24/biP0df.png" group-title="VOD测试",女团 18
+#EXTINF:-1 tvg-name="女团" tvg-logo="https://s1.ax1x.com/2022/03/08/b2i66x.jpg" group-title="VOD测试",女团 18
 https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240295818399.mp4
-#EXTINF:-1 tvg-name="女团" tvg-logo="https://s4.ax1x.com/2022/02/24/biP0df.png" group-title="VOD测试",女团 04
+#EXTINF:-1 tvg-name="女团" tvg-logo="https://s1.ax1x.com/2022/03/08/b2i66x.jpg" group-title="VOD测试",女团 04
 https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240297965874.mp4
-#EXTINF:-1 tvg-name="女团" tvg-logo="https://s4.ax1x.com/2022/02/24/biP0df.png" group-title="VOD测试",女团 03
+#EXTINF:-1 tvg-name="女团" tvg-logo="https://s1.ax1x.com/2022/03/08/b2i66x.jpg" group-title="VOD测试",女团 03
 https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240298025415.mp4
-#EXTINF:-1 tvg-name="女团" tvg-logo="https://s4.ax1x.com/2022/02/24/biP0df.png" group-title="VOD测试",女团 22
+#EXTINF:-1 tvg-name="女团" tvg-logo="https://s1.ax1x.com/2022/03/08/b2i66x.jpg" group-title="VOD测试",女团 22
 https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240298266546.mp4
-#EXTINF:-1 tvg-name="女团" tvg-logo="https://s4.ax1x.com/2022/02/24/biP0df.png" group-title="VOD测试",女团 24
+#EXTINF:-1 tvg-name="女团" tvg-logo="https://s1.ax1x.com/2022/03/08/b2i66x.jpg" group-title="VOD测试",女团 24
 https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240298694512.mp4
-#EXTINF:-1 tvg-name="女团" tvg-logo="https://s4.ax1x.com/2022/02/24/biP0df.png" group-title="VOD测试",女团 26
+#EXTINF:-1 tvg-name="女团" tvg-logo="https://s1.ax1x.com/2022/03/08/b2i66x.jpg" group-title="VOD测试",女团 26
 https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240299394846.mp4
-#EXTINF:-1 tvg-name="女团" tvg-logo="https://s4.ax1x.com/2022/02/24/biP0df.png" group-title="VOD测试",女团 05
+#EXTINF:-1 tvg-name="女团" tvg-logo="https://s1.ax1x.com/2022/03/08/b2i66x.jpg" group-title="VOD测试",女团 05
 https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240301809263.mp4
-#EXTINF:-1 tvg-name="女团" tvg-logo="https://s4.ax1x.com/2022/02/24/biP0df.png" group-title="VOD测试",女团 29
+#EXTINF:-1 tvg-name="女团" tvg-logo="https://s1.ax1x.com/2022/03/08/b2i66x.jpg" group-title="VOD测试",女团 29
 https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240301854532.mp4
-#EXTINF:-1 tvg-name="女团" tvg-logo="https://s4.ax1x.com/2022/02/24/biP0df.png" group-title="VOD测试",女团 31
+#EXTINF:-1 tvg-name="女团" tvg-logo="https://s1.ax1x.com/2022/03/08/b2i66x.jpg" group-title="VOD测试",女团 31
 https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240349762400.mp4
-#EXTINF:-1 tvg-name="女团" tvg-logo="https://s4.ax1x.com/2022/02/24/biP0df.png" group-title="VOD测试",女团 34
+#EXTINF:-1 tvg-name="女团" tvg-logo="https://s1.ax1x.com/2022/03/08/b2i66x.jpg" group-title="VOD测试",女团 34
 https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240355262537.mp4
-#EXTINF:-1 tvg-name="女团" tvg-logo="https://s4.ax1x.com/2022/02/24/biP0df.png" group-title="VOD测试",女团 35
+#EXTINF:-1 tvg-name="女团" tvg-logo="https://s1.ax1x.com/2022/03/08/b2i66x.jpg" group-title="VOD测试",女团 35
 https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240355734488.mp4
-#EXTINF:-1 tvg-name="女团" tvg-logo="https://s4.ax1x.com/2022/02/24/biP0df.png" group-title="VOD测试",女团 39
+#EXTINF:-1 tvg-name="女团" tvg-logo="https://s1.ax1x.com/2022/03/08/b2i66x.jpg" group-title="VOD测试",女团 39
 https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240361330093.mp4
-#EXTINF:-1 tvg-name="女团" tvg-logo="https://s4.ax1x.com/2022/02/24/biP0df.png" group-title="VOD测试",女团 43
+#EXTINF:-1 tvg-name="女团" tvg-logo="https://s1.ax1x.com/2022/03/08/b2i66x.jpg" group-title="VOD测试",女团 43
 https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240368550193.mp4
-#EXTINF:-1 tvg-name="女团" tvg-logo="https://s4.ax1x.com/2022/02/24/biP0df.png" group-title="VOD测试",女团 45
+#EXTINF:-1 tvg-name="女团" tvg-logo="https://s1.ax1x.com/2022/03/08/b2i66x.jpg" group-title="VOD测试",女团 45
 https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240370230905.mp4
-#EXTINF:-1 tvg-name="女团" tvg-logo="https://s4.ax1x.com/2022/02/24/biP0df.png" group-title="VOD测试",女团 48
+#EXTINF:-1 tvg-name="女团" tvg-logo="https://s1.ax1x.com/2022/03/08/b2i66x.jpg" group-title="VOD测试",女团 48
 https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240389662042.mp4
-#EXTINF:-1 tvg-name="女团" tvg-logo="https://s4.ax1x.com/2022/02/24/biP0df.png" group-title="VOD测试",女团 91
+#EXTINF:-1 tvg-name="女团" tvg-logo="https://s1.ax1x.com/2022/03/08/b2i66x.jpg" group-title="VOD测试",女团 91
 https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240401970214.mp4
-#EXTINF:-1 tvg-name="女团" tvg-logo="https://s4.ax1x.com/2022/02/24/biP0df.png" group-title="VOD测试",女团 93
+#EXTINF:-1 tvg-name="女团" tvg-logo="https://s1.ax1x.com/2022/03/08/b2i66x.jpg" group-title="VOD测试",女团 93
 https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240407338165.mp4
-#EXTINF:-1 tvg-name="女团" tvg-logo="https://s4.ax1x.com/2022/02/24/biP0df.png" group-title="VOD测试",女团 09
+#EXTINF:-1 tvg-name="女团" tvg-logo="https://s1.ax1x.com/2022/03/08/b2i66x.jpg" group-title="VOD测试",女团 09
 https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240407847242.mp4
-#EXTINF:-1 tvg-name="女团" tvg-logo="https://s4.ax1x.com/2022/02/24/biP0df.png" group-title="VOD测试",女团 94
+#EXTINF:-1 tvg-name="女团" tvg-logo="https://s1.ax1x.com/2022/03/08/b2i66x.jpg" group-title="VOD测试",女团 94
 https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240408722363.mp4
-#EXTINF:-1 tvg-name="女团" tvg-logo="https://s4.ax1x.com/2022/02/24/biP0df.png" group-title="VOD测试",女团 12
+#EXTINF:-1 tvg-name="女团" tvg-logo="https://s1.ax1x.com/2022/03/08/b2i66x.jpg" group-title="VOD测试",女团 12
 https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240411259014.mp4
-#EXTINF:-1 tvg-name="女团" tvg-logo="https://s4.ax1x.com/2022/02/24/biP0df.png" group-title="VOD测试",女团 97
+#EXTINF:-1 tvg-name="女团" tvg-logo="https://s1.ax1x.com/2022/03/08/b2i66x.jpg" group-title="VOD测试",女团 97
 https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240412190788.mp4
-#EXTINF:-1 tvg-name="女团" tvg-logo="https://s4.ax1x.com/2022/02/24/biP0df.png" group-title="VOD测试",女团 02
+#EXTINF:-1 tvg-name="女团" tvg-logo="https://s1.ax1x.com/2022/03/08/b2i66x.jpg" group-title="VOD测试",女团 02
 https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240415334950.mp4
-#EXTINF:-1 tvg-name="女团" tvg-logo="https://s4.ax1x.com/2022/02/24/biP0df.png" group-title="VOD测试",女团 25
+#EXTINF:-1 tvg-name="女团" tvg-logo="https://s1.ax1x.com/2022/03/08/b2i66x.jpg" group-title="VOD测试",女团 25
 https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240418087243.mp4
-#EXTINF:-1 tvg-name="女团" tvg-logo="https://s4.ax1x.com/2022/02/24/biP0df.png" group-title="VOD测试",女团 38
+#EXTINF:-1 tvg-name="女团" tvg-logo="https://s1.ax1x.com/2022/03/08/b2i66x.jpg" group-title="VOD测试",女团 38
 https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240478207039.mp4
-#EXTINF:-1 tvg-name="女团" tvg-logo="https://s4.ax1x.com/2022/02/24/biP0df.png" group-title="VOD测试",女团 92
+#EXTINF:-1 tvg-name="女团" tvg-logo="https://s1.ax1x.com/2022/03/08/b2i66x.jpg" group-title="VOD测试",女团 92
 https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240522651855.mp4
-#EXTINF:-1 tvg-name="女团" tvg-logo="https://s4.ax1x.com/2022/02/24/biP0df.png" group-title="VOD测试",女团 96
+#EXTINF:-1 tvg-name="女团" tvg-logo="https://s1.ax1x.com/2022/03/08/b2i66x.jpg" group-title="VOD测试",女团 96
 https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240532435115.mp4
-#EXTINF:-1 tvg-name="女团" tvg-logo="https://s4.ax1x.com/2022/02/24/biP0df.png" group-title="VOD测试",女团 98
+#EXTINF:-1 tvg-name="女团" tvg-logo="https://s1.ax1x.com/2022/03/08/b2i66x.jpg" group-title="VOD测试",女团 98
 https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240532671620.mp4
-
 
 
 #EXTINF:-1 group-title="卷毛鼠代理" tvg-logo="https://www.hkdtmb.com/png_logo/81.png",翡翠台
