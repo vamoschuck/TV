@@ -3065,8 +3065,10 @@ http://ye23.win/iptv/tvb.php?id=3
 http://ye23.win/iptv/tvb.php?id=4
 #EXTINF:-1 tvg-id="130" tvg-name="无线新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" group-title="港澳台",无线新闻台5
 http://ye23.win/iptv/tvb.php?id=5
-
-
+#EXTINF:-1 tvg-id="237" tvg-name="now新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" group-title="港澳台",now新闻台
+http://livetv.dnsfor.me:80/channel.4.m3u8
+#EXTINF:-1 tvg-id="237" tvg-name="now sport prime" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" group-title="港澳台",now sports prime
+http://livetv.dnsfor.me:80/channel.12.m3u8
 #EXTINF:-1 group-title="港澳台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hkguojicaijing.png",香港国际财经台
 http://uc6.i-cable.com/live_freedirect/opentvhd002_h.live/playlist.m3u8
 #EXTINF:-1 group-title="港澳台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png",无线新闻台
