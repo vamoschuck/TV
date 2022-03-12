@@ -159,8 +159,6 @@ http://124.232.233.16:6610/000000001001/201500000233/index.m3u8?m3u8_level=2&isp
 http://124.232.233.16:6610/000000001001/201500000072/index.m3u8?m3u8_level=2&ispcode=3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="湖南电信回魂",IPTV4K
 http://124.232.233.16:6610/000000001001/201500000218/index.m3u8?m3u8_level=2&ispcode=3
-#EXTINF:-1 tvg-id="94" tvg-name="IPTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/IPTV5+.png" group-title="湖南电信回魂",IPTV5+
-http://124.232.233.16:6610/000000001001/201500000327/index.m3u8?m3u8_level=2&ispcode=3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="湖南电信回魂",IPTV好吃厨房
 http://124.232.233.16:6610/000000001001/201500000085/index.m3u8?m3u8_level=2&ispcode=3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="湖南电信回魂",IPTV电竞
