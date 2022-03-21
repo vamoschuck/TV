@@ -12,6 +12,15 @@ https://s4.ax1x.com/2022/02/24/biFtbt.jpg
 
 
 
+#EXTINF:-1 tvg-logo="" group-title="西班牙国家德比",爱奇艺 国语
+https://hls.zb.ssports.com/ssports/ch3570835_xinying1080.m3u8?k=c0570f8aba61f7f8ea40d1ea262634ea&t=5f569b90&UID=1647744047free2200881846&MATCHID=3372599&TYPE=1
+#EXTINF:-1 tvg-logo="" group-title="西班牙国家德比",爱奇艺 英语
+https://hls.zb.ssports.com/ssports/en3570835_xinying1080.m3u8?k=c0570f8aba61f7f8ea40d1ea262634ea&t=5f569b90&UID=1647744047free2200881846&MATCHID=3372599&TYPE=1
+#EXTINF:-1 tvg-logo="" group-title="西班牙国家德比",爱奇艺 粤语
+https://hls.zb.ssports.com/ssports/yue3570835_xinying1080.m3u8?k=c0570f8aba61f7f8ea40d1ea262634ea&t=5f569b90&UID=1647744047free2200881846&MATCHID=3372599&TYPE=1
+#EXTINF:-1 tvg-logo="" group-title="西班牙国家德比",咪咕 国语
+
+#EXTINF:-1 tvg-logo="" group-title="西班牙国家德比",咪咕 粤语
 
 
 
@@ -4107,14 +4116,21 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60fb040d4795a6000762fe
 
 
 
+
 #EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/15/HgKGR0.png" group-title="NBA League Pass",ESPN
 https://d17f1mg1q6g54e.cloudfront.net/hls/espn/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s1.ax1x.com/2022/03/19/qAojiT.png" group-title="NBA League Pass",ESPN 2
+https://d17f1mg1q6g54e.cloudfront.net/hls/espn2/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://www.hualigs.cn/image/62070feccd0b5.jpg" group-title="NBA League Pass",TNT
 https://d17f1mg1q6g54e.cloudfront.net/hls/TNT/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.hualigs.cn/image/62071029b78f7.jpg" group-title="NBA League Pass",ABC
 https://d17f1mg1q6g54e.cloudfront.net/hls/abc/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.hualigs.cn/image/62070ebd8d198.jpg" group-title="NBA League Pass",NBA TV
 https://d17f1mg1q6g54e.cloudfront.net/hls/nbatv/playlist.m3u8?SBN
+
+#EXTINF:-1 tvg-logo="https://s1.ax1x.com/2022/03/20/qVJdOI.png" group-title="NBA League Pass",UFC 直播时可用
+https://d17f1mg1q6g54e.cloudfront.net/hls/ufc/chunks.m3u8
+
 #EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/12/HwQgRH.png" group-title="NBA League Pass",密尔沃基雄鹿
 https://d17f1mg1q6g54e.cloudfront.net/hls/bucks/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/12/HwQdMR.png" group-title="NBA League Pass",太阳
@@ -4261,16 +4277,201 @@ https://fash2043.cloudycdn.services/slive/ftv_ftv_asia_ada_xiv_42149_default_137
 #EXTINF:-1 tvg-logo="https://www.hualigs.cn/image/61bb2a0b06f8d.jpg" group-title="FashionTV",FashionBox FHD
 https://fashionbox-localnow.cinedigm.com/playlist.m3u8
 
-#EXTINF:-1 tvg-id="BBCUHDTrial1.uk"  tvg-logo="" group-title="仅限英国IP",BBC UHD Trial 1
-https://a.files.bbci.co.uk/media/live/manifesto/audio_video/webcast/dash/uk/full/ak/uhd_stream_01.mpd
-#EXTINF:-1 tvg-id="BBCUHDTrial2.uk"  tvg-logo="" group-title="仅限英国IP",BBC UHD Trial 2
-https://a.files.bbci.co.uk/media/live/manifesto/audio_video/webcast/dash/uk/full/ak/uhd_stream_02.mpd
-#EXTINF:-1 tvg-id="BBCUHDTrial3.uk"  tvg-logo="" group-title="仅限英国IP",BBC UHD Trial 3
-https://a.files.bbci.co.uk/media/live/manifesto/audio_video/webcast/dash/uk/full/ak/uhd_stream_03.mpd
-#EXTINF:-1 tvg-id="BBCUHDTrial4.uk"  tvg-logo="" group-title="仅限英国IP",BBC UHD Trial 4
-https://a.files.bbci.co.uk/media/live/manifesto/audio_video/webcast/dash/uk/full/ak/uhd_stream_04.mpd
-#EXTINF:-1 tvg-id="BBCUHDTrial5.uk"  tvg-logo="" group-title="仅限英国IP",BBC UHD Trial 5
-https://a.files.bbci.co.uk/media/live/manifesto/audio_video/webcast/dash/uk/full/ak/uhd_stream_05.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s1.ax1x.com/2022/03/20/qVDmEd.png" group-title="英国IP观看",BBC One HD
+https://vs-hls-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_hd/t=3840/v=pv14/b=5070016/main.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s1.ax1x.com/2022/03/20/qVDpNR.png" group-title="英国IP观看",BBC One Wales HD
+https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_wales_hd/t=3840/v=pv14/b=5070016/main.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s1.ax1x.com/2022/03/20/qVDSE9.png" group-title="英国IP观看",BBC One Northern Ireland HD
+https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_northern_ireland_hd/t=3840/v=pv14/b=5070016/main.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s1.ax1x.com/2022/03/20/qVBvB4.png" group-title="英国IP观看",BBC One Scotland HD
+https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_scotland_hd/t=3840/v=pv14/b=5070016/main.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s1.ax1x.com/2022/03/20/qVDVDe.png" group-title="英国IP观看",BBC Two HD
+https://vs-hls-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_two_hd/t=3840/v=pv14/b=5070016/main.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s1.ax1x.com/2022/03/20/qVDdCq.png" group-title="英国IP观看",BBC Two Northern Ireland HD
+https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_two_northern_ireland_hd/t=3840/v=pv14/b=5070016/main.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s1.ax1x.com/2022/03/20/qVrER0.png" group-title="英国IP观看",BBC News HD
+https://vs-hls-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s1.ax1x.com/2022/03/20/qVD941.png" group-title="英国IP观看",BBC Four HD
+https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_four_hd/t=3840/v=pv14/b=5070016/main.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s1.ax1x.com/2022/03/20/qVBjuF.png" group-title="英国IP观看",CBBC HD
+https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:cbbc_hd/t=3840/v=pv14/b=5070016/main.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s1.ax1x.com/2022/03/20/qVBxHJ.png" group-title="英国IP观看",CBeebies HD
+https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:cbeebies_hd/t=3840/v=pv14/b=5070016/main.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s1.ax1x.com/2022/03/20/qVDi36.png" group-title="英国IP观看",BBC Scotland
+http://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_scotland_hd/t=3840/v=pv10/b=1604032/main.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s1.ax1x.com/2022/03/20/qVBvB4.png" group-title="英国IP观看",BBC One Scotland
+http://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_scotland_hd/t=3840/v=pv10/b=1604032/main.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英国IP观看",BBC One Northern Ireland
+http://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_northern_ireland_hd/t=3840/v=pv10/b=1604032/main.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英国IP观看",BBC One Wales
+http://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_wales_hd/t=3840/v=pv10/b=1604032/main.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s1.ax1x.com/2022/03/20/qVD941.png" group-title="英国IP观看",BBC Four
+http://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_four_hd/t=3840/v=pv10/b=1604032/main.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s1.ax1x.com/2022/03/20/qVBjuF.png" group-title="英国IP观看",CBBC
+http://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:cbbc_hd/t=3840/v=pv10/b=1604032/main.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s1.ax1x.com/2022/03/20/qVBxHJ.png" group-title="英国IP观看",CBeebies
+http://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:cbeebies_hd/t=3840/v=pv10/b=1604032/main.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s1.ax1x.com/2022/03/20/qVrER0.png" group-title="英国IP观看",BBC News
+https://vs-hls-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv10/b=1604032/main.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英国IP观看",BBC Two England
+https://vs-hls-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_two_hd/mobile_wifi_main_sd_abr_v2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s1.ax1x.com/2022/03/20/qVDdCq.png" group-title="英国IP观看",BBC Two Northen Ireland
+https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_two_northern_ireland_hd/t=3840/v=pv10/b=1604032/main.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英国IP观看",BBC Parliament
+http://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_parliament/t=3840/v=pv10/b=1604032/main.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英国IP观看",BBC ALBA
+http://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_alba/t=3840/v=pv10/b=1604032/main.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英国IP观看",S4C
+http://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:s4cpbs/t=3840/v=pv10/b=1604032/main.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英国IP观看",BBC One London
+https://vs-hls-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_london/t=3840/v=pv10/b=1604032/main.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英国IP观看",BBC One Cambridge
+http://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_cambridge/t=3840/v=pv10/b=1604032/main.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英国IP观看",BBC One North West
+http://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_north_west/t=3840/v=pv10/b=1604032/main.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英国IP观看",BBC One North East
+http://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_north_east/t=3840/v=pv10/b=1604032/main.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英国IP观看",BBC One South West
+http://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_south_west/t=3840/v=pv10/b=1604032/main.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英国IP观看",BBC One South East
+http://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_south_east/t=3840/v=pv10/b=1604032/main.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英国IP观看",BBC One South
+http://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_south/t=3840/v=pv10/b=1604032/main.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英国IP观看",BBC One East Yorkshire
+http://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_east_yorkshire/t=3840/v=pv10/b=1604032/main.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英国IP观看",BBC One Yorks
+http://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_yorks/t=3840/v=pv10/b=1604032/main.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英国IP观看",BBC One West
+http://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_west/t=3840/v=pv10/b=1604032/main.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英国IP观看",BBC One Oxford
+http://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_oxford/t=3840/v=pv10/b=1604032/main.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英国IP观看",BBC One East Midlands
+http://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_east_midlands/t=3840/v=pv10/b=1604032/main.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英国IP观看",BBC One East
+http://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_east/t=3840/v=pv10/b=1604032/main.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英国IP观看",BBC One Channel Islands
+http://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_channel_islands/t=3840/v=pv10/b=1604032/main.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英国IP观看",BBC One West Midlands
+http://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_west_midlands/t=3840/v=pv10/b=1604032/main.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s1.ax1x.com/2022/03/20/qVrER0.png" group-title="英国IP观看",BBC News Arabic
+https://vs-hls-pushb-ww.live.cf.md.bbci.co.uk/x=3/i=urn:bbc:pips:service:bbc_arabic_tv/t=3840/v=pv10/b=1604032/main.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s1.ax1x.com/2022/03/20/qVrER0.png" group-title="英国IP观看",BBC News Arabic HD
+https://vs-hls-pushb-ww.live.cf.md.bbci.co.uk/x=3/i=urn:bbc:pips:service:bbc_arabic_tv/t=3840/v=pv14/b=5070016/main.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s1.ax1x.com/2022/03/20/qVDi36.png" group-title="英国IP观看",BBC Scotland
+http://vs-hls-pushb-uk-live.akamaized.net/manifest/x=3/i=urn:bbc:pips:service:bbc_scotland_hd/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s1.ax1x.com/2022/03/20/qVBvB4.png" group-title="英国IP观看",BBC One Scotland
+http://vs-hls-pushb-uk-live.akamaized.net/manifest/x=3/i=urn:bbc:pips:service:bbc_one_scotland_hd/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英国IP观看",BBC One Northern Ireland
+http://vs-hls-pushb-uk-live.akamaized.net/manifest/x=3/i=urn:bbc:pips:service:bbc_one_northern_ireland_hd/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英国IP观看",BBC One Wales
+http://vs-hls-pushb-uk-live.akamaized.net/manifest/x=3/i=urn:bbc:pips:service:bbc_one_wales_hd/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s1.ax1x.com/2022/03/20/qVD941.png" group-title="英国IP观看",BBC Four
+http://vs-hls-pushb-uk-live.akamaized.net/manifest/x=3/i=urn:bbc:pips:service:bbc_four_hd/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s1.ax1x.com/2022/03/20/qVBjuF.png" group-title="英国IP观看",CBBC
+http://vs-hls-pushb-uk-live.akamaized.net/manifest/x=3/i=urn:bbc:pips:service:cbbc_hd/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s1.ax1x.com/2022/03/20/qVBxHJ.png" group-title="英国IP观看",CBeebies
+http://vs-hls-pushb-uk-live.akamaized.net/manifest/x=3/i=urn:bbc:pips:service:cbeebies_hd/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s1.ax1x.com/2022/03/20/qVrER0.png" group-title="英国IP观看",BBC News
+https://vs-hls-push-uk-live.akamaized.net/manifest/x=3/i=urn:bbc:pips:service:bbc_news_channel_hd/mobile_wifi_main_sd_abr_v2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英国IP观看",BBC Two Wales
+https://vs-hls-push-uk-live.akamaized.net/manifest/x=3/i=urn:bbc:pips:service:bbc_two_wales_digital/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英国IP观看",BBC Two England
+https://vs-hls-push-uk-live.akamaized.net/manifest/x=3/i=urn:bbc:pips:service:bbc_two_hd/mobile_wifi_main_sd_abr_v2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s1.ax1x.com/2022/03/20/qVDdCq.png" group-title="英国IP观看",BBC Two Northern Ireland
+https://vs-hls-pushb-uk-live.akamaized.net/manifest/x=3/i=urn:bbc:pips:service:bbc_two_northern_ireland_hd/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英国IP观看",BBC Parliament
+http://vs-hls-pushb-uk-live.akamaized.net/manifest/x=3/i=urn:bbc:pips:service:bbc_parliament/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英国IP观看",BBC ALBA
+http://vs-hls-pushb-uk-live.akamaized.net/manifest/x=3/i=urn:bbc:pips:service:bbc_alba/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英国IP观看",S4C
+http://vs-hls-pushb-uk-live.akamaized.net/manifest/x=3/i=urn:bbc:pips:service:s4cpbs/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英国IP观看",BBC One London
+https://vs-hls-push-uk-live.akamaized.net/manifest/x=3/i=urn:bbc:pips:service:bbc_one_london/mobile_wifi_main_sd_abr_v2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英国IP观看",BBC One Cambridge
+http://vs-hls-pushb-uk-live.akamaized.net/manifest/x=3/i=urn:bbc:pips:service:bbc_one_cambridge/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英国IP观看",BBC One North West
+http://vs-hls-pushb-uk-live.akamaized.net/manifest/x=3/i=urn:bbc:pips:service:bbc_one_north_west/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英国IP观看",BBC One North East
+http://vs-hls-pushb-uk-live.akamaized.net/manifest/x=3/i=urn:bbc:pips:service:bbc_one_north_east/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英国IP观看",BBC One South West
+http://vs-hls-pushb-uk-live.akamaized.net/manifest/x=3/i=urn:bbc:pips:service:bbc_one_south_west/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英国IP观看",BBC One South East
+http://vs-hls-pushb-uk-live.akamaized.net/manifest/x=3/i=urn:bbc:pips:service:bbc_one_south_east/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英国IP观看",BBC One South
+http://vs-hls-pushb-uk-live.akamaized.net/manifest/x=3/i=urn:bbc:pips:service:bbc_one_south/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英国IP观看",BBC One East Yorkshire
+http://vs-hls-pushb-uk-live.akamaized.net/manifest/x=3/i=urn:bbc:pips:service:bbc_one_east_yorkshire/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英国IP观看",BBC One Yorks
+http://vs-hls-pushb-uk-live.akamaized.net/manifest/x=3/i=urn:bbc:pips:service:bbc_one_yorks/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英国IP观看",BBC One West
+http://vs-hls-pushb-uk-live.akamaized.net/manifest/x=3/i=urn:bbc:pips:service:bbc_one_west/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英国IP观看",BBC One Oxford
+http://vs-hls-pushb-uk-live.akamaized.net/manifest/x=3/i=urn:bbc:pips:service:bbc_one_oxford/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英国IP观看",BBC One East Midlands
+http://vs-hls-pushb-uk-live.akamaized.net/manifest/x=3/i=urn:bbc:pips:service:bbc_one_east_midlands/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英国IP观看",BBC One East
+http://vs-hls-pushb-uk-live.akamaized.net/manifest/x=3/i=urn:bbc:pips:service:bbc_one_east/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英国IP观看",BBC One Channel Islands
+http://vs-hls-pushb-uk-live.akamaized.net/manifest/x=3/i=urn:bbc:pips:service:bbc_one_channel_islands/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英国IP观看",BBC One West Midlands
+http://vs-hls-pushb-uk-live.akamaized.net/manifest/x=3/i=urn:bbc:pips:service:bbc_one_west_midlands/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s1.ax1x.com/2022/03/20/qVDi36.png" group-title="英国IP观看",BBC Scotland
+https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_scotland_hd/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s1.ax1x.com/2022/03/20/qVBvB4.png" group-title="英国IP观看",BBC One Scotland
+https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_scotland_hd/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英国IP观看",BBC One Northern Ireland
+https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_northern_ireland_hd/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英国IP观看",BBC One Wales
+https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_wales_hd/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s1.ax1x.com/2022/03/20/qVD941.png" group-title="英国IP观看",BBC Four
+https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_four_hd/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s1.ax1x.com/2022/03/20/qVBjuF.png" group-title="英国IP观看",CBBC
+https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:cbbc_hd/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s1.ax1x.com/2022/03/20/qVBxHJ.png" group-title="英国IP观看",CBeebies
+https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:cbeebies_hd/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s1.ax1x.com/2022/03/20/qVrER0.png" group-title="英国IP观看",BBC News
+https://vs-hls-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_news_channel_hd/mobile_wifi_main_sd_abr_v2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英国IP观看",BBC Two Northen Ireland
+https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_two_northern_ireland_hd/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英国IP观看",BBC Parliament
+https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_parliament/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英国IP观看",BBC ALBA
+https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_alba/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英国IP观看",S4C
+https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:s4cpbs/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英国IP观看",BBC One London
+https://vs-hls-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_london/mobile_wifi_main_sd_abr_v2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英国IP观看",BBC One Cambridge
+https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_cambridge/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英国IP观看",BBC One North West
+https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_north_west/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英国IP观看",BBC One North East
+https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_north_east/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英国IP观看",BBC One South West
+https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_south_west/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英国IP观看",BBC One South East
+https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_south_east/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英国IP观看",BBC One South
+https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_south/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英国IP观看",BBC One East Yorkshire
+https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_east_yorkshire/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英国IP观看",BBC One Yorks
+https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_yorks/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英国IP观看",BBC One West
+https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_west/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英国IP观看",BBC One Oxford
+https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_oxford/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英国IP观看",BBC One East Midlands
+https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_east_midlands/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英国IP观看",BBC One East
+https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_east/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英国IP观看",BBC One Channel Islands
+https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_channel_islands/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英国IP观看",BBC One West Midlands
+https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_west_midlands/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
+
+
 
 #EXTINF:-1 tvg-name="女团" tvg-logo="https://s1.ax1x.com/2022/03/08/b2i66x.jpg" group-title="VOD测试",女团 1
 https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240147051191.mp4
