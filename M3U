@@ -10,21 +10,6 @@ https://s4.ax1x.com/2022/02/24/biFtbt.jpg
 https://s4.ax1x.com/2022/02/24/biFtbt.jpg
 
 
-
-
-#EXTINF:-1 tvg-logo="" group-title="西班牙国家德比",爱奇艺 国语
-https://hls.zb.ssports.com/ssports/ch3570835_xinying1080.m3u8?k=c0570f8aba61f7f8ea40d1ea262634ea&t=5f569b90&UID=1647744047free2200881846&MATCHID=3372599&TYPE=1
-#EXTINF:-1 tvg-logo="" group-title="西班牙国家德比",爱奇艺 英语
-https://hls.zb.ssports.com/ssports/en3570835_xinying1080.m3u8?k=c0570f8aba61f7f8ea40d1ea262634ea&t=5f569b90&UID=1647744047free2200881846&MATCHID=3372599&TYPE=1
-#EXTINF:-1 tvg-logo="" group-title="西班牙国家德比",爱奇艺 粤语
-https://hls.zb.ssports.com/ssports/yue3570835_xinying1080.m3u8?k=c0570f8aba61f7f8ea40d1ea262634ea&t=5f569b90&UID=1647744047free2200881846&MATCHID=3372599&TYPE=1
-#EXTINF:-1 tvg-logo="" group-title="西班牙国家德比",咪咕 国语
-
-#EXTINF:-1 tvg-logo="" group-title="西班牙国家德比",咪咕 粤语
-
-
-
-
 #EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/25/bETtJI.png" group-title="俄乌局势新闻 #NOWAR",Prmua
 http://iptv.tvfix.org/hls/prmua.m3u8
 #EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/25/bETtJI.png" group-title="俄乌局势新闻 #NOWAR",Russian24
@@ -457,136 +442,7 @@ http://61.164.158.154:843/zycfcdn.gdwlcloud.com/TVOD/88888888/224/3221226011/ind
 
 
 
-#EXTINF:-1  tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="江西移动-回看",CCTV-1综合
-http://39.135.138.60:18890/TVOD/88888910/224/3221225618/index.m3u8
-#EXTINF:-1  tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="江西移动-回看",CCTV-1综合
-http://39.135.138.60:18890/TVOD/88888910/224/3221225642/index.m3u8
-#EXTINF:-1  tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="江西移动-回看",CCTV-1综合
-http://39.135.138.60:18890/TVOD/88888910/224/3221225762/index.m3u8
-#EXTINF:-1  tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="江西移动-回看",CCTV-1综合
-http://39.135.138.60:18890/TVOD/88888910/224/3221225918/index.m3u8
-#EXTINF:-1  tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="江西移动-回看",CCTV-2财经
-http://39.135.138.60:18890/TVOD/88888910/224/3221225619/index.m3u8
-#EXTINF:-1  tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="江西移动-回看",CCTV-2财经
-http://39.135.138.60:18890/TVOD/88888910/224/3221225643/index.m3u8
-#EXTINF:-1  tvg-id="3" tvg-name="CCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="江西移动-回看",CCTV-3综艺
-http://39.135.138.60:18890/TVOD/88888910/224/3221225634/index.m3u8
-#EXTINF:-1  tvg-id="3" tvg-name="CCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="江西移动-回看",CCTV-3综艺
-http://39.135.138.60:18890/TVOD/88888910/224/3221225647/index.m3u8
-#EXTINF:-1  tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="江西移动-回看",CCTV-4中文
-http://39.135.138.60:18890/TVOD/88888910/224/3221225621/index.m3u8
-#EXTINF:-1  tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="江西移动-回看",CCTV-5体育
-http://39.135.138.60:18890/TVOD/88888910/224/3221225633/index.m3u8
-#EXTINF:-1  tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="江西移动-回看",CCTV-5体育+
-http://39.135.138.60:18890/TVOD/88888910/224/3221225649/index.m3u8
-#EXTINF:-1  tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="江西移动-回看",CCTV-5体育+
-http://39.135.138.60:18890/TVOD/88888910/224/3221225706/index.m3u8
-#EXTINF:-1  tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="江西移动-回看",CCTV-6电影
-http://39.135.138.60:18890/TVOD/88888910/224/3221225632/index.m3u8
-#EXTINF:-1  tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="江西移动-回看",CCTV-6电影
-http://39.135.138.60:18890/TVOD/88888910/224/3221225650/index.m3u8
-#EXTINF:-1  tvg-id="8" tvg-name="CCTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="江西移动-回看",CCTV-7国防
-http://39.135.138.60:18890/TVOD/88888910/224/3221225624/index.m3u8
-#EXTINF:-1  tvg-id="8" tvg-name="CCTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="江西移动-回看",CCTV-7国防
-http://39.135.138.60:18890/TVOD/88888910/224/3221225644/index.m3u8
-#EXTINF:-1  tvg-id="9" tvg-name="CCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="江西移动-回看",CCTV-8电视
-http://39.135.138.60:18890/TVOD/88888910/224/3221225631/index.m3u8
-#EXTINF:-1  tvg-id="9" tvg-name="CCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="江西移动-回看",CCTV-8电视
-http://39.135.138.60:18890/TVOD/88888910/224/3221225635/index.m3u8
-#EXTINF:-1  tvg-id="10" tvg-name="CCTV9" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" group-title="江西移动-回看",CCTV-9记录
-http://39.135.138.60:18890/TVOD/88888910/224/3221225626/index.m3u8
-#EXTINF:-1  tvg-id="10" tvg-name="CCTV9" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" group-title="江西移动-回看",CCTV-9记录
-http://39.135.138.60:18890/TVOD/88888910/224/3221225646/index.m3u8
-#EXTINF:-1  tvg-id="11" tvg-name="CCTV10" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" group-title="江西移动-回看",CCTV-10科教
-http://39.135.138.60:18890/TVOD/88888910/224/3221225627/index.m3u8
-#EXTINF:-1  tvg-id="11" tvg-name="CCTV10" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" group-title="江西移动-回看",CCTV-10科教
-http://39.135.138.60:18890/TVOD/88888910/224/3221225636/index.m3u8
-#EXTINF:-1  tvg-id="12" tvg-name="CCTV11" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png" group-title="江西移动-回看",CCTV-11戏曲
-http://39.135.138.60:18890/TVOD/88888910/224/3221225628/index.m3u8
-#EXTINF:-1  tvg-id="13" tvg-name="CCTV12" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" group-title="江西移动-回看",CCTV-12社会
-http://39.135.138.60:18890/TVOD/88888910/224/3221225629/index.m3u8
-#EXTINF:-1  tvg-id="13" tvg-name="CCTV12" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" group-title="江西移动-回看",CCTV-12社会
-http://39.135.138.60:18890/TVOD/88888910/224/3221225637/index.m3u8
-#EXTINF:-1  tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="江西移动-回看",CCTV-13新闻
-http://39.135.138.60:18890/TVOD/88888910/224/3221225638/index.m3u8
-#EXTINF:-1  tvg-id="15" tvg-name="CCTV14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="江西移动-回看",CCTV-14少儿
-http://39.135.138.60:18890/TVOD/88888910/224/3221225639/index.m3u8
-#EXTINF:-1  tvg-id="15" tvg-name="CCTV14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="江西移动-回看",CCTV-14少儿
-http://39.135.138.60:18890/TVOD/88888910/224/3221225640/index.m3u8
-#EXTINF:-1  tvg-id="16" tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="江西移动-回看",CCTV-15音乐
-http://39.135.138.60:18890/TVOD/88888910/224/3221225641/index.m3u8
-#EXTINF:-1  tvg-id="7249" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="江西移动-回看",CCTV奥林匹克频道
-http://39.135.138.60:18890/TVOD/88888910/224/3221226230/index.m3u8
-#EXTINF:-1  tvg-id="7249" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="江西移动-回看",CCTV奥林匹克频道
-http://39.135.138.60:18890/TVOD/88888910/224/3221226233/index.m3u8
-#EXTINF:-1  tvg-id="17" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="江西移动-回看",CCTV-17农业
-http://39.135.138.60:18890/TVOD/88888910/224/3221225907/index.m3u8
-#EXTINF:-1  tvg-id="17" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="江西移动-回看",CCTV-17农业
-http://39.135.138.60:18890/TVOD/88888910/224/3221225908/index.m3u8
-#EXTINF:-1  tvg-id="17" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="江西移动-回看",CCTV-17农业
-http://39.135.138.60:18890/TVOD/88888910/224/3221225909/index.m3u8
-#EXTINF:-1  tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="江西移动-回看",北京卫视
-http://39.135.138.60:18890/TVOD/88888910/224/3221225673/index.m3u8
-#EXTINF:-1  tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="江西移动-回看",北京卫视
-http://39.135.138.60:18890/TVOD/88888910/224/3221225674/index.m3u8
-#EXTINF:-1  tvg-id="31" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="江西移动-回看",东方卫视
-http://39.135.138.60:18890/TVOD/88888910/224/3221225659/index.m3u8
-#EXTINF:-1  tvg-id="31" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="江西移动-回看",东方卫视
-http://39.135.138.60:18890/TVOD/88888910/224/3221225658/index.m3u8
-#EXTINF:-1  tvg-id="41" tvg-name="东南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongnan.png" group-title="江西移动-回看",东南卫视
-http://39.135.138.60:18890/TVOD/88888910/224/3221225657/index.m3u8
-#EXTINF:-1  tvg-id="46" tvg-name="黑龙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png" group-title="江西移动-回看",黑龙江卫视
-http://39.135.138.60:18890/TVOD/88888910/224/3221225690/index.m3u8
-#EXTINF:-1  tvg-id="46" tvg-name="黑龙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png" group-title="江西移动-回看",黑龙江卫视
-http://39.135.138.60:18890/TVOD/88888910/224/3221225736/index.m3u8
-#EXTINF:-1  tvg-id="32" tvg-name="安徽卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png" group-title="江西移动-回看",安徽卫视
-http://39.135.138.60:18890/TVOD/88888910/224/3221225691/index.m3u8
-#EXTINF:-1  tvg-id="32" tvg-name="安徽卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png" group-title="江西移动-回看",安徽卫视
-http://39.135.138.60:18890/TVOD/88888910/224/3221225737/index.m3u8
-#EXTINF:-1  tvg-id="40" tvg-name="重庆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png" group-title="江西移动-回看",重庆卫视
-http://39.135.138.60:18890/TVOD/88888910/224/3221225692/index.m3u8
-#EXTINF:-1  tvg-id="40" tvg-name="重庆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png" group-title="江西移动-回看",重庆卫视
-http://39.135.138.60:18890/TVOD/88888910/224/3221225734/index.m3u8
-#EXTINF:-1  tvg-id="36" tvg-name="辽宁卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png" group-title="江西移动-回看",辽宁卫视
-http://39.135.138.60:18890/TVOD/88888910/224/3221225696/index.m3u8
-#EXTINF:-1  tvg-id="36" tvg-name="辽宁卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png" group-title="江西移动-回看",辽宁卫视
-http://39.135.138.60:18890/TVOD/88888910/224/3221225735/index.m3u8
-#EXTINF:-1  tvg-id="39" tvg-name="天津卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/tianjin.png" group-title="江西移动-回看",天津卫视
-http://39.135.138.60:18890/TVOD/88888910/224/3221225698/index.m3u8
-#EXTINF:-1  tvg-id="39" tvg-name="天津卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/tianjin.png" group-title="江西移动-回看",天津卫视
-http://39.135.138.60:18890/TVOD/88888910/224/3221225739/index.m3u8
-#EXTINF:-1  tvg-id="38" tvg-name="山东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png" group-title="江西移动-回看",山东卫视
-http://39.135.138.60:18890/TVOD/88888910/224/3221225697/index.m3u8
-#EXTINF:-1  tvg-id="38" tvg-name="山东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png" group-title="江西移动-回看",山东卫视
-http://39.135.138.60:18890/TVOD/88888910/224/3221225738/index.m3u8
-#EXTINF:-1  tvg-id="48" tvg-name="湖北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hubei.png" group-title="江西移动-回看",湖北卫视
-http://39.135.138.60:18890/TVOD/88888910/224/3221225699/index.m3u8
-#EXTINF:-1  tvg-id="48" tvg-name="湖北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hubei.png" group-title="江西移动-回看",湖北卫视
-http://39.135.138.60:18890/TVOD/88888910/224/3221225740/index.m3u8
-#EXTINF:-1  tvg-id="34" tvg-name="深圳卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shenzhen.png" group-title="江西移动-回看",深圳卫视
-http://39.135.138.60:18890/TVOD/88888910/224/3221225700/index.m3u8
-#EXTINF:-1  tvg-id="34" tvg-name="深圳卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shenzhen.png" group-title="江西移动-回看",深圳卫视
-http://39.135.138.60:18890/TVOD/88888910/224/3221225741/index.m3u8
-#EXTINF:-1  tvg-id="29" tvg-name="江苏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="江西移动-回看",江苏卫视
-http://39.135.138.60:18890/TVOD/88888910/224/3221225702/index.m3u8
-#EXTINF:-1  tvg-id="29" tvg-name="江苏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="江西移动-回看",江苏卫视
-http://39.135.138.60:18890/TVOD/88888910/224/3221225743/index.m3u8
-#EXTINF:-1  tvg-id="33" tvg-name="广东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="江西移动-回看",广东卫视
-http://39.135.138.60:18890/TVOD/88888910/224/3221225701/index.m3u8
-#EXTINF:-1  tvg-id="33" tvg-name="广东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="江西移动-回看",广东卫视
-http://39.135.138.60:18890/TVOD/88888910/224/3221225742/index.m3u8
-#EXTINF:-1  tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="江西移动-回看",浙江卫视
-http://39.135.138.60:18890/TVOD/88888910/224/3221225703/index.m3u8
-#EXTINF:-1  tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="江西移动-回看",浙江卫视
-http://39.135.138.60:18890/TVOD/88888910/224/3221225744/index.m3u8
-#EXTINF:-1  tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="江西移动-回看",湖南卫视
-http://39.135.138.60:18890/TVOD/88888910/224/3221225704/index.m3u8
-#EXTINF:-1  tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="江西移动-回看",湖南卫视
-http://39.135.138.60:18890/TVOD/88888910/224/3221225745/index.m3u8
-#EXTINF:-1  tvg-id="50" tvg-name="江西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangxi.png" group-title="江西移动-回看",江西卫视
-http://39.135.138.60:18890/TVOD/88888910/224/3221225705/index.m3u8
-#EXTINF:-1  tvg-id="50" tvg-name="江西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangxi.png" group-title="江西移动-回看",江西卫视
-http://39.135.138.60:18890/TVOD/88888910/224/3221225746/index.m3u8
+
 
 
 
@@ -610,7 +466,7 @@ http://117.148.179.162/TVOD/88888888/224/3221231615/index.m3u8
 #EXTINF:-1  tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="杭州移动-回看",CCTV4-美洲HD
 http://117.148.179.160/TVOD/88888888/224/3221231654/index.m3u8
 #EXTINF:-1  tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="杭州移动-回看",CCTV5HD
-http://117.148.179.142/TVOD/88888888/224/3221232440/index.m3u8
+
 #EXTINF:-1  tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="杭州移动-回看",CCTV5+HD
 http://117.148.179.136/TVOD/88888888/224/3221231459/index.m3u8
 #EXTINF:-1  tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="杭州移动-回看",CCTV5+HD
@@ -2425,18 +2281,7 @@ http://39.135.42.203/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225851/index.m3u8
 http://39.135.42.203/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225853/index.m3u8
 #EXTINF:-1 group-title="赛事直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",新咪咕广西_43
 http://39.135.42.203/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225860/index.m3u8
-#EXTINF:-1 group-title="赛事直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",咪咕视频
-http://39.134.66.66/PLTV/88888888/224/3221225905/index.m3u8
-#EXTINF:-1 group-title="赛事直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",咪咕视频
-http://39.134.66.66/PLTV/88888888/224/3221225910/index.m3u8
-#EXTINF:-1 group-title="赛事直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",咪咕视频
-http://39.134.66.66/PLTV/88888888/224/3221225613/index.m3u8
-#EXTINF:-1 group-title="赛事直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",咪咕视频
-http://39.134.66.66/PLTV/88888888/224/3221225617/index.m3u8
-#EXTINF:-1 group-title="赛事直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",咪咕视频
-http://39.134.66.66/PLTV/88888888/224/3221225619/index.m3u8
-#EXTINF:-1 group-title="赛事直播" tvg-logo="https://www.hualigs.cn/image/6153f9c6aa2ae.jpg",咪咕视频
-http://39.134.66.66/PLTV/88888888/224/3221225620/index.m3u8
+
 
 
 
@@ -2567,213 +2412,292 @@ http://58.99.33.16:1935/liveedge17/live_244_3.stream/chunklist.m3u8
 #EXTINF:-1 group-title="港澳台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/智林体育台.png",智林体育台
 http://58.99.33.16:1935/liveedge17/live_122_3.stream/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="港台電視31" tvg-logo="https://www.hkdtmb.com/png_logo/31.png" group-title="HKAnime源码限香港IP",港台電視31
+
+#EXTINF:-1 tvg-id="31" tvg-name="港台電視31" tvg-logo="https://www.hkdtmb.com/png_logo/31.png" group-title="HKAnime源码限香港IP",港台電視31
 https://cdn.hkdtmb.com/raw/31.ts
-#EXTINF:-1 tvg-id="" tvg-name="港台電視32" tvg-logo="https://www.hkdtmb.com/png_logo/32.png" group-title="HKAnime源码限香港IP",港台電視32
+#EXTINF:-1 tvg-id="32" tvg-name="港台電視32" tvg-logo="https://www.hkdtmb.com/png_logo/32.png" group-title="HKAnime源码限香港IP",港台電視32
 https://cdn.hkdtmb.com/raw/32.ts
-#EXTINF:-1 tvg-id="" tvg-name="港台電視33" tvg-logo="https://www.hkdtmb.com/png_logo/33.png" group-title="HKAnime源码限香港IP",港台電視33
+#EXTINF:-1 tvg-id="33" tvg-name="港台電視33" tvg-logo="https://www.hkdtmb.com/png_logo/33.png" group-title="HKAnime源码限香港IP",港台電視33
 https://cdn.hkdtmb.com/raw/33.ts
-#EXTINF:-1 tvg-id="" tvg-name="香港開電視" tvg-logo="https://www.hkdtmb.com/png_logo/77.png" group-title="HKAnime源码限香港IP",香港開電視
+#EXTINF:-1 tvg-id="77" tvg-name="香港開電視" tvg-logo="https://www.hkdtmb.com/png_logo/77.png" group-title="HKAnime源码限香港IP",香港開電視
 https://cdn.hkdtmb.com/raw/77.ts
-#EXTINF:-1 tvg-id="" tvg-name="香港國際財經台" tvg-logo="https://www.hkdtmb.com/png_logo/76.png" group-title="HKAnime源码限香港IP",香港國際財經台
+#EXTINF:-1 tvg-id="76" tvg-name="香港國際財經台" tvg-logo="https://www.hkdtmb.com/png_logo/76.png" group-title="HKAnime源码限香港IP",香港國際財經台
 https://cdn.hkdtmb.com/raw/76.ts
-#EXTINF:-1 tvg-id="" tvg-name="翡翠台" tvg-logo="https://www.hkdtmb.com/png_logo/81.png" group-title="HKAnime源码限香港IP",翡翠台
+#EXTINF:-1 tvg-id="81" tvg-name="翡翠台" tvg-logo="https://www.hkdtmb.com/png_logo/81.png" group-title="HKAnime源码限香港IP",翡翠台
 https://cdn.hkdtmb.com/raw/81.ts
-#EXTINF:-1 tvg-id="" tvg-name="翡翠台 (中英字幕)" tvg-logo="https://www.hkdtmb.com/png_logo/81.png" group-title="HKAnime源码限香港IP",翡翠台 (中英字幕)
+#EXTINF:-1 tvg-id="81" tvg-name="翡翠台 (中英字幕)" tvg-logo="https://www.hkdtmb.com/png_logo/81.png" group-title="HKAnime源码限香港IP",翡翠台 (中英字幕)
 https://cdn.hkdtmb.com/raw/81b.ts
-#EXTINF:-1 tvg-id="" tvg-name="J2台" tvg-logo="https://www.hkdtmb.com/png_logo/82.png" group-title="HKAnime源码限香港IP",J2台
+#EXTINF:-1 tvg-id="82" tvg-name="J2台" tvg-logo="https://www.hkdtmb.com/png_logo/82.png" group-title="HKAnime源码限香港IP",J2台
 https://cdn.hkdtmb.com/raw/82.ts
-#EXTINF:-1 tvg-id="" tvg-name="無綫新聞台" tvg-logo="https://www.hkdtmb.com/png_logo/83.png" group-title="HKAnime源码限香港IP",無綫新聞台
+#EXTINF:-1 tvg-id="83" tvg-name="無綫新聞台" tvg-logo="https://www.hkdtmb.com/png_logo/83.png" group-title="HKAnime源码限香港IP",無綫新聞台
 https://cdn.hkdtmb.com/raw/83.ts
-#EXTINF:-1 tvg-id="" tvg-name="明珠台" tvg-logo="https://www.hkdtmb.com/png_logo/84.png" group-title="HKAnime源码限香港IP",明珠台
+#EXTINF:-1 tvg-id="84" tvg-name="明珠台" tvg-logo="https://www.hkdtmb.com/png_logo/84.png" group-title="HKAnime源码限香港IP",明珠台
 https://cdn.hkdtmb.com/raw/84.ts
-#EXTINF:-1 tvg-id="" tvg-name="明珠台 (粵語聲道)" tvg-logo="https://www.hkdtmb.com/png_logo/84.png" group-title="HKAnime源码限香港IP",明珠台 (粵語聲道)
+#EXTINF:-1 tvg-id="84" tvg-name="明珠台 (粵語聲道)" tvg-logo="https://www.hkdtmb.com/png_logo/84.png" group-title="HKAnime源码限香港IP",明珠台 (粵語聲道)
 https://cdn.hkdtmb.com/raw/84b.ts
-#EXTINF:-1 tvg-id="" tvg-name="無綫財經·資訊台" tvg-logo="https://www.hkdtmb.com/png_logo/85.png" group-title="HKAnime源码限香港IP",無綫財經·資訊台
+#EXTINF:-1 tvg-id="85" tvg-name="無綫財經·資訊台" tvg-logo="https://www.hkdtmb.com/png_logo/85.png" group-title="HKAnime源码限香港IP",無綫財經·資訊台
 https://cdn.hkdtmb.com/raw/85.ts
-#EXTINF:-1 tvg-id="ViuTV.hk" tvg-name="" tvg-logo="https://www.hkdtmb.com/png_logo/99.png" group-title="HKAnime源码限香港IP",ViuTV
+#EXTINF:-1 tvg-id="99" tvg-name="ViuTV" tvg-logo="https://www.hkdtmb.com/png_logo/99.png" group-title="HKAnime源码限香港IP",ViuTV
 https://cdn.hkdtmb.com/raw/99.ts
-#EXTINF:-1 tvg-id="ViuTVsix.hk" tvg-name="" tvg-logo="https://www.hkdtmb.com/png_logo/96.png" group-title="HKAnime源码限香港IP",ViuTV Six
+#EXTINF:-1 tvg-id="96" tvg-name="ViuTV" tvg-logo="https://www.hkdtmb.com/png_logo/96.png" group-title="HKAnime源码限香港IP",ViuTV Six
 https://cdn.hkdtmb.com/raw/96.ts
 
+#EXTINF:-1 tvg-id="" tvg-name="港台電視31" tvg-logo="https://www.hkdtmb.com/png_logo/31.png" group-title="HKAnime源码",港台電視31
+https://cdn.hklive.tv/raw/31.ts
+#EXTINF:-1 tvg-id="" tvg-name="港台電視32" tvg-logo="https://www.hkdtmb.com/png_logo/32.png" group-title="HKAnime源码",港台電視32
+https://cdn.hklive.tv/raw/32.ts
+#EXTINF:-1 tvg-id="" tvg-name="港台電視33" tvg-logo="https://www.hkdtmb.com/png_logo/33.png" group-title="HKAnime源码",港台電視33
+https://cdn.hklive.tv/raw/33.ts
+#EXTINF:-1 tvg-id="" tvg-name="香港開電視" tvg-logo="https://www.hkdtmb.com/png_logo/77.png" group-title="HKAnime源码",香港開電視
+https://cdn.hklive.tv/raw/77.ts
+#EXTINF:-1 tvg-id="" tvg-name="香港國際財經台" tvg-logo="https://www.hkdtmb.com/png_logo/76.png" group-title="HKAnime源码",香港國際財經台
+https://cdn.hklive.tv/raw/76.ts
+#EXTINF:-1 tvg-id="" tvg-name="翡翠台" tvg-logo="https://www.hkdtmb.com/png_logo/81.png" group-title="HKAnime源码",翡翠台
+https://cdn.hklive.tv/raw/81.ts
+#EXTINF:-1 tvg-id="" tvg-name="翡翠台 (中英字幕)" tvg-logo="https://www.hkdtmb.com/png_logo/81.png" group-title="HKAnime源码",翡翠台 (中英字幕)
+https://cdn.hklive.tv/raw/81b.ts
+#EXTINF:-1 tvg-id="" tvg-name="J2台" tvg-logo="https://www.hkdtmb.com/png_logo/82.png" group-title="HKAnime源码",J2台
+https://cdn.hklive.tv/raw/82.ts
+#EXTINF:-1 tvg-id="" tvg-name="無綫新聞台" tvg-logo="https://www.hkdtmb.com/png_logo/83.png" group-title="HKAnime源码",無綫新聞台
+https://cdn.hklive.tv/raw/83.ts
+#EXTINF:-1 tvg-id="" tvg-name="明珠台" tvg-logo="https://www.hkdtmb.com/png_logo/84.png" group-title="HKAnime源码",明珠台
+https://cdn.hklive.tv/raw/84.ts
+#EXTINF:-1 tvg-id="" tvg-name="明珠台 (粵語聲道)" tvg-logo="https://www.hkdtmb.com/png_logo/84.png" group-title="HKAnime源码",明珠台 (粵語聲道)
+https://cdn.hklive.tv/raw/84b.ts
+#EXTINF:-1 tvg-id="" tvg-name="無綫財經·資訊台" tvg-logo="https://www.hkdtmb.com/png_logo/85.png" group-title="HKAnime源码",無綫財經·資訊台
+https://cdn.hklive.tv/raw/85.ts
+#EXTINF:-1 tvg-id="ViuTV.hk" tvg-name="" tvg-logo="https://www.hkdtmb.com/png_logo/99.png" group-title="HKAnime源码",ViuTV
+https://cdn.hklive.tv/raw/99.ts
+#EXTINF:-1 tvg-id="ViuTVsix.hk" tvg-name="" tvg-logo="https://www.hkdtmb.com/png_logo/96.png" group-title="HKAnime源码",ViuTV Six
+https://cdn.hklive.tv/raw/96.ts
+
+#EXTINF:-1 tvg-id="31" tvg-name="港台電視31" tvg-logo="https://live.hkanime.com.hk/png_logo/31.png" group-title="HKAnime-大陆",港台電視31
+https://cdn.hkyoutv.com/hls/31/index.m3u8
+#EXTINF:-1 tvg-id="32" tvg-name="港台電視32" tvg-logo="https://live.hkanime.com.hk/png_logo/32.png" group-title="HKAnime-大陆",港台電視32
+https://cdn.hkyoutv.com/hls/32/index.m3u8
+#EXTINF:-1 tvg-id="33" tvg-name="港台電視33" tvg-logo="https://live.hkanime.com.hk/png_logo/33.png" group-title="HKAnime-大陆",港台電視33
+https://cdn.hkyoutv.com/hls/33/index.m3u8
+#EXTINF:-1 tvg-id="77" tvg-name="香港開電視" tvg-logo="https://live.hkanime.com.hk/png_logo/77.png" group-title="HKAnime-大陆",香港開電視
+https://cdn.hkyoutv.com/hls/77/index.m3u8
+#EXTINF:-1 tvg-id="76" tvg-name="香港國際財經台" tvg-logo="https://live.hkanime.com.hk/png_logo/76.png" group-title="HKAnime-大陆",香港國際財經台
+https://cdn.hkyoutv.com/hls/76/index.m3u8
+#EXTINF:-1 tvg-id="81" tvg-name="翡翠台" tvg-logo="https://live.hkanime.com.hk/png_logo/81.png" group-title="HKAnime-大陆",翡翠台
+https://cdn.hkyoutv.com/hls/81/index.m3u8
+#EXTINF:-1 tvg-id="81" tvg-name="翡翠台 (中英字幕)" tvg-logo="https://live.hkanime.com.hk/png_logo/81.png" group-title="HKAnime-大陆",翡翠台 (中英字幕)
+https://cdn.hkyoutv.com/hls/81b/index.m3u8
+#EXTINF:-1 tvg-id="82" tvg-name="J2台" tvg-logo="https://live.hkanime.com.hk/png_logo/82.png" group-title="HKAnime-大陆",J2台
+https://cdn.hkyoutv.com/hls/82/index.m3u8
+#EXTINF:-1 tvg-id="83" tvg-name="無綫新聞台" tvg-logo="https://live.hkanime.com.hk/png_logo/83.png" group-title="HKAnime-大陆",無綫新聞台
+https://cdn.hkyoutv.com/hls/83/index.m3u8
+#EXTINF:-1 tvg-id="84" tvg-name="明珠台" tvg-logo="https://live.hkanime.com.hk/png_logo/84.png" group-title="HKAnime-大陆",明珠台
+https://cdn.hkyoutv.com/hls/84/index.m3u8
+#EXTINF:-1 tvg-id="84" tvg-name="明珠台 (粵語聲道)" tvg-logo="https://live.hkanime.com.hk/png_logo/84.png" group-title="HKAnime-大陆",明珠台 (粵語聲道)
+https://cdn.hkyoutv.com/hls/84b/index.m3u8
+#EXTINF:-1 tvg-id="85" tvg-name="無綫財經·資訊台" tvg-logo="https://live.hkanime.com.hk/png_logo/85.png" group-title="HKAnime-大陆",無綫財經·資訊台
+https://cdn.hkyoutv.com/hls/85/index.m3u8
+#EXTINF:-1 tvg-id="99" tvg-name="ViuTV" tvg-logo="https://live.hkanime.com.hk/png_logo/99.png" group-title="HKAnime-大陆",ViuTV
+https://cdn.hkyoutv.com/hls/99/index.m3u8
+#EXTINF:-1 tvg-id="96" tvg-name="ViuTV" tvg-logo="https://live.hkanime.com.hk/png_logo/96.png" group-title="HKAnime-大陆",ViuTV Six
+https://cdn.hkyoutv.com/hls/96/index.m3u8
+#EXTINF:-1 tvg-id="96" tvg-name="ViuTV" tvg-logo="https://live.hkanime.com.hk/png_logo/96.png" group-title="HKAnime-大陆",ViuTV Six （第二聲度）
+https://cdn.hkyoutv.com/hls/96b/index.m3u8
 
 
-
-
-#EXTINF:-1 tvg-id="" tvg-name="港台電視31" tvg-logo="https://live.hkanime.com.hk/png_logo/31.png" group-title="HKAnime源码-大陆",港台電視31 
+#EXTINF:-1 tvg-id="31" tvg-name="港台電視31" tvg-logo="https://live.hkanime.com.hk/png_logo/31.png" group-title="HKAnime源码-大陆",港台電視31 
 https://cdn.hkyoutv.com/raw/31.ts 
-#EXTINF:-1 tvg-id="" tvg-name="港台電視32" tvg-logo="https://live.hkanime.com.hk/png_logo/32.png" group-title="HKAnime源码-大陆",港台電視32 
+#EXTINF:-1 tvg-id="32" tvg-name="港台電視32" tvg-logo="https://live.hkanime.com.hk/png_logo/32.png" group-title="HKAnime源码-大陆",港台電視32 
 https://cdn.hkyoutv.com/raw/32.ts 
-#EXTINF:-1 tvg-id="" tvg-name="港台電視33" tvg-logo="https://live.hkanime.com.hk/png_logo/33.png" group-title="HKAnime源码-大陆",港台電視33 
+#EXTINF:-1 tvg-id="33" tvg-name="港台電視33" tvg-logo="https://live.hkanime.com.hk/png_logo/33.png" group-title="HKAnime源码-大陆",港台電視33 
 https://cdn.hkyoutv.com/raw/33.ts 
-#EXTINF:-1 tvg-id="" tvg-name="香港開電視" tvg-logo="https://live.hkanime.com.hk/png_logo/77.png" group-title="HKAnime源码-大陆",香港開電視 
+#EXTINF:-1 tvg-id="77" tvg-name="香港開電視" tvg-logo="https://live.hkanime.com.hk/png_logo/77.png" group-title="HKAnime源码-大陆",香港開電視 
 https://cdn.hkyoutv.com/raw/77.ts 
-#EXTINF:-1 tvg-id="" tvg-name="香港國際財經台" tvg-logo="https://live.hkanime.com.hk/png_logo/76.png" group-title="HKAnime源码-大陆",香港國際財經台 
+#EXTINF:-1 tvg-id="76" tvg-name="香港國際財經台" tvg-logo="https://live.hkanime.com.hk/png_logo/76.png" group-title="HKAnime源码-大陆",香港國際財經台 
 https://cdn.hkyoutv.com/raw/76.ts 
-#EXTINF:-1 tvg-id="" tvg-name="翡翠台" tvg-logo="https://live.hkanime.com.hk/png_logo/81.png" group-title="HKAnime源码-大陆",翡翠台 
+#EXTINF:-1 tvg-id="81" tvg-name="翡翠台" tvg-logo="https://live.hkanime.com.hk/png_logo/81.png" group-title="HKAnime源码-大陆",翡翠台 
 https://cdn.hkyoutv.com/raw/81.ts 
-#EXTINF:-1 tvg-id="" tvg-name="J2台" tvg-logo="https://live.hkanime.com.hk/png_logo/82.png" group-title="HKAnime源码-大陆",J2台 
+#EXTINF:-1 tvg-id="81" tvg-name="翡翠台 (中英字幕)" tvg-logo="https://live.hkanime.com.hk/png_logo/81.png" group-title="HKAnime源码-大陆",翡翠台 (中英字幕) 
+https://cdn.hkyoutv.com/raw/81b.ts 
+#EXTINF:-1 tvg-id="82" tvg-name="J2台" tvg-logo="https://live.hkanime.com.hk/png_logo/82.png" group-title="HKAnime源码-大陆",J2台 
 https://cdn.hkyoutv.com/raw/82.ts 
-#EXTINF:-1 tvg-id="" tvg-name="無綫新聞台" tvg-logo="https://live.hkanime.com.hk/png_logo/83.png" group-title="HKAnime源码-大陆",無綫新聞台 
+#EXTINF:-1 tvg-id="83" tvg-name="無綫新聞台" tvg-logo="https://live.hkanime.com.hk/png_logo/83.png" group-title="HKAnime源码-大陆",無綫新聞台 
 https://cdn.hkyoutv.com/raw/83.ts 
-#EXTINF:-1 tvg-id="" tvg-name="明珠台" tvg-logo="https://live.hkanime.com.hk/png_logo/84.png" group-title="HKAnime源码-大陆",明珠台 
+#EXTINF:-1 tvg-id="84" tvg-name="明珠台" tvg-logo="https://live.hkanime.com.hk/png_logo/84.png" group-title="HKAnime源码-大陆",明珠台 
 https://cdn.hkyoutv.com/raw/84.ts 
-#EXTINF:-1 tvg-id="" tvg-name="無綫財經·資訊台" tvg-logo="https://live.hkanime.com.hk/png_logo/85.png" group-title="HKAnime源码-大陆",無綫財經·資訊台 
+#EXTINF:-1 tvg-id="84" tvg-name="明珠台 (粵語聲道)" tvg-logo="https://live.hkanime.com.hk/png_logo/84.png" group-title="HKAnime源码-大陆",明珠台 (粵語聲道) 
+https://cdn.hkyoutv.com/raw/84b.ts 
+#EXTINF:-1 tvg-id="85" tvg-name="無綫財經·資訊台" tvg-logo="https://live.hkanime.com.hk/png_logo/85.png" group-title="HKAnime源码-大陆",無綫財經·資訊台 
 https://cdn.hkyoutv.com/raw/85.ts 
-#EXTINF:-1 tvg-id="ViuTV.hk" tvg-name="" tvg-logo="https://live.hkanime.com.hk/png_logo/99.png" group-title="HKAnime源码-大陆",ViuTV 
+#EXTINF:-1 tvg-id="99" tvg-name="ViuTV" tvg-logo="https://live.hkanime.com.hk/png_logo/99.png" group-title="HKAnime源码-大陆",ViuTV 
 https://cdn.hkyoutv.com/raw/99.ts 
-#EXTINF:-1 tvg-id="ViuTVsix.hk" tvg-name="" tvg-logo="https://live.hkanime.com.hk/png_logo/96.png" group-title="HKAnime源码-大陆",ViuTV Six 
+#EXTINF:-1 tvg-id="96" tvg-name="ViuTV" tvg-logo="https://live.hkanime.com.hk/png_logo/96.png" group-title="HKAnime源码-大陆",ViuTV Six 
 https://cdn.hkyoutv.com/raw/96.ts
 
 
-
-#EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港澳台电视侠",翡翠台(第1声道繁体)
+#EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="电视侠",翡翠台(第1声道繁体)
 http://iptv.tvfix.org/hls/jade.m3u8
-#EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港澳台电视侠",翡翠台(第2声道简体)
+#EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="电视侠",翡翠台(第2声道简体)
 http://iptv.tvfix.org/hls/jade2.m3u8
-#EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港澳台电视侠",翡翠台海外版(粤语繁体)
+#EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="电视侠",翡翠台海外版(粤语繁体)
 http://iptv.tvfix.org/hls/jadenhk.m3u8
-#EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港澳台电视侠",翡翠台海外版(普通话简体)
+#EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="电视侠",翡翠台海外版(普通话简体)
 http://iptv.tvfix.org/hls/jadenhk2.m3u8
-#EXTINF:-1 tvg-id="416" tvg-name="J2" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBJ2.png" group-title="港澳台电视侠",J2
+#EXTINF:-1 tvg-id="416" tvg-name="J2" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBJ2.png" group-title="电视侠",J2
 http://iptv.tvfix.org/hls/j2.m3u8
-#EXTINF:-1 tvg-id="416" tvg-name="J2" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBJ2.png" group-title="港澳台电视侠",J2(第2声道)
+#EXTINF:-1 tvg-id="416" tvg-name="J2" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBJ2.png" group-title="电视侠",J2(第2声道)
 http://iptv.tvfix.org/hls/j22.m3u8
-#EXTINF:-1 tvg-id="130" tvg-name="无线新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" group-title="港澳台电视侠",无线新闻台
+#EXTINF:-1 tvg-id="130" tvg-name="无线新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" group-title="电视侠",无线新闻台
 http://iptv.tvfix.org/hls/inews.m3u8
-#EXTINF:-1 tvg-id="130" tvg-name="无线新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" group-title="港澳台电视侠",无线新闻台(第2声道)
+#EXTINF:-1 tvg-id="130" tvg-name="无线新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" group-title="电视侠",无线新闻台(第2声道)
 http://iptv.tvfix.org/hls/inews2.m3u8
-#EXTINF:-1 tvg-id="127" tvg-name="明珠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB明珠台.png" group-title="港澳台电视侠",明珠台
+#EXTINF:-1 tvg-id="127" tvg-name="明珠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB明珠台.png" group-title="电视侠",明珠台
 http://iptv.tvfix.org/hls/pearl.m3u8
-#EXTINF:-1 tvg-id="127" tvg-name="明珠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB明珠台.png" group-title="港澳台电视侠",明珠台(第2声道)
+#EXTINF:-1 tvg-id="127" tvg-name="明珠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB明珠台.png" group-title="电视侠",明珠台(第2声道)
 http://iptv.tvfix.org/hls/pearl2.m3u8
-#EXTINF:-1 tvg-id="133" tvg-name="无线财经" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvbfinanceinformationchannel.png" group-title="港澳台电视侠",无线财经资讯台
+#EXTINF:-1 tvg-id="133" tvg-name="无线财经" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvbfinanceinformationchannel.png" group-title="电视侠",无线财经资讯台
 http://iptv.tvfix.org/hls/finance.m3u8
-#EXTINF:-1 tvg-id="133" tvg-name="无线财经" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvbfinanceinformationchannel.png" group-title="港澳台电视侠",无线财经资讯台(第2声道)
+#EXTINF:-1 tvg-id="133" tvg-name="无线财经" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvbfinanceinformationchannel.png" group-title="电视侠",无线财经资讯台(第2声道)
 http://iptv.tvfix.org/hls/finance2.m3u8
-#EXTINF:-1 tvg-id="133" tvg-name="无线财经" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvbfinanceinformationchannel.png" group-title="港澳台电视侠",无线财经资讯台海外版
+#EXTINF:-1 tvg-id="133" tvg-name="无线财经" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvbfinanceinformationchannel.png" group-title="电视侠",无线财经资讯台海外版
 http://iptv.tvfix.org/hls/financenhk.m3u8
-#EXTINF:-1 tvg-id="408" tvg-name="ViuTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png" group-title="港澳台电视侠",ViuTV
+#EXTINF:-1 tvg-id="408" tvg-name="ViuTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png" group-title="电视侠",ViuTV
 http://iptv.tvfix.org/hls/viutv.m3u8
-#EXTINF:-1 tvg-id="408" tvg-name="ViuTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png" group-title="港澳台电视侠",ViuTV 第二声道
+#EXTINF:-1 tvg-id="408" tvg-name="ViuTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png" group-title="电视侠",ViuTV 第二声道
 http://iptv.tvfix.org/hls/viutv2.m3u8
-#EXTINF:-1 tvg-id="408" tvg-name="ViuTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png" group-title="港澳台电视侠",ViuTV6
-http://iptv.tvfix.org/hls/viutv6.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台电视侠",RTHK31
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电视侠",RTHK31
 http://iptv.tvfix.org/hls/rthk31.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台电视侠",RTHK32
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电视侠",RTHK32
 http://iptv.tvfix.org/hls/rthk32.m3u8
-#EXTINF:-1 tvg-id="7117" tvg-name="香港国际财经台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hkguojicaijing.png" group-title="港澳台电视侠",香港国际财经台
+#EXTINF:-1 tvg-id="7117" tvg-name="香港国际财经台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hkguojicaijing.png" group-title="电视侠",香港国际财经台
 http://iptv.tvfix.org/hls/hkibc.m3u8
-#EXTINF:-1 tvg-id="7118" tvg-name="香港开电视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hongkongkai.png" group-title="港澳台电视侠",香港开电视
+#EXTINF:-1 tvg-id="7118" tvg-name="香港开电视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hongkongkai.png" group-title="电视侠",香港开电视
 http://iptv.tvfix.org/hls/opentv.m3u8
-#EXTINF:-1 tvg-id="145" tvg-name="美亚高清电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/meiyamovie.png" group-title="港澳台电视侠",美亚电影台(粤语)
+#EXTINF:-1 tvg-id="145" tvg-name="美亚高清电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/meiyamovie.png" group-title="电视侠",美亚电影台(粤语)
 http://iptv.tvfix.org/hls/mydy.m3u8
-#EXTINF:-1 tvg-id="145" tvg-name="美亚高清电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/meiyamovie.png" group-title="港澳台电视侠",美亚电影台(普通话)
+#EXTINF:-1 tvg-id="145" tvg-name="美亚高清电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/meiyamovie.png" group-title="电视侠",美亚电影台(普通话)
 http://iptv.tvfix.org/hls/mydy2.m3u8
-#EXTINF:-1 tvg-id="6079" tvg-name="卫视电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/StarChineseMovies.png" group-title="港澳台电视侠",卫视电影台
+#EXTINF:-1 tvg-id="6079" tvg-name="卫视电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/StarChineseMovies.png" group-title="电视侠",卫视电影台
 http://iptv.tvfix.org/hls/starmovies.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台电视侠",天映频道
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电视侠",天映频道
 http://iptv.tvfix.org/hls/typd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台电视侠",天映经典(粤语)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电视侠",天映经典(粤语)
 http://iptv.tvfix.org/hls/tyjd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台电视侠",天映经典(普通话)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电视侠",天映经典(普通话)
 http://iptv.tvfix.org/hls/tyjd2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台电视侠",HBO(粤语)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电视侠",HBO(粤语)
 http://iptv.tvfix.org/hls/hbo.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台电视侠",HBO(原声)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电视侠",HBO(原声)
 http://iptv.tvfix.org/hls/hbo2.m3u8
-#EXTINF:-1 tvg-id="6153" tvg-name="HBOHits" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOHits.png" group-title="港澳台电视侠",HBO Hits(粤语)
-http://iptv.tvfix.org/hls/hbohits.m3u8
-#EXTINF:-1 tvg-id="6153" tvg-name="HBOHits" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOHits.png" group-title="港澳台电视侠",HBO Hits(原声)
-http://iptv.tvfix.org/hls/hbohits2.m3u8
-#EXTINF:-1 tvg-id="6155" tvg-name="HBOFamily" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOFamily.png" group-title="港澳台电视侠",HBO Family(粤语)
-http://iptv.tvfix.org/hls/hbofamily.m3u8
-#EXTINF:-1 tvg-id="6155" tvg-name="HBOFamily" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOFamily.png" group-title="港澳台电视侠",HBO Family(原声)
-http://iptv.tvfix.org/hls/hbofamily2.m3u8
-#EXTINF:-1 tvg-id="6154" tvg-name="HBOSignature" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOSignature.png" group-title="港澳台电视侠",HBO Signature(粤语)
-http://iptv.tvfix.org/hls/hbosignature.m3u8
-#EXTINF:-1 tvg-id="6154" tvg-name="HBOSignature" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOSignature.png" group-title="港澳台电视侠",HBO Signature(原声)
-http://iptv.tvfix.org/hls/hbosignature2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台电视侠",HUB都会
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电视侠",HUB都会
 http://iptv.tvfix.org/hls/hubcity.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台电视侠",HUB娱家
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电视侠",HUB娱家
 http://iptv.tvfix.org/hls/hubvv.m3u8
-#EXTINF:-1 tvg-id="7238" tvg-name="Animax" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ANIMAX.png" group-title="港澳台电视侠",Animax
+#EXTINF:-1 tvg-id="7238" tvg-name="Animax" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ANIMAX.png" group-title="电视侠",Animax
 http://iptv.tvfix.org/hls/animax.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ANIMAX.png" group-title="港澳台电视侠",Animax(第2声道)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ANIMAX.png" group-title="电视侠",Animax(第2声道)
 http://iptv.tvfix.org/hls/animax2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台电视侠",Hands Up Channel
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电视侠",Hands Up Channel
 http://iptv.tvfix.org/hls/kid.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台电视侠",Hands Up Channel(第2声道)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电视侠",Hands Up Channel(第2声道)
 http://iptv.tvfix.org/hls/kid2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台电视侠",Thrill
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电视侠",Thrill
 http://iptv.tvfix.org/hls/thrill.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台电视侠",Thrill(第2声道)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电视侠",Thrill(第2声道)
 http://iptv.tvfix.org/hls/thrill2.m3u8
-#EXTINF:-1 tvg-id="129" tvg-name="TVB经典台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBclassic.png" group-title="港澳台电视侠",TVB经典台
+#EXTINF:-1 tvg-id="129" tvg-name="TVB经典台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBclassic.png" group-title="电视侠",TVB经典台
 http://iptv.tvfix.org/hls/tvbjd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台电视侠",TVB为食台
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电视侠",TVB为食台
 http://iptv.tvfix.org/hls/tvbws.m3u8
-#EXTINF:-1 tvg-id="131" tvg-name="TVB星河频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB星河.png" group-title="港澳台电视侠",TVB星河(粤语)
+#EXTINF:-1 tvg-id="131" tvg-name="TVB星河频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB星河.png" group-title="电视侠",TVB星河(粤语)
 http://iptv.tvfix.org/hls/tvbxh.m3u8
-#EXTINF:-1 tvg-id="131" tvg-name="TVB星河频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB星河.png" group-title="港澳台电视侠",TVB星河(普通话)
+#EXTINF:-1 tvg-id="131" tvg-name="TVB星河频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB星河.png" group-title="电视侠",TVB星河(普通话)
 http://iptv.tvfix.org/hls/tvbxh2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台电视侠",TVB功夫台(粤语)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电视侠",TVB功夫台(粤语)
 http://iptv.tvfix.org/hls/tvbkf.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台电视侠",TVB功夫(普通话)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电视侠",TVB功夫(普通话)
 http://iptv.tvfix.org/hls/tvbkf2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台电视侠",TVBS亚洲台
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电视侠",TVBS亚洲台
 http://iptv.tvfix.org/hls/tvbs.m3u8
-#EXTINF:-1 tvg-id="6073" tvg-name="TVBS新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS新闻.png" group-title="港澳台电视侠",TVBS新闻台
+#EXTINF:-1 tvg-id="6073" tvg-name="TVBS新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS新闻.png" group-title="电视侠",TVBS新闻台
 http://iptv.tvfix.org/hls/tvbsnews.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台电视侠",NHK综合
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电视侠",NHK综合
 http://iptv.tvfix.org/hls/nhkg.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台电视侠",NHK综合(第2声道)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电视侠",NHK综合(第2声道)
 http://iptv.tvfix.org/hls/nhkg2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台电视侠",NHK教育
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电视侠",NHK教育
 http://iptv.tvfix.org/hls/nhke.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台电视侠",NHK教育(第2声道)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电视侠",NHK教育(第2声道)
 http://iptv.tvfix.org/hls/nhke2.m3u8
-#EXTINF:-1 tvg-id="7110" tvg-name="NHKWorldPremium" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/nhkworldp.png" group-title="港澳台电视侠",NHK WORLD Premium
+#EXTINF:-1 tvg-id="7110" tvg-name="NHKWorldPremium" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/nhkworldp.png" group-title="电视侠",NHK WORLD Premium
 http://iptv.tvfix.org/hls/nhkworldpremium.m3u8
-#EXTINF:-1 tvg-id="331" tvg-name="NHKWorld" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NHKWorld.png" group-title="港澳台电视侠",NHK WORLD
+#EXTINF:-1 tvg-id="331" tvg-name="NHKWorld" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NHKWorld.png" group-title="电视侠",NHK WORLD
 http://iptv.tvfix.org/hls/nhkworld.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台电视侠",NHK WORLD (中文字幕)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电视侠",NHK WORLD (中文字幕)
 http://iptv.tvfix.org/hls/nhkworld2.m3u8
-#EXTINF:-1 tvg-id="6159" tvg-name="tvN" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png" group-title="港澳台电视侠",tvN
+#EXTINF:-1 tvg-id="6159" tvg-name="tvN" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png" group-title="电视侠",tvN
 http://iptv.tvfix.org/hls/tvn.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台电视侠",瞬间看地球
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电视侠",瞬间看地球
 http://iptv.tvfix.org/hls/earth.m3u8
-#EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="港澳台电视侠",凤凰资讯
+#EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="电视侠",凤凰资讯
 http://iptv.tvfix.org/hls/fhzx.m3u8
-#EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="港澳台电视侠",凤凰中文
+#EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="电视侠",凤凰中文
 http://iptv.tvfix.org/hls/fhzw.m3u8
-#EXTINF:-1 tvg-id="143" tvg-name="凤凰香港" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png" group-title="港澳台电视侠",凤凰香港
+#EXTINF:-1 tvg-id="143" tvg-name="凤凰香港" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png" group-title="电视侠",凤凰香港
 http://iptv.tvfix.org/hls/fhxg.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台电视侠",凤凰电影
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电视侠",凤凰电影
 http://iptv.tvfix.org/hls/fhdy.m3u8
-#EXTINF:-1 tvg-id="6037" tvg-name="Discovery" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DiscoveryHD.png" group-title="港澳台电视侠",Discovery
+#EXTINF:-1 tvg-id="6037" tvg-name="Discovery" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DiscoveryHD.png" group-title="电视侠",Discovery
 http://iptv.tvfix.org/hls/discovery.m3u8
-#EXTINF:-1 tvg-id="6039" tvg-name="动物星球" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/AnimalPlanet.png" group-title="港澳台电视侠",动物星球
+#EXTINF:-1 tvg-id="6039" tvg-name="动物星球" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/AnimalPlanet.png" group-title="电视侠",动物星球
 http://iptv.tvfix.org/hls/animal.m3u8
-#EXTINF:-1 tvg-id="6039" tvg-name="动物星球" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/AnimalPlanet.png" group-title="港澳台电视侠",动物星球
+#EXTINF:-1 tvg-id="6039" tvg-name="动物星球" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/AnimalPlanet.png" group-title="电视侠",动物星球
 http://iptv.tvfix.org/hls/animal2.m3u8
-#EXTINF:-1 tvg-id="691" tvg-name="国家地理频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/natgeo.png" group-title="港澳台电视侠",国家地理
-http://iptv.tvfix.org/hls/natlgeo.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台电视侠",国家地理 第二声道
-http://iptv.tvfix.org/hls/natlgeo2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台电视侠",Channel V
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电视侠",Channel V
 http://iptv.tvfix.org/hls/channelv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台电视侠",星空卫视
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电视侠",星空卫视
 http://iptv.tvfix.org/hls/startv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台电视侠",Star Sports
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电视侠",Star Sports
 http://iptv.tvfix.org/hls/starsports.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台电视侠",Love Nature
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电视侠",Love Nature
 http://iptv.tvfix.org/hls/lovenature4k.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台电视侠",Love Nature
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电视侠",Love Nature
 http://iptv.tvfix.org/hls/lovenature4k2.m3u8
 
+#EXTINF:-1  tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="电视侠",CCTV-5体育
+http://pullhls.inke.cn/live/1648625202801674/playlist.m3u8
+#EXTINF:-1 tvg-id="6013" tvg-name="广东体育" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTV3.png" group-title="电视侠",广东体育高清
+http://iptv.tvfix.org/hls/gdtyhd.m3u8
+#EXTINF:-1 tvg-id="1987" tvg-name="五星体育频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/wuxingtiyu.png" group-title="电视侠",五星体育
+http://iptv.tvfix.org/hls/wxtyhd.m3u8
+#EXTINF:-1 tvg-id="1975" tvg-name="MAX极速汽车" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jisuqiche.png" group-title="电视侠",极速汽车高清
+http://iptv.tvfix.org/hls/jsqchd.m3u8
+#EXTINF:-1 tvg-id="1964" tvg-name="劲爆体育" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinbaotiyu.jpg" group-title="电视侠",劲爆体育高清
+http://iptv.tvfix.org/hls/jbtyhd.m3u8
+#EXTINF:-1 tvg-id="1963" tvg-name="新视觉" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xinshijue.png" group-title="电视侠",新视觉高清
+http://iptv.tvfix.org/hls/xsjhd.m3u8
+#EXTINF:-1 tvg-id="7242" tvg-name="魅力足球" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/meilizuqiu.png" group-title="电视侠",魅力足球高清
+http://iptv.tvfix.org/hls/mlzqhd.m3u8
+#EXTINF:-1 tvg-id="1983" tvg-name="游戏风云" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youxifengyun.png" group-title="电视侠",游戏风云高清
+http://iptv.tvfix.org/hls/yxfyhd.m3u8
+#EXTINF:-1 tvg-id="1976" tvg-name="全纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/quanjishi.png" group-title="电视侠",全纪实高清
+http://iptv.tvfix.org/hls/qjshd.m3u8
+#EXTINF:-1 tvg-id="1988" tvg-name="上海纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png" group-title="电视侠",纪实人文高清
+http://iptv.tvfix.org/hls/docuchina.m3u8
+#EXTINF:-1 tvg-id="6241" tvg-name="CHC高清电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg" group-title="电视侠",CHC高清电影
+http://iptv.tvfix.org/hls/chchd.m3u8
+#EXTINF:-1 tvg-id="6246" tvg-name="CHC家庭电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg" group-title="电视侠",CHC家庭影院
+http://iptv.tvfix.org/hls/chctv.m3u8
+#EXTINF:-1 tvg-id="6245" tvg-name="CHC动作电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC1.jpg" group-title="电视侠",CHC动作电影
+http://iptv.tvfix.org/hls/chcatv.m3u8
+#EXTINF:-1 tvg-id="62" tvg-name="哈哈炫动" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xuandong.png" group-title="电视侠",哈哈炫动高清
+http://iptv.tvfix.org/hls/hhxdhd.m3u8
+#EXTINF:-1 tvg-id="69" tvg-name="金鹰卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinyingkatong.png" group-title="电视侠",金鹰卡通
+http://iptv.tvfix.org/hls/jykttv.m3u8
+#EXTINF:-1 tvg-id="1046" tvg-name="优漫卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png" group-title="电视侠",优漫卡通
+http://iptv.tvfix.org/hls/ymkttv.m3u8
+#EXTINF:-1 tvg-id="1307" tvg-name="新动漫" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xindongman.png" group-title="电视侠",新动漫
+http://iptv.tvfix.org/hls/xdmtv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电视侠",足球频道
+http://iptv.tvfix.org/hls/zqhd.m3u8
 
 
 
@@ -3155,141 +3079,148 @@ http://121.51.249.6/txdirect.hls.huya.com/src/1199563564801-1199563564801-544468
 
 
 #EXTINF:-1 group-title="NewTV未来电视" tvg-logo="https://www.hualigs.cn/image/6152b441e38e3.jpg",NewTV动作电影
-http://39.135.138.60:18890/PLTV/88888910/224/3221225671/index.m3u8
+http://39.134.65.164/PLTV/88888888/224/3221225555/1.m3u8
+#http://39.134.65.166/PLTV/88888888/224/3221225555/1.m3u8
 #EXTINF:-1 group-title="NewTV未来电视" tvg-logo="https://www.hualigs.cn/image/6152b442743c8.jpg",NewTV惊悚悬疑
-http://39.135.138.60:18890/PLTV/88888910/224/3221225717/index.m3u8
+http://39.134.65.166/PLTV/88888888/224/3221225553/1.m3u8
 #EXTINF:-1 group-title="NewTV未来电视" tvg-logo="https://www.hualigs.cn/image/6152b441d5f5a.jpg",NewTV古装剧场
-http://39.135.138.60:18890/PLTV/88888910/224/3221225678/index.m3u8
+http://39.134.65.164/PLTV/88888888/224/3221225524/1.m3u8
+#http://39.134.65.166/PLTV/88888888/224/3221225524/1.m3u8
 #EXTINF:-1 group-title="NewTV未来电视" tvg-logo="https://www.hualigs.cn/image/6152b4427ea36.jpg",NewTV家庭剧场
-http://39.135.138.60:18890/PLTV/88888910/224/3221225713/index.m3u8
+http://39.134.65.166/PLTV/88888888/224/3221225538/1.m3u8
 #EXTINF:-1 group-title="NewTV未来电视" tvg-logo="https://www.hualigs.cn/image/6152b44266305.jpg",NewTV军旅剧场
-http://39.135.138.60:18890/PLTV/88888910/224/3221225669/index.m3u8
+http://39.134.65.164/PLTV/88888888/224/3221225560/1.m3u8
+#EXTINF:-1 group-title="NewTV未来电视" tvg-logo="https://www.hualigs.cn/image/61bc882f8cb3b.jpg",NewTV欢乐剧场
+http://39.134.65.166/PLTV/88888888/224/3221225682/1.m3u8
+#http://39.134.65.173/PLTV/88888888/224/3221225682/1.m3u8
+#EXTINF:-1 group-title="NewTV未来电视" tvg-logo="https://www.hualigs.cn/image/61bc882f8cb3b.jpg",NewTV热播精选
+http://39.134.65.166/PLTV/88888888/224/3221225521/1.m3u8
 #EXTINF:-1 group-title="NewTV未来电视" tvg-logo="https://www.hualigs.cn/image/6152b4423992c.jpg",NewTV爱情喜剧
-http://39.135.138.60:18890/PLTV/88888910/224/3221225748/index.m3u8
+http://39.134.65.166/PLTV/88888888/224/3221225533/1.m3u8
+#http://39.134.65.164/PLTV/88888888/224/3221225533/1.m3u8
 #EXTINF:-1 group-title="NewTV未来电视" tvg-logo="https://www.hualigs.cn/image/6152b44264046.jpg",NewTV军事评论
-http://39.135.138.60:18890/PLTV/88888910/224/3221225757/index.m3u8
+http://39.134.65.166/PLTV/88888888/224/3221225535/1.m3u8
 #EXTINF:-1 group-title="NewTV未来电视" tvg-logo="https://www.hualigs.cn/image/6152b442952e4.jpg",NewTV炫舞未来
-http://39.135.138.60:18890/PLTV/88888910/224/3221225707/index.m3u8
+http://39.134.65.164/PLTV/88888888/224/3221225646/1.m3u8
 #EXTINF:-1 group-title="NewTV未来电视" tvg-logo="https://www.hualigs.cn/image/6152b44210edc.jpg",NewTV潮妈辣婆
-http://39.135.138.60:18890/PLTV/88888910/224/3221225708/index.m3u8
+http://39.134.65.166/PLTV/88888888/224/3221225542/1.m3u8
+#http://39.134.65.164/PLTV/88888888/224/3221225542/1.m3u8
 #EXTINF:-1 group-title="NewTV未来电视" tvg-logo="https://www.hualigs.cn/image/6152b44278137.jpg",NewTV金牌综艺
-http://39.135.138.60:18890/PLTV/88888910/224/3221225711/index.m3u8
+http://39.134.65.166/PLTV/88888888/224/3221225525/1.m3u8
 #EXTINF:-1 group-title="NewTV未来电视" tvg-logo="https://www.hualigs.cn/image/6152b442a20a7.jpg",NewTV农业致富
-http://39.135.138.60:18890/PLTV/88888910/224/3221225670/index.m3u8
+http://39.134.65.166/PLTV/88888888/224/3221225552/1.m3u8
 #EXTINF:-1 group-title="NewTV未来电视" tvg-logo="https://www.hualigs.cn/image/6152b4429ab67.jpg",NewTV武搏世界
-http://39.135.138.60:18890/PLTV/88888910/224/3221225656/index.m3u8
+http://39.134.65.166/PLTV/88888888/224/3221225547/1.m3u8
 #EXTINF:-1 group-title="NewTV未来电视" tvg-logo="https://www.hualigs.cn/image/6152b442850a3.jpg",NewTV中国功夫
-http://39.135.138.60:18890/PLTV/88888910/224/3221225660/index.m3u8
+http://39.134.65.164/PLTV/88888888/224/3221225604/1.m3u8
 #EXTINF:-1 group-title="NewTV未来电视" tvg-logo="https://www.hualigs.cn/image/6152b4426d72a.jpg",NewTV精品大剧
-http://39.135.138.60:18890/PLTV/88888910/224/3221225714/index.m3u8
+http://39.134.65.166/PLTV/88888888/224/3221225536/1.m3u8
 #EXTINF:-1 group-title="NewTV未来电视" tvg-logo="https://www.hualigs.cn/image/6152b44266d96.jpg",NewTV精品体育
-http://39.135.138.60:18890/PLTV/88888910/224/3221225709/index.m3u8
+http://39.134.65.166/PLTV/88888888/224/3221225526/1.m3u8
 #EXTINF:-1 group-title="NewTV未来电视" tvg-logo="https://www.hualigs.cn/image/6152b4426cd7e.jpg",NewTV精品纪录
-http://39.135.138.60:18890/PLTV/88888910/224/3221225710/index.m3u8
+http://39.134.65.166/PLTV/88888888/224/3221225545/1.m3u8
 #EXTINF:-1 group-title="NewTV未来电视" tvg-logo="https://www.hualigs.cn/image/6152b4428f069.jpg",NewTV怡伴健康
-http://39.134.66.66/PLTV/88888888/224/3221225571/index.m3u8
+http://39.134.65.164/PLTV/88888888/224/3221225571/1.m3u8
 #EXTINF:-1 group-title="NewTV未来电视" tvg-logo="https://www.hualigs.cn/image/61bc882f8cb3b.jpg",NewTV健康有约
-http://39.135.138.60:18890/PLTV/88888910/224/3221225666/index.m3u8
+
+#EXTINF:-1 group-title="NewTV未来电视" tvg-logo="https://www.hualigs.cn/image/61bc882f8cb3b.jpg",NewTV精品综合
+http://39.134.65.166/PLTV/88888888/224/3221225550/1.m3u8
 #EXTINF:-1 group-title="NewTV未来电视" tvg-logo="https://www.hualigs.cn/image/61bc882f8cb3b.jpg",NewTV精品电影
 http://183.207.249.14/PLTV/3/224/3221225567/index.m3u8
 #EXTINF:-1 group-title="NewTV未来电视" tvg-logo="https://www.hualigs.cn/image/61bc882f8cb3b.jpg",NewTV动画王国
 http://183.207.249.15/PLTV/3/224/3221225555/index.m3u8
 #EXTINF:-1 group-title="NewTV未来电视" tvg-logo="https://www.hualigs.cn/image/61bc882f8cb3b.jpg",NewTV超级综艺
-http://39.135.138.60:18890/PLTV/88888910/224/3221225620/index.m3u8
-#EXTINF:-1 group-title="NewTV未来电视" tvg-logo="https://www.hualigs.cn/image/61bc882f8cb3b.jpg",NewTV超级综艺
-http://39.135.138.60:18890/PLTV/88888910/224/3221225768/index.m3u8
+http://39.134.65.164/PLTV/88888888/224/3221225642/1.m3u8
+#http://39.134.65.162/PLTV/88888888/224/3221225642/1.m3u8
 #EXTINF:-1 group-title="NewTV未来电视" tvg-logo="https://www.hualigs.cn/image/61bc882f8cb3b.jpg",NewTV超级体育
-http://39.135.138.60:18890/PLTV/88888910/224/3221225648/index.m3u8
+http://39.134.65.164/PLTV/88888888/224/3221225635/1.m3u8
+#http://39.134.65.162/PLTV/88888888/224/3221225635/1.m3u8
 #EXTINF:-1 group-title="NewTV未来电视" tvg-logo="https://www.hualigs.cn/image/61bc882f8cb3b.jpg",NewTV超级电影
-http://39.135.138.60:18890/PLTV/88888910/224/3221225766/index.m3u8
-#EXTINF:-1 group-title="NewTV未来电视" tvg-logo="https://www.hualigs.cn/image/61bc882f8cb3b.jpg",NewTV超级电影
-http://39.135.138.60:18890/PLTV/88888910/224/3221225623/index.m3u8
+http://39.134.65.164/PLTV/88888888/224/3221225644/1.m3u8
+#http://39.134.65.179/PLTV/88888888/224/3221225644/1.m3u8
 #EXTINF:-1 group-title="NewTV未来电视" tvg-logo="https://www.hualigs.cn/image/61bc882f8cb3b.jpg",NewTV超级电视剧
-http://39.135.138.60:18890/PLTV/88888910/224/3221225765/index.m3u8
+http://39.134.65.164/PLTV/88888888/224/3221225637/1.m3u8
 #EXTINF:-1 group-title="NewTV未来电视" tvg-logo="https://www.hualigs.cn/image/61bc882f8cb3b.jpg",NewTV江西频道
-http://39.135.138.60:18890/PLTV/88888910/224/3221225979/index.m3u8
+
 #EXTINF:-1 group-title="NewTV未来电视" tvg-logo="https://www.hualigs.cn/image/61bc882f8cb3b.jpg",NewTV山东频道
-http://39.135.138.60:18890/PLTV/88888910/224/3221226184/index.m3u8
+
 #EXTINF:-1 group-title="NewTV未来电视" tvg-logo="https://www.hualigs.cn/image/61bc882f8cb3b.jpg",NewTV广东频道
-http://39.135.138.60:18890/PLTV/88888910/224/3221226185/index.m3u8
+
 #EXTINF:-1 group-title="NewTV未来电视" tvg-logo="https://www.hualigs.cn/image/61bc882f8cb3b.jpg",NewTV广西频道
-http://39.135.138.60:18890/PLTV/88888910/224/3221226186/index.m3u8
+
 #EXTINF:-1 group-title="NewTV未来电视" tvg-logo="https://www.hualigs.cn/image/61bc882f8cb3b.jpg",NewTV四川频道
-http://39.135.138.60:18890/PLTV/88888910/224/3221226187/index.m3u8
+
 #EXTINF:-1 group-title="NewTV未来电视" tvg-logo="https://www.hualigs.cn/image/61bc882f8cb3b.jpg",NewTV云南频道
-http://39.135.138.60:18890/PLTV/88888910/224/3221226188/index.m3u8
+
 #EXTINF:-1 group-title="NewTV未来电视" tvg-logo="https://www.hualigs.cn/image/61bc882f8cb3b.jpg",NewTV吉林频道
-http://39.135.138.60:18890/PLTV/88888910/224/3221226189/index.m3u8
+
 #EXTINF:-1 group-title="NewTV未来电视" tvg-logo="https://www.hualigs.cn/image/61bc882f8cb3b.jpg",NewTV黑龙江台
-http://39.135.138.60:18890/PLTV/88888910/224/3221226192/index.m3u8
 
 
 
 
 
 
+#EXTINF:-1 tvg-logo="http://n.ysyz.top:99/wuchixialiu/aiyx.png" group-title="iHOT系列",iHOT爱院线
+http://111.11.123.49:6610/000000001000/6000000006000030630/1.m3u8?Contentid=6000000006000030630&livemode=1&stbId=3&channel-id=wasusyt
+#EXTINF:-1 tvg-logo="http://n.ysyz.top:99/wuchixialiu/aikh.png" group-title="iHOT系列",iHOT爱科幻
+http://111.11.123.49:6610/000000001000/6000000006000020630/1.m3u8?Contentid=6000000006000020630&livemode=1&stbId=3&channel-id=wasusyt
+#EXTINF:-1 tvg-logo="http://n.ysyz.top:99/wuchixialiu/ailm.png" group-title="iHOT系列",iHOT爱浪漫
+http://111.11.123.49:6610/000000001000/6000000006000040630/1.m3u8?Contentid=6000000006000040630&livemode=1&stbId=3&channel-id=wasusyt
+#EXTINF:-1 tvg-logo="http://n.ysyz.top:99/wuchixialiu/aixj.png" group-title="iHOT系列",iHOT爱喜剧
+http://111.11.123.49:6610/000000001000/6000000006000010630/1.m3u8?Contentid=6000000006000010630&livemode=1&stbId=3&channel-id=wasusyt
+#EXTINF:-1 tvg-logo="http://n.ysyz.top:99/wuchixialiu/aixy.png" group-title="iHOT系列",iHOT爱悬疑
+http://111.11.123.49:6610/000000001000/6000000006000050630/1.m3u8?Contentid=6000000006000050630&livemode=1&stbId=3&channel-id=wasusyt
+#EXTINF:-1 tvg-logo="http://n.ysyz.top:99/wuchixialiu/aijd.png" group-title="iHOT系列",iHOT爱经典
+http://111.11.123.49:6610/000000001000/6000000006000060630/1.m3u8?Contentid=6000000006000060630&livemode=1&stbId=3&channel-id=wasusyt
+#EXTINF:-1 tvg-logo="http://n.ysyz.top:99/wuchixialiu/aijh.png" group-title="iHOT系列",iHOT爱江湖
+http://111.11.123.49:6610/000000001000/6000000006000110630/1.m3u8?Contentid=6000000006000110630&livemode=1&stbId=3&channel-id=wasusyt
+#EXTINF:-1 tvg-logo="http://n.ysyz.top:99/wuchixialiu/aisc.png" group-title="iHOT系列",iHOT爱赛车
+http://111.11.123.49:6610/000000001000/6000000006000240630/1.m3u8?Contentid=6000000006000240630&livemode=1&stbId=3&channel-id=wasusyt
+#EXTINF:-1 tvg-logo="http://n.ysyz.top:99/wuchixialiu/aity.png" group-title="iHOT系列",iHOT爱体育
+http://111.11.123.49:6610/000000001000/6000000006000290630/1.m3u8?Contentid=6000000006000290630&livemode=1&stbId=3&channel-id=wasusyt
+#EXTINF:-1 tvg-logo="http://n.ysyz.top:99/wuchixialiu/aits.png" group-title="iHOT系列",iHOT爱探索
+http://111.11.123.49:6610/000000001000/6000000006000300630/1.m3u8?Contentid=6000000006000300630&livemode=1&stbId=3&channel-id=wasusyt
+#EXTINF:-1 tvg-logo="http://n.ysyz.top:99/wuchixialiu/aiqt.png" group-title="iHOT系列",iHOT爱奇谈
+http://111.11.123.49:6610/000000001000/6000000006000270630/1.m3u8?Contentid=6000000006000270630&livemode=1&stbId=3&channel-id=wasusyt
+#EXTINF:-1 tvg-logo="http://n.ysyz.top:99/wuchixialiu/aiwj.png" group-title="iHOT系列",iHOT爱玩具
+http://111.11.123.49:6610/000000001000/6000000006000220630/1.m3u8?Contentid=6000000006000220630&livemode=1&stbId=3&channel-id=wasusyt
+#EXTINF:-1 tvg-logo="http://n.ysyz.top:99/wuchixialiu/aisj.png" group-title="iHOT系列",iHOT爱世界
+http://111.11.123.49:6610/000000001000/6000000006000210630/1.m3u8?Contentid=6000000006000210630&livemode=1&stbId=3&channel-id=wasusyt
+#EXTINF:-1 tvg-logo="http://n.ysyz.top:99/wuchixialiu/aihj.png" group-title="iHOT系列",iHOT爱怀旧
+http://111.11.123.49:6610/000000001000/6000000006000260630/1.m3u8?Contentid=6000000006000260630&livemode=1&stbId=3&channel-id=wasusyt
+#EXTINF:-1 tvg-logo="http://n.ysyz.top:99/wuchixialiu/ailx.png" group-title="iHOT系列",iHOT爱旅行
+http://111.11.123.49:6610/000000001000/6000000006000250630/1.m3u8?Contentid=6000000006000250630&livemode=1&stbId=3&channel-id=wasusyt
+#EXTINF:-1 tvg-logo="http://n.ysyz.top:99/wuchixialiu/aijx.png" group-title="iHOT系列",iHOT爱极限
+http://111.11.123.49:6610/000000001000/6000000006000170630/1.m3u8?Contentid=6000000006000170630&livemode=1&stbId=3&channel-id=wasusyt
+#EXTINF:-1 tvg-logo="http://n.ysyz.top:99/wuchixialiu/aiyj.png" group-title="iHOT系列",iHOT爱幼教
+http://111.11.123.49:6610/000000001000/6000000006000180630/1.m3u8?Contentid=6000000006000180630&livemode=1&stbId=3&channel-id=wasusyt
+#EXTINF:-1 tvg-logo="http://n.ysyz.top:99/wuchixialiu/aijm.png" group-title="iHOT系列",iHOT爱解密
+http://111.11.123.49:6610/000000001000/6000000006000200630/1.m3u8?Contentid=6000000006000200630&livemode=1&stbId=3&channel-id=wasusyt
+#EXTINF:-1 tvg-logo="http://n.ysyz.top:99/wuchixialiu/aidz.png" group-title="iHOT系列",iHOT爱谍战
+http://111.11.123.49:6610/000000001000/6000000006000070630/1.m3u8?Contentid=6000000006000070630&livemode=1&stbId=3&channel-id=wasusyt
+#EXTINF:-1 tvg-logo="http://n.ysyz.top:99/wuchixialiu/ails.png" group-title="iHOT系列",iHOT爱历史
+http://111.11.123.49:6610/000000001000/6000000006000150630/1.m3u8?Contentid=6000000006000150630&livemode=1&stbId=3&channel-id=wasusyt
+#EXTINF:-1 tvg-logo="http://n.ysyz.top:99/wuchixialiu/ailq.png" group-title="iHOT系列",iHOT爱猎奇
+http://111.11.123.49:6610/000000001000/6000000006000190630/1.m3u8?Contentid=6000000006000190630&livemode=1&stbId=3&channel-id=wasusyt
+#EXTINF:- tvg-logo="http://n.ysyz.top:99/wuchixialiu/aids.png" group-title="iHOT系列",iHOT爱都市
+http://111.11.123.49:6610/000000001000/6000000006000080630/1.m3u8?Contentid=6000000006000080630&livemode=1&stbId=3&channel-id=wasusyt
+#EXTINF:-1 tvg-logo="http://n.ysyz.top:99/wuchixialiu/aikx.png" group-title="iHOT系列",iHOT爱科学
+http://111.11.123.49:6610/000000001000/6000000006000160630/1.m3u8?Contentid=6000000006000160630&livemode=1&stbId=3&channel-id=wasusyt
+#EXTINF:-1 tvg-logo="http://n.ysyz.top:99/wuchixialiu/aims.png" group-title="iHOT系列",iHOT爱美食
+http://111.11.123.49:6610/000000001000/6000000006000120630/1.m3u8?Contentid=6000000006000120630&livemode=1&stbId=3&channel-id=wasusyt
+#EXTINF:-1 tvg-logo="http://n.ysyz.top:99/wuchixialiu/aiss.png" group-title="iHOT系列",iHOT爱时尚
+http://111.11.123.49:6610/000000001000/6000000006000140630/1.m3u8?Contentid=6000000006000140630&livemode=1&stbId=3&channel-id=wasusyt
+#EXTINF:-1 tvg-logo="http://n.ysyz.top:99/wuchixialiu/aiqc.png" group-title="iHOT系列",iHOT爱青春
+http://111.11.123.49:6610/000000001000/6000000006000100630/1.m3u8?Contentid=6000000006000100630&livemode=1&stbId=3&channel-id=wasusyt
+#EXTINF:-1 tvg-logo="http://n.ysyz.top:99/wuchixialiu/aijt.png" group-title="iHOT系列",iHOT爱家庭
+http://111.11.123.49:6610/000000001000/6000000006000090630/1.m3u8?Contentid=6000000006000090630&livemode=1&stbId=3&channel-id=wasusyt
+#EXTINF:-1 tvg-logo="http://n.ysyz.top:99/wuchixialiu/aidm.png" group-title="iHOT系列",iHOT爱动漫
+http://111.11.123.49:6610/000000001000/6000000006000280630/1.m3u8?Contentid=6000000006000280630&livemode=1&stbId=3&channel-id=wasusyt
+#EXTINF:-1 tvg-logo="http://n.ysyz.top:99/wuchixialiu/aidm.png" group-title="iHOT系列",iHOT Y+
+http://117.148.179.160/PLTV/88888888/224/3221230226/index.m3u8
+#http://live.aikan.miguvideo.com/PLTV/88888888/224/3221230226/index.m3u8
 
-
-#EXTINF:-1 group-title="iHOT爱系列" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/IHOT16/IHOT16.jpg?1",iHOT爱经典
-http://39.134.30.217/0000000000001000/1.m3u8?Contentid=6000000006000060630&livemode=1&stbId=3&channel-id=wasusyt
-#EXTINF:-1 group-title="iHOT爱系列" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/IHOT14/IHOT14.jpg?1",iHOT爱历史
-http://39.134.30.217/0000000000001000/1.m3u8?Contentid=6000000006000150630&livemode=1&stbId=3&channel-id=wasusyt
-#EXTINF:-1 group-title="iHOT爱系列" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/IHOT7/IHOT7.jpg?1",iHOT爱旅行
-http://39.134.30.217/0000000000001000/1.m3u8?Contentid=6000000006000250630&livemode=1&stbId=3&channel-id=wasusyt
-#EXTINF:-1 group-title="iHOT爱系列" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/IHOT6/IHOT6.jpg?1",iHOT爱美食
-http://39.134.30.217/0000000000001000/1.m3u8?Contentid=6000000006000120630&livemode=1&stbId=3&channel-id=wasusyt
-#EXTINF:-1 group-title="iHOT爱系列" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/IHOT8/IHOT8.jpg?1",iHOT爱赛车
-http://39.134.30.217/0000000000001000/1.m3u8?Contentid=6000000006000240630&livemode=1&stbId=3&channel-id=wasusyt
-#EXTINF:-1 group-title="iHOT爱系列" tvg-logo="https://www.hualigs.cn/image/6153d999cbfa5.jpg",iHOT爱时尚
-http://39.134.30.217/0000000000001000/1.m3u8?Contentid=6000000006000140630&livemode=1&stbId=3&channel-id=wasusyt
-#EXTINF:-1 group-title="iHOT爱系列" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/IHOT12/IHOT12.jpg?1",iHOT爱探索
-http://39.134.30.217/0000000000001000/1.m3u8?Contentid=6000000006000300630&livemode=1&stbId=3&channel-id=wasusyt
-#EXTINF:-1 group-title="iHOT爱系列" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/IHOT5/IHOT5.jpg?1",iHOT爱体育
-http://39.134.30.217/0000000000001000/1.m3u8?Contentid=6000000006000290630&livemode=1&stbId=3&channel-id=wasusyt
-#EXTINF:-1 group-title="iHOT爱系列" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/IHOT17/IHOT17.jpg?1",iHOT爱悬疑
-http://39.134.30.217/0000000000001000/1.m3u8?Contentid=6000000006000050630&livemode=1&stbId=3&channel-id=wasusyt
-#EXTINF:-1 group-title="iHOT爱系列" tvg-logo="https://s4.ax1x.com/2022/02/24/biP0df.png",iHOT爱都市
-http://39.134.30.217/0000000000001000/1.m3u8?Contentid=6000000006000080630&livemode=1&stbId=3&channel-id=wasusyt
-#EXTINF:-1 group-title="iHOT爱系列" tvg-logo="https://s4.ax1x.com/2022/02/24/biP0df.png",iHOT爱科学
-http://39.134.30.217/0000000000001000/1.m3u8?Contentid=6000000006000160630&livemode=1&stbId=3&channel-id=wasusyt
-#EXTINF:-1 group-title="iHOT爱系列" tvg-logo="https://s4.ax1x.com/2022/02/24/biP0df.png",iHOT爱动漫
-http://39.134.30.217/0000000000001000/1.m3u8?Contentid=6000000006000280630&livemode=1&stbId=3&channel-id=wasusyt
-#EXTINF:-1 group-title="iHOT爱系列" tvg-logo="https://s4.ax1x.com/2022/02/24/biP0df.png",iHOT爱喜剧
-http://39.134.30.217/0000000000001000/1.m3u8?Contentid=6000000006000010630&livemode=1&stbId=3&channel-id=wasusyt
-#EXTINF:-1 group-title="iHOT爱系列" tvg-logo="https://s4.ax1x.com/2022/02/24/biP0df.png",iHOT爱浪漫
-http://39.134.30.217/0000000000001000/1.m3u8?Contentid=6000000006000040630&livemode=1&stbId=3&channel-id=wasusyt
-#EXTINF:-1 group-title="iHOT爱系列" tvg-logo="https://s4.ax1x.com/2022/02/24/biP0df.png",iHOT爱院线
-http://39.134.30.217/0000000000001000/1.m3u8?Contentid=6000000006000030630&livemode=1&stbId=3&channel-id=wasusyt
-#EXTINF:-1 group-title="iHOT爱系列" tvg-logo="https://s4.ax1x.com/2022/02/24/biP0df.png",iHOT爱科幻
-http://39.134.30.217/0000000000001000/1.m3u8?Contentid=6000000006000020630&livemode=1&stbId=3&channel-id=wasusyt
-#EXTINF:-1 group-title="iHOT爱系列" tvg-logo="https://s4.ax1x.com/2022/02/24/biP0df.png",iHOT爱谍战
-http://39.134.30.217/0000000000001000/1.m3u8?Contentid=6000000006000070630&livemode=1&stbId=3&channel-id=wasusyt
-#EXTINF:-1 group-title="iHOT爱系列" tvg-logo="https://s4.ax1x.com/2022/02/24/biP0df.png",iHOT爱家庭
-http://39.134.30.217/0000000000001000/1.m3u8?Contentid=6000000006000090630&livemode=1&stbId=3&channel-id=wasusyt
-#EXTINF:-1 group-title="iHOT爱系列" tvg-logo="https://s4.ax1x.com/2022/02/24/biP0df.png",iHOT爱青春
-http://39.134.30.217/0000000000001000/1.m3u8?Contentid=6000000006000100630&livemode=1&stbId=3&channel-id=wasusyt
-#EXTINF:-1 group-title="iHOT爱系列" tvg-logo="https://s4.ax1x.com/2022/02/24/biP0df.png",iHOT爱奇谈
-http://39.134.30.217/0000000000001000/1.m3u8?Contentid=6000000006000270630&livemode=1&stbId=3&channel-id=wasusyt
-#EXTINF:-1 group-title="iHOT爱系列" tvg-logo="https://s4.ax1x.com/2022/02/24/biP0df.png",iHOT爱玩具
-http://39.134.30.217/0000000000001000/1.m3u8?Contentid=6000000006000220630&livemode=1&stbId=3&channel-id=wasusyt
-#EXTINF:-1 group-title="iHOT爱系列" tvg-logo="https://s4.ax1x.com/2022/02/24/biP0df.png",iHOT爱电竞
-http://39.134.30.217/0000000000001000/1.m3u8?Contentid=6000000006000230630&livemode=1&stbId=3&channel-id=wasusyt
-#EXTINF:-1 group-title="iHOT爱系列" tvg-logo="https://s4.ax1x.com/2022/02/24/biP0df.png",iHOT爱世界
-http://39.134.30.217/0000000000001000/1.m3u8?Contentid=6000000006000210630&livemode=1&stbId=3&channel-id=wasusyt
-#EXTINF:-1 group-title="iHOT爱系列" tvg-logo="https://s4.ax1x.com/2022/02/24/biP0df.png",iHOT爱怀旧
-http://39.134.30.217/0000000000001000/1.m3u8?Contentid=6000000006000260630&livemode=1&stbId=3&channel-id=wasusyt
-#EXTINF:-1 group-title="iHOT爱系列" tvg-logo="https://s4.ax1x.com/2022/02/24/biP0df.png",iHOT爱江湖
-http://39.134.30.217/0000000000001000/1.m3u8?Contentid=6000000006000110630&livemode=1&stbId=3&channel-id=wasusyt
-#EXTINF:-1 group-title="iHOT爱系列" tvg-logo="https://s4.ax1x.com/2022/02/24/biP0df.png",iHOT爱娱乐
-http://39.134.30.217/0000000000001000/1.m3u8?Contentid=6000000006000130630&livemode=1&stbId=3&channel-id=wasusyt
-#EXTINF:-1 group-title="iHOT爱系列" tvg-logo="https://s4.ax1x.com/2022/02/24/biP0df.png",iHOT爱解密
-http://39.134.30.217/0000000000001000/1.m3u8?Contentid=6000000006000200630&livemode=1&stbId=3&channel-id=wasusyt
-#EXTINF:-1 group-title="iHOT爱系列" tvg-logo="https://s4.ax1x.com/2022/02/24/biP0df.png",iHOT爱军武
-http://39.134.30.217/0000000000001000/1.m3u8?Contentid=6000000006000170630&livemode=1&stbId=3&channel-id=wasusyt
-#EXTINF:-1 group-title="iHOT爱系列" tvg-logo="https://s4.ax1x.com/2022/02/24/biP0df.png",iHOT爱幼教
-http://39.134.30.217/0000000000001000/1.m3u8?Contentid=6000000006000180630&livemode=1&stbId=3&channel-id=wasusyt
-#EXTINF:-1 group-title="iHOT爱系列" tvg-logo="https://s4.ax1x.com/2022/02/24/biP0df.png",iHOT爱猎奇
-http://39.134.30.217/0000000000001000/1.m3u8?Contentid=6000000006000190630&livemode=1&stbId=3&channel-id=wasusyt
 
 
 
@@ -4194,29 +4125,29 @@ https://d17f1mg1q6g54e.cloudfront.net/hls/rockets/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/15/HgnD0J.png" group-title="NBA League Pass",NBA Live Game 1
-#http://pullhls3948069e.live.126.net/live/n1/playlist.m3u8
+http://pullstream-me.speedws.com/live/n1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/15/HgnD0J.png" group-title="NBA League Pass",NBA Live Game 2
-#http://pullhls3948069e.live.126.net/live/n2/playlist.m3u8
+http://pullstream-me.speedws.com/live/n2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/15/HgnD0J.png" group-title="NBA League Pass",NBA Live Game 3
-#http://pullhls3948069e.live.126.net/live/n3/playlist.m3u8
+http://pullstream-me.speedws.com/live/n3/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/15/HgnD0J.png" group-title="NBA League Pass",NBA Live Game 4
-#http://pullhls3948069e.live.126.net/live/n4/playlist.m3u8
+http://pullstream-me.speedws.com/live/n4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/15/HgnD0J.png" group-title="NBA League Pass",NBA Live Game 5
-#http://pullhls3948069e.live.126.net/live/n5/playlist.m3u8
+http://pullstream-me.speedws.com/live/n5/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/15/HgnD0J.png" group-title="NBA League Pass",NBA Live Game 6
-#http://pullhls3948069e.live.126.net/live/n6/playlist.m3u8
+http://pullstream-me.speedws.com/live/n6/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/15/HgnD0J.png" group-title="NBA League Pass",NBA Live Game 7
-#http://pullhls3948069e.live.126.net/live/n7/playlist.m3u8
+http://pullstream-me.speedws.com/live/n7/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/15/HgnD0J.png" group-title="NBA League Pass",NBA Live Game 8
-#http://pullhls3948069e.live.126.net/live/n8/playlist.m3u8
+http://pullstream-me.speedws.com/live/n8/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/15/HgnD0J.png" group-title="NBA League Pass",NBA Live Game 9
-#http://pullhls3948069e.live.126.net/live/n9/playlist.m3u8
+http://pullstream-me.speedws.com/live/n9/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/15/HgnD0J.png" group-title="NBA League Pass",NBA Live Game 10
-#http://pullhls3948069e.live.126.net/live/n10/playlist.m3u8
+http://pullstream-me.speedws.com/live/n10/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/15/HgnD0J.png" group-title="NBA League Pass",NBA Live Game 11
-#http://pullhls3948069e.live.126.net/live/n11/playlist.m3u8
+http://pullstream-me.speedws.com/live/n11/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/15/HgnD0J.png" group-title="NBA League Pass",NBA Live Game 12
-#http://pullhls3948069e.live.126.net/live/n12/playlist.m3u8
+http://pullstream-me.speedws.com/live/n12/playlist.m3u8
 
 
 
@@ -4278,200 +4209,198 @@ https://fash2043.cloudycdn.services/slive/ftv_ftv_asia_ada_xiv_42149_default_137
 https://fashionbox-localnow.cinedigm.com/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s1.ax1x.com/2022/03/20/qVDmEd.png" group-title="英国IP观看",BBC One HD
+#EXTINF:-1 tvg-id="BBCOne.uk" tvg-logo="https://s1.ax1x.com/2022/03/20/qVDmEd.png" group-title="英国IP观看",BBC One HD
 https://vs-hls-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_hd/t=3840/v=pv14/b=5070016/main.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s1.ax1x.com/2022/03/20/qVDpNR.png" group-title="英国IP观看",BBC One Wales HD
+#EXTINF:-1 tvg-id="BBCOne.uk" tvg-logo="https://s1.ax1x.com/2022/03/20/qVDpNR.png" group-title="英国IP观看",BBC One Wales HD
 https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_wales_hd/t=3840/v=pv14/b=5070016/main.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s1.ax1x.com/2022/03/20/qVDSE9.png" group-title="英国IP观看",BBC One Northern Ireland HD
+#EXTINF:-1 tvg-id="BBCOne.uk" tvg-logo="https://s1.ax1x.com/2022/03/20/qVDSE9.png" group-title="英国IP观看",BBC One Northern Ireland HD
 https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_northern_ireland_hd/t=3840/v=pv14/b=5070016/main.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s1.ax1x.com/2022/03/20/qVBvB4.png" group-title="英国IP观看",BBC One Scotland HD
+#EXTINF:-1 tvg-id="BBCOneScotland.uk" tvg-logo="https://s1.ax1x.com/2022/03/20/qVBvB4.png" group-title="英国IP观看",BBC One Scotland HD
 https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_scotland_hd/t=3840/v=pv14/b=5070016/main.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s1.ax1x.com/2022/03/20/qVDVDe.png" group-title="英国IP观看",BBC Two HD
+#EXTINF:-1 tvg-id="BBCTwo.uk" tvg-logo="https://s1.ax1x.com/2022/03/20/qVDVDe.png" group-title="英国IP观看",BBC Two HD
 https://vs-hls-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_two_hd/t=3840/v=pv14/b=5070016/main.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s1.ax1x.com/2022/03/20/qVDdCq.png" group-title="英国IP观看",BBC Two Northern Ireland HD
+#EXTINF:-1 tvg-id="BBCTwo.uk" tvg-logo="https://s1.ax1x.com/2022/03/20/qVDdCq.png" group-title="英国IP观看",BBC Two Northern Ireland HD
 https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_two_northern_ireland_hd/t=3840/v=pv14/b=5070016/main.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s1.ax1x.com/2022/03/20/qVrER0.png" group-title="英国IP观看",BBC News HD
+#EXTINF:-1 tvg-id="BBCNews.uk" tvg-logo="https://s1.ax1x.com/2022/03/20/qVrER0.png" group-title="英国IP观看",BBC News HD
 https://vs-hls-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s1.ax1x.com/2022/03/20/qVD941.png" group-title="英国IP观看",BBC Four HD
+#EXTINF:-1 tvg-id="BBCFour.uk" tvg-logo="https://s1.ax1x.com/2022/03/20/qVD941.png" group-title="英国IP观看",BBC Four HD
 https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_four_hd/t=3840/v=pv14/b=5070016/main.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s1.ax1x.com/2022/03/20/qVBjuF.png" group-title="英国IP观看",CBBC HD
+#EXTINF:-1 tvg-id="CBBC.uk" tvg-logo="https://s1.ax1x.com/2022/03/20/qZPDq1.png" group-title="英国IP观看",CBBC HD
 https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:cbbc_hd/t=3840/v=pv14/b=5070016/main.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s1.ax1x.com/2022/03/20/qVBxHJ.png" group-title="英国IP观看",CBeebies HD
+#EXTINF:-1 tvg-id="CBeebiesUK.uk" tvg-logo="https://s1.ax1x.com/2022/03/20/qVBxHJ.png" group-title="英国IP观看",CBeebies HD
 https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:cbeebies_hd/t=3840/v=pv14/b=5070016/main.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s1.ax1x.com/2022/03/20/qVDi36.png" group-title="英国IP观看",BBC Scotland
+#EXTINF:-1 tvg-id="BBCOne.uk" tvg-logo="https://s1.ax1x.com/2022/03/20/qVDi36.png" group-title="英国IP观看",BBC Scotland
 http://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_scotland_hd/t=3840/v=pv10/b=1604032/main.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s1.ax1x.com/2022/03/20/qVBvB4.png" group-title="英国IP观看",BBC One Scotland
+#EXTINF:-1 tvg-id="BBCOneScotland.uk" tvg-logo="https://s1.ax1x.com/2022/03/20/qVBvB4.png" group-title="英国IP观看",BBC One Scotland
 http://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_scotland_hd/t=3840/v=pv10/b=1604032/main.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英国IP观看",BBC One Northern Ireland
+#EXTINF:-1 tvg-id="BBCOne.uk" tvg-logo="https://s1.ax1x.com/2022/03/20/qVDSE9.png" group-title="英国IP观看",BBC One Northern Ireland
 http://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_northern_ireland_hd/t=3840/v=pv10/b=1604032/main.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英国IP观看",BBC One Wales
+#EXTINF:-1 tvg-id="BBCOne.uk" tvg-logo="https://s1.ax1x.com/2022/03/20/qVDpNR.png" group-title="英国IP观看",BBC One Wales
 http://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_wales_hd/t=3840/v=pv10/b=1604032/main.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s1.ax1x.com/2022/03/20/qVD941.png" group-title="英国IP观看",BBC Four
+#EXTINF:-1 tvg-id="BBCFour.uk" tvg-logo="https://s1.ax1x.com/2022/03/20/qVD941.png" group-title="英国IP观看",BBC Four
 http://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_four_hd/t=3840/v=pv10/b=1604032/main.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s1.ax1x.com/2022/03/20/qVBjuF.png" group-title="英国IP观看",CBBC
+#EXTINF:-1 tvg-id="CBBC.uk" tvg-logo="https://s1.ax1x.com/2022/03/20/qZPDq1.png" group-title="英国IP观看",CBBC
 http://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:cbbc_hd/t=3840/v=pv10/b=1604032/main.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s1.ax1x.com/2022/03/20/qVBxHJ.png" group-title="英国IP观看",CBeebies
+#EXTINF:-1 tvg-id="CBeebiesUK.uk" tvg-logo="https://s1.ax1x.com/2022/03/20/qVBxHJ.png" group-title="英国IP观看",CBeebies
 http://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:cbeebies_hd/t=3840/v=pv10/b=1604032/main.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s1.ax1x.com/2022/03/20/qVrER0.png" group-title="英国IP观看",BBC News
+#EXTINF:-1 tvg-id="BBCNews.uk" tvg-logo="https://s1.ax1x.com/2022/03/20/qVrER0.png" group-title="英国IP观看",BBC News
 https://vs-hls-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv10/b=1604032/main.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英国IP观看",BBC Two England
+#EXTINF:-1 tvg-id="BBCTwo.uk" tvg-logo="https://s1.ax1x.com/2022/03/20/qVDVDe.png" group-title="英国IP观看",BBC Two England
 https://vs-hls-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_two_hd/mobile_wifi_main_sd_abr_v2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s1.ax1x.com/2022/03/20/qVDdCq.png" group-title="英国IP观看",BBC Two Northen Ireland
+#EXTINF:-1 tvg-id="BBCTwo.uk" tvg-logo="https://s1.ax1x.com/2022/03/20/qVDdCq.png" group-title="英国IP观看",BBC Two Northern Ireland
 https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_two_northern_ireland_hd/t=3840/v=pv10/b=1604032/main.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英国IP观看",BBC Parliament
+#EXTINF:-1 tvg-id="BBCParliament.uk" tvg-logo="https://s1.ax1x.com/2022/03/20/qVoTLd.png" group-title="英国IP观看",BBC Parliament
 http://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_parliament/t=3840/v=pv10/b=1604032/main.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英国IP观看",BBC ALBA
+#EXTINF:-1 tvg-id="BBCAlba.uk" tvg-logo="https://s1.ax1x.com/2022/03/20/qVoosH.png" group-title="英国IP观看",BBC ALBA
 http://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_alba/t=3840/v=pv10/b=1604032/main.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英国IP观看",S4C
+#EXTINF:-1 tvg-id="S4C.uk" tvg-logo="https://s1.ax1x.com/2022/03/20/qVoHeA.png" group-title="英国IP观看",S4C
 http://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:s4cpbs/t=3840/v=pv10/b=1604032/main.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英国IP观看",BBC One London
+#EXTINF:-1 tvg-id="BBCOneLondon.uk" tvg-logo="https://s1.ax1x.com/2022/03/20/qVDkjO.png" group-title="英国IP观看",BBC One London
 https://vs-hls-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_london/t=3840/v=pv10/b=1604032/main.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英国IP观看",BBC One Cambridge
+#EXTINF:-1 tvg-id="BBCOne.uk" tvg-logo="https://s1.ax1x.com/2022/03/20/qVDkjO.png" group-title="英国IP观看",BBC One Cambridge
 http://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_cambridge/t=3840/v=pv10/b=1604032/main.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英国IP观看",BBC One North West
+#EXTINF:-1 tvg-id="BBCOne.uk" tvg-logo="https://s1.ax1x.com/2022/03/20/qVDkjO.png" group-title="英国IP观看",BBC One North West
 http://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_north_west/t=3840/v=pv10/b=1604032/main.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英国IP观看",BBC One North East
+#EXTINF:-1 tvg-id="BBCOne.uk" tvg-logo="https://s1.ax1x.com/2022/03/20/qVDkjO.png" group-title="英国IP观看",BBC One North East
 http://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_north_east/t=3840/v=pv10/b=1604032/main.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英国IP观看",BBC One South West
+#EXTINF:-1 tvg-id="BBCOne.uk" tvg-logo="https://s1.ax1x.com/2022/03/20/qVDkjO.png" group-title="英国IP观看",BBC One South West
 http://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_south_west/t=3840/v=pv10/b=1604032/main.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英国IP观看",BBC One South East
+#EXTINF:-1 tvg-id="BBCOne.uk" tvg-logo="https://s1.ax1x.com/2022/03/20/qVDkjO.png" group-title="英国IP观看",BBC One South East
 http://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_south_east/t=3840/v=pv10/b=1604032/main.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英国IP观看",BBC One South
+#EXTINF:-1 tvg-id="BBCOne.uk" tvg-logo="https://s1.ax1x.com/2022/03/20/qVDkjO.png" group-title="英国IP观看",BBC One South
 http://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_south/t=3840/v=pv10/b=1604032/main.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英国IP观看",BBC One East Yorkshire
+#EXTINF:-1 tvg-id="BBCOne.uk" tvg-logo="https://s1.ax1x.com/2022/03/20/qVDkjO.png" group-title="英国IP观看",BBC One East Yorkshire
 http://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_east_yorkshire/t=3840/v=pv10/b=1604032/main.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英国IP观看",BBC One Yorks
+#EXTINF:-1 tvg-id="BBCOne.uk" tvg-logo="https://s1.ax1x.com/2022/03/20/qVDkjO.png" group-title="英国IP观看",BBC One Yorks
 http://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_yorks/t=3840/v=pv10/b=1604032/main.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英国IP观看",BBC One West
+#EXTINF:-1 tvg-id="BBCOne.uk" tvg-logo="https://s1.ax1x.com/2022/03/20/qVDkjO.png" group-title="英国IP观看",BBC One West
 http://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_west/t=3840/v=pv10/b=1604032/main.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英国IP观看",BBC One Oxford
+#EXTINF:-1 tvg-id="BBCOne.uk" tvg-logo="https://s1.ax1x.com/2022/03/20/qVDkjO.png" group-title="英国IP观看",BBC One Oxford
 http://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_oxford/t=3840/v=pv10/b=1604032/main.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英国IP观看",BBC One East Midlands
+#EXTINF:-1 tvg-id="BBCOne.uk" tvg-logo="https://s1.ax1x.com/2022/03/20/qVDkjO.png" group-title="英国IP观看",BBC One East Midlands
 http://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_east_midlands/t=3840/v=pv10/b=1604032/main.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英国IP观看",BBC One East
+#EXTINF:-1 tvg-id="BBCOne.uk" tvg-logo="https://s1.ax1x.com/2022/03/20/qVDkjO.png" group-title="英国IP观看",BBC One East
 http://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_east/t=3840/v=pv10/b=1604032/main.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英国IP观看",BBC One Channel Islands
+#EXTINF:-1 tvg-id="BBCOne.uk" tvg-logo="https://s1.ax1x.com/2022/03/20/qVDkjO.png" group-title="英国IP观看",BBC One Channel Islands
 http://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_channel_islands/t=3840/v=pv10/b=1604032/main.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英国IP观看",BBC One West Midlands
+#EXTINF:-1 tvg-id="BBCOne.uk" tvg-logo="https://s1.ax1x.com/2022/03/20/qVDkjO.png" group-title="英国IP观看",BBC One West Midlands
 http://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_west_midlands/t=3840/v=pv10/b=1604032/main.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s1.ax1x.com/2022/03/20/qVrER0.png" group-title="英国IP观看",BBC News Arabic
+#EXTINF:-1 tvg-id="" tvg-logo="https://s1.ax1x.com/2022/03/20/qVvIhj.png" group-title="英国IP观看",BBC News Arabic
 https://vs-hls-pushb-ww.live.cf.md.bbci.co.uk/x=3/i=urn:bbc:pips:service:bbc_arabic_tv/t=3840/v=pv10/b=1604032/main.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s1.ax1x.com/2022/03/20/qVrER0.png" group-title="英国IP观看",BBC News Arabic HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://s1.ax1x.com/2022/03/20/qVvIhj.png" group-title="英国IP观看",BBC News Arabic HD
 https://vs-hls-pushb-ww.live.cf.md.bbci.co.uk/x=3/i=urn:bbc:pips:service:bbc_arabic_tv/t=3840/v=pv14/b=5070016/main.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s1.ax1x.com/2022/03/20/qVDi36.png" group-title="英国IP观看",BBC Scotland
+#EXTINF:-1 tvg-id="BBCOne.uk" tvg-logo="https://s1.ax1x.com/2022/03/20/qVDi36.png" group-title="英国IP观看",BBC Scotland
 http://vs-hls-pushb-uk-live.akamaized.net/manifest/x=3/i=urn:bbc:pips:service:bbc_scotland_hd/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s1.ax1x.com/2022/03/20/qVBvB4.png" group-title="英国IP观看",BBC One Scotland
+#EXTINF:-1 tvg-id="BBCOneScotland.uk" tvg-logo="https://s1.ax1x.com/2022/03/20/qVBvB4.png" group-title="英国IP观看",BBC One Scotland
 http://vs-hls-pushb-uk-live.akamaized.net/manifest/x=3/i=urn:bbc:pips:service:bbc_one_scotland_hd/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英国IP观看",BBC One Northern Ireland
+#EXTINF:-1 tvg-id="BBCOne.uk" tvg-logo="https://s1.ax1x.com/2022/03/20/qVDSE9.png" group-title="英国IP观看",BBC One Northern Ireland
 http://vs-hls-pushb-uk-live.akamaized.net/manifest/x=3/i=urn:bbc:pips:service:bbc_one_northern_ireland_hd/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英国IP观看",BBC One Wales
+#EXTINF:-1 tvg-id="BBCOne.uk" tvg-logo="https://s1.ax1x.com/2022/03/20/qVDpNR.png" group-title="英国IP观看",BBC One Wales
 http://vs-hls-pushb-uk-live.akamaized.net/manifest/x=3/i=urn:bbc:pips:service:bbc_one_wales_hd/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s1.ax1x.com/2022/03/20/qVD941.png" group-title="英国IP观看",BBC Four
+#EXTINF:-1 tvg-id="BBCFour.uk" tvg-logo="https://s1.ax1x.com/2022/03/20/qVD941.png" group-title="英国IP观看",BBC Four
 http://vs-hls-pushb-uk-live.akamaized.net/manifest/x=3/i=urn:bbc:pips:service:bbc_four_hd/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s1.ax1x.com/2022/03/20/qVBjuF.png" group-title="英国IP观看",CBBC
+#EXTINF:-1 tvg-id="CBBC.uk" tvg-logo="https://s1.ax1x.com/2022/03/20/qZPDq1.png" group-title="英国IP观看",CBBC
 http://vs-hls-pushb-uk-live.akamaized.net/manifest/x=3/i=urn:bbc:pips:service:cbbc_hd/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s1.ax1x.com/2022/03/20/qVBxHJ.png" group-title="英国IP观看",CBeebies
+#EXTINF:-1 tvg-id="CBeebiesUK.uk" tvg-logo="https://s1.ax1x.com/2022/03/20/qVBxHJ.png" group-title="英国IP观看",CBeebies
 http://vs-hls-pushb-uk-live.akamaized.net/manifest/x=3/i=urn:bbc:pips:service:cbeebies_hd/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s1.ax1x.com/2022/03/20/qVrER0.png" group-title="英国IP观看",BBC News
+#EXTINF:-1 tvg-id="BBCNews.uk" tvg-logo="https://s1.ax1x.com/2022/03/20/qVrER0.png" group-title="英国IP观看",BBC News
 https://vs-hls-push-uk-live.akamaized.net/manifest/x=3/i=urn:bbc:pips:service:bbc_news_channel_hd/mobile_wifi_main_sd_abr_v2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英国IP观看",BBC Two Wales
+#EXTINF:-1 tvg-id="BBCTwo.uk" tvg-logo="https://s1.ax1x.com/2022/03/20/qVDU5n.png" group-title="英国IP观看",BBC Two Wales
 https://vs-hls-push-uk-live.akamaized.net/manifest/x=3/i=urn:bbc:pips:service:bbc_two_wales_digital/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英国IP观看",BBC Two England
+#EXTINF:-1 tvg-id="BBCTwo.uk" tvg-logo="https://s1.ax1x.com/2022/03/20/qVDVDe.png" group-title="英国IP观看",BBC Two England
 https://vs-hls-push-uk-live.akamaized.net/manifest/x=3/i=urn:bbc:pips:service:bbc_two_hd/mobile_wifi_main_sd_abr_v2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s1.ax1x.com/2022/03/20/qVDdCq.png" group-title="英国IP观看",BBC Two Northern Ireland
+#EXTINF:-1 tvg-id="BBCTwo.uk" tvg-logo="https://s1.ax1x.com/2022/03/20/qVDdCq.png" group-title="英国IP观看",BBC Two Northern Ireland
 https://vs-hls-pushb-uk-live.akamaized.net/manifest/x=3/i=urn:bbc:pips:service:bbc_two_northern_ireland_hd/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英国IP观看",BBC Parliament
+#EXTINF:-1 tvg-id="BBCParliament.uk" tvg-logo="https://s1.ax1x.com/2022/03/20/qVoTLd.png" group-title="英国IP观看",BBC Parliament
 http://vs-hls-pushb-uk-live.akamaized.net/manifest/x=3/i=urn:bbc:pips:service:bbc_parliament/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英国IP观看",BBC ALBA
+#EXTINF:-1 tvg-id="BBCAlba.uk" tvg-logo="https://s1.ax1x.com/2022/03/20/qVoosH.png" group-title="英国IP观看",BBC ALBA
 http://vs-hls-pushb-uk-live.akamaized.net/manifest/x=3/i=urn:bbc:pips:service:bbc_alba/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英国IP观看",S4C
+#EXTINF:-1 tvg-id="S4C.uk" tvg-logo="https://s1.ax1x.com/2022/03/20/qVoHeA.png" group-title="英国IP观看",S4C
 http://vs-hls-pushb-uk-live.akamaized.net/manifest/x=3/i=urn:bbc:pips:service:s4cpbs/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英国IP观看",BBC One London
+#EXTINF:-1 tvg-id="BBCOneLondon.uk" tvg-logo="https://s1.ax1x.com/2022/03/20/qVDkjO.png" group-title="英国IP观看",BBC One London
 https://vs-hls-push-uk-live.akamaized.net/manifest/x=3/i=urn:bbc:pips:service:bbc_one_london/mobile_wifi_main_sd_abr_v2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英国IP观看",BBC One Cambridge
+#EXTINF:-1 tvg-id="BBCOne.uk" tvg-logo="https://s1.ax1x.com/2022/03/20/qVDkjO.png" group-title="英国IP观看",BBC One Cambridge
 http://vs-hls-pushb-uk-live.akamaized.net/manifest/x=3/i=urn:bbc:pips:service:bbc_one_cambridge/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英国IP观看",BBC One North West
+#EXTINF:-1 tvg-id="BBCOne.uk" tvg-logo="https://s1.ax1x.com/2022/03/20/qVDkjO.png" group-title="英国IP观看",BBC One North West
 http://vs-hls-pushb-uk-live.akamaized.net/manifest/x=3/i=urn:bbc:pips:service:bbc_one_north_west/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英国IP观看",BBC One North East
+#EXTINF:-1 tvg-id="BBCOne.uk" tvg-logo="https://s1.ax1x.com/2022/03/20/qVDkjO.png" group-title="英国IP观看",BBC One North East
 http://vs-hls-pushb-uk-live.akamaized.net/manifest/x=3/i=urn:bbc:pips:service:bbc_one_north_east/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英国IP观看",BBC One South West
+#EXTINF:-1 tvg-id="BBCOne.uk" tvg-logo="https://s1.ax1x.com/2022/03/20/qVDkjO.png" group-title="英国IP观看",BBC One South West
 http://vs-hls-pushb-uk-live.akamaized.net/manifest/x=3/i=urn:bbc:pips:service:bbc_one_south_west/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英国IP观看",BBC One South East
+#EXTINF:-1 tvg-id="BBCOne.uk" tvg-logo="https://s1.ax1x.com/2022/03/20/qVDkjO.png" group-title="英国IP观看",BBC One South East
 http://vs-hls-pushb-uk-live.akamaized.net/manifest/x=3/i=urn:bbc:pips:service:bbc_one_south_east/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英国IP观看",BBC One South
+#EXTINF:-1 tvg-id="BBCOne.uk" tvg-logo="https://s1.ax1x.com/2022/03/20/qVDkjO.png" group-title="英国IP观看",BBC One South
 http://vs-hls-pushb-uk-live.akamaized.net/manifest/x=3/i=urn:bbc:pips:service:bbc_one_south/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英国IP观看",BBC One East Yorkshire
+#EXTINF:-1 tvg-id="BBCOne.uk" tvg-logo="https://s1.ax1x.com/2022/03/20/qVDkjO.png" group-title="英国IP观看",BBC One East Yorkshire
 http://vs-hls-pushb-uk-live.akamaized.net/manifest/x=3/i=urn:bbc:pips:service:bbc_one_east_yorkshire/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英国IP观看",BBC One Yorks
+#EXTINF:-1 tvg-id="BBCOne.uk" tvg-logo="https://s1.ax1x.com/2022/03/20/qVDkjO.png" group-title="英国IP观看",BBC One Yorks
 http://vs-hls-pushb-uk-live.akamaized.net/manifest/x=3/i=urn:bbc:pips:service:bbc_one_yorks/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英国IP观看",BBC One West
+#EXTINF:-1 tvg-id="BBCOne.uk" tvg-logo="https://s1.ax1x.com/2022/03/20/qVDkjO.png" group-title="英国IP观看",BBC One West
 http://vs-hls-pushb-uk-live.akamaized.net/manifest/x=3/i=urn:bbc:pips:service:bbc_one_west/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英国IP观看",BBC One Oxford
+#EXTINF:-1 tvg-id="BBCOne.uk" tvg-logo="https://s1.ax1x.com/2022/03/20/qVDkjO.png" group-title="英国IP观看",BBC One Oxford
 http://vs-hls-pushb-uk-live.akamaized.net/manifest/x=3/i=urn:bbc:pips:service:bbc_one_oxford/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英国IP观看",BBC One East Midlands
+#EXTINF:-1 tvg-id="BBCOne.uk" tvg-logo="https://s1.ax1x.com/2022/03/20/qVDkjO.png" group-title="英国IP观看",BBC One East Midlands
 http://vs-hls-pushb-uk-live.akamaized.net/manifest/x=3/i=urn:bbc:pips:service:bbc_one_east_midlands/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英国IP观看",BBC One East
+#EXTINF:-1 tvg-id="BBCOne.uk" tvg-logo="https://s1.ax1x.com/2022/03/20/qVDkjO.png" group-title="英国IP观看",BBC One East
 http://vs-hls-pushb-uk-live.akamaized.net/manifest/x=3/i=urn:bbc:pips:service:bbc_one_east/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英国IP观看",BBC One Channel Islands
+#EXTINF:-1 tvg-id="BBCOne.uk" tvg-logo="https://s1.ax1x.com/2022/03/20/qVDkjO.png" group-title="英国IP观看",BBC One Channel Islands
 http://vs-hls-pushb-uk-live.akamaized.net/manifest/x=3/i=urn:bbc:pips:service:bbc_one_channel_islands/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英国IP观看",BBC One West Midlands
+#EXTINF:-1 tvg-id="BBCOne.uk" tvg-logo="https://s1.ax1x.com/2022/03/20/qVDkjO.png" group-title="英国IP观看",BBC One West Midlands
 http://vs-hls-pushb-uk-live.akamaized.net/manifest/x=3/i=urn:bbc:pips:service:bbc_one_west_midlands/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s1.ax1x.com/2022/03/20/qVDi36.png" group-title="英国IP观看",BBC Scotland
+#EXTINF:-1 tvg-id="BBCOne.uk" tvg-logo="https://s1.ax1x.com/2022/03/20/qVDi36.png" group-title="英国IP观看",BBC Scotland
 https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_scotland_hd/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s1.ax1x.com/2022/03/20/qVBvB4.png" group-title="英国IP观看",BBC One Scotland
+#EXTINF:-1 tvg-id="BBCOneScotland.uk" tvg-logo="https://s1.ax1x.com/2022/03/20/qVBvB4.png" group-title="英国IP观看",BBC One Scotland
 https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_scotland_hd/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英国IP观看",BBC One Northern Ireland
+#EXTINF:-1 tvg-id="BBCOne.uk" tvg-logo="https://s1.ax1x.com/2022/03/20/qVDSE9.png" group-title="英国IP观看",BBC One Northern Ireland
 https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_northern_ireland_hd/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英国IP观看",BBC One Wales
+#EXTINF:-1 tvg-id="BBCOne.uk" tvg-logo="https://s1.ax1x.com/2022/03/20/qVDpNR.png" group-title="英国IP观看",BBC One Wales
 https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_wales_hd/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s1.ax1x.com/2022/03/20/qVD941.png" group-title="英国IP观看",BBC Four
+#EXTINF:-1 tvg-id="BBCFour.uk" tvg-logo="https://s1.ax1x.com/2022/03/20/qVD941.png" group-title="英国IP观看",BBC Four
 https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_four_hd/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s1.ax1x.com/2022/03/20/qVBjuF.png" group-title="英国IP观看",CBBC
+#EXTINF:-1 tvg-id="CBBC.uk" tvg-logo="https://s1.ax1x.com/2022/03/20/qZPDq1.png" group-title="英国IP观看",CBBC
 https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:cbbc_hd/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s1.ax1x.com/2022/03/20/qVBxHJ.png" group-title="英国IP观看",CBeebies
+#EXTINF:-1 tvg-id="CBeebiesUK.uk" tvg-logo="https://s1.ax1x.com/2022/03/20/qVBxHJ.png" group-title="英国IP观看",CBeebies
 https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:cbeebies_hd/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s1.ax1x.com/2022/03/20/qVrER0.png" group-title="英国IP观看",BBC News
+#EXTINF:-1 tvg-id="BBCNews.uk" tvg-logo="https://s1.ax1x.com/2022/03/20/qVrER0.png" group-title="英国IP观看",BBC News
 https://vs-hls-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_news_channel_hd/mobile_wifi_main_sd_abr_v2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英国IP观看",BBC Two Northen Ireland
+#EXTINF:-1 tvg-id="BBCTwo.uk" tvg-logo="https://s1.ax1x.com/2022/03/20/qVDdCq.png" group-title="英国IP观看",BBC Two Northern Ireland
 https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_two_northern_ireland_hd/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英国IP观看",BBC Parliament
+#EXTINF:-1 tvg-id="BBCParliament.uk" tvg-logo="https://s1.ax1x.com/2022/03/20/qVoTLd.png" group-title="英国IP观看",BBC Parliament
 https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_parliament/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英国IP观看",BBC ALBA
+#EXTINF:-1 tvg-id="BBCAlba.uk" tvg-logo="https://s1.ax1x.com/2022/03/20/qVoosH.png" group-title="英国IP观看",BBC ALBA
 https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_alba/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英国IP观看",S4C
+#EXTINF:-1 tvg-id="S4C.uk" tvg-logo="https://s1.ax1x.com/2022/03/20/qVoHeA.png" group-title="英国IP观看",S4C
 https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:s4cpbs/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英国IP观看",BBC One London
+#EXTINF:-1 tvg-id="BBCOneLondon.uk" tvg-logo="https://s1.ax1x.com/2022/03/20/qVDkjO.png" group-title="英国IP观看",BBC One London
 https://vs-hls-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_london/mobile_wifi_main_sd_abr_v2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英国IP观看",BBC One Cambridge
+#EXTINF:-1 tvg-id="BBCOne.uk" tvg-logo="https://s1.ax1x.com/2022/03/20/qVDkjO.png" group-title="英国IP观看",BBC One Cambridge
 https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_cambridge/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英国IP观看",BBC One North West
+#EXTINF:-1 tvg-id="BBCOne.uk" tvg-logo="https://s1.ax1x.com/2022/03/20/qVDkjO.png" group-title="英国IP观看",BBC One North West
 https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_north_west/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英国IP观看",BBC One North East
+#EXTINF:-1 tvg-id="BBCOne.uk" tvg-logo="https://s1.ax1x.com/2022/03/20/qVDkjO.png" group-title="英国IP观看",BBC One North East
 https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_north_east/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英国IP观看",BBC One South West
+#EXTINF:-1 tvg-id="BBCOne.uk" tvg-logo="https://s1.ax1x.com/2022/03/20/qVDkjO.png" group-title="英国IP观看",BBC One South West
 https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_south_west/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英国IP观看",BBC One South East
+#EXTINF:-1 tvg-id="BBCOne.uk" tvg-logo="https://s1.ax1x.com/2022/03/20/qVDkjO.png" group-title="英国IP观看",BBC One South East
 https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_south_east/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英国IP观看",BBC One South
+#EXTINF:-1 tvg-id="BBCOne.uk" tvg-logo="https://s1.ax1x.com/2022/03/20/qVDkjO.png" group-title="英国IP观看",BBC One South
 https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_south/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英国IP观看",BBC One East Yorkshire
+#EXTINF:-1 tvg-id="BBCOne.uk" tvg-logo="https://s1.ax1x.com/2022/03/20/qVDkjO.png" group-title="英国IP观看",BBC One East Yorkshire
 https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_east_yorkshire/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英国IP观看",BBC One Yorks
+#EXTINF:-1 tvg-id="BBCOne.uk" tvg-logo="https://s1.ax1x.com/2022/03/20/qVDkjO.png" group-title="英国IP观看",BBC One Yorks
 https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_yorks/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英国IP观看",BBC One West
+#EXTINF:-1 tvg-id="BBCOne.uk" tvg-logo="https://s1.ax1x.com/2022/03/20/qVDkjO.png" group-title="英国IP观看",BBC One West
 https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_west/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英国IP观看",BBC One Oxford
+#EXTINF:-1 tvg-id="BBCOne.uk" tvg-logo="https://s1.ax1x.com/2022/03/20/qVDkjO.png" group-title="英国IP观看",BBC One Oxford
 https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_oxford/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英国IP观看",BBC One East Midlands
+#EXTINF:-1 tvg-id="BBCOne.uk" tvg-logo="https://s1.ax1x.com/2022/03/20/qVDkjO.png" group-title="英国IP观看",BBC One East Midlands
 https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_east_midlands/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英国IP观看",BBC One East
+#EXTINF:-1 tvg-id="BBCOne.uk" tvg-logo="https://s1.ax1x.com/2022/03/20/qVDkjO.png" group-title="英国IP观看",BBC One East
 https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_east/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英国IP观看",BBC One Channel Islands
+#EXTINF:-1 tvg-id="BBCOne.uk" tvg-logo="https://s1.ax1x.com/2022/03/20/qVDkjO.png" group-title="英国IP观看",BBC One Channel Islands
 https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_channel_islands/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英国IP观看",BBC One West Midlands
+#EXTINF:-1 tvg-id="BBCOne.uk" tvg-logo="https://s1.ax1x.com/2022/03/20/qVDkjO.png" group-title="英国IP观看",BBC One West Midlands
 https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_west_midlands/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
-
-
 
 #EXTINF:-1 tvg-name="女团" tvg-logo="https://s1.ax1x.com/2022/03/08/b2i66x.jpg" group-title="VOD测试",女团 1
 https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240147051191.mp4
