@@ -1,13 +1,36 @@
 #EXTM3U url-tvg="http://epg.51zmt.top:8000/e.xml,https://epg.112114.xyz/pp.xml,https://i.mjh.nz/au/Sydney/epg.xml.gz,https://i.mjh.nz/au/Perth/epg.xml.gz,https://i.mjh.nz/PlutoTV/us.xml.gz" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
 
-#EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/24/biP0df.png" group-title="直播源完全免费",直播源为免费分享
-https://s4.ax1x.com/2022/02/24/biFtbt.jpg
-#EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/24/biP0df.png" group-title="直播源完全免费",禁止任何形式商用
-https://s4.ax1x.com/2022/02/24/biFtbt.jpg
-#EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/24/biP0df.png" group-title="直播源完全免费",任何牟利行为与作者无关
-https://s4.ax1x.com/2022/02/24/biFtbt.jpg
-#EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/24/biP0df.png" group-title="直播源完全免费",请关注油管"Vamos Chuck TV"频道
-https://s4.ax1x.com/2022/02/24/biFtbt.jpg
+#EXTINF:-1 logo="" group-title="粤语比赛直播" ,英超 利物浦 VS 沃特福德
+https://hls.zb.ssports.com/ssports/yue3559865_xinying1080.m3u8?k=837488e7a35555529f5b5fe8a40fdbf5&t=5f569b90&UID=1648808681free1660518180&MATCHID=3372599&TYPE=1
+#EXTINF:-1 logo="" group-title="粤语比赛直播" ,西甲 赫塔菲 VS 马洛卡
+https://hls.zb.ssports.com/ssports/yue3570842_xinying1080.m3u8?k=a9ba3f979e36f3e57f8ef469938ae092&t=5f569b90&UID=1648808738free7554054742&MATCHID=3372599&TYPE=1
+#EXTINF:-1 logo="" group-title="粤语比赛直播" ,英超 布莱顿 VS 诺维奇
+https://hls.zb.ssports.com/ssports/yue3559860_xinying1080.m3u8?k=e01206b7d8845c68f2dff7279985778d&t=6248814c&UID=1648808817free3062340888&MATCHID=3559860&TYPE=1
+#EXTINF:-1 logo="" group-title="粤语比赛直播" ,英超 狼队 VS 阿斯顿维拉
+https://hls.zb.ssports.com/ssports/yue3559869_xinying1080.m3u8?k=9ec0d213de62cc6ae25178d6f860f275&t=6248814c&UID=1648808870free1620364530&MATCHID=3559869&TYPE=1
+#EXTINF:-1 logo="" group-title="粤语比赛直播" ,英超 伯恩利 VS 曼城
+https://hls.zb.ssports.com/ssports/yue3559861_xinying1080.m3u8?k=a45ba3afa6bb0b0276e44f430fb27679&t=6248814c&UID=1648808938free5613640722&MATCHID=3559861&TYPE=1
+#EXTINF:-1 logo="" group-title="粤语比赛直播" ,英超 切尔西 VS 布伦特福德
+https://hls.zb.ssports.com/ssports/yue3559862_xinying1080.m3u8?k=559960fca18eede2c0d42f449e7110e0&t=5f569b90&UID=1648809006free6583450282&MATCHID=3372599&TYPE=1
+#EXTINF:-1 logo="" group-title="粤语比赛直播" ,英超 利兹 VS 南安普顿
+https://hls.zb.ssports.com/ssports/yue3559864_xinying1080.m3u8?k=b56c5ca87f7e24b0d6c65fe4001e5d1d&t=6248814c&UID=1648809066free7477172248&MATCHID=3559864&TYPE=1
+#EXTINF:-1 logo="" group-title="粤语比赛直播" ,西甲 莱万特 VS 比利亚雷亚尔
+https://hls.zb.ssports.com/ssports/yue3570844_xinying1080.m3u8?k=1eefc34a8f2ecb443170670f9c8df14a&t=624884d0&UID=1648809118free8715265210&MATCHID=3570844&TYPE=1
+#EXTINF:-1 logo="" group-title="粤语比赛直播" ,英超 曼联 VS 莱斯特城
+https://hls.zb.ssports.com/ssports/yue3559866_xinying1080.m3u8?k=a273816c4e16fcaa0b7fd267e9f8ba3f&t=5f569b90&UID=1648879995free1484430716&MATCHID=3372599&TYPE=1
+#EXTINF:-1 logo="" group-title="粤语比赛直播" ,西甲 维戈塞尔塔 VS 皇家马德里
+https://hls.zb.ssports.com/ssports/yue3570841_xinying1080.m3u8?k=9c2d6bdf484da7636456b23a10e05f0a&t=5f569b90&UID=1648880077free2861662536&MATCHID=3372599&TYPE=1
+#EXTINF:-1 logo="" group-title="粤语比赛直播" ,西甲 马德里竞技 VS 阿拉维斯
+https://hls.zb.ssports.com/ssports/yue3570838_xinying1080.m3u8?k=c873a48b294afea2c11d52cc3cf95e73&t=6248c79c&UID=1648880147free1885735088&MATCHID=3570838&TYPE=1
+#EXTINF:-1 logo="" group-title="粤语比赛直播" ,西甲 毕尔巴鄂竞技 VS 埃尔切
+https://hls.zb.ssports.com/ssports/yue3570837_xinying1080.m3u8?k=814c21949017ab0257559b6db68cb989&t=5f569b90&UID=1648880432free1501102043&MATCHID=3372599&TYPE=1
+#EXTINF:-1 logo="" group-title="粤语比赛直播" ,英超 西汉姆 VS 埃弗顿
+https://hls.zb.ssports.com/ssports/yue3559868_xinying1080.m3u8?k=531582defb711bfbcc9703c0c23f85e8&t=6249c4bc&UID=1648880478free2353074408&MATCHID=3559868&TYPE=1
+#EXTINF:-1 logo="" group-title="粤语比赛直播" ,西甲 贝蒂斯 VS 奥萨苏纳
+https://hls.zb.ssports.com/ssports/yue3570840_xinying1080.m3u8?k=f97e0587738db27d18bc0da8936727fb&t=6249d650&UID=1648880576free3318174620&MATCHID=3570840&TYPE=1
+#EXTINF:-1 logo="" group-title="粤语比赛直播" ,英超 热刺 VS 纽卡斯尔联
+https://hls.zb.ssports.com/ssports/yue3559867_xinying1080.m3u8?k=bc97985862e47fd0b6a84de5184e9650&t=6249e7e4&UID=1648880632free0025628141&MATCHID=3559867&TYPE=1
+
 
 
 #EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/25/bETtJI.png" group-title="俄乌局势新闻 #NOWAR",Prmua
