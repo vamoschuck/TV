@@ -1,7 +1,19 @@
 #EXTM3U url-tvg="http://epg.51zmt.top:8000/e.xml,https://epg.112114.xyz/pp.xml,https://i.mjh.nz/au/Sydney/epg.xml.gz,https://i.mjh.nz/au/Perth/epg.xml.gz,https://i.mjh.nz/PlutoTV/us.xml.gz" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
 
 
+#EXTINF:-1 logo="" group-title="欧冠" ,欧冠 曼城 VS 马德里竞技 爱奇艺粤语
+https://hls.zb.ssports.com/ssports/yue3710630_xinying1080.m3u8?k=9634f0756cff3a0d4c42b414325e180d&t=624cbc1c&UID=1649138955free7167481111&MATCHID=3710630&TYPE=1
 
+#EXTINF:-1 logo="" group-title="欧冠" ,欧冠 曼城 VS 马德里竞技 爱奇艺国语
+https://hls.zb.ssports.com/ssports/ch3710630_xinying1080.m3u8?k=9634f0756cff3a0d4c42b414325e180d&t=624cbc1c&UID=1649138955free7167481111&MATCHID=3710630&TYPE=1
+
+#EXTINF:-1 logo="" group-title="欧冠" ,欧冠 曼城 VS 马德里竞技 英
+https://hls.zb.ssports.com/ssports/en3710630_xinying1080.m3u8?k=9634f0756cff3a0d4c42b414325e180d&t=624cbc1c&UID=1649138955free7167481111&MATCHID=3710630&TYPE=1
+#EXTINF:-1 logo="" group-title="欧冠" ,欧冠 本菲卡 VS 利物浦 爱奇艺国语
+https://hls.zb.ssports.com/ssports/ch3710631_xinying1080.m3u8?k=9205c6b33b7a1a756775056ffa0e9443&t=624cbc1c&UID=1649139058free4245100846&MATCHID=3710631&TYPE=1
+
+#EXTINF:-1 logo="" group-title="欧冠" ,欧冠 本菲卡 VS 利物浦 原英
+https://hls.zb.ssports.com/ssports/en3710631_xinying1080.m3u8?k=9205c6b33b7a1a756775056ffa0e9443&t=624cbc1c&UID=1649139058free4245100846&MATCHID=3710631&TYPE=1
 
 
 #EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/25/bETtJI.png" group-title="俄乌局势新闻 #NOWAR",CNN
@@ -2477,6 +2489,8 @@ https://cdn.hklive.tv/raw/33.ts
 https://cdn.hklive.tv/raw/77.ts
 #EXTINF:-1 tvg-id="" tvg-name="香港國際財經台" tvg-logo="https://www.hkdtmb.com/png_logo/76.png" group-title="HKAnime源码",香港國際財經台
 https://cdn.hklive.tv/raw/76.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="HKAnime源码",奇妙電視78台
+https://cdn.hklive.tv/raw/78.ts
 #EXTINF:-1 tvg-id="" tvg-name="翡翠台" tvg-logo="https://www.hkdtmb.com/png_logo/81.png" group-title="HKAnime源码",翡翠台
 https://cdn.hklive.tv/raw/81.ts
 #EXTINF:-1 tvg-id="" tvg-name="翡翠台 (中英字幕)" tvg-logo="https://www.hkdtmb.com/png_logo/81.png" group-title="HKAnime源码",翡翠台 (中英字幕)
