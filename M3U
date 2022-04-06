@@ -1,6 +1,24 @@
 #EXTM3U url-tvg="http://epg.51zmt.top:8000/e.xml,https://epg.112114.xyz/pp.xml,https://i.mjh.nz/au/Sydney/epg.xml.gz,https://i.mjh.nz/au/Perth/epg.xml.gz,https://i.mjh.nz/PlutoTV/us.xml.gz" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
 
 
+#EXTINF:-1 logo="" group-title="今晚足球直播" ,英超 伯恩利 VS 埃弗顿 爱奇艺粤语
+https://hls.zb.ssports.com/ssports/yue3559758_xinying1080.m3u8?k=98bdc9212a6db0fb04e7826beca99111&t=624e0694&UID=1649225322free3850221604&MATCHID=3559758&TYPE=1
+#EXTINF:-1 logo="" group-title="今晚足球直播" ,英超 伯恩利 VS 埃弗顿 国语
+https://hls.zb.ssports.com/ssports/ch3559758_xinying1080.m3u8?k=98bdc9212a6db0fb04e7826beca99111&t=624e0694&UID=1649225322free3850221604&MATCHID=3559758&TYPE=1
+#EXTINF:-1 logo="" group-title="今晚足球直播" ,英超 伯恩利 VS 埃弗顿 英
+https://hls.zb.ssports.com/ssports/en3559758_xinying1080.m3u8?k=98bdc9212a6db0fb04e7826beca99111&t=624e0694&UID=1649225322free3850221604&MATCHID=3559758&TYPE=1
+
+#EXTINF:-1 logo="" group-title="今晚足球直播" ,欧冠 比利亚雷亚尔 VS 拜仁慕尼黑 国语
+https://hls.zb.ssports.com/ssports/ch3710632_xinying1080.m3u8?k=96191aa784cc16808fb9e09730492132&t=624e0d9c&UID=1649225367free5586524228&MATCHID=3710632&TYPE=1
+#EXTINF:-1 logo="" group-title="今晚足球直播" ,欧冠 比利亚雷亚尔 VS 拜仁慕尼黑 英
+https://hls.zb.ssports.com/ssports/en3710632_xinying1080.m3u8?k=96191aa784cc16808fb9e09730492132&t=624e0d9c&UID=1649225367free5586524228&MATCHID=3710632&TYPE=1
+#EXTINF:-1 logo="" group-title="今晚足球直播" ,欧冠 切尔西 VS 皇家马德里 粤语
+https://hls.zb.ssports.com/ssports/yue3710633_xinying1080.m3u8?k=7fa62f558caede05aa8543969abed857&t=624e0d9c&UID=1649225436free5607508300&MATCHID=3710633&TYPE=1
+#EXTINF:-1 logo="" group-title="今晚足球直播" ,欧冠 切尔西 VS 皇家马德里 国语
+https://hls.zb.ssports.com/ssports/ch3710633_xinying1080.m3u8?k=7fa62f558caede05aa8543969abed857&t=624e0d9c&UID=1649225436free5607508300&MATCHID=3710633&TYPE=1
+#EXTINF:-1 logo="" group-title="今晚足球直播" ,欧冠 切尔西 VS 皇家马德里 英
+https://hls.zb.ssports.com/ssports/en3710633_xinying1080.m3u8?k=7fa62f558caede05aa8543969abed857&t=624e0d9c&UID=1649225436free5607508300&MATCHID=3710633&TYPE=1
+
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="江西宜春-回看",CCTV-1综合
 http://39.135.138.59:18890/TVOD/88888910/224/3221225642/index.m3u8
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="江西宜春-回看",CCTV-2财经
