@@ -1,6 +1,97 @@
 #EXTM3U url-tvg="http://epg.51zmt.top:8000/e.xml,https://epg.112114.xyz/pp.xml,https://i.mjh.nz/au/Sydney/epg.xml.gz,https://i.mjh.nz/au/Perth/epg.xml.gz,https://i.mjh.nz/PlutoTV/us.xml.gz" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
 
 
+#EXTINF:-1 logo="" group-title="周末赛事直播" ,英超 埃弗顿 VS 曼联 粤语
+https://hls.zb.ssports.com/ssports/yue3559873_xinying1080.m3u8?k=123367eb4e6a0503b5f2369bdba65309&t=5f569b90&UID=1649458191free5281386057&MATCHID=3372599&TYPE=1
+#EXTINF:-1 logo="" group-title="周末赛事直播" ,西甲 加的斯 VS 贝蒂斯 粤语
+https://hls.zb.ssports.com/ssports/yue3570847_xinying1080.m3u8?k=c9676a691d2ea923b9979d3609a6e7f8&t=5f569b90&UID=1649458341free5134531477&MATCHID=3372599&TYPE=1
+#EXTINF:-1 logo="" group-title="周末赛事直播" ,英超 南安普顿 VS 切尔西 粤语
+https://hls.zb.ssports.com/ssports/yue3559878_xinying1080.m3u8?k=067de7b82e04f0a74a7a0a1b26e0e4d5&t=5f569b90&UID=1649458409free4821527808&MATCHID=3372599&TYPE=1
+#EXTINF:-1 logo="" group-title="周末赛事直播" ,英超 阿森纳 VS 布莱顿 粤语
+https://hls.zb.ssports.com/ssports/yue3559870_xinying1080.m3u8?k=e65e97f816f9cda239913e22fa65c25c&t=6251bbcc&UID=1649458471free8546644446&MATCHID=3559870&TYPE=1
+#EXTINF:-1 logo="" group-title="周末赛事直播" ,英超 沃特福德 VS 利兹 粤语
+https://hls.zb.ssports.com/ssports/yue3559879_xinying1080.m3u8?k=b807539f576291377c28ccda34c09e95&t=6251bbcc&UID=1649458550free6057176310&MATCHID=3559879&TYPE=1
+#EXTINF:-1 logo="" group-title="周末赛事直播" ,西甲 马洛卡 VS 马德里竞技 粤语
+https://hls.zb.ssports.com/ssports/yue3570851_xinying1080.m3u8?k=a05db7e37726e8e7cfd7e8d319cc34a0&t=6251bf50&UID=1649458628free0013078242&MATCHID=3570851&TYPE=1
+#EXTINF:-1 logo="" group-title="周末赛事直播" ,英超 阿斯顿维拉 VS 热刺 粤语
+https://hls.zb.ssports.com/ssports/yue3559871_xinying1080.m3u8?k=dcbc5f9229b52cc92eb8d9fc44841be8&t=5f569b90&UID=1649472216free0087736400&MATCHID=3372599&TYPE=1
+#EXTINF:-1 logo="" group-title="周末赛事直播" ,西甲 比利亚雷亚尔 VS 毕尔巴鄂竞技 粤语
+https://hls.zb.ssports.com/ssports/yue3570856_xinying1080.m3u8?k=94d1153f227f2865b716b03543deee49&t=5f569b90&UID=1649472277free1321277072&MATCHID=3372599&TYPE=1
+#EXTINF:-1 logo="" group-title="周末赛事直播" ,西甲 皇家马德里 VS 赫塔菲 粤语
+https://hls.zb.ssports.com/ssports/yue3570854_xinying1080.m3u8?k=c0a2182f0a1db44c8c302dca8a3ad004&t=6252021c&UID=1649472324free6066750017&MATCHID=3570854&TYPE=1
+#EXTINF:-1 logo="" group-title="周末赛事直播" ,西甲 奥萨苏纳 VS 阿拉维斯 粤语
+https://hls.zb.ssports.com/ssports/yue3570852_xinying1080.m3u8?k=03619d44e1bf7c81684160d3bb208ef6&t=5f569b90&UID=1649472422free1140584886&MATCHID=3372599&TYPE=1
+#EXTINF:-1 logo="" group-title="周末赛事直播" ,英超 布伦特福德 VS 西汉姆 粤语
+https://hls.zb.ssports.com/ssports/yue3559872_xinying1080.m3u8?k=4a194a0685029cee444f3b071ca54504&t=6252ff3c&UID=1649472540free8157661874&MATCHID=3559872&TYPE=1
+#EXTINF:-1 logo="" group-title="周末赛事直播" ,英超 诺维奇 VS 伯恩利 粤语
+https://hls.zb.ssports.com/ssports/yue3559877_xinying1080.m3u8?k=0e95f979185dbe6213b720987c8a6935&t=6252ff3c&UID=1649472585free5162345425&MATCHID=3559877&TYPE=1
+#EXTINF:-1 logo="" group-title="周末赛事直播" ,英超 莱斯特城 VS 水晶宫 粤语
+https://hls.zb.ssports.com/ssports/yue3559874_xinying1080.m3u8?k=b0732db6a19dac24278467d52510f827&t=6252ff3c&UID=1649472631free1047046461&MATCHID=3559874&TYPE=1
+#EXTINF:-1 logo="" group-title="周末赛事直播" ,西甲 西班牙人 VS 维戈塞尔塔 粤语
+https://hls.zb.ssports.com/ssports/yue3570849_xinying1080.m3u8?k=68f2af844589f944b2c707e9268356e6&t=625310d0&UID=1649472693free2584416354&MATCHID=3570849&TYPE=1
+#EXTINF:-1 logo="" group-title="周末赛事直播" ,英超 曼城 VS 利物浦 粤语
+https://hls.zb.ssports.com/ssports/yue3559875_xinying1080.m3u8?k=3988b9c330ee7c53f15ec5f5cb7e4409&t=5f569b90&UID=1649472760free3851031140&MATCHID=3372599&TYPE=1
+#EXTINF:-1 logo="" group-title="周末赛事直播" ,英超 埃弗顿 VS 曼联 普通话
+https://hls.zb.ssports.com/ssports/ch3559873_xinying1080.m3u8?k=123367eb4e6a0503b5f2369bdba65309&t=5f569b90&UID=1649458191free5281386057&MATCHID=3372599&TYPE=1
+#EXTINF:-1 logo="" group-title="周末赛事直播" ,西甲 加的斯 VS 贝蒂斯 普通话
+https://hls.zb.ssports.com/ssports/ch3570847_xinying1080.m3u8?k=c9676a691d2ea923b9979d3609a6e7f8&t=5f569b90&UID=1649458341free5134531477&MATCHID=3372599&TYPE=1
+#EXTINF:-1 logo="" group-title="周末赛事直播" ,英超 南安普顿 VS 切尔西 普通话
+https://hls.zb.ssports.com/ssports/ch3559878_xinying1080.m3u8?k=067de7b82e04f0a74a7a0a1b26e0e4d5&t=5f569b90&UID=1649458409free4821527808&MATCHID=3372599&TYPE=1
+#EXTINF:-1 logo="" group-title="周末赛事直播" ,英超 阿森纳 VS 布莱顿 普通话
+https://hls.zb.ssports.com/ssports/ch3559870_xinying1080.m3u8?k=e65e97f816f9cda239913e22fa65c25c&t=6251bbcc&UID=1649458471free8546644446&MATCHID=3559870&TYPE=1
+#EXTINF:-1 logo="" group-title="周末赛事直播" ,英超 沃特福德 VS 利兹 普通话
+https://hls.zb.ssports.com/ssports/ch3559879_xinying1080.m3u8?k=b807539f576291377c28ccda34c09e95&t=6251bbcc&UID=1649458550free6057176310&MATCHID=3559879&TYPE=1
+#EXTINF:-1 logo="" group-title="周末赛事直播" ,西甲 马洛卡 VS 马德里竞技 普通话
+https://hls.zb.ssports.com/ssports/ch3570851_xinying1080.m3u8?k=a05db7e37726e8e7cfd7e8d319cc34a0&t=6251bf50&UID=1649458628free0013078242&MATCHID=3570851&TYPE=1
+#EXTINF:-1 logo="" group-title="周末赛事直播" ,英超 阿斯顿维拉 VS 热刺 普通话
+https://hls.zb.ssports.com/ssports/ch3559871_xinying1080.m3u8?k=dcbc5f9229b52cc92eb8d9fc44841be8&t=5f569b90&UID=1649472216free0087736400&MATCHID=3372599&TYPE=1
+#EXTINF:-1 logo="" group-title="周末赛事直播" ,西甲 比利亚雷亚尔 VS 毕尔巴鄂竞技 普通话
+https://hls.zb.ssports.com/ssports/ch3570856_xinying1080.m3u8?k=94d1153f227f2865b716b03543deee49&t=5f569b90&UID=1649472277free1321277072&MATCHID=3372599&TYPE=1
+#EXTINF:-1 logo="" group-title="周末赛事直播" ,西甲 皇家马德里 VS 赫塔菲 普通话
+https://hls.zb.ssports.com/ssports/ch3570854_xinying1080.m3u8?k=c0a2182f0a1db44c8c302dca8a3ad004&t=6252021c&UID=1649472324free6066750017&MATCHID=3570854&TYPE=1
+#EXTINF:-1 logo="" group-title="周末赛事直播" ,西甲 奥萨苏纳 VS 阿拉维斯 普通话
+https://hls.zb.ssports.com/ssports/ch3570852_xinying1080.m3u8?k=03619d44e1bf7c81684160d3bb208ef6&t=5f569b90&UID=1649472422free1140584886&MATCHID=3372599&TYPE=1
+#EXTINF:-1 logo="" group-title="周末赛事直播" ,英超 布伦特福德 VS 西汉姆 普通话
+https://hls.zb.ssports.com/ssports/ch3559872_xinying1080.m3u8?k=4a194a0685029cee444f3b071ca54504&t=6252ff3c&UID=1649472540free8157661874&MATCHID=3559872&TYPE=1
+#EXTINF:-1 logo="" group-title="周末赛事直播" ,英超 诺维奇 VS 伯恩利 普通话
+https://hls.zb.ssports.com/ssports/ch3559877_xinying1080.m3u8?k=0e95f979185dbe6213b720987c8a6935&t=6252ff3c&UID=1649472585free5162345425&MATCHID=3559877&TYPE=1
+#EXTINF:-1 logo="" group-title="周末赛事直播" ,英超 莱斯特城 VS 水晶宫 普通话
+https://hls.zb.ssports.com/ssports/ch3559874_xinying1080.m3u8?k=b0732db6a19dac24278467d52510f827&t=6252ff3c&UID=1649472631free1047046461&MATCHID=3559874&TYPE=1
+#EXTINF:-1 logo="" group-title="周末赛事直播" ,西甲 西班牙人 VS 维戈塞尔塔 普通话
+https://hls.zb.ssports.com/ssports/ch3570849_xinying1080.m3u8?k=68f2af844589f944b2c707e9268356e6&t=625310d0&UID=1649472693free2584416354&MATCHID=3570849&TYPE=1
+#EXTINF:-1 logo="" group-title="周末赛事直播" ,英超 曼城 VS 利物浦 普通话
+https://hls.zb.ssports.com/ssports/ch3559875_xinying1080.m3u8?k=3988b9c330ee7c53f15ec5f5cb7e4409&t=5f569b90&UID=1649472760free3851031140&MATCHID=3372599&TYPE=1
+#EXTINF:-1 logo="" group-title="周末赛事直播" ,英超 埃弗顿 VS 曼联 英语
+https://hls.zb.ssports.com/ssports/en3559873_xinying1080.m3u8?k=123367eb4e6a0503b5f2369bdba65309&t=5f569b90&UID=1649458191free5281386057&MATCHID=3372599&TYPE=1
+#EXTINF:-1 logo="" group-title="周末赛事直播" ,西甲 加的斯 VS 贝蒂斯 英语
+https://hls.zb.ssports.com/ssports/en3570847_xinying1080.m3u8?k=c9676a691d2ea923b9979d3609a6e7f8&t=5f569b90&UID=1649458341free5134531477&MATCHID=3372599&TYPE=1
+#EXTINF:-1 logo="" group-title="周末赛事直播" ,英超 南安普顿 VS 切尔西 英语
+https://hls.zb.ssports.com/ssports/en3559878_xinying1080.m3u8?k=067de7b82e04f0a74a7a0a1b26e0e4d5&t=5f569b90&UID=1649458409free4821527808&MATCHID=3372599&TYPE=1
+#EXTINF:-1 logo="" group-title="周末赛事直播" ,英超 阿森纳 VS 布莱顿 英语
+https://hls.zb.ssports.com/ssports/en3559870_xinying1080.m3u8?k=e65e97f816f9cda239913e22fa65c25c&t=6251bbcc&UID=1649458471free8546644446&MATCHID=3559870&TYPE=1
+#EXTINF:-1 logo="" group-title="周末赛事直播" ,英超 沃特福德 VS 利兹 英语
+https://hls.zb.ssports.com/ssports/en3559879_xinying1080.m3u8?k=b807539f576291377c28ccda34c09e95&t=6251bbcc&UID=1649458550free6057176310&MATCHID=3559879&TYPE=1
+#EXTINF:-1 logo="" group-title="周末赛事直播" ,西甲 马洛卡 VS 马德里竞技 英语
+https://hls.zb.ssports.com/ssports/en3570851_xinying1080.m3u8?k=a05db7e37726e8e7cfd7e8d319cc34a0&t=6251bf50&UID=1649458628free0013078242&MATCHID=3570851&TYPE=1
+#EXTINF:-1 logo="" group-title="周末赛事直播" ,英超 阿斯顿维拉 VS 热刺 英语
+https://hls.zb.ssports.com/ssports/en3559871_xinying1080.m3u8?k=dcbc5f9229b52cc92eb8d9fc44841be8&t=5f569b90&UID=1649472216free0087736400&MATCHID=3372599&TYPE=1
+#EXTINF:-1 logo="" group-title="周末赛事直播" ,西甲 比利亚雷亚尔 VS 毕尔巴鄂竞技 英语
+https://hls.zb.ssports.com/ssports/en3570856_xinying1080.m3u8?k=94d1153f227f2865b716b03543deee49&t=5f569b90&UID=1649472277free1321277072&MATCHID=3372599&TYPE=1
+#EXTINF:-1 logo="" group-title="周末赛事直播" ,西甲 皇家马德里 VS 赫塔菲 英语
+https://hls.zb.ssports.com/ssports/en3570854_xinying1080.m3u8?k=c0a2182f0a1db44c8c302dca8a3ad004&t=6252021c&UID=1649472324free6066750017&MATCHID=3570854&TYPE=1
+#EXTINF:-1 logo="" group-title="周末赛事直播" ,西甲 奥萨苏纳 VS 阿拉维斯 英语
+https://hls.zb.ssports.com/ssports/en3570852_xinying1080.m3u8?k=03619d44e1bf7c81684160d3bb208ef6&t=5f569b90&UID=1649472422free1140584886&MATCHID=3372599&TYPE=1
+#EXTINF:-1 logo="" group-title="周末赛事直播" ,英超 布伦特福德 VS 西汉姆 英语
+https://hls.zb.ssports.com/ssports/en3559872_xinying1080.m3u8?k=4a194a0685029cee444f3b071ca54504&t=6252ff3c&UID=1649472540free8157661874&MATCHID=3559872&TYPE=1
+#EXTINF:-1 logo="" group-title="周末赛事直播" ,英超 诺维奇 VS 伯恩利 英语
+https://hls.zb.ssports.com/ssports/en3559877_xinying1080.m3u8?k=0e95f979185dbe6213b720987c8a6935&t=6252ff3c&UID=1649472585free5162345425&MATCHID=3559877&TYPE=1
+#EXTINF:-1 logo="" group-title="周末赛事直播" ,英超 莱斯特城 VS 水晶宫 英语
+https://hls.zb.ssports.com/ssports/en3559874_xinying1080.m3u8?k=b0732db6a19dac24278467d52510f827&t=6252ff3c&UID=1649472631free1047046461&MATCHID=3559874&TYPE=1
+#EXTINF:-1 logo="" group-title="周末赛事直播" ,西甲 西班牙人 VS 维戈塞尔塔 英语
+https://hls.zb.ssports.com/ssports/en3570849_xinying1080.m3u8?k=68f2af844589f944b2c707e9268356e6&t=625310d0&UID=1649472693free2584416354&MATCHID=3570849&TYPE=1
+#EXTINF:-1 logo="" group-title="周末赛事直播" ,英超 曼城 VS 利物浦 英语
+https://hls.zb.ssports.com/ssports/en3559875_xinying1080.m3u8?k=3988b9c330ee7c53f15ec5f5cb7e4409&t=5f569b90&UID=1649472760free3851031140&MATCHID=3372599&TYPE=1
+
 
 
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="江西宜春-回看",CCTV-1综合
@@ -582,8 +673,6 @@ http://39.135.55.105:6610/PLTV/88888888/224/3221225829/index.m3u8?servicetype=1
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="福建移动PLTV",CCTV1
 http://39.135.55.105:6610/PLTV/88888888/224/3221227014/index.m3u8?servicetype=1
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="福建移动PLTV",CCTV1
-http://39.135.55.105:6610/PLTV/88888888/224/3221226599/index.m3u8?servicetype=1
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="福建移动PLTV",CCTV1
 http://39.135.55.105:6610/PLTV/88888888/224/3221225922/index.m3u8?servicetype=1
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="福建移动PLTV",CCTV1
 http://39.135.55.105:6610/PLTV/88888888/224/3221226908/index.m3u8?servicetype=1
@@ -906,208 +995,202 @@ http://39.135.55.105:6610/PLTV/88888888/224/3221226956/index.m3u8?servicetype=1
 
 
 
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="限江苏地区HEVC",CCTV1HD
+#EXTINF:-1 group-title="限江苏地区HEVC",CCTV1HD
 http://ott.js.chinamobile.com/PLTV/3/224/3221227675/index.m3u8
-#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="限江苏地区HEVC",CCTV2HD
+#EXTINF:-1 group-title="限江苏地区HEVC",CCTV2HD
 http://ott.js.chinamobile.com/PLTV/3/224/3221227708/index.m3u8
-#EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="限江苏地区HEVC",CCTV3HD
+#EXTINF:-1 group-title="限江苏地区HEVC",CCTV3HD
 http://ott.js.chinamobile.com/PLTV/3/224/3221227650/index.m3u8
-#EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="限江苏地区HEVC",CCTV4HD
+#EXTINF:-1 group-title="限江苏地区HEVC",CCTV4HD
 http://ott.js.chinamobile.com/PLTV/3/224/3221227658/index.m3u8
-#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="限江苏地区HEVC",CCTV5HD
+#EXTINF:-1 group-title="限江苏地区HEVC",CCTV5HD
 http://ott.js.chinamobile.com/PLTV/3/224/3221227661/index.m3u8
-#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="限江苏地区HEVC",CCTV5+
+#EXTINF:-1 group-title="限江苏地区HEVC",CCTV5+
 http://ott.js.chinamobile.com/PLTV/3/224/3221227714/index.m3u8
-#EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="限江苏地区HEVC",CCTV6HD
+#EXTINF:-1 group-title="限江苏地区HEVC",CCTV6HD
 http://ott.js.chinamobile.com/PLTV/3/224/3221227664/index.m3u8
-#EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="限江苏地区HEVC",CCTV7HD
+#EXTINF:-1 group-title="限江苏地区HEVC",CCTV7HD
 http://ott.js.chinamobile.com/PLTV/3/224/3221227642/index.m3u8
-#EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="限江苏地区HEVC",CCTV8HD
+#EXTINF:-1 group-title="限江苏地区HEVC",CCTV8HD
 http://ott.js.chinamobile.com/PLTV/3/224/3221227667/index.m3u8
-#EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" group-title="限江苏地区HEVC",CCTV9HD
+#EXTINF:-1 group-title="限江苏地区HEVC",CCTV9HD
 http://ott.js.chinamobile.com/PLTV/3/224/3221227659/index.m3u8
-#EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" group-title="限江苏地区HEVC",CCTV10HD
+#EXTINF:-1 group-title="限江苏地区HEVC",CCTV10HD
 http://ott.js.chinamobile.com/PLTV/3/224/3221227717/index.m3u8
-#EXTINF:-1 tvg-id="12" tvg-name="CCTV11" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png" group-title="限江苏地区HEVC",CCTV11HD
+#EXTINF:-1 group-title="限江苏地区HEVC",CCTV11HD
 http://ott.js.chinamobile.com/PLTV/3/224/3221227720/index.m3u8
-#EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" group-title="限江苏地区HEVC",CCTV12HD
+#EXTINF:-1 group-title="限江苏地区HEVC",CCTV12HD
 http://ott.js.chinamobile.com/PLTV/3/224/3221227655/index.m3u8
-#EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="限江苏地区HEVC",CCTV13HD
+#EXTINF:-1 group-title="限江苏地区HEVC",CCTV13HD
 http://ott.js.chinamobile.com/PLTV/3/224/3221225560/index.m3u8
-#EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="限江苏地区HEVC",CCTV14HD
+#EXTINF:-1 group-title="限江苏地区HEVC",CCTV14HD
 http://ott.js.chinamobile.com/PLTV/3/224/3221227656/index.m3u8
-#EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="限江苏地区HEVC",CCTV15HD
+#EXTINF:-1 group-title="限江苏地区HEVC",CCTV15HD
 http://ott.js.chinamobile.com/PLTV/3/224/3221227723/index.m3u8
-#EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="限江苏地区HEVC",CCTV16HD
+#EXTINF:-1 group-title="限江苏地区HEVC",CCTV16HD
 http://ott.js.chinamobile.com/PLTV/3/224/3221228144/index.m3u8
-#EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="限江苏地区HEVC",CCTV16HD
-http://ott.js.chinamobile.com/PLTV/3/224/3221228112/index.m3u8
-#EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="限江苏地区HEVC",CCTV17HD
+#EXTINF:-1 group-title="限江苏地区HEVC",CCTV17HD
 http://ott.js.chinamobile.com/PLTV/3/224/3221227726/index.m3u8
-#EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="限江苏地区HEVC",江苏卫视HD
+#EXTINF:-1 group-title="限江苏地区HEVC",江苏卫视HD
 http://ott.js.chinamobile.com/PLTV/3/224/3221227668/index.m3u8
-#EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="限江苏地区HEVC",浙江卫视HD
+#EXTINF:-1 group-title="限江苏地区HEVC",浙江卫视HD
 http://ott.js.chinamobile.com/PLTV/3/224/3221227744/index.m3u8
-#EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="限江苏地区HEVC",北京卫视HD
+#EXTINF:-1 group-title="限江苏地区HEVC",北京卫视HD
 http://ott.js.chinamobile.com/PLTV/3/224/3221227652/index.m3u8
-#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="限江苏地区HEVC",湖南卫视HD
+#EXTINF:-1 group-title="限江苏地区HEVC",湖南卫视HD
 http://ott.js.chinamobile.com/PLTV/3/224/3221227735/index.m3u8
-#EXTINF:-1 tvg-id="33" tvg-name="广东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="限江苏地区HEVC",广东卫视HD
+#EXTINF:-1 group-title="限江苏地区HEVC",广东卫视HD
 http://ott.js.chinamobile.com/PLTV/3/224/3221227673/index.m3u8
-#EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="限江苏地区HEVC",东方卫视HD
+#EXTINF:-1 group-title="限江苏地区HEVC",东方卫视HD
 http://ott.js.chinamobile.com/PLTV/3/224/3221227732/index.m3u8
-#EXTINF:-1 tvg-id="46" tvg-name="黑龙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png" group-title="限江苏地区HEVC",黑龙江卫视HD
+#EXTINF:-1 group-title="限江苏地区HEVC",黑龙江卫视HD
 http://ott.js.chinamobile.com/PLTV/3/224/3221227662/index.m3u8
-#EXTINF:-1 tvg-id="34" tvg-name="深圳卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shenzhen.png" group-title="限江苏地区HEVC",深圳卫视HD
+#EXTINF:-1 group-title="限江苏地区HEVC",深圳卫视HD
 http://ott.js.chinamobile.com/PLTV/3/224/3221227677/index.m3u8
-#EXTINF:-1 tvg-id="38" tvg-name="山东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png" group-title="限江苏地区HEVC",山东卫视HD
+#EXTINF:-1 group-title="限江苏地区HEVC",山东卫视HD
 http://ott.js.chinamobile.com/PLTV/3/224/3221227671/index.m3u8
-#EXTINF:-1 tvg-id="39" tvg-name="天津卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/tianjin.png" group-title="限江苏地区HEVC",天津卫视HD
+#EXTINF:-1 group-title="限江苏地区HEVC",天津卫视HD
 http://ott.js.chinamobile.com/PLTV/3/224/3221227741/index.m3u8
-#EXTINF:-1 tvg-id="48" tvg-name="湖北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hubei.png" group-title="限江苏地区HEVC",湖北卫视HD
+#EXTINF:-1 group-title="限江苏地区HEVC",湖北卫视HD
 http://ott.js.chinamobile.com/PLTV/3/224/3221227665/index.m3u8
-#EXTINF:-1 tvg-id="40" tvg-name="重庆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png" group-title="限江苏地区HEVC",重庆卫视HD
+#EXTINF:-1 group-title="限江苏地区HEVC",重庆卫视HD
 http://ott.js.chinamobile.com/PLTV/3/224/3221227729/index.m3u8
-#EXTINF:-1 tvg-id="32" tvg-name="安徽卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png" group-title="限江苏地区HEVC",安徽卫视HD
+#EXTINF:-1 group-title="限江苏地区HEVC",安徽卫视HD
 http://ott.js.chinamobile.com/PLTV/3/224/3221227653/index.m3u8
-#EXTINF:-1 tvg-id="50" tvg-name="江西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangxi.png" group-title="限江苏地区HEVC",江西卫视HD
+#EXTINF:-1 group-title="限江苏地区HEVC",江西卫视HD
 http://ott.js.chinamobile.com/PLTV/3/224/3221227738/index.m3u8
-#EXTINF:-1 tvg-id="36" tvg-name="辽宁卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png" group-title="限江苏地区HEVC",辽宁卫视HD
+#EXTINF:-1 group-title="限江苏地区HEVC",辽宁卫视HD
 http://ott.js.chinamobile.com/PLTV/3/224/3221227676/index.m3u8
-#EXTINF:-1 tvg-id="41" tvg-name="东南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongnan.png" group-title="限江苏地区HEVC",东南卫视HD
+#EXTINF:-1 group-title="限江苏地区HEVC",东南卫视HD
 http://ott.js.chinamobile.com/PLTV/3/224/3221227670/index.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="限江苏地区H264",CCTV1
+#EXTINF:-1 group-title="限江苏地区H264",CCTV1
 http://223.110.245.154/ott.js.chinamobile.com/PLTV/3/224/3221227634/index.m3u8
-#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="限江苏地区H264",CCTV2
+#EXTINF:-1 group-title="限江苏地区H264",CCTV2
 http://223.110.245.164/ott.js.chinamobile.com/PLTV/3/224/3221227696/index.m3u8
-#EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="限江苏地区H264",CCTV3
+#EXTINF:-1 group-title="限江苏地区H264",CCTV3
 http://183.207.249.174/ott.js.chinamobile.com/PLTV/3/224/3221227546/index.m3u8
-#EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="限江苏地区H264",CCTV4
+#EXTINF:-1 group-title="限江苏地区H264",CCTV4
 http://183.207.249.138/ott.js.chinamobile.com/PLTV/3/224/3221227683/index.m3u8
-#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="限江苏地区H264",CCTV5
+#EXTINF:-1 group-title="限江苏地区H264",CCTV5
 http://223.110.245.145/ott.js.chinamobile.com/PLTV/3/224/3221227166/index.m3u8
-#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="限江苏地区H264",CCTV5+
-http://183.207.249.229/ott.js.chinamobile.com/PLTV/3/224/3221227522/index.m3u8
-#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="限江苏地区H264",CCTV5+
+#EXTINF:-1 group-title="限江苏地区H264",CCTV5+
 http://223.110.243.165/ott.js.chinamobile.com/PLTV/3/224/3221227631/index.m3u8
-#EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="限江苏地区H264",CCTV6
+#EXTINF:-1 group-title="限江苏地区H264",CCTV6
 http://183.207.249.138/ott.js.chinamobile.com/PLTV/3/224/3221227430/index.m3u8
-#EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="限江苏地区H264",CCTV7
+#EXTINF:-1 group-title="限江苏地区H264",CCTV7
 http://223.110.243.147/ott.js.chinamobile.com/PLTV/3/224/3221227690/index.m3u8
-#EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="限江苏地区H264",CCTV8
+#EXTINF:-1 group-title="限江苏地区H264",CCTV8
 http://223.110.245.151/ott.js.chinamobile.com/PLTV/3/224/3221227204/index.m3u8
-#EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" group-title="限江苏地区H264",CCTV9
+#EXTINF:-1 group-title="限江苏地区H264",CCTV9
 http://183.207.249.174/ott.js.chinamobile.com/PLTV/3/224/3221225532/index.m3u8
-#EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" group-title="限江苏地区H264",CCTV10
+#EXTINF:-1 group-title="限江苏地区H264",CCTV10
 http://223.110.243.148/ott.js.chinamobile.com/PLTV/3/224/3221227620/index.m3u8
-#EXTINF:-1 tvg-id="12" tvg-name="CCTV11" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png" group-title="限江苏地区H264",CCTV11
+#EXTINF:-1 group-title="限江苏地区H264",CCTV11
 http://223.110.243.157/ott.js.chinamobile.com/PLTV/3/224/3221227524/index.m3u8
-#EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" group-title="限江苏地区H264",CCTV12
+#EXTINF:-1 group-title="限江苏地区H264",CCTV12
 http://223.110.243.165/ott.js.chinamobile.com/PLTV/3/224/3221227637/index.m3u8
-#EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="限江苏地区H264",CCTV13
+#EXTINF:-1 group-title="限江苏地区H264",CCTV13
 http://223.110.243.154/ott.js.chinamobile.com/PLTV/3/224/3221227601/index.m3u8
-#EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="限江苏地区H264",CCTV14
-http://183.207.249.106/ott.js.chinamobile.com/PLTV/3/224/3221227201/index.m3u8
-#EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="限江苏地区H264",CCTV15
+#EXTINF:-1 group-title="限江苏地区H264",CCTV14
+http://223.110.242.134:6610/cntv/live1/HD-8000k-1080P-cctv14/1.m3u8
+#EXTINF:-1 group-title="限江苏地区H264",CCTV15
 http://223.110.243.153/ott.js.chinamobile.com/PLTV/3/224/3221227538/index.m3u8
-#EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="限江苏地区H264",CCTV16
+#EXTINF:-1 group-title="限江苏地区H264",CCTV16
 http://ott.js.chinamobile.com/TVOD/3/224/3221228168/index.m3u8
-#EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="限江苏地区H264",CCTV17
+#EXTINF:-1 group-title="限江苏地区H264",CCTV17
 http://223.110.243.167/ott.js.chinamobile.com/PLTV/3/224/3221227589/index.m3u8
-#EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="限江苏地区H264",CCTV 4K
+#EXTINF:-1 group-title="限江苏地区H264",CCTV 4K
 http://ott.js.chinamobile.com/TVOD/3/224/3221228242/index.m3u8
-#EXTINF:-1 tvg-id="6588" tvg-name="发现之旅" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVfaxianzhilv.png" group-title="限江苏地区H264",CCTV发现之旅
+#EXTINF:-1 group-title="限江苏地区H264",CCTV发现之旅
 http://183.207.248.135/ott.js.chinamobile.com/PLTV/3/224/3221227030/index.m3u8
-#EXTINF:-1 tvg-id="6564" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVnvxing.png" group-title="限江苏地区H264",CCTV时尚
+#EXTINF:-1 group-title="限江苏地区H264",CCTV女时尚
 http://223.110.245.152/ott.js.chinamobile.com/PLTV/3/224/3221227026/index.m3u8
-#EXTINF:-1 tvg-id="6594" tvg-name="老故事" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVlaogushi.png" group-title="限江苏地区H264",CCTV老故事
+#EXTINF:-1 group-title="限江苏地区H264",CCTV老故事
 http://223.110.245.145/ott.js.chinamobile.com/PLTV/3/224/3221227043/index.m3u8
-#EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="限江苏地区H264",CGTN
+#EXTINF:-1 group-title="限江苏地区H264",CGTN
 http://223.110.236.13/ott.js.chinamobile.com/PLTV/3/224/3221228095/index.m3u8
-#EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="限江苏地区H264",CGTN纪录
+#EXTINF:-1 group-title="限江苏地区H264",CGTN纪录
 http://223.110.243.167/ott.js.chinamobile.com/PLTV/3/224/3221227574/index.m3u8
-#EXTINF:-1 tvg-id="1977" tvg-name="欢笑剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/huanxiao.png" group-title="限江苏地区H264",SiTV欢笑剧场
+#EXTINF:-1 group-title="限江苏地区H264",SiTV欢笑剧场
 http://223.110.243.153/ott.js.chinamobile.com/PLTV/3/224/3221227715/index.m3u8
-#EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="限江苏地区H264",凤凰中文
+#EXTINF:-1 group-title="限江苏地区H264",凤凰中文
 http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8
-#EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="限江苏地区H264",凤凰资讯
+#EXTINF:-1 group-title="限江苏地区H264",凤凰资讯
 http://223.110.235.13/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8
-#EXTINF:-1 tvg-id="143" tvg-name="凤凰香港" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png" group-title="限江苏地区H264",凤凰香港
+#EXTINF:-1 group-title="限江苏地区H264",凤凰香港
 http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8
-#EXTINF:-1 tvg-id="73" tvg-name="中国教育1台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png" group-title="限江苏地区H264",中国教育1
+#EXTINF:-1 group-title="限江苏地区H264",中国教育1
 http://223.110.243.140/ott.js.chinamobile.com/PLTV/3/224/3221227560/index.m3u8
-#EXTINF:-1 tvg-id="75" tvg-name="中国教育3台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育3台.png" group-title="限江苏地区H264",中国教育3
+#EXTINF:-1 group-title="限江苏地区H264",中国教育3
 http://183.207.249.103/ott.js.chinamobile.com/PLTV/3/224/3221227018/index.m3u8
-#EXTINF:-1 tvg-id="41" tvg-name="东南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongnan.png" group-title="限江苏地区H264",东南卫视
+#EXTINF:-1 group-title="限江苏地区H264",东南卫视
 http://223.110.243.162/ott.js.chinamobile.com/PLTV/3/224/3221227553/index.m3u8
-#EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="限江苏地区H264",东方卫视
+#EXTINF:-1 group-title="限江苏地区H264",东方卫视
 http://183.207.249.144/ott.js.chinamobile.com/PLTV/3/224/3221227486/index.m3u8
-#EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="限江苏地区H264",北京卫视
+#EXTINF:-1 group-title="限江苏地区H264",北京卫视
 http://183.207.249.169/ott.js.chinamobile.com/PLTV/3/224/3221225574/index.m3u8
-#EXTINF:-1 tvg-id="39" tvg-name="天津卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/tianjin.png" group-title="限江苏地区H264",天津卫视
+#EXTINF:-1 group-title="限江苏地区H264",天津卫视
 http://223.110.243.162/ott.js.chinamobile.com/PLTV/3/224/3221227633/index.m3u8
-#EXTINF:-1 tvg-id="32" tvg-name="安徽卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png" group-title="限江苏地区H264",安徽卫视
-http://183.207.249.235/ott.js.chinamobile.com/PLTV/3/224/3221227498/index.m3u8
-#EXTINF:-1 tvg-id="38" tvg-name="山东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png" group-title="限江苏地区H264",山东卫视
+#EXTINF:-1 group-title="限江苏地区H264",安徽卫视
+http://223.110.242.133:6610/gitv/live1/G_ANHUI-CQ/G_ANHUI-CQ/
+#EXTINF:-1 group-title="限江苏地区H264",山东卫视
 http://223.110.245.154/ott.js.chinamobile.com/PLTV/3/224/3221227258/index.m3u8
-#EXTINF:-1 tvg-id="33" tvg-name="广东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="限江苏地区H264",广东卫视
+#EXTINF:-1 group-title="限江苏地区H264",广东卫视
 http://223.110.245.160/ott.js.chinamobile.com/PLTV/3/224/3221227476/index.m3u8
-#EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="限江苏地区H264",江苏卫视
-http://183.207.249.203/ott.js.chinamobile.com/PLTV/3/224/3221227552/index.m3u8
-#EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="限江苏地区H264",浙江卫视
+#EXTINF:-1 group-title="限江苏地区H264",江苏卫视
+http://223.110.242.133:6610/gitv/live1/G_JIANGSU-CQ/G_JIANGSU-CQ/
+#EXTINF:-1 group-title="限江苏地区H264",浙江卫视
 http://223.110.245.154/ott.js.chinamobile.com/PLTV/3/224/3221227491/index.m3u8
-#EXTINF:-1 tvg-id="34" tvg-name="深圳卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shenzhen.png" group-title="限江苏地区H264",深圳卫视
+#EXTINF:-1 group-title="限江苏地区H264",深圳卫视
 http://183.207.249.139/ott.js.chinamobile.com/PLTV/3/224/3221227555/index.m3u8
-#EXTINF:-1 tvg-id="48" tvg-name="湖北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hubei.png" group-title="限江苏地区H264",湖北卫视
+#EXTINF:-1 group-title="限江苏地区H264",湖北卫视
 http://183.207.249.144/ott.js.chinamobile.com/PLTV/3/224/3221227479/index.m3u8
-#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="限江苏地区H264",湖南卫视
+#EXTINF:-1 group-title="限江苏地区H264",湖南卫视
 http://223.110.245.151/ott.js.chinamobile.com/PLTV/3/224/3221227698/index.m3u8
-#EXTINF:-1 tvg-id="36" tvg-name="辽宁卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png" group-title="限江苏地区H264",辽宁卫视
+#EXTINF:-1 group-title="限江苏地区H264",辽宁卫视
 http://183.207.248.171/ott.js.chinamobile.com/PLTV/3/224/3221227485/index.m3u8
-#EXTINF:-1 tvg-id="40" tvg-name="重庆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png" group-title="限江苏地区H264",重庆卫视
+#EXTINF:-1 group-title="限江苏地区H264",重庆卫视
 http://223.110.243.165/ott.js.chinamobile.com/PLTV/3/224/3221227550/index.m3u8
-#EXTINF:-1 tvg-id="46" tvg-name="黑龙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png" group-title="限江苏地区H264",黑龙江卫视
+#EXTINF:-1 group-title="限江苏地区H264",黑龙江卫视
 http://183.207.249.165/ott.js.chinamobile.com/PLTV/3/224/3221227514/index.m3u8
-#EXTINF:-1 tvg-id="58" tvg-name="云南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="限江苏地区H264",云南卫视
+#EXTINF:-1 group-title="限江苏地区H264",云南卫视
 http://223.110.243.152/ott.js.chinamobile.com/PLTV/3/224/3221227571/index.m3u8
-#EXTINF:-1 tvg-id="59" tvg-name="青海卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/qinghai.png" group-title="限江苏地区H264",青海卫视
+#EXTINF:-1 group-title="限江苏地区H264",青海卫视
 http://223.110.243.153/ott.js.chinamobile.com/PLTV/3/224/3221227554/index.m3u8
-#EXTINF:-1 tvg-id="52" tvg-name="内蒙古卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/neimeng.png" group-title="限江苏地区H264",内蒙古卫视
+#EXTINF:-1 group-title="限江苏地区H264",内蒙古卫视
 http://223.110.243.140/ott.js.chinamobile.com/PLTV/3/224/3221227557/index.m3u8
-#EXTINF:-1 tvg-id="60" tvg-name="南方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/nanfang.png" group-title="限江苏地区H264",南方卫视
-http://183.207.249.110/ott.js.chinamobile.com/PLTV/3/224/3221227005/index.m3u8
-#EXTINF:-1 tvg-id="51" tvg-name="吉林卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jilin.png" group-title="限江苏地区H264",吉林卫视
-http://183.207.249.235/ott.js.chinamobile.com/PLTV/3/224/3221225883/index.m3u8
-#EXTINF:-1 tvg-id="56" tvg-name="四川卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sichuan.png" group-title="限江苏地区H264",四川卫视
+#EXTINF:-1 group-title="限江苏地区H264",四川卫视
 http://223.110.243.154/ott.js.chinamobile.com/PLTV/3/224/3221227556/index.m3u8
-#EXTINF:-1 tvg-id="53" tvg-name="宁夏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/ningxia.png" group-title="限江苏地区H264",宁夏卫视
+#EXTINF:-1 group-title="限江苏地区H264",宁夏卫视
 http://223.110.243.140/ott.js.chinamobile.com/PLTV/3/224/3221227563/index.m3u8
-#EXTINF:-1 tvg-id="54" tvg-name="山西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi_.png" group-title="限江苏地区H264",山西卫视
+#EXTINF:-1 group-title="限江苏地区H264",山西卫视
 http://223.110.243.165/ott.js.chinamobile.com/PLTV/3/224/3221227559/index.m3u8
-#EXTINF:-1 tvg-id="63" tvg-name="延边卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/YANBIAN1.png" group-title="限江苏地区H264",延边卫视
+#EXTINF:-1 group-title="限江苏地区H264",延边卫视
 http://223.110.245.160/ott.js.chinamobile.com/PLTV/3/224/3221227002/index.m3u8
-#EXTINF:-1 tvg-id="57" tvg-name="新疆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xinjiang.png" group-title="限江苏地区H264",新疆卫视
+#EXTINF:-1 group-title="限江苏地区H264",新疆卫视
 http://183.207.249.169/ott.js.chinamobile.com/PLTV/3/224/3221225523/index.m3u8
-#EXTINF:-1 tvg-id="50" tvg-name="江西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangxi.png" group-title="限江苏地区H264",江西卫视
-http://183.207.249.104/ott.js.chinamobile.com/PLTV/3/224/3221225536/index.m3u8
-#EXTINF:-1 tvg-id="45" tvg-name="河北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hebei.png" group-title="限江苏地区H264",河北卫视
+#EXTINF:-1 group-title="限江苏地区H264",江西卫视
+http://223.110.242.133:6610/gitv/live1/G_JIANGXI-CQ/G_JIANGXI-CQ/
+#EXTINF:-1 group-title="限江苏地区H264",河北卫视
 http://223.110.243.151/ott.js.chinamobile.com/PLTV/3/224/3221227545/index.m3u8
-#EXTINF:-1 tvg-id="47" tvg-name="河南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/henan.png" group-title="限江苏地区H264",河南卫视
+#EXTINF:-1 group-title="限江苏地区H264",河南卫视
 http://223.110.243.165/ott.js.chinamobile.com/PLTV/3/224/3221227521/index.m3u8
-#EXTINF:-1 tvg-id="42" tvg-name="甘肃卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/gansu.png" group-title="限江苏地区H264",甘肃卫视
+#EXTINF:-1 group-title="限江苏地区H264",甘肃卫视
 http://223.110.243.140/ott.js.chinamobile.com/PLTV/3/224/3221227568/index.m3u8
-#EXTINF:-1 tvg-id="71" tvg-name="西藏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xizang.png" group-title="限江苏地区H264",西藏卫视
+#EXTINF:-1 group-title="限江苏地区H264",西藏卫视
 http://223.110.243.158/ott.js.chinamobile.com/PLTV/3/224/3221227562/index.m3u8
-#EXTINF:-1 tvg-id="44" tvg-name="贵州卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guizhou.png" group-title="限江苏地区H264",贵州卫视
+#EXTINF:-1 group-title="限江苏地区H264",贵州卫视
 http://223.110.243.153/ott.js.chinamobile.com/PLTV/3/224/3221227551/index.m3u8
-#EXTINF:-1 tvg-id="55" tvg-name="陕西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi.png" group-title="限江苏地区H264",陕西卫视
+#EXTINF:-1 group-title="限江苏地区H264",陕西卫视
 http://223.110.243.153/ott.js.chinamobile.com/PLTV/3/224/3221227583/index.m3u8
-#EXTINF:-1 tvg-id="37" tvg-name="旅游卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/lvyou.png" group-title="限江苏地区H264",海南卫视
+#EXTINF:-1 group-title="限江苏地区H264",海南卫视
 http://223.110.236.13/ott.js.chinamobile.com/PLTV/3/224/3221228101/index.m3u8
-#EXTINF:-1 tvg-id="1988" tvg-name="上海纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png" group-title="限江苏地区H264",上海纪实
+#EXTINF:-1 group-title="限江苏地区H264",上海纪实
 http://223.110.242.134:6610/cntv/live1/HD-8000k-1080P-shanghaijishi/1.m3u8
-#EXTINF:-1 tvg-id="1872" tvg-name="北京纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png" group-title="限江苏地区H264",北京纪实
+#EXTINF:-1 group-title="限江苏地区H264",北京纪实
 http://223.110.242.134:6610/cntv/live1/HD-8000k-1080P-beijingjishi/1.m3u8
+
+
 
 
 
