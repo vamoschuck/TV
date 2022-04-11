@@ -1,6 +1,98 @@
 #EXTM3U url-tvg="http://epg.51zmt.top:8000/e.xml,https://epg.112114.xyz/pp.xml,https://i.mjh.nz/au/Sydney/epg.xml.gz,https://i.mjh.nz/au/Perth/epg.xml.gz,https://i.mjh.nz/PlutoTV/us.xml.gz" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
 
 
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="随缘",CCTV1
+http://120.84.96.29:808/hls/1/index.m3u8
+#EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="随缘",CCTV3
+http://120.84.96.29:808/hls/3/index.m3u8
+#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="随缘",CCTV5
+http://120.84.96.29:808/hls/5/index.m3u8
+#EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="随缘",CCTV6
+http://120.84.96.29:808/hls/6/index.m3u8
+#EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="随缘",CCTV8
+http://120.84.96.29:808/hls/8/index.m3u8
+#EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" group-title="随缘",CCTV9
+http://120.84.96.29:808/hls/9/index.m3u8
+#EXTINF:-1 tvg-id="6013" tvg-name="广东体育" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTV3.png" group-title="随缘",广东体育
+http://120.84.96.29:808/hls/22/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="随缘",澳门莲花卫视
+http://120.84.96.29:808/hls/24/index.m3u8
+#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="随缘",CCTV5+
+http://120.84.96.29:808/hls/30/index.m3u8
+#EXTINF:-1 tvg-id="6080" tvg-name="东森电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCMovies.png" group-title="随缘",东森电影台
+http://120.84.96.29:808/hls/32/index.m3u8
+#EXTINF:-1 tvg-id="6084" tvg-name="东森洋片台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCWesternMovies.png" group-title="随缘",东森洋片台
+http://120.84.96.29:808/hls/33/index.m3u8
+#EXTINF:-1 tvg-id="6082" tvg-name="LSTime电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/LSTIME.png" group-title="随缘",LSTime电影台
+http://120.84.96.29:808/hls/35/index.m3u8
+#EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="随缘",北京卫视
+http://120.84.96.29:808/hls/65/index.m3u8
+#EXTINF:-1 tvg-id="32" tvg-name="安徽卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png" group-title="随缘",安徽卫视
+http://120.84.96.29:808/hls/68/index.m3u8
+#EXTINF:-1 tvg-id="143" tvg-name="凤凰香港" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png" group-title="随缘",凤凰香港
+http://120.84.96.29:808/hls/81/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="随缘",戏剧
+http://120.84.96.29:808/hls/84/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="随缘",天映经典
+http://120.84.96.29:808/hls/85/index.m3u8
+#EXTINF:-1 tvg-id="416" tvg-name="J2" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBJ2.png" group-title="随缘",J2
+http://120.84.96.29:808/hls/86/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="随缘",CCTV1
+http://120.84.96.29:808/hls/101/index.m3u8
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="随缘",CCTV2
+http://120.84.96.29:808/hls/102/index.m3u8
+#EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="随缘",CCTV3
+http://120.84.96.29:808/hls/103/index.m3u8
+#EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="随缘",CCTV4
+http://120.84.96.29:808/hls/104/index.m3u8
+#EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="随缘",CCTV7
+http://120.84.96.29:808/hls/107/index.m3u8
+#EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="随缘",CCTV8
+http://120.84.96.29:808/hls/108/index.m3u8
+#EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" group-title="随缘",CCTV9
+http://120.84.96.29:808/hls/109/index.m3u8
+#EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" group-title="随缘",CCTV10
+http://120.84.96.29:808/hls/110/index.m3u8
+#EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" group-title="随缘",CCTV12
+http://120.84.96.29:808/hls/112/index.m3u8
+#EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="随缘",CCTV14
+http://120.84.96.29:808/hls/114/index.m3u8
+#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="随缘",CCTV5+
+http://120.84.96.29:808/hls/116/index.m3u8
+#EXTINF:-1 tvg-id="7252" tvg-name="广东经济" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTVECO.png" group-title="随缘",广东经济
+http://120.84.96.29:808/hls/118/index.m3u8
+#EXTINF:-1 tvg-id="33" tvg-name="广东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="随缘",广东卫视
+http://120.84.96.29:808/hls/121/index.m3u8
+#EXTINF:-1 tvg-id="7125" tvg-name="珠江频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/zhujiang.png" group-title="随缘",珠江频道
+http://120.84.96.29:808/hls/122/index.m3u8
+#EXTINF:-1 tvg-id="34" tvg-name="深圳卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shenzhen.png" group-title="随缘",深圳卫视
+http://120.84.96.29:808/hls/125/index.m3u8
+#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="随缘",湖南卫视
+http://120.84.96.29:808/hls/126/index.m3u8
+#EXTINF:-1 tvg-id="34" tvg-name="深圳卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shenzhen.png" group-title="随缘",深圳卫视
+http://120.84.96.29:808/hls/125/index.m3u8
+#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="随缘",湖南卫视
+http://120.84.96.29:808/hls/126/index.m3u8
+#EXTINF:-1 tvg-id="48" tvg-name="湖北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hubei.png" group-title="随缘",湖北卫视
+http://120.84.96.29:808/hls/128/index.m3u8
+#EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="随缘",浙江卫视
+http://120.84.96.29:808/hls/129/index.m3u8
+#EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="随缘",江苏卫视
+http://120.84.96.29:808/hls/130/index.m3u8
+#EXTINF:-1 tvg-id="38" tvg-name="山东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png" group-title="随缘",山东卫视
+http://120.84.96.29:808/hls/132/index.m3u8
+#EXTINF:-1 tvg-id="36" tvg-name="辽宁卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png" group-title="随缘",辽宁卫视
+http://120.84.96.29:808/hls/133/index.m3u8
+#EXTINF:-1 tvg-id="46" tvg-name="黑龙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png" group-title="随缘",黑龙江卫视
+http://120.84.96.29:808/hls/139/index.m3u8
+#EXTINF:-1 tvg-id="41" tvg-name="东南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongnan.png" group-title="随缘",东南卫视
+http://120.84.96.29:808/hls/141/index.m3u8
+#EXTINF:-1 tvg-id="39" tvg-name="天津卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/tianjin.png" group-title="随缘",天津卫视
+http://120.84.96.29:808/hls/149/index.m3u8
+#EXTINF:-1 tvg-id="50" tvg-name="江西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangxi.png" group-title="随缘",江西卫视
+http://120.84.96.29:808/hls/152/index.m3u8
+#EXTINF:-1 tvg-id="56" tvg-name="四川卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sichuan.png" group-title="随缘",四川卫视
+http://120.84.96.29:808/hls/165/index.m3u8
 
 
 
