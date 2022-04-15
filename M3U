@@ -205,7 +205,7 @@ http://125.210.152.19:9090/live/hzgq-hzshgq-h264.m3u8
 http://125.210.152.19:9090/live/hzgq-hzysgq-h264.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://n.ysyz.top:99/buyaolian/hz5se.png" group-title="高码央视卫视",杭州5(少体)
 http://125.210.152.19:9090/live/hzgq-hzsegq-h264.m3u8
-#EXTINF:-1 group-title="高码央视卫视",杭州导视
+#EXTINF:-1 tvg-id="杭州导视" tvg-name="杭州导视" tvg-logo="https://epg.112114.xyz/logo/杭州导视.png" group-title="高码央视卫视",杭州导视
 http://125.210.152.19:9090/live/hzgq-hzdsgq-h264.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv1.png" group-title="高码央视卫视",CCTV1
 http://125.210.152.19:9090/live/hzgq-cctv1gq-h264.m3u8
@@ -2367,9 +2367,9 @@ http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index
 #http://59.49.41.44/live.aishang.ctlcdn.com/00000110240325_1/playlist.m3u8?CONTENTID=00000110240325_1
 #EXTINF:-1 tvg-id="6245" tvg-name="CHC动作电影" tvg-logo="http://n.ysyz.top:99/buyaolian/CHCdongzuo.png" group-title="影视综艺记录",CHC动作电影
 http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
-#EXTINF:-1 group-title="影视综艺记录" tvg-logo="https://www.hualigs.cn/image/6153d999b6b49.jpg",黑莓电影
+#EXTINF:-1 tvg-id="黑莓电影" tvg-name="黑莓电影" tvg-logo="https://epg.112114.xyz/logo/黑莓电影.png" group-title="影视综艺记录",黑莓电影
 http://39.135.138.59:18890/PLTV/88888910/224/3221225769/index.m3u8
-#EXTINF:-1 group-title="影视综艺记录" tvg-logo="https://www.hualigs.cn/image/6153d999ee4fd.jpg",黑莓动画
+#EXTINF:-1 tvg-id="黑莓动画" tvg-name="黑莓动画" tvg-logo="https://epg.112114.xyz/logo/黑莓动画.png" group-title="影视综艺记录",黑莓动画
 http://183.207.249.7/PLTV/3/224/3221225555/index.m3u8
 #EXTINF:-1 tvg-name="北京IPTV淘电影" tvg-logo="http://n.ysyz.top:99/buyaolian/bjiptvdy.png" group-title="影视综艺记录",北京IPTV淘电影
 http://39.134.135.81/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226552/index.m3u8?servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=3QGHZfaujB8rRCsAsCvwpxxlHr4QY7xmzJA0CWZ2m2oFrdR%2B0WqiDAHoOrKmOBjJo1DAVyGMxV75D0k9A8UW52%2FrO%2F0g1FiOsgmHLskIhGej57NNTIcVyR%2FC8%2FqFakBO7Z60nQmH%2FQdgWVzAI0y58w%3D%3D%3A20211105223205%2C10000100000000050000000003887498%2CF6D75A298389DD1E7C3B7D397327CA23%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2CEND
@@ -3082,12 +3082,12 @@ http://121.51.249.6/txdirect.hls.huya.com/src/1199563564801-1199563564801-544468
 #EXTINF:-1 group-title="未来电视" tvg-logo="http://n.ysyz.top:99/buyaolian/dzdy.png",动作电影
 http://39.134.65.164/PLTV/88888888/224/3221225555/1.m3u8
 #http://39.134.65.166/PLTV/88888888/224/3221225555/1.m3u8
-#EXTINF:-1 group-title="未来电视" tvg-logo="http://n.ysyz.top:99/buyaolian/jsxy.png",惊悚悬疑
+#EXTINF:-1 tvg-id="NEWTV惊悚悬疑" tvg-name="NEWTV惊悚悬疑" group-title="未来电视" tvg-logo="http://n.ysyz.top:99/buyaolian/jsxy.png",惊悚悬疑
 http://39.134.65.166/PLTV/88888888/224/3221225553/1.m3u8
 #EXTINF:-1 group-title="未来电视" tvg-logo="http://n.ysyz.top:99/buyaolian/gzjc.png",古装剧场
 http://39.134.65.164/PLTV/88888888/224/3221225524/1.m3u8
 #http://39.134.65.166/PLTV/88888888/224/3221225524/1.m3u8
-#EXTINF:-1 group-title="未来电视" tvg-logo="https://www.hualigs.cn/image/6152b4427ea36.jpg",家庭剧场
+#EXTINF:-1 tvg-id="NEWTV家庭剧场" tvg-name="NEWTV家庭剧场" group-title="未来电视" tvg-logo="https://www.hualigs.cn/image/6152b4427ea36.jpg",家庭剧场
 http://39.134.65.166/PLTV/88888888/224/3221225538/1.m3u8
 #EXTINF:-1 group-title="未来电视" tvg-logo="http://n.ysyz.top:99/buyaolian/jljc.png",军旅剧场
 http://39.134.65.164/PLTV/88888888/224/3221225560/1.m3u8
@@ -3096,31 +3096,31 @@ http://39.134.65.166/PLTV/88888888/224/3221225682/1.m3u8
 #http://39.134.65.173/PLTV/88888888/224/3221225682/1.m3u8
 #EXTINF:-1 group-title="未来电视" tvg-logo="https://www.hualigs.cn/image/61bc882f8cb3b.jpg",热播精选
 http://39.134.65.166/PLTV/88888888/224/3221225521/1.m3u8
-#EXTINF:-1 group-title="未来电视" tvg-logo="http://n.ysyz.top:99/buyaolian/aqxj.png",爱情喜剧
+#EXTINF:-1 tvg-id="NEWTV爱情喜剧" tvg-name="NEWTV爱情喜剧" group-title="未来电视" tvg-logo="http://n.ysyz.top:99/buyaolian/aqxj.png",爱情喜剧
 http://39.134.65.166/PLTV/88888888/224/3221225533/1.m3u8
 #http://39.134.65.164/PLTV/88888888/224/3221225533/1.m3u8
-#EXTINF:-1 group-title="未来电视" tvg-logo="http://n.ysyz.top:99/buyaolian/jspl.png",军事评论
+#EXTINF:-1 tvg-id="NEWTV军事评论" tvg-name="NEWTV军事评论" group-title="未来电视" tvg-logo="http://n.ysyz.top:99/buyaolian/jspl.png",军事评论
 http://39.134.65.166/PLTV/88888888/224/3221225535/1.m3u8
-#EXTINF:-1 group-title="未来电视" tvg-logo="http://n.ysyz.top:99/buyaolian/xwwl.png",炫舞未来
+#EXTINF:-1 tvg-id="NEWTV炫舞未来" tvg-name="NEWTV炫舞未来" group-title="未来电视" tvg-logo="http://n.ysyz.top:99/buyaolian/xwwl.png",炫舞未来
 http://39.134.65.164/PLTV/88888888/224/3221225646/1.m3u8
-#EXTINF:-1 group-title="未来电视" tvg-logo="http://n.ysyz.top:99/buyaolian/cmlp.png",潮妈辣婆
+#EXTINF:-1 tvg-id="NEWTV潮妈辣婆" tvg-name="NEWTV潮妈辣婆" group-title="未来电视" tvg-logo="http://n.ysyz.top:99/buyaolian/cmlp.png",潮妈辣婆
 http://39.134.65.166/PLTV/88888888/224/3221225542/1.m3u8
 #http://39.134.65.164/PLTV/88888888/224/3221225542/1.m3u8
-#EXTINF:-1 group-title="未来电视" tvg-logo="http://n.ysyz.top:99/buyaolian/jpzy.png",金牌综艺
+#EXTINF:-1 tvg-id="NEWTV金牌综艺" tvg-name="NEWTV金牌综艺" group-title="未来电视" tvg-logo="http://n.ysyz.top:99/buyaolian/jpzy.png",金牌综艺
 http://39.134.65.166/PLTV/88888888/224/3221225525/1.m3u8
-#EXTINF:-1 group-title="未来电视" tvg-logo="https://www.hualigs.cn/image/6152b442a20a7.jpg",农业致富
+#EXTINF:-1 tvg-id="NEWTV农业致富" tvg-name="NEWTV农业致富" group-title="未来电视" tvg-logo="https://www.hualigs.cn/image/6152b442a20a7.jpg",农业致富
 http://39.134.65.166/PLTV/88888888/224/3221225552/1.m3u8
-#EXTINF:-1 group-title="未来电视" tvg-logo="http://n.ysyz.top:99/buyaolian/wbsj.png",武搏世界
+#EXTINF:-1 tvg-id="NEWTV武搏世界" tvg-name="NEWTV武搏世界" group-title="未来电视" tvg-logo="http://n.ysyz.top:99/buyaolian/wbsj.png",武搏世界
 http://39.134.65.166/PLTV/88888888/224/3221225547/1.m3u8
-#EXTINF:-1 group-title="未来电视" tvg-logo="http://n.ysyz.top:99/buyaolian/zggf.png",中国功夫
+#EXTINF:-1 tvg-id="NEWTV中国功夫" tvg-name="NEWTV中国功夫" group-title="未来电视" tvg-logo="http://n.ysyz.top:99/buyaolian/zggf.png",中国功夫
 http://39.134.65.164/PLTV/88888888/224/3221225604/1.m3u8
-#EXTINF:-1 group-title="未来电视" tvg-logo="http://n.ysyz.top:99/buyaolian/jpdj.png",精品大剧
+#EXTINF:-1 tvg-id="NEWTV精品大剧" tvg-name="NEWTV精品大剧" group-title="未来电视" tvg-logo="http://n.ysyz.top:99/buyaolian/jpdj.png",精品大剧
 http://39.134.65.166/PLTV/88888888/224/3221225536/1.m3u8
-#EXTINF:-1 group-title="未来电视" tvg-logo="http://n.ysyz.top:99/buyaolian/jpty.png",精品体育
+#EXTINF:-1 tvg-id="NEWTV精品体育" tvg-name="NEWTV精品体育" group-title="未来电视" tvg-logo="http://n.ysyz.top:99/buyaolian/jpty.png",精品体育
 http://39.134.65.166/PLTV/88888888/224/3221225526/1.m3u8
 #EXTINF:-1 group-title="未来电视" tvg-logo="http://n.ysyz.top:99/buyaolian/jpjl.png",精品纪录
 http://39.134.65.166/PLTV/88888888/224/3221225545/1.m3u8
-#EXTINF:-1 group-title="未来电视" tvg-logo="https://www.hualigs.cn/image/6152b4428f069.jpg",怡伴健康
+#EXTINF:-1 tvg-id="NEWTV怡伴健康" tvg-name="NEWTV怡伴健康" group-title="未来电视" tvg-logo="https://www.hualigs.cn/image/6152b4428f069.jpg",怡伴健康
 http://39.134.65.164/PLTV/88888888/224/3221225571/1.m3u8
 #EXTINF:-1 group-title="未来电视" tvg-logo="https://www.hualigs.cn/image/61bc882f8cb3b.jpg",健康有约
 
@@ -3156,7 +3156,6 @@ http://39.134.65.164/PLTV/88888888/224/3221225637/1.m3u8
 #EXTINF:-1 group-title="未来电视" tvg-logo="https://www.hualigs.cn/image/61bc882f8cb3b.jpg",吉林频道
 
 #EXTINF:-1 group-title="未来电视" tvg-logo="https://www.hualigs.cn/image/61bc882f8cb3b.jpg",黑龙江台
-
 
 
 
