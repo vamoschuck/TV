@@ -1,5 +1,7 @@
 #EXTM3U url-tvg="http://epg.51zmt.top:8000/e.xml,https://epg.112114.xyz/pp.xml,https://i.mjh.nz/au/Sydney/epg.xml.gz,https://i.mjh.nz/au/Perth/epg.xml.gz,https://i.mjh.nz/PlutoTV/us.xml.gz" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
 
+
+
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv1.png" group-title="高码央视卫视",CCTV1
 http://112.25.47.24/gitv_live/G_CCTV-1-HD-265-8M/G_CCTV-1-HD-265-8M.m3u8?p=GITV&area=JS_CMCC_CP
 #http://112.25.47.35/gitv_live/G_CCTV-1-HD-265-5M/G_CCTV-1-HD-265-5M.m3u8?p=GITV&area=JS_CMCC_CP
@@ -2498,11 +2500,6 @@ https://m3u8channel.wuxianyaan.com/cms/videos/nmip-media/channellive/channel2/pl
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="云贵川渝青",雅安雨城频道
 http://m3u8.ycchannel.yatv.tv/cms/videos/nmip-media-yc/channellive/channel1/playlist.m3u8
 #http://flv.drs.tv.yatv.tv:8080/channellive/yucheng.flv
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="云贵川渝青",广元综合频道
-https://m3u8.channel.dzsm.com/cms/videos/nmip-media/channellive/channel1/playlist.m3u8
-#http://tv.dzsm.com:8100/chan/ch1.flv
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="云贵川渝青",广元公共频道
-https://m3u8.channel.dzsm.com/cms/videos/nmip-media/channellive/channel2/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="云贵川渝青",达州新闻综合
 http://tv.drs.dzxw.net/channellive/xwzhpd-dz1.flv
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="云贵川渝青",达州公共频道
@@ -4242,8 +4239,6 @@ https://skystreams-lh.akamaihd.net/i/SkyC1_1@500806/master.m3u8?fluxustv.m3u8
 https://skystreams-lh.akamaihd.net/i/SkyC2_1@500807/master.m3u8?fluxustv.m3u8
 #EXTINF:-1 group-title="美国Local听力磨耳朵" tvg-logo="https://i.imgur.com/cyU21ML.png",C-SPAN 3
 https://skystreams-lh.akamaihd.net/i/SkyC3_1@500808/master.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="美国Local听力磨耳朵",Daystar Spring House PA
-https://v-pi.theus6tv.tk/hls/45.1/playlist.m3u8
 #EXTINF:-1 group-title="美国Local听力磨耳朵" tvg-logo="https://i.imgur.com/MLqDkEz.png",Ditty TV
 https://azroe0x-lh.akamaihd.net/i/test_1@775856/master.m3u8
 #EXTINF:-1 group-title="美国Local听力磨耳朵" tvg-logo="https://i.imgur.com/q2jim9n.png",Dust
@@ -4507,88 +4502,6 @@ https://content.uplynk.com/channel/ext/f05837c508c44712aa7129d531f7dbe6/wtvd_24x
 #EXTINF:-1 group-title="美国Local听力磨耳朵",Wu Tang Collection
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=73
 
-
-#EXTINF:-1 group-title="澳大利亚限IP" tvg-id="tv.101406020623" tvg-logo="https://i.mjh.nz/.images/tv.101406020623.png",10 SHAKE
-
-#EXTINF:-1 group-title="澳大利亚限IP" tvg-id="tv.101406020628" tvg-logo="https://i.mjh.nz/.images/tv.101406020628.png",10 Peach
-https://i.mjh.nz/au/Sydney/tv.101406020628.m3u8
-#EXTINF:-1 group-title="澳大利亚限IP" tvg-id="tv.101406020627" tvg-logo="https://i.mjh.nz/.images/tv.101406020627.png",10 BOLD
-https://i.mjh.nz/au/Sydney/tv.101406020627.m3u8
-#EXTINF:-1 group-title="澳大利亚限IP" tvg-id="tv.101406020625" tvg-logo="https://i.mjh.nz/.images/tv.101406020625.png",10
-https://i.mjh.nz/au/Sydney/tv.101406020625.m3u8
-#EXTINF:-1 group-title="澳大利亚限IP" tvg-id="tv.7openshop" tvg-logo="http://i.mjh.nz/.images/tv.7openshop.png",openshop
-https://i.mjh.nz/au/Sydney/tv.7openshop.m3u8
-#EXTINF:-1 group-title="澳大利亚限IP" tvg-id="tv.7ausbiz" tvg-logo="http://i.mjh.nz/.images/tv.7ausbiz.png",ausbiz TV
-https://i.mjh.nz/au/Sydney/tv.7ausbiz.m3u8
-#EXTINF:-1 group-title="澳大利亚限IP" tvg-id="tv.101305020520" tvg-logo="https://i.mjh.nz/.images/tv.101305020520.png",Seven
-https://i.mjh.nz/au/Sydney/tv.101305020520.m3u8
-#EXTINF:-1 group-title="澳大利亚限IP" tvg-id="tv.101305020528" tvg-logo="https://i.mjh.nz/.images/tv.101305020528.png",RACING.COM
-https://i.mjh.nz/au/Sydney/tv.101305020528.m3u8
-#EXTINF:-1 group-title="澳大利亚限IP" tvg-id="tv.7pac12" tvg-logo="http://i.mjh.nz/.images/tv.7pac12.png",PAC-12
-https://i.mjh.nz/au/Sydney/tv.7pac12.m3u8
-#EXTINF:-1 group-title="澳大利亚限IP" tvg-id="tv.7outdoor" tvg-logo="http://i.mjh.nz/.images/tv.7outdoor.png",Outdoor Channel
-https://i.mjh.nz/au/Sydney/tv.7outdoor.m3u8
-#EXTINF:-1 group-title="澳大利亚限IP" tvg-id="tv.7olympics" tvg-logo="http://i.mjh.nz/.images/tv.7olympics.png",Olympics Channel
-
-#EXTINF:-1 group-title="澳大利亚限IP" tvg-id="tv.7fueltv" tvg-logo="http://i.mjh.nz/.images/tv.7fueltv.png",Fuel TV
-https://i.mjh.nz/au/Sydney/tv.7fueltv.m3u8
-#EXTINF:-1 group-title="澳大利亚限IP" tvg-id="tv.101305020523" tvg-logo="https://i.mjh.nz/.images/tv.101305020523.png",7mate
-https://i.mjh.nz/au/Sydney/tv.101305020523.m3u8
-#EXTINF:-1 group-title="澳大利亚限IP" tvg-id="tv.101305020525" tvg-logo="https://i.mjh.nz/.images/tv.101305020525.png",7flix
-https://i.mjh.nz/au/Sydney/tv.101305020525.m3u8
-#EXTINF:-1 group-title="澳大利亚限IP" tvg-id="tv.101305020522" tvg-logo="https://i.mjh.nz/.images/tv.101305020522.png",7TWO
-https://i.mjh.nz/au/Sydney/tv.101305020522.m3u8
-#EXTINF:-1 group-title="澳大利亚限IP" tvg-id="tv.320203000307" tvg-logo="https://i.mjh.nz/.images/tv.320203000307.png",SBS World Movies
-https://i.mjh.nz/au/Sydney/tv.320203000307.m3u8
-#EXTINF:-1 group-title="澳大利亚限IP" tvg-id="tv.320203000303" tvg-logo="https://i.mjh.nz/.images/tv.320203000303.png",SBS VICELAND
-https://i.mjh.nz/au/Sydney/tv.320203000303.m3u8
-#EXTINF:-1 group-title="澳大利亚限IP" tvg-id="tv.320203000304" tvg-logo="https://i.mjh.nz/.images/tv.320203000304.png",SBS Food
-https://i.mjh.nz/au/Sydney/tv.320203000304.m3u8
-#EXTINF:-1 group-title="澳大利亚限IP" tvg-id="tv.320203000301" tvg-logo="https://i.mjh.nz/.images/tv.320203000301.png",SBS
-https://i.mjh.nz/au/Sydney/tv.320203000301.m3u8
-#EXTINF:-1 group-title="澳大利亚限IP" tvg-id="tv.320203000305" tvg-logo="https://i.mjh.nz/.images/tv.320203000305.png",NITV
-https://i.mjh.nz/au/Sydney/tv.320203000305.m3u8
-#EXTINF:-1 group-title="澳大利亚限IP" tvg-id="tv.101204200421" tvg-logo="https://i.mjh.nz/.images/tv.101204200421.png",Nine
-https://i.mjh.nz/au/Sydney/tv.101204200421.m3u8
-#EXTINF:-1 group-title="澳大利亚限IP" tvg-id="tv.101204200429" tvg-logo="https://i.mjh.nz/.images/tv.101204200429.png",9Rush
-https://i.mjh.nz/au/Sydney/tv.101204200429.m3u8
-#EXTINF:-1 group-title="澳大利亚限IP" tvg-id="tv.101204200424" tvg-logo="https://i.mjh.nz/.images/tv.101204200424.png",9Life
-https://i.mjh.nz/au/Sydney/tv.101204200424.m3u8
-#EXTINF:-1 group-title="澳大利亚限IP" tvg-id="tv.101204200428" tvg-logo="https://i.mjh.nz/.images/tv.101204200428.png",9Go!
-https://i.mjh.nz/au/Sydney/tv.101204200428.m3u8
-#EXTINF:-1 group-title="澳大利亚限IP" tvg-id="tv.101204200427" tvg-logo="https://i.mjh.nz/.images/tv.101204200427.png",9Gem
-https://i.mjh.nz/au/Sydney/tv.101204200427.m3u8
-#EXTINF:-1 group-title="澳大利亚限IP" tvg-id="tv.101002210222" tvg-logo="https://i.mjh.nz/.images/tv.abctvplus.png",ABC TV Plus
-https://c.mjh.nz/abc2/
-#EXTINF:-1 group-title="澳大利亚限IP" tvg-id="tv.abc_news_90" tvg-logo="https://i.mjh.nz/.images/tv.abc_news_90.png",ABC News in 90 Seconds
-https://i.mjh.nz/au/Sydney/tv.abc_news_90
-#EXTINF:-1 group-title="澳大利亚限IP" tvg-id="tv.101002210220" tvg-logo="https://i.mjh.nz/.images/tv.101002210220.png",ABC News
-https://c.mjh.nz/101002210220/
-#EXTINF:-1 group-title="澳大利亚限IP" tvg-id="tv.101002210224" tvg-logo="https://i.mjh.nz/.images/tv.101002210224.png",ABC Me
-
-#EXTINF:-1 group-title="澳大利亚限IP" tvg-id="tv.101002210222" tvg-logo="https://i.mjh.nz/.images/tv.abckids2.png",ABC KIDS
-https://c.mjh.nz/101002210222/
-#EXTINF:-1 group-title="澳大利亚限IP" tvg-id="tv.101002210221" tvg-logo="https://i.mjh.nz/.images/tv.101002210221.png",ABC
-https://c.mjh.nz/101002210221/
-#EXTINF:-1 group-title="澳大利亚限IP" tvg-id="tv.snowy-mountains" tvg-logo="https://i.mjh.nz/.images/tv.snowy-mountains.png",Snowy Mountains Television
-https://c.mjh.nz/snowy-mountains/
-#EXTINF:-1 group-title="澳大利亚限IP" tvg-id="tv.skyrtc" tvg-logo="https://i.mjh.nz/.images/tv.skyrtc.png",Sky Racing - Thoroughbred Central
-https://i.mjh.nz/au/Sydney/tv.skyrtc.m3u8
-#EXTINF:-1 group-title="澳大利亚限IP" tvg-id="tv.sky2rw" tvg-logo="https://i.mjh.nz/.images/tv.sky2rw.png",Sky Racing 2
-https://i.mjh.nz/au/Sydney/tv.sky2rw.m3u8
-#EXTINF:-1 group-title="澳大利亚限IP" tvg-id="tv.sky1rw" tvg-logo="https://i.mjh.nz/.images/tv.sky1rw.png",Sky Racing 1
-https://i.mjh.nz/au/Sydney/tv.sky1rw.m3u8
-#EXTINF:-1 group-title="澳大利亚限IP" tvg-id="tv.redbull.tv" tvg-logo="http://i.mjh.nz/.images/tv.redbull.tv.png",Redbull TV
-https://i.mjh.nz/au/Sydney/tv.redbull.tv.m3u8
-#EXTINF:-1 group-title="澳大利亚限IP" tvg-id="tv.dove.gospel" tvg-logo="https://i.mjh.nz/.images/tv.dove.gospel.png",DGtv
-https://i.mjh.nz/au/Sydney/tv.dove.gospel.m3u8
-#EXTINF:-1 group-title="澳大利亚限IP" tvg-id="tv.cna" tvg-logo="https://i.mjh.nz/.images/tv.cna.png",Channel News Asia (CNA)
-https://i.mjh.nz/au/Sydney/tv.cna.m3u8
-#EXTINF:-1 group-title="澳大利亚限IP" tvg-id="tv.bloomberg" tvg-logo="https://i.mjh.nz/.images/tv.bloomberg.png",Bloomberg Australia
-https://i.mjh.nz/au/Sydney/tv.bloomberg.m3u8
-#EXTINF:-1 group-title="澳大利亚限IP" tvg-id="tv.46" tvg-logo="http://i.mjh.nz/.images/tv.46.png",Al Jazeera
-https://i.mjh.nz/au/Sydney/tv.46.m3u8
-#EXTINF:-1 group-title="澳大利亚限IP" tvg-id="tv.acctv" tvg-logo="http://i.mjh.nz/.images/tv.acctv.png",ACCTV
 
 
 
@@ -5006,124 +4919,87 @@ https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_ch
 #EXTINF:-1 tvg-id="BBCOne.uk" tvg-logo="https://s1.ax1x.com/2022/03/20/qVDkjO.png" group-title="英国IP观看",BBC One West Midlands
 https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_west_midlands/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
 
+#EXTINF:-1 group-title="澳大利亚限IP" tvg-id="tv.101406020623" tvg-logo="https://i.mjh.nz/.images/tv.101406020623.png",10 SHAKE
 
-#EXTINF:-1 tvg-id="1" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv1.png" group-title="央视卫视",CCTV1
-http://39.135.49.209:6610/PLTV/88888888/224/3221226908/1.m3u8?servicetype=1
-#EXTINF:-1 tvg-id="2" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv2.png" group-title="央视卫视",CCTV2
-http://39.135.49.209:6610/PLTV/88888888/224/3221226915/1.m3u8?servicetype=1
+#EXTINF:-1 group-title="澳大利亚限IP" tvg-id="tv.101406020628" tvg-logo="https://i.mjh.nz/.images/tv.101406020628.png",10 Peach
+https://i.mjh.nz/au/Sydney/tv.101406020628.m3u8
+#EXTINF:-1 group-title="澳大利亚限IP" tvg-id="tv.101406020627" tvg-logo="https://i.mjh.nz/.images/tv.101406020627.png",10 BOLD
+https://i.mjh.nz/au/Sydney/tv.101406020627.m3u8
+#EXTINF:-1 group-title="澳大利亚限IP" tvg-id="tv.101406020625" tvg-logo="https://i.mjh.nz/.images/tv.101406020625.png",10
+https://i.mjh.nz/au/Sydney/tv.101406020625.m3u8
+#EXTINF:-1 group-title="澳大利亚限IP" tvg-id="tv.7openshop" tvg-logo="http://i.mjh.nz/.images/tv.7openshop.png",openshop
+https://i.mjh.nz/au/Sydney/tv.7openshop.m3u8
+#EXTINF:-1 group-title="澳大利亚限IP" tvg-id="tv.7ausbiz" tvg-logo="http://i.mjh.nz/.images/tv.7ausbiz.png",ausbiz TV
+https://i.mjh.nz/au/Sydney/tv.7ausbiz.m3u8
+#EXTINF:-1 group-title="澳大利亚限IP" tvg-id="tv.101305020520" tvg-logo="https://i.mjh.nz/.images/tv.101305020520.png",Seven
+https://i.mjh.nz/au/Sydney/tv.101305020520.m3u8
+#EXTINF:-1 group-title="澳大利亚限IP" tvg-id="tv.101305020528" tvg-logo="https://i.mjh.nz/.images/tv.101305020528.png",RACING.COM
+https://i.mjh.nz/au/Sydney/tv.101305020528.m3u8
+#EXTINF:-1 group-title="澳大利亚限IP" tvg-id="tv.7pac12" tvg-logo="http://i.mjh.nz/.images/tv.7pac12.png",PAC-12
+https://i.mjh.nz/au/Sydney/tv.7pac12.m3u8
+#EXTINF:-1 group-title="澳大利亚限IP" tvg-id="tv.7outdoor" tvg-logo="http://i.mjh.nz/.images/tv.7outdoor.png",Outdoor Channel
+https://i.mjh.nz/au/Sydney/tv.7outdoor.m3u8
+#EXTINF:-1 group-title="澳大利亚限IP" tvg-id="tv.7olympics" tvg-logo="http://i.mjh.nz/.images/tv.7olympics.png",Olympics Channel
 
-#EXTINF:-1 tvg-id="3" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv3.png" group-title="央视卫视",CCTV3
-http://39.135.49.209:6610/PLTV/88888888/224/3221227055/1.m3u8?servicetype=1
+#EXTINF:-1 group-title="澳大利亚限IP" tvg-id="tv.7fueltv" tvg-logo="http://i.mjh.nz/.images/tv.7fueltv.png",Fuel TV
+https://i.mjh.nz/au/Sydney/tv.7fueltv.m3u8
+#EXTINF:-1 group-title="澳大利亚限IP" tvg-id="tv.101305020523" tvg-logo="https://i.mjh.nz/.images/tv.101305020523.png",7mate
+https://i.mjh.nz/au/Sydney/tv.101305020523.m3u8
+#EXTINF:-1 group-title="澳大利亚限IP" tvg-id="tv.101305020525" tvg-logo="https://i.mjh.nz/.images/tv.101305020525.png",7flix
+https://i.mjh.nz/au/Sydney/tv.101305020525.m3u8
+#EXTINF:-1 group-title="澳大利亚限IP" tvg-id="tv.101305020522" tvg-logo="https://i.mjh.nz/.images/tv.101305020522.png",7TWO
+https://i.mjh.nz/au/Sydney/tv.101305020522.m3u8
+#EXTINF:-1 group-title="澳大利亚限IP" tvg-id="tv.320203000307" tvg-logo="https://i.mjh.nz/.images/tv.320203000307.png",SBS World Movies
+https://i.mjh.nz/au/Sydney/tv.320203000307.m3u8
+#EXTINF:-1 group-title="澳大利亚限IP" tvg-id="tv.320203000303" tvg-logo="https://i.mjh.nz/.images/tv.320203000303.png",SBS VICELAND
+https://i.mjh.nz/au/Sydney/tv.320203000303.m3u8
+#EXTINF:-1 group-title="澳大利亚限IP" tvg-id="tv.320203000304" tvg-logo="https://i.mjh.nz/.images/tv.320203000304.png",SBS Food
+https://i.mjh.nz/au/Sydney/tv.320203000304.m3u8
+#EXTINF:-1 group-title="澳大利亚限IP" tvg-id="tv.320203000301" tvg-logo="https://i.mjh.nz/.images/tv.320203000301.png",SBS
+https://i.mjh.nz/au/Sydney/tv.320203000301.m3u8
+#EXTINF:-1 group-title="澳大利亚限IP" tvg-id="tv.320203000305" tvg-logo="https://i.mjh.nz/.images/tv.320203000305.png",NITV
+https://i.mjh.nz/au/Sydney/tv.320203000305.m3u8
+#EXTINF:-1 group-title="澳大利亚限IP" tvg-id="tv.101204200421" tvg-logo="https://i.mjh.nz/.images/tv.101204200421.png",Nine
+https://i.mjh.nz/au/Sydney/tv.101204200421.m3u8
+#EXTINF:-1 group-title="澳大利亚限IP" tvg-id="tv.101204200429" tvg-logo="https://i.mjh.nz/.images/tv.101204200429.png",9Rush
+https://i.mjh.nz/au/Sydney/tv.101204200429.m3u8
+#EXTINF:-1 group-title="澳大利亚限IP" tvg-id="tv.101204200424" tvg-logo="https://i.mjh.nz/.images/tv.101204200424.png",9Life
+https://i.mjh.nz/au/Sydney/tv.101204200424.m3u8
+#EXTINF:-1 group-title="澳大利亚限IP" tvg-id="tv.101204200428" tvg-logo="https://i.mjh.nz/.images/tv.101204200428.png",9Go!
+https://i.mjh.nz/au/Sydney/tv.101204200428.m3u8
+#EXTINF:-1 group-title="澳大利亚限IP" tvg-id="tv.101204200427" tvg-logo="https://i.mjh.nz/.images/tv.101204200427.png",9Gem
+https://i.mjh.nz/au/Sydney/tv.101204200427.m3u8
+#EXTINF:-1 group-title="澳大利亚限IP" tvg-id="tv.101002210222" tvg-logo="https://i.mjh.nz/.images/tv.abctvplus.png",ABC TV Plus
+https://c.mjh.nz/abc2/
+#EXTINF:-1 group-title="澳大利亚限IP" tvg-id="tv.abc_news_90" tvg-logo="https://i.mjh.nz/.images/tv.abc_news_90.png",ABC News in 90 Seconds
+https://i.mjh.nz/au/Sydney/tv.abc_news_90
+#EXTINF:-1 group-title="澳大利亚限IP" tvg-id="tv.101002210220" tvg-logo="https://i.mjh.nz/.images/tv.101002210220.png",ABC News
+https://c.mjh.nz/101002210220/
+#EXTINF:-1 group-title="澳大利亚限IP" tvg-id="tv.101002210224" tvg-logo="https://i.mjh.nz/.images/tv.101002210224.png",ABC Me
 
-#EXTINF:-1 tvg-id="4" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv4.png" group-title="央视卫视",CCTV4
-http://39.135.49.209:6610/PLTV/88888888/224/3221226968/1.m3u8?servicetype=1
-
-#EXTINF:-1 tvg-id="5" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv5.png" group-title="央视卫视",CCTV5
-http://39.135.49.209:6610/PLTV/88888888/224/3221227170/1.m3u8?servicetype=1
-
-#EXTINF:-1 tvg-id="6" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv5+.png" group-title="央视卫视",CCTV5+
-http://39.135.49.209:6610/PLTV/88888888/224/3221226919/1.m3u8?servicetype=1
-
-#EXTINF:-1 tvg-id="7" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv6.png" group-title="央视卫视",CCTV6
-http://39.135.49.209:6610/PLTV/88888888/224/3221227137/1.m3u8?servicetype=1
-
-#EXTINF:-1 tvg-id="8" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv7.png" group-title="央视卫视",CCTV7
-http://39.135.49.209:6610/PLTV/88888888/224/3221226972/1.m3u8?servicetype=1
-
-#EXTINF:-1 tvg-id="9" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv8.png" group-title="央视卫视",CCTV8
-http://39.135.49.209:6610/PLTV/88888888/224/3221227174/1.m3u8?servicetype=1
-
-#EXTINF:-1 tvg-id="10" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv9.png" group-title="央视卫视",CCTV9
-http://39.135.49.209:6610/PLTV/88888888/224/3221226923/1.m3u8?servicetype=1
-
-#EXTINF:-1 tvg-id="11" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv10.png" group-title="央视卫视",CCTV10
-http://39.135.49.209:6610/PLTV/88888888/224/3221226976/1.m3u8?servicetype=1
-
-#EXTINF:-1 tvg-id="12" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv11.png" group-title="央视卫视",CCTV11
-http://39.135.49.209:6610/PLTV/88888888/224/3221226927/1.m3u8?servicetype=1
-
-#EXTINF:-1 tvg-id="13" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv12.png" group-title="央视卫视",CCTV12
-http://39.135.49.209:6610/PLTV/88888888/224/3221226931/1.m3u8?servicetype=1
-
-#EXTINF:-1 tvg-id="14" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv13.png" group-title="央视卫视",CCTV13
-http://39.135.49.209:6610/PLTV/88888888/224/3221226985/1.m3u8?servicetype=1
-
-#EXTINF:-1 tvg-id="15" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv14.png" group-title="央视卫视",CCTV14
-http://39.135.49.209:6610/PLTV/88888888/224/3221227086/1.m3u8?servicetype=1
-
-#EXTINF:-1 tvg-id="16" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv15.png" group-title="央视卫视",CCTV15
-http://39.135.49.209:6610/PLTV/88888888/224/3221226989/1.m3u8?servicetype=1
-
-#EXTINF:-1 tvg-id="7249" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv16.png" group-title="央视卫视",CCTV16
-http://39.135.49.209:6610/PLTV/88888888/224/3221227148/1.m3u8?servicetype=1
-
-#EXTINF:-1 tvg-id="17" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv17.png" group-title="央视卫视",CCTV17
-http://39.135.49.209:6610/PLTV/88888888/224/3221226986/1.m3u8?servicetype=1
-#EXTINF:-1 tvg-id="106" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv4k.png" group-title="央视卫视",CCTV4K
-http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
-#EXTINF:-1 tvg-id="27" tvg-logo="http://n.ysyz.top:99/buyaolian/hunan.png" group-title="央视卫视",湖南卫视
-http://39.135.49.209:6610/PLTV/88888888/224/3221227232/1.m3u8?servicetype=1
-#EXTINF:-1 tvg-id="28" tvg-logo="http://n.ysyz.top:99/buyaolian/zhejiang.png" group-title="央视卫视",浙江卫视
-http://39.135.49.209:6610/PLTV/88888888/224/3221227193/1.m3u8?servicetype=1
-#EXTINF:-1 tvg-id="29" tvg-logo="http://n.ysyz.top:99/buyaolian/jiangsu.png" group-title="央视卫视",江苏卫视
-http://39.135.49.209:6610/PLTV/88888888/224/3221227160/1.m3u8?servicetype=1
-#EXTINF:-1 tvg-id="31" tvg-logo="http://n.ysyz.top:99/buyaolian/dongfang.png" group-title="央视卫视",东方卫视
-http://39.135.49.209:6610/PLTV/88888888/224/3221227059/1.m3u8?servicetype=1
-#EXTINF:-1 tvg-id="30" tvg-logo="http://n.ysyz.top:99/buyaolian/beijing1.png" group-title="央视卫视",北京卫视
-http://39.135.49.209:6610/PLTV/88888888/224/3221227246/1.m3u8?servicetype=1
-#EXTINF:-1 tvg-id="39" tvg-logo="http://n.ysyz.top:99/buyaolian/tianjin.png" group-title="央视卫视",天津卫视
-http://39.135.49.209:6610/PLTV/88888888/224/3221227205/1.m3u8?servicetype=1
-#EXTINF:-1 tvg-id="33" tvg-logo="http://n.ysyz.top:99/buyaolian/guangdong.png" group-title="央视卫视",广东卫视
-http://39.135.49.209:6610/PLTV/88888888/224/3221227164/1.m3u8?servicetype=1
-#EXTINF:-1 tvg-id="34" tvg-logo="http://n.ysyz.top:99/buyaolian/shenzhen.png" group-title="央视卫视",深圳卫视
-http://39.135.49.209:6610/PLTV/88888888/224/3221227242/1.m3u8?servicetype=1
-#EXTINF:-1 tvg-id="41" tvg-logo="http://n.ysyz.top:99/buyaolian/dongnan.png" group-title="央视卫视",东南卫视
-http://39.135.49.209:6610/PLTV/88888888/224/3221227156/1.m3u8?servicetype=1
-#EXTINF:-1 tvg-id="36" tvg-logo="http://n.ysyz.top:99/buyaolian/liaoning.png" group-title="央视卫视",辽宁卫视
-http://39.135.49.209:6610/PLTV/88888888/224/3221225832/1.m3u8?servicetype=1
-#EXTINF:-1 tvg-id="38" tvg-logo="http://n.ysyz.top:99/buyaolian/shandong.png" group-title="央视卫视",山东卫视
-http://39.135.49.209:6610/PLTV/88888888/224/3221227236/1.m3u8?servicetype=1
-#EXTINF:-1 tvg-id="47" tvg-logo="http://n.ysyz.top:99/buyaolian/henan.png" group-title="央视卫视",河南卫视
-http://39.135.49.209:6610/PLTV/88888888/224/3221227095/1.m3u8?servicetype=1
-#EXTINF:-1 tvg-id="45" tvg-logo="http://n.ysyz.top:99/buyaolian/hebei.png" group-title="央视卫视",河北卫视
-http://39.135.49.209:6610/PLTV/88888888/224/3221227063/1.m3u8?servicetype=1
-#EXTINF:-1 tvg-id="32" tvg-logo="http://n.ysyz.top:99/buyaolian/anhui.png" group-title="央视卫视",安徽卫视
-http://39.135.49.209:6610/PLTV/88888888/224/3221227178/1.m3u8?servicetype=1
-#EXTINF:-1 tvg-id="48" tvg-logo="http://n.ysyz.top:99/buyaolian/hubei.png" group-title="央视卫视",湖北卫视
-http://39.135.49.209:6610/PLTV/88888888/224/3221227111/1.m3u8?servicetype=1
-#EXTINF:-1 tvg-id="50" tvg-logo="http://n.ysyz.top:99/buyaolian/jiangxi.png" group-title="央视卫视",江西卫视
-http://39.135.49.209:6610/PLTV/88888888/224/3221227209/1.m3u8?servicetype=1
-#EXTINF:-1 tvg-id="44" tvg-logo="http://n.ysyz.top:99/buyaolian/guizhou.png" group-title="央视卫视",贵州卫视
-http://39.135.49.209:6610/PLTV/88888888/224/3221226827/1.m3u8?servicetype=1
-#EXTINF:-1 tvg-id="40" tvg-logo="http://n.ysyz.top:99/buyaolian/chongqing.png" group-title="央视卫视",重庆卫视
-http://39.135.49.209:6610/PLTV/88888888/224/3221227240/1.m3u8?servicetype=1
-#EXTINF:-1 tvg-id="56" tvg-logo="http://n.ysyz.top:99/buyaolian/sichuan.png" group-title="央视卫视",四川卫视
-http://182.151.211.171:808/hls/40/index.m3u8
-#EXTINF:-1 tvg-id="37" tvg-logo="http://n.ysyz.top:99/buyaolian/hainan.png" group-title="央视卫视",海南卫视
-http://39.135.49.209:6610/PLTV/88888888/224/3221227216/1.m3u8?servicetype=1
-#EXTINF:-1 tvg-id="51" tvg-logo="http://n.ysyz.top:99/buyaolian/jilin.png" group-title="央视卫视",吉林卫视
-http://39.134.19.234:6610/yinhe/2/ch00000090990000001049/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 tvg-id="58" tvg-logo="http://n.ysyz.top:99/buyaolian/yunnan.png" group-title="央视卫视",云南卫视
-http://39.134.19.234:6610/yinhe/2/ch00000090990000001046/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 tvg-id="46" tvg-logo="http://n.ysyz.top:99/buyaolian/heilongjiang.png" group-title="央视卫视",黑龙江卫视
-http://39.135.49.209:6610/PLTV/88888888/224/3221227197/1.m3u8?servicetype=1
-
-#EXTINF:-1 tvg-id="43" tvg-logo="http://n.ysyz.top:99/buyaolian/guangxi.png" group-title="央视卫视",广西卫视
-http://39.134.19.234:6610/yinhe/2/ch00000090990000001054/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 tvg-id="42" tvg-logo="http://n.ysyz.top:99/buyaolian/gansu.png" group-title="央视卫视",甘肃卫视
-http://39.134.19.234:6610/yinhe/2/ch00000090990000001059/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 tvg-id="55" tvg-logo="http://n.ysyz.top:99/buyaolian/shanxi1.png" group-title="央视卫视",陕西卫视
-http://39.134.19.234:6610/yinhe/2/ch00000090990000001597/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 tvg-id="54" tvg-logo="http://n.ysyz.top:99/buyaolian/shanxi.png" group-title="央视卫视",山西卫视
-http://liveflash.sxrtv.com/live/sxwshd.m3u8
-#EXTINF:-1 tvg-id="59" tvg-logo="http://n.ysyz.top:99/buyaolian/qinghai.png" group-title="央视卫视",青海卫视
-http://39.134.19.234:6610/yinhe/2/ch00000090990000001033/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 tvg-id="57" tvg-logo="http://n.ysyz.top:99/buyaolian/xinjiang.png" group-title="央视卫视",新疆卫视
-http://39.134.19.234:6610/yinhe/2/ch00000090990000001047/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 tvg-id="71" tvg-logo="http://n.ysyz.top:99/buyaolian/xizang.png" group-title="央视卫视",西藏卫视
-http://39.134.19.234:6610/yinhe/2/ch00000090990000001302/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-
-
+#EXTINF:-1 group-title="澳大利亚限IP" tvg-id="tv.101002210222" tvg-logo="https://i.mjh.nz/.images/tv.abckids2.png",ABC KIDS
+https://c.mjh.nz/101002210222/
+#EXTINF:-1 group-title="澳大利亚限IP" tvg-id="tv.101002210221" tvg-logo="https://i.mjh.nz/.images/tv.101002210221.png",ABC
+https://c.mjh.nz/101002210221/
+#EXTINF:-1 group-title="澳大利亚限IP" tvg-id="tv.snowy-mountains" tvg-logo="https://i.mjh.nz/.images/tv.snowy-mountains.png",Snowy Mountains Television
+https://c.mjh.nz/snowy-mountains/
+#EXTINF:-1 group-title="澳大利亚限IP" tvg-id="tv.skyrtc" tvg-logo="https://i.mjh.nz/.images/tv.skyrtc.png",Sky Racing - Thoroughbred Central
+https://i.mjh.nz/au/Sydney/tv.skyrtc.m3u8
+#EXTINF:-1 group-title="澳大利亚限IP" tvg-id="tv.sky2rw" tvg-logo="https://i.mjh.nz/.images/tv.sky2rw.png",Sky Racing 2
+https://i.mjh.nz/au/Sydney/tv.sky2rw.m3u8
+#EXTINF:-1 group-title="澳大利亚限IP" tvg-id="tv.sky1rw" tvg-logo="https://i.mjh.nz/.images/tv.sky1rw.png",Sky Racing 1
+https://i.mjh.nz/au/Sydney/tv.sky1rw.m3u8
+#EXTINF:-1 group-title="澳大利亚限IP" tvg-id="tv.redbull.tv" tvg-logo="http://i.mjh.nz/.images/tv.redbull.tv.png",Redbull TV
+https://i.mjh.nz/au/Sydney/tv.redbull.tv.m3u8
+#EXTINF:-1 group-title="澳大利亚限IP" tvg-id="tv.dove.gospel" tvg-logo="https://i.mjh.nz/.images/tv.dove.gospel.png",DGtv
+https://i.mjh.nz/au/Sydney/tv.dove.gospel.m3u8
+#EXTINF:-1 group-title="澳大利亚限IP" tvg-id="tv.cna" tvg-logo="https://i.mjh.nz/.images/tv.cna.png",Channel News Asia (CNA)
+https://i.mjh.nz/au/Sydney/tv.cna.m3u8
+#EXTINF:-1 group-title="澳大利亚限IP" tvg-id="tv.bloomberg" tvg-logo="https://i.mjh.nz/.images/tv.bloomberg.png",Bloomberg Australia
+https://i.mjh.nz/au/Sydney/tv.bloomberg.m3u8
+#EXTINF:-1 group-title="澳大利亚限IP" tvg-id="tv.46" tvg-logo="http://i.mjh.nz/.images/tv.46.png",Al Jazeera
+https://i.mjh.nz/au/Sydney/tv.46.m3u8
+#EXTINF:-1 group-title="澳大利亚限IP" tvg-id="tv.acctv" tvg-logo="http://i.mjh.nz/.images/tv.acctv.png",ACCTV
 
 
 
