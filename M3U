@@ -720,8 +720,6 @@ http://111.20.33.93/TVOD/88888893/224/3221226232/index.m3u8
 http://111.20.33.93/TVOD/88888893/224/3221226465/index.m3u8
 #EXTINF:-1  tvg-id="6246" tvg-name="CHC家庭电影" tvg-logo="http://n.ysyz.top:99/buyaolian/CHCjiating.png" group-title="陕西回看",CHC家庭影院
 http://111.20.33.93/TVOD/88888893/224/3221226462/index.m3u8
-#EXTINF:-1  tvg-id="1975" tvg-name="MAX极速汽车" tvg-logo="http://n.ysyz.top:99/buyaolian/jsqc.png" group-title="陕西回看",SiTV极速汽车
-http://111.20.33.93/TVOD/88888893/224/3221226574/index.m3u8
 #EXTINF:-1  tvg-id="SITV都市剧场" tvg-name="SITV都市剧场" tvg-logo="http://n.ysyz.top:99/buyaolian/dsjc.png" group-title="陕西回看",SiTV都市剧场
 http://111.20.33.93/TVOD/88888893/224/3221226581/index.m3u8
 #EXTINF:-1  tvg-id="" tvg-name="" tvg-logo="http://n.ysyz.top:99/buyaolian/aishang4k.png" group-title="陕西回看",爱上4K
@@ -4517,8 +4515,6 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60fb028c2e6a0c00075275
 #EXTINF:-1 channel-id="pluto-60fb040d4795a6000762fe8f" tvg-id="60fb040d4795a6000762fe8f" tvg-chno="1002" tvg-logo="https://images.pluto.tv/channels/60fb040d4795a6000762fe8f/colorLogoPNG.png" group-title="英语儿童频道",Kartoon Channel!
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60fb040d4795a6000762fe8f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-
-
 #EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/15/HgKGR0.png" group-title="NBA Playoffs",ESPN
 https://d1k4ybyeycgihx.cloudfront.net/hls/espn/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s1.ax1x.com/2022/03/19/qAojiT.png" group-title="NBA Playoffs",ESPN 2
@@ -4534,7 +4530,7 @@ https://d1k4ybyeycgihx.cloudfront.net/hls/nbatv/playlist.m3u8?SBN
 #EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/12/HwQgRH.png" group-title="NBA Playoffs",密尔沃基雄鹿
 #https://d1k4ybyeycgihx.cloudfront.net/hls/bucks/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/12/HwQdMR.png" group-title="NBA Playoffs",太阳
-#https://d1k4ybyeycgihx.cloudfront.net/hls/suns/playlist.m3u8
+https://d1k4ybyeycgihx.cloudfront.net/hls/suns/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/12/HwQws1.png" group-title="NBA Playoffs",魔术
 #https://d1k4ybyeycgihx.cloudfront.net/hls/magic/playlist.m3u8?SBN
 #EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/12/HwQjLq.png" group-title="NBA Playoffs",黄蜂
