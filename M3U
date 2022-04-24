@@ -1538,8 +1538,6 @@ http://61.163.111.46/tvcdn.stream3.hndt.com/tv/4ba68fd1b8b442d7a408a260592a5592_
 #http://123.6.9.146/live/jz-henanxinnong/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://n.ysyz.top:99/buyaolian/henanxw.png" group-title="京津冀鲁豫",河南新闻
 http://61.163.111.46/tvcdn.stream3.hndt.com/tv/0325f1d561144613b9c90adc64ddbdc8_transios/playlist.m3u8?wsApp=HLS&wsMonitor=0
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.hualigs.cn/image/61dfd2da4e415.jpg" group-title="京津冀鲁豫",河南睛彩中原
-http://61.163.111.46/tvcdn.stream3.hndt.com/tv/a0ec347a0e3540bab8a80deed0a07139_transios/playlist.m3u8?wsApp=HLS&wsMonitor=0
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="京津冀鲁豫",河南移动戏曲
 http://61.163.111.46/tvcdn.stream3.hndt.com/tv/160ea8971f8b41f0905f88c7afe3effe_transios/playlist.m3u8?wsApp=HLS&wsMonitor=0
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.hualigs.cn/image/61dff768ac3f6.jpg" group-title="京津冀鲁豫",郑州综合
@@ -2001,8 +1999,6 @@ http://live.lsrmw.cn/zhpd/sd/live.m3u8
 http://live.lsrmw.cn/ysyl/sd/live.m3u8
 #EXTINF:-1 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="江浙沪包邮",栖霞区新闻频道
 http://pili-live-hls.140.i2863.com/i2863-140/live_140_236499.m3u8
-#EXTINF:-1 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="江浙沪包邮",铜山综合频道
-http://stream.tstvxmt.com/tstv1/sd/live.m3u8
 #EXTINF:-1 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="江浙沪包邮",铜山二农频道
 http://stream.tstvxmt.com/ts3/sd/live.m3u8
 #EXTINF:-1 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="江浙沪包邮",淮阴综合频道
@@ -2167,13 +2163,7 @@ http://cm.wshls.homecdn.com/live/829d.m3u8
 #http://cm.wshls.homecdn.com/live/4abdf.m3u8
 #http://cm.wshls.homecdn.com/live/4abdf.flv
 #http://cm.wshls.homecdn.com/live/829d.flv
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="湘鄂赣皖",宿州新闻综合
-http://live.ahsz.tv/video/s10001-szzh/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="湘鄂赣皖",宿州公共频道
-http://live.ahsz.tv/video/s10001-ggpd/index.m3u8
-#http://live.ahsz.tv/video/s10001-ggpd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="湘鄂赣皖",宿州科教频道
-http://live.ahsz.tv/video/s10001-kxjy/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="湘鄂赣皖",铜陵新闻综合
 http://dstpush1.retalltech.com/app/stream1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="湘鄂赣皖",铜陵公共频道
@@ -2310,9 +2300,9 @@ http://111.20.33.93/PLTV/88888893/224/3221226556/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://n.ysyz.top:99/buyaolian/nx.png" group-title="晋西北陕甘宁",宁夏公共
-http://120.253.104.16:808/hls/287/index.m3u8
+
 #EXTINF:-1 tvg-logo="http://n.ysyz.top:99/buyaolian/nx.png" group-title="晋西北陕甘宁",宁夏经济
-http://120.253.104.16:808/hls/288/index.m3u8
+
 #EXTINF:-1 tvg-logo="http://n.ysyz.top:99/buyaolian/nx.png" group-title="晋西北陕甘宁",宁夏影视
 http://120.253.104.16:808/hls/289/index.m3u8
 #EXTINF:-1 tvg-logo="http://n.ysyz.top:99/buyaolian/nx.png" group-title="晋西北陕甘宁",宁夏少儿
@@ -2399,8 +2389,6 @@ http://pili-live-rtmp.207.i2863.com/i2863-207/sdpdzb.m3u8
 https://play.cxsm.com/video/sbtv.m3u8?auth_key=1687378140-0-0-53b8174b0555c8e50011a9a573392a8e
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="云贵川渝青",镇远综合
 https://play.cxsm.com/video/zytv.m3u8?auth_key=1687377713-0-0-360949d045526c0a1b221640ca24a1d0
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="云贵川渝青",金海湖电视台
-http://pili-live-hls.jhh.ddcpc.cn/ddcpc-jhh/tv1050-1563865985.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="云贵川渝青",七星关电视台
 https://p2.weizan.cn/1681337293/692202026033145509/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="云贵川渝青",正安综合
@@ -2540,20 +2528,14 @@ https://pili-live-hls-ashh.tianma3600.com/ashh/TV.m3u8
 http://live.hnzzzzzdst.com/channel1/sd/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="云贵川渝青",海西州综合频道
 http://stream.haixitv.cn/1/sd/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="云贵川渝青",黄南州综合
-http://111.12.218.74:8081/live/ch0.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="云贵川渝青",囊谦综合
 http://pili-live-hls-qhnqapp2020.sobeylive.com/qhnqapp2020/qhnqtv01.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="云贵川渝青",湟源综合
 http://livecdn.dmqhyadmin.com/hls/xjhuangyuan.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="云贵川渝青",湟中综合
-http://livecdn.dmqhyadmin.com/hls/xjhuangzhong.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="云贵川渝青",德令哈综合
 http://livecdn.dmqhyadmin.com/hls/xjdelingha.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="云贵川渝青",门源综合
 http://livecdn.dmqhyadmin.com/hls/xjmenyuan.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="云贵川渝青",祁连综合
-http://livecdn.dmqhyadmin.com/hls/xjqilian.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="云贵川渝青",贵南综合
 http://livecdn.dmqhyadmin.com/hls/xjguinan.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="云贵川渝青",化隆综合
@@ -2830,12 +2812,6 @@ https://live.hrtonline.cn/hls/live002.m3u8
 #EXTINF:-1 tvg-logo="" group-title="黑吉辽蒙疆藏",呼伦贝尔生活资讯
 https://live.hrtonline.cn/hls/live003.m3u8
 #https://live.hrtonline.cn/flv/live/live003.flv
-#EXTINF:-1 tvg-logo="" group-title="黑吉辽蒙疆藏",巴彦淖尔新闻综合
-https://pili-live-hls-bynr.tianma3600.com/bynr/xwzh.m3u8
-#EXTINF:-1 tvg-logo="" group-title="黑吉辽蒙疆藏",巴彦淖尔经济生活
-https://pili-live-hls-bynr.tianma3600.com/bynr/szcj.m3u8
-#EXTINF:-1 tvg-logo="" group-title="黑吉辽蒙疆藏",巴彦淖尔影视娱乐
-https://pili-live-hls-bynr.tianma3600.com/bynr/ysyl.m3u8
 #EXTINF:-1 tvg-logo="" group-title="黑吉辽蒙疆藏",乌兰察布新闻综合
 http://pluslive.wrbtv.cn/xwzh/sd/live.m3u8
 #EXTINF:-1 tvg-logo="" group-title="黑吉辽蒙疆藏",乌兰察布经济生活
@@ -4530,7 +4506,7 @@ https://d1k4ybyeycgihx.cloudfront.net/hls/nbatv/playlist.m3u8?SBN
 #EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/12/HwQgRH.png" group-title="NBA Playoffs",密尔沃基雄鹿
 #https://d1k4ybyeycgihx.cloudfront.net/hls/bucks/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/12/HwQdMR.png" group-title="NBA Playoffs",太阳
-https://d1k4ybyeycgihx.cloudfront.net/hls/suns/playlist.m3u8
+#https://d1k4ybyeycgihx.cloudfront.net/hls/suns/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/12/HwQws1.png" group-title="NBA Playoffs",魔术
 #https://d1k4ybyeycgihx.cloudfront.net/hls/magic/playlist.m3u8?SBN
 #EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/12/HwQjLq.png" group-title="NBA Playoffs",黄蜂
