@@ -1,5 +1,10 @@
 #EXTM3U url-tvg="http://epg.51zmt.top:8000/e.xml,https://epg.112114.xyz/pp.xml,https://i.mjh.nz/au/Sydney/epg.xml.gz,https://i.mjh.nz/au/Perth/epg.xml.gz,https://i.mjh.nz/PlutoTV/us.xml.gz" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
 
+#EXTINF:-1 tvg-logo="https://s1.ax1x.com/2022/04/26/L7tBWj.png" group-title="欧冠直播" ,欧冠 曼城 VS 皇家马德里 粤语 何辉
+https://hls.zb.ssports.com/ssports/yue3710639_xinying1080.m3u8?k=3f1305a4649e617248411de80538e152&t=62686b9c&UID=1650942383free5233126535&MATCHID=3710639&TYPE=1
+#EXTINF:-1 tvg-logo="https://s1.ax1x.com/2022/04/26/L7tBWj.png" group-title="欧冠直播" ,欧冠 曼城 VS 皇家马德里 国语 苏东
+https://hls.zb.ssports.com/ssports/ch3710639_xinying1080.m3u8?k=3f1305a4649e617248411de80538e152&t=62686b9c&UID=1650942383free5233126535&MATCHID=3710639&TYPE=1
+
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv1.png" group-title="高码央视卫视",CCTV1
 http://112.25.47.24/gitv_live/G_CCTV-1-HD-265-8M/G_CCTV-1-HD-265-8M.m3u8?p=GITV&area=JS_CMCC_CP
 #http://112.25.47.35/gitv_live/G_CCTV-1-HD-265-5M/G_CCTV-1-HD-265-5M.m3u8?p=GITV&area=JS_CMCC_CP
@@ -474,7 +479,7 @@ http://39.135.55.105:6610/PLTV/88888888/224/3221225862/index.m3u8?servicetype=1
 #EXTINF:-1 tvg-id=“52” tvg-name="" tvg-logo="http://n.ysyz.top:99/buyaolian/neimenggu.png" group-title="福建IPTV",内蒙古卫视
 
 #EXTINF:-1 tvg-id="53" tvg-logo="http://n.ysyz.top:99/buyaolian/ningxia.png" group-title="福建IPTV",宁夏卫视
-http://120.253.104.16:808/hls/286/index.m3u8
+
 #EXTINF:-1 tvg-id="海峡卫视" tvg-name="" tvg-logo="http://n.ysyz.top:99/buyaolian/haixia.png" group-title="福建IPTV",海峡卫视
 http://39.135.55.105:6610/PLTV/88888888/224/3221227198/index.m3u8?servicetype=1
 #http://39.135.49.209:6610/PLTV/88888888/224/3221227198/1.m3u8?servicetype=1
@@ -720,8 +725,6 @@ http://111.20.33.93/TVOD/88888893/224/3221226232/index.m3u8
 http://111.20.33.93/TVOD/88888893/224/3221226465/index.m3u8
 #EXTINF:-1  tvg-id="6246" tvg-name="CHC家庭电影" tvg-logo="http://n.ysyz.top:99/buyaolian/CHCjiating.png" group-title="陕西回看",CHC家庭影院
 http://111.20.33.93/TVOD/88888893/224/3221226462/index.m3u8
-#EXTINF:-1  tvg-id="SITV都市剧场" tvg-name="SITV都市剧场" tvg-logo="http://n.ysyz.top:99/buyaolian/dsjc.png" group-title="陕西回看",SiTV都市剧场
-http://111.20.33.93/TVOD/88888893/224/3221226581/index.m3u8
 #EXTINF:-1  tvg-id="" tvg-name="" tvg-logo="http://n.ysyz.top:99/buyaolian/aishang4k.png" group-title="陕西回看",爱上4K
 http://111.20.33.93/TVOD/88888893/224/3221226352/index.m3u8
 
@@ -2304,9 +2307,9 @@ http://111.20.33.93/PLTV/88888893/224/3221226556/index.m3u8
 #EXTINF:-1 tvg-logo="http://n.ysyz.top:99/buyaolian/nx.png" group-title="晋西北陕甘宁",宁夏经济
 
 #EXTINF:-1 tvg-logo="http://n.ysyz.top:99/buyaolian/nx.png" group-title="晋西北陕甘宁",宁夏影视
-http://120.253.104.16:808/hls/289/index.m3u8
+
 #EXTINF:-1 tvg-logo="http://n.ysyz.top:99/buyaolian/nx.png" group-title="晋西北陕甘宁",宁夏少儿
-http://120.253.104.16:808/hls/290/index.m3u8
+
 
 
 
@@ -3236,8 +3239,6 @@ http://livetv.dnsfor.me:80/channel.12.m3u8
 http://uc6.i-cable.com/live_freedirect/opentvhd002_h.live/playlist.m3u8
 #EXTINF:-1 group-title="港澳台" tvg-logo="https://pbs.twimg.com/profile_images/378800000515620839/621dfe1a3a58fd2a4971dac155c830d1_400x400.png",無線電視J1台
 https://bcovlive-a.akamaihd.net/f23dfe49b06b45d8878b55b4b6909595/us-west-2/5324042807001/4a3bca5b047b4564b18bb12dfa26ba62/playlist_ssaiM.m3u8
-#EXTINF:-1 group-title="港澳台",亚美卫视
-http://dcunilive30-lh.akamaihd.net/i/dclive_1@535522/master.m3u8
 #EXTINF:-1 group-title="港澳台" tvg-logo="https://rb.gy/8cpcyd",耀才财经台
 http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
 #EXTINF:-1 group-title="港澳台" tvg-logo="https://rb.gy/hqp9zu",澳门有线互动新闻
@@ -3543,8 +3544,7 @@ https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3
 https://skyanywhere3-i.akamaihd.net/hls/live/510697/interactive/playlist.m3u8
 #EXTINF:-1 group-title="英语新闻" tvg-logo="https://www.hualigs.cn/image/615560258b362.jpg",TRT World HD
 https://tv-trtworld.live.trt.com.tr/master.m3u8
-#EXTINF:-1 group-title="英语新闻",VOA HD
-https://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/master.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="http://n.ysyz.top:99/wuchixialiu/aiyx.png" group-title="iHOT系列",iHOT爱院线
@@ -4230,8 +4230,6 @@ https://ion-plus.samsung.wurl.com/manifest/playlist.m3u8
 https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/iontvuk.stream/playlist.m3u8
 #EXTINF:-1 group-title="美国Local听力磨耳朵" tvg-logo="https://i.imgur.com/1HJraea.png",Jewelry Television
 http://wowzaprod134-i.akamaihd.net/hls/live/577814/ccddaf02/playlist.m3u8
-#EXTINF:-1 group-title="美国Local听力磨耳朵",KBSV/AssyriaSat [Not 24/7]
-http://66.242.170.53/hls/live/temp/index.m3u8
 #EXTINF:-1 group-title="美国Local听力磨耳朵",KCRT-TV 28 Richmond CA (KCRT) (360p)
 http://granicusliveus3-a.akamaihd.net/richmond/G0034_002/HasBahCa.m3u8
 #EXTINF:-1 group-title="美国Local听力磨耳朵" tvg-logo="https://kesq.b-cdn.net/2020/03/nc3xsm.png",KESQ Livestream Alert
