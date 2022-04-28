@@ -1,10 +1,5 @@
 #EXTM3U url-tvg="http://epg.51zmt.top:8000/e.xml,https://epg.112114.xyz/pp.xml,https://i.mjh.nz/au/Sydney/epg.xml.gz,https://i.mjh.nz/au/Perth/epg.xml.gz,https://i.mjh.nz/PlutoTV/us.xml.gz" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
 
-#EXTINF:-1 tvg-logo="https://s1.ax1x.com/2022/04/26/L7tBWj.png" group-title="欧冠直播",欧冠 利物浦 VS 比利亚雷亚尔 粤语 何辉
-https://hls.zb.ssports.com/ssports/yue3710642_xinying1080.m3u8?k=ffdce6e3cd54a13fe9e2d17cf4ee639d&t=6269bd1c&UID=1651027969free5264505328&MATCHID=3710642&TYPE=1
-
-#EXTINF:-1 tvg-logo="https://s1.ax1x.com/2022/04/26/L7tBWj.png" group-title="欧冠直播",欧冠 利物浦 VS 比利亚雷亚尔 国语 于鑫淼 宫磊
-https://hls.zb.ssports.com/ssports/ch3710642_xinying1080.m3u8?k=ffdce6e3cd54a13fe9e2d17cf4ee639d&t=6269bd1c&UID=1651027969free5264505328&MATCHID=3710642&TYPE=1
 
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv1.png" group-title="高码央视卫视",CCTV1
 http://112.25.47.24/gitv_live/G_CCTV-1-HD-265-8M/G_CCTV-1-HD-265-8M.m3u8?p=GITV&area=JS_CMCC_CP
