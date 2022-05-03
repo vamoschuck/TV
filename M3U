@@ -1,5 +1,11 @@
 #EXTM3U url-tvg="http://epg.51zmt.top:8000/e.xml,https://epg.112114.xyz/pp.xml,https://i.mjh.nz/au/Sydney/epg.xml.gz,https://i.mjh.nz/au/Perth/epg.xml.gz,https://i.mjh.nz/PlutoTV/us.xml.gz" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
 
+#EXTINF:-1 tvg-logo="https://s1.ax1x.com/2022/04/26/L7tBWj.png" group-title=“欧冠直播” ,欧冠 比利亚雷亚尔 VS 利物浦 粤语 何辉
+https://hls.zb.ssports.com/ssports/yue3710641_xinying1080.m3u8?k=6b750937d37733ab847231ebe2f7aac3&t=6271a61c&UID=1651545580free4365466330&MATCHID=3710641&TYPE=1
+#EXTINF:-1 tvg-logo="https://s1.ax1x.com/2022/04/26/L7tBWj.png" group-title=“欧冠直播” ,欧冠 比利亚雷亚尔 VS 利物浦 国语 丁鑫淼 宫磊
+https://hls.zb.ssports.com/ssports/ch3710641_xinying1080.m3u8?k=6b750937d37733ab847231ebe2f7aac3&t=6271a61c&UID=1651545580free4365466330&MATCHID=3710641&TYPE=1
+#EXTINF:-1 tvg-logo="https://s1.ax1x.com/2022/04/26/L7tBWj.png" group-title=“欧冠直播” ,欧冠 比利亚雷亚尔 VS 利物浦 英
+https://hls.zb.ssports.com/ssports/en3710641_xinying1080.m3u8?k=6b750937d37733ab847231ebe2f7aac3&t=6271a61c&UID=1651545580free4365466330&MATCHID=3710641&TYPE=1
 
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv1.png" group-title="高码央视卫视",CCTV1
 http://112.25.47.24/gitv_live/G_CCTV-1-HD-265-8M/G_CCTV-1-HD-265-8M.m3u8?p=GITV&area=JS_CMCC_CP
@@ -759,8 +765,6 @@ http://117.148.179.160/TVOD/88888888/224/3221231694/index.m3u8
 http://117.148.179.162/TVOD/88888888/224/3221231697/index.m3u8
 #EXTINF:-1  tvg-id="11" tvg-name="CCTV10" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv10.png" group-title="杭州回看",CCTV10HD
 http://117.148.179.175/TVOD/88888888/224/3221231666/index.m3u8
-#EXTINF:-1  tvg-id="12" tvg-name="CCTV11" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv11.png" group-title="杭州回看",CCTV11HD
-http://117.148.179.164/TVOD/88888888/224/3221231711/index.m3u8
 #EXTINF:-1  tvg-id="13" tvg-name="CCTV12" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv12.png" group-title="杭州回看",CCTV12HD
 http://117.148.179.150/TVOD/88888888/224/3221231660/index.m3u8
 #EXTINF:-1  tvg-id="15" tvg-name="CCTV14" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv14.png" group-title="杭州回看",CCTV14HD
