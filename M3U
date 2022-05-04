@@ -1,11 +1,17 @@
 #EXTM3U url-tvg="http://epg.51zmt.top:8000/e.xml,https://epg.112114.xyz/pp.xml,https://i.mjh.nz/au/Sydney/epg.xml.gz,https://i.mjh.nz/au/Perth/epg.xml.gz,https://i.mjh.nz/PlutoTV/us.xml.gz" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
 
-#EXTINF:-1 tvg-logo="https://s1.ax1x.com/2022/04/26/L7tBWj.png" group-title=“欧冠直播” ,欧冠 比利亚雷亚尔 VS 利物浦 粤语 何辉
-https://hls.zb.ssports.com/ssports/yue3710641_xinying1080.m3u8?k=6b750937d37733ab847231ebe2f7aac3&t=6271a61c&UID=1651545580free4365466330&MATCHID=3710641&TYPE=1
-#EXTINF:-1 tvg-logo="https://s1.ax1x.com/2022/04/26/L7tBWj.png" group-title=“欧冠直播” ,欧冠 比利亚雷亚尔 VS 利物浦 国语 丁鑫淼 宫磊
-https://hls.zb.ssports.com/ssports/ch3710641_xinying1080.m3u8?k=6b750937d37733ab847231ebe2f7aac3&t=6271a61c&UID=1651545580free4365466330&MATCHID=3710641&TYPE=1
-#EXTINF:-1 tvg-logo="https://s1.ax1x.com/2022/04/26/L7tBWj.png" group-title=“欧冠直播” ,欧冠 比利亚雷亚尔 VS 利物浦 英
-https://hls.zb.ssports.com/ssports/en3710641_xinying1080.m3u8?k=6b750937d37733ab847231ebe2f7aac3&t=6271a61c&UID=1651545580free4365466330&MATCHID=3710641&TYPE=1
+#EXTINF:-1 tvg-logo="https://s1.ax1x.com/2022/04/26/L7tBWj.png" group-title=“欧冠直播”,欧冠 皇家马德里 VS 曼城 粤语 何辉
+https://hls.zb.ssports.com/ssports/yue3710640_xinying1080.m3u8?k=c02d53172617df00b3dba5414a7f338d&t=6272f79c&UID=1651631375free8467537253&MATCHID=3710640&TYPE=1
+#EXTINF:-1 tvg-logo="https://s1.ax1x.com/2022/04/26/L7tBWj.png" group-title=“欧冠直播”,欧冠 皇家马德里 VS 曼城 国语 苏东 黄健翔
+https://hls.zb.ssports.com/ssports/ch3710640_xinying1080.m3u8?k=c02d53172617df00b3dba5414a7f338d&t=6272f79c&UID=1651631375free8467537253&MATCHID=3710640&TYPE=1
+#EXTINF:-1 tvg-logo="https://s1.ax1x.com/2022/04/26/L7tBWj.png" group-title=“欧冠直播”,欧冠 皇家马德里 VS 曼城 英
+https://hls.zb.ssports.com/ssports/en3710640_xinying1080.m3u8?k=c02d53172617df00b3dba5414a7f338d&t=6272f79c&UID=1651631375free8467537253&MATCHID=3710640&TYPE=1
+
+#EXTINF:-1 tvg-logo="https://s1.ax1x.com/2022/04/26/L7tBWj.png" group-title=“欧冠直播”,欧冠 皇马vs曼城 国语 詹俊
+https://338f001373fd323dcfb4856bd02f1f63.v.smtcdns.net:443/txycdn.video.qq.com/65E8A2AC8DB51C1CE7A95469AE7C849E66247BD832AF452BB06BA16499BB99C98691696A2DE9D0D01BC39C08E66552B02ABAAE5ADD3A7D9EF891A8C9A0621239E08C2C70B2754F5DA6AF7CDC062A9CC8323A93E0C8084A0EE87C302EE5A795F2931695BCF012BBC5/1359139802.m3u8?from=player&cdncode=%2f18907E7BE0798990%2f&time=1651667604&cdn=tcloud&sdtfrom=v2212&platform=10201&butype=2&scheduleflag=0&HLSP2P=1&buname=qqlive&vkey=65E8A2AC8DB51C1CE7A95469AE7C849E66247BD832AF452BB06BA16499BB99C98691696A2DE9D0D01BC39C08E66552B02ABAAE5ADD3A7D9EF891A8C9A0621239E08C2C70B2754F5DA6AF7CDC062A9CC8323A93E0C8084A0EE87C302EE5A795F2931695BCF012BBC5&drmtype=0
+
+#EXTINF:-1 tvg-logo="https://s1.ax1x.com/2022/04/26/L7tBWj.png" group-title=“欧冠直播”,欧冠 詹俊
+https://cc592e7b789b8b8fa3986b70b396a25d.v.smtcdns.net:443/txycdn.video.qq.com/B50463A47576D1AB65E89A8908FC1A4B8D864AC7300A7C1450159C60715828073A4A06379951AA74CAB3EF376C49C21DB47124C7F24DCB077FAFE7E8A52F0ADD1B479D633A5165DCB0197EC8FBD68B19B53BA0C8158B40288F80C5BEBF720C8CF5B4473B0B713563/1359139802.m3u8?from=player&cdncode=%2f18907E7BE0798990%2f&time=1651676331&cdn=tcloud&sdtfrom=v2212&platform=10201&butype=2&scheduleflag=0&HLSP2P=1&buname=qqlive&vkey=B50463A47576D1AB65E89A8908FC1A4B8D864AC7300A7C1450159C60715828073A4A06379951AA74CAB3EF376C49C21DB47124C7F24DCB077FAFE7E8A52F0ADD1B479D633A5165DCB0197EC8FBD68B19B53BA0C8158B40288F80C5BEBF720C8CF5B4473B0B713563&drmtype=0
 
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv1.png" group-title="高码央视卫视",CCTV1
 http://112.25.47.24/gitv_live/G_CCTV-1-HD-265-8M/G_CCTV-1-HD-265-8M.m3u8?p=GITV&area=JS_CMCC_CP
