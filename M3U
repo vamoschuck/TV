@@ -4581,15 +4581,15 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60fb028c2e6a0c00075275
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60fb040d4795a6000762fe8f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/15/HgKGR0.png" group-title="NBA Playoffs",ESPN
-https://d1k4ybyeycgihx.cloudfront.net/hls/espn/playlist.m3u8
+https://demf1kf3itpt4.cloudfront.net/hls/espn/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s1.ax1x.com/2022/03/19/qAojiT.png" group-title="NBA Playoffs",ESPN 2
-https://d1k4ybyeycgihx.cloudfront.net/hls/espn2/chunks.m3u8
+https://demf1kf3itpt4.cloudfront.net/hls/espn2/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://www.hualigs.cn/image/62070feccd0b5.jpg" group-title="NBA Playoffs",TNT
-https://d1k4ybyeycgihx.cloudfront.net/hls/TNT/playlist.m3u8
+https://demf1kf3itpt4.cloudfront.net/hls/TNT/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.hualigs.cn/image/62071029b78f7.jpg" group-title="NBA Playoffs",ABC
-https://d1k4ybyeycgihx.cloudfront.net/hls/abc/playlist.m3u8
+https://demf1kf3itpt4.cloudfront.net/hls/abc/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.hualigs.cn/image/62070ebd8d198.jpg" group-title="NBA Playoffs",NBA TV
-https://d1k4ybyeycgihx.cloudfront.net/hls/nbatv/playlist.m3u8?SBN
+https://demf1kf3itpt4.cloudfront.net/hls/nbatv/playlist.m3u8?SBN
 #EXTINF:-1 tvg-logo="https://s1.ax1x.com/2022/03/20/qVJdOI.png" group-title="NBA Playoffs",UFC 直播时可用
 #https://d1k4ybyeycgihx.cloudfront.net/hls/ufc/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/12/HwQgRH.png" group-title="NBA Playoffs",密尔沃基雄鹿
