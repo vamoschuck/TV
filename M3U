@@ -303,7 +303,7 @@ http://125.210.152.19:9090/live/hszx-qhtv-h264.m3u8
 http://125.210.152.19:9090/live/hzgq-ssws-h264.m3u8
 #EXTINF:-1 tvg-id="7245" tvg-name="中国教育4台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育4台.png" group-title="高码央视卫视",中国教育4
 http://125.210.152.19:9090/live/hszx-CETV-4-h264.m3u8
-#EXTINF:-1 tvg-id="57" tvg-name="新疆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xinjiang.png" group-title="高码央视卫视",新疆卫视
+#EXTINF:-1 tvg-id="57" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xinjiang.png" group-title="高码央视卫视",新疆卫视
 http://125.210.152.19:9090/live/hszx-xjtv-h264.m3u8
 #EXTINF:-1 tvg-id="58" tvg-name="云南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="高码央视卫视",云南卫视
 http://125.210.152.19:9090/live/hzgq-ynwsgq-h264.m3u8
@@ -2808,6 +2808,29 @@ http://pili-live-hls.nmgapp12019.sobeylive.com/nmgapp12019/live162700604855057.m
 
 #EXTINF:-1 tvg-id="57" tvg-name="新疆卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/xinjiang.png" group-title="黑吉辽蒙疆藏",新疆卫视
 http://39.135.49.209:6610/PLTV/88888888/224/3221227248/1.m3u8?servicetype=1
+#EXTINF:-1 group-title="黑吉辽蒙疆藏",新疆卫视
+http://livehyw5.chinamcache.com/hyw/zb01.m3u8?txSecret=58347f72aece2c25c685b8dc4da74652&txTime=95A66658
+#EXTINF:-1 group-title="黑吉辽蒙疆藏",新疆维语综合
+http://livehyw5.chinamcache.com/hyw/zb02.m3u8?txSecret=0db853dddc29118c1c7083f56ac5781e&txTime=95A66658
+#EXTINF:-1 group-title="黑吉辽蒙疆藏",新疆哈语综合
+http://livehyw5.chinamcache.com/hyw/zb03.m3u8?txSecret=ec6716d9478a6e72bbf7e79969c4fd13&txTime=95A66658
+#EXTINF:-1 group-title="黑吉辽蒙疆藏",新疆综艺
+http://livehyw5.chinamcache.com/hyw/zb04.m3u8?txSecret=21e884c07f77b8c31849d9ac938ad0bf&txTime=95A66658
+#EXTINF:-1 group-title="黑吉辽蒙疆藏",新疆维语综艺
+http://livehyw5.chinamcache.com/hyw/zb05.m3u8?txSecret=2b0278beb86ca088d2532a4ac56d3351&txTime=95A66658
+#EXTINF:-1 group-title="黑吉辽蒙疆藏",新疆经济生活
+http://livehyw5.chinamcache.com/hyw/zb07.m3u8?txSecret=49511a59e866d45d73782afa6768da2d&txTime=95A66658
+#EXTINF:-1 group-title="黑吉辽蒙疆藏",新疆哈语综艺
+http://livehyw5.chinamcache.com/hyw/zb08.m3u8?txSecret=64144bee74a2860eca3c60e37fb449bb&txTime=95A66658
+#EXTINF:-1 group-title="黑吉辽蒙疆藏",新疆维语经济生活
+http://livehyw5.chinamcache.com/hyw/zb09.m3u8?txSecret=181d053f140036a2dab3debb05d1cb59&txTime=95A66658
+#EXTINF:-1 group-title="黑吉辽蒙疆藏",新疆体育
+http://livehyw5.chinamcache.com/hyw/zb10.m3u8?txSecret=d091dfc5816b7d292a3857c717d16a66&txTime=95A66658
+#EXTINF:-1 group-title="黑吉辽蒙疆藏",新疆信息服务
+http://livehyw5.chinamcache.com/hyw/zb11.m3u8?txSecret=4ef7a35eab0a7bbdd9b5d96be9d12d54&txTime=95A66658
+#EXTINF:-1 group-title="黑吉辽蒙疆藏",新疆少儿
+http://livehyw5.chinamcache.com/hyw/zb12.m3u8?txSecret=b2d9d5bdd746c8ae8ce02450b95e3315&txTime=95A66658
+
 #EXTINF:-1 tvg-logo="" group-title="黑吉辽蒙疆藏",乌鲁木齐影视频道
 http://202.107.188.139:5002/utv3_hdgq.m3u8?token=guoziyun
 #http://202.107.188.140:5002/utv3_hdgq.m3u8?token=guoziyun
