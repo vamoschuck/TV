@@ -1,5 +1,7 @@
 #EXTM3U url-tvg="http://epg.51zmt.top:8000/e.xml,https://epg.112114.xyz/pp.xml,https://i.mjh.nz/au/Sydney/epg.xml.gz,https://i.mjh.nz/au/Perth/epg.xml.gz,https://i.mjh.nz/PlutoTV/us.xml.gz" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
 
+#EXTINF:-1 group-title="足总杯",B站詹俊
+http://d1--cn-gotcha208.bilivideo.com/live-bvc/207659/live_1665228366_49880095_prohevc/index.m3u8?expires=1652520575&len=0&oi=1900534185&pt=ios&qn=10000&trid=10071c5a6d440041431c803479c0dd829b23&sigparams=cdn,expires,len,oi,pt,qn,trid&cdn=cn-gotcha208&sign=cfdb6c07c80cc0a94a60f16b443d6b80&sk=c9c6154426932efa80d25af02e87a3bd&p2p_type=8192&src=57345&sl=2&free_type=0&flowtype=1&machinezone=ylf&pp=rtmp&source=onetier&order=1&site=80ebbe288d26c1e91abf5a0369a78786
 
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="高码央视卫视",CCTV1
 http://112.25.47.24/gitv_live/G_CCTV-1-HD-265-8M/G_CCTV-1-HD-265-8M.m3u8?p=GITV&area=JS_CMCC_CP
