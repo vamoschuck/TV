@@ -2340,10 +2340,6 @@ http://47.104.173.199/b/hoge.php?ip=gxwztv&id=23&auth=niubiplus
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="云贵川渝青",安顺新闻频道
 https://player.juyun.tv/camera/64413134.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="云贵川渝青",六盘水综合
-http://tvfile.lpsntv.com/nmip-media/channellive/channel110181/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="云贵川渝青",六盘水公共
-http://tvfile.lpsntv.com/nmip-media/channellive/channel110983/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="云贵川渝青",黔西南综合
 http://live2.qxndt.com/zhpd/sd/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="云贵川渝青",黔西南公共
@@ -2575,18 +2571,15 @@ http://stream.jinjiang.tv/1/sd/live.m3u8
 
 
 #EXTINF:-1 tvg-id="广州竞赛" tvg-name="广州竞赛" tvg-logo="https://www.hualigs.cn/image/61e13c4312c8d.jpg" group-title="闽粤桂琼",广州竞赛
-https://aplay.gztv.com/sec/jingsai.m3u8
+
 #EXTINF:-1 tvg-id="广州综合" tvg-name="广州综合" tvg-logo="https://www.hualigs.cn/image/61e13c43113fc.jpg" group-title="闽粤桂琼",广州综合
-https://aplay.gztv.com/sec/zhonghe.m3u8
-#http://aplay.gztv.com/sec/zhonghe.flv
+
 #EXTINF:-1 tvg-id="广州新闻" tvg-name="广州新闻" tvg-logo="https://www.hualigs.cn/image/61e13c4309ae4.jpg" group-title="闽粤桂琼",广州新闻
-https://aplay.gztv.com/sec/xinwen.flv
-#https://aplay.gztv.com/sec/xinwen.m3u8
+
 #EXTINF:-1 tvg-id="广州影视" tvg-name="广州影视" tvg-logo="https://www.hualigs.cn/image/61e13c430ccf1.jpg" group-title="闽粤桂琼",广州影视
-https://aplay.gztv.com/sec/yingshi.m3u8
-#https://aplay.gztv.com/sec/yingshi.flv
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.hualigs.cn/image/61e13c42c8f20.jpg" group-title="闽粤桂琼",南国都市
-https://aplay.gztv.com/sec/shenghuos.m3u8
+
 
 
 #EXTINF:-1 tvg-id="深圳都市" tvg-name="深圳都市" tvg-logo="http://n.ysyz.top:99/buyaolian/shenzhen.png" group-title="闽粤桂琼",深圳都市
@@ -3196,9 +3189,9 @@ http://117.169.120.138:8080/live/fhzixun/.m3u8
 #EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://n.ysyz.top:99/buyaolian/fenghuangzhongwen.png" group-title="港澳台",凤凰中文
 http://playtv-live.ifeng.com:80/live/06OLEGEGM4G.m3u8
 #EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://n.ysyz.top:99/buyaolian/fenghuangzhongwen.png" group-title="港澳台",凤凰中文
-http://59.44.10.113:9901/tsfile/live/1079_1.m3u8
+
 #EXTINF:-1 tvg-id="143" tvg-name="凤凰香港" tvg-logo="http://n.ysyz.top:99/buyaolian/fenghuangxianggang.png" group-title="港澳台",凤凰香港
-http://59.44.10.113:9901/tsfile/live/1080_1.m3u8
+
 #EXTINF:-1 tvg-id=“7119” tvg-name="有线财经资讯台" group-title="港澳台" tvg-logo="http://n.ysyz.top:99/buyaolian/cable_Finance.png",有线财经资讯台
 https://api.leonardpark.dev/live/icable/108
 #EXTINF:-1 tvg-id=“7122” tvg-name="有线新闻台"  group-title="港澳台" tvg-logo="http://n.ysyz.top:99/buyaolian/Cable_News.png",有线新闻台
@@ -4607,7 +4600,6 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60fb040d4795a6000762fe
 
 #EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/15/HgKGR0.png" group-title="NBA Playoffs",ESPN
 https://demf1kf3itpt4.cloudfront.net/hls/espn/chunks.m3u8
-http://d216kmtcjzprzl.cloudfront.net/stream/NDI5OQ==/1080p.m3u8
 #https://demf1kf3itpt4.cloudfront.net/hls/espn/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s1.ax1x.com/2022/03/19/qAojiT.png" group-title="NBA Playoffs",ESPN 2
 https://demf1kf3itpt4.cloudfront.net/hls/espn2/chunks.m3u8
