@@ -1,5 +1,56 @@
 #EXTM3U url-tvg="http://epg.51zmt.top:8000/e.xml,https://epg.112114.xyz/pp.xml,https://i.mjh.nz/au/Sydney/epg.xml.gz,https://i.mjh.nz/au/Perth/epg.xml.gz,https://i.mjh.nz/PlutoTV/us.xml.gz" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
 
+#EXTINF:-1 logo="https://s4.ax1x.com/2022/03/05/bwK0sS.png" group-title=“英超末轮” ,英超 布伦特福德 VS 利兹 国语 保级大战
+https://hls.zb.ssports.com/ssports/ch3559931_xinying1080.m3u8?k=c0e5692b031dec74d9abe54e4f58c961&t=628a7a5c&UID=1653175972free1572785711&MATCHID=3559931&TYPE=1
+#EXTINF:-1 logo="https://s4.ax1x.com/2022/03/05/bwK0sS.png" group-title=“英超末轮”,英超 阿仙奴VS爱华顿 粤语
+https://hls.zb.ssports.com/ssports/yue3559930_xinying1080.m3u8?k=f0f307d71f844e5e9e902d1151eb35e4&t=5f569b90&UID=1653176036free4566663012&MATCHID=3372599&TYPE=1
+#EXTINF:-1 logo="https://s4.ax1x.com/2022/03/05/bwK0sS.png" group-title=“英超末轮”,英超 阿森纳 VS 埃弗顿  国语 要拿下啊
+https://hls.zb.ssports.com/ssports/ch3559930_xinying1080.m3u8?k=f0f307d71f844e5e9e902d1151eb35e4&t=5f569b90&UID=1653176036free4566663012&MATCHID=3372599&TYPE=1
+#EXTINF:-1 logo="https://s4.ax1x.com/2022/03/05/bwK0sS.png" group-title=“英超末轮”,英超 阿仙奴vz爱华顿 咪咕粤语 陈凯冬
+#EXTINF:-1 logo="https://s4.ax1x.com/2022/03/05/bwK0sS.png" group-title=“英超末轮”,英超 伯恩利 VS 纽卡斯尔联 国语
+https://hls.zb.ssports.com/ssports/ch3559933_xinying1080.m3u8?k=a4aa2743bfd795560ed0ccf9f002dedc&t=628a7a5c&UID=1653176198free1076821325&MATCHID=3559933&TYPE=1
+#EXTINF:-1 logo="https://s4.ax1x.com/2022/03/05/bwK0sS.png" group-title=“英超末轮”,英超 水晶宫 VS 曼联 粤语
+https://hls.zb.ssports.com/ssports/yue3559935_xinying1080.m3u8?k=3f10da46dca0f41377f61117627d00bf&t=5f569b90&UID=1653176288free2755183501&MATCHID=3372599&TYPE=1
+#EXTINF:-1 logo="https://s4.ax1x.com/2022/03/05/bwK0sS.png" group-title=“英超末轮”,英超 水晶宫 VS 曼联 国语
+https://hls.zb.ssports.com/ssports/ch3559935_xinying1080.m3u8?k=3f10da46dca0f41377f61117627d00bf&t=5f569b90&UID=1653176288free2755183501&MATCHID=3372599&TYPE=1
+#EXTINF:-1 logo="https://s4.ax1x.com/2022/03/05/bwK0sS.png" group-title=“英超末轮”,英超 曼城 VS 阿斯顿维拉 粤语 陈宁
+https://hls.zb.ssports.com/ssports/yue3559938_xinying1080.m3u8?k=2d26fdaefa6556021b5b7cdaaa65b58d&t=628a967c&UID=1653176478free0540585170&MATCHID=3559938&TYPE=1
+#EXTINF:-1 logo="https://s4.ax1x.com/2022/03/05/bwK0sS.png" group-title=“英超末轮”,英超 曼城 VS 阿斯顿维拉 国语 争冠
+https://hls.zb.ssports.com/ssports/ch3559938_xinying1080.m3u8?k=2d26fdaefa6556021b5b7cdaaa65b58d&t=628a967c&UID=1653176478free0540585170&MATCHID=3559938&TYPE=1
+#EXTINF:-1 logo="https://s4.ax1x.com/2022/03/05/bwK0sS.png" group-title=“英超末轮”,英超 曼城 VS 阿斯顿维拉 咪咕粤语 何辉
+#EXTINF:-1 logo="https://s4.ax1x.com/2022/03/05/bwK0sS.png" group-title=“英超末轮”,英超 曼城 VS 阿斯顿维拉 咪咕国语 詹俊
+#EXTINF:-1 logo="https://s4.ax1x.com/2022/03/05/bwK0sS.png" group-title=“英超末轮”,英超 诺维奇 VS 热刺 粤语
+https://hls.zb.ssports.com/ssports/yue3559939_xinying1080.m3u8?k=3888ed91a9c0593e4b38d434fff336ec&t=5f569b90&UID=1653176590free1207288800&MATCHID=3372599&TYPE=1
+#EXTINF:-1 logo="https://s4.ax1x.com/2022/03/05/bwK0sS.png" group-title=“英超末轮”,英超 诺维奇 VS 热刺 国语 期待诺维奇9:0热刺
+https://hls.zb.ssports.com/ssports/ch3559939_xinying1080.m3u8?k=3888ed91a9c0593e4b38d434fff336ec&t=5f569b90&UID=1653176590free1207288800&MATCHID=3372599&TYPE=1
+#EXTINF:-1 logo="https://s4.ax1x.com/2022/03/05/bwK0sS.png" group-title=“英超末轮”,英超 利物浦 VS 狼队 粤语
+https://hls.zb.ssports.com/ssports/yue3559937_xinying1080.m3u8?k=630e5ce3b8fa5c317906691234d01446&t=5f569b90&UID=1653176734free8881750351&MATCHID=3372599&TYPE=1
+#EXTINF:-1 logo="https://s4.ax1x.com/2022/03/05/bwK0sS.png" group-title=“英超末轮”,英超 利物浦 VS 狼队 国语
+https://hls.zb.ssports.com/ssports/ch3559937_xinying1080.m3u8?k=630e5ce3b8fa5c317906691234d01446&t=5f569b90&UID=1653176734free8881750351&MATCHID=3372599&TYPE=1
+#EXTINF:-1 logo="https://s4.ax1x.com/2022/03/05/bwK0sS.png" group-title=“英超末轮”,英超 利物浦 VS 狼队 咪咕粤语 江宗德
+#EXTINF:-1 logo="https://s4.ax1x.com/2022/03/05/bwK0sS.png" group-title=“英超末轮”,英超 切尔西 VS 沃特福德 粤语
+https://hls.zb.ssports.com/ssports/yue3559934_xinying1080.m3u8?k=d379375ffdb7136406b460fffc2e3299&t=628a7a5c&UID=1653176899free0800813436&MATCHID=3559934&TYPE=1
+#EXTINF:-1 logo="https://s4.ax1x.com/2022/03/05/bwK0sS.png" group-title=“英超末轮”,英超 切尔西 VS 沃特福德 国语
+https://hls.zb.ssports.com/ssports/ch3559934_xinying1080.m3u8?k=d379375ffdb7136406b460fffc2e3299&t=628a7a5c&UID=1653176899free0800813436&MATCHID=3559934&TYPE=1
+#EXTINF:-1 logo="https://s4.ax1x.com/2022/03/05/bwK0sS.png" group-title=“英超末轮”,英超 布莱顿 VS 西汉姆 国语
+https://hls.zb.ssports.com/ssports/ch3559932_xinying1080.m3u8?k=1824c8039e08374b038382884fdbaa13&t=5f569b90&UID=1653177004free8666377832&MATCHID=3372599&TYPE=1
+#EXTINF:-1 logo="https://s4.ax1x.com/2022/03/05/bwK0sS.png" group-title=“英超末轮”,英超 莱斯特城 VS 南安普顿 国语
+https://hls.zb.ssports.com/ssports/ch3559936_xinying1080.m3u8?k=a00a41b1d27caa08eb51083a33452715&t=628a7a5c&UID=1653177080free1723150767&MATCHID=3559936&TYPE=1
+#EXTINF:-1 logo="" group-title="西甲末轮” ,西甲 粤语
+https://hls.zb.ssports.com/ssports/yue3570919_xinying1080.m3u8?k=b9e92283e5048c9dddefed70650ee349&t=5f569b90&UID=1653192216free6356047756&MATCHID=3372599&TYPE=1
+#EXTINF:-1 logo="" group-title="西甲末轮” ,西甲 阿拉维斯 VS 加的斯 粤语
+https://hls.zb.ssports.com/ssports/yue3570917_xinying1080.m3u8?k=dbc0794d3562d51ab3f33784caacbf44&t=628aa48c&UID=1653192287free3283801608&MATCHID=3570917&TYPE=1
+#EXTINF:-1 logo="" group-title="西甲末轮” ,西甲 奥萨苏纳 VS 马洛卡 粤语
+https://hls.zb.ssports.com/ssports/yue3570921_xinying1080.m3u8?k=45a20d011071b234e8f0d9fadd15fc21&t=5f569b90&UID=1653192348free8233037605&MATCHID=3372599&TYPE=1
+#EXTINF:-1 logo="" group-title="西甲末轮” ,西甲 格拉纳达 VS 西班牙人 粤语 何辉
+https://hls.zb.ssports.com/ssports/yue3570920_xinying1080.m3u8?k=8652a521161dc2aeccada5214627ac9b&t=628aa48c&UID=1653192405free0018213862&MATCHID=3570920&TYPE=1
+#EXTINF:-1 logo="" group-title="西甲末轮” ,西甲 塞维利亚 VS 毕尔巴鄂竞技 粤语
+https://hls.zb.ssports.com/ssports/yue3570925_xinying1080.m3u8?k=5695e2faffc5a6573a5054e51e7b1a89&t=5f569b90&UID=1653192478free3387172506&MATCHID=3372599&TYPE=1
+#EXTINF:-1 logo="" group-title="西甲末轮” ,西甲 皇家社会 VS 马德里竞技 粤语
+https://hls.zb.ssports.com/ssports/yue3570924_xinying1080.m3u8?k=a64bb1c486ceaa451f1773ecd68ac374&t=628ac0ac&UID=1653192530free1672416440&MATCHID=3570924&TYPE=1
+#EXTINF:-1 logo="" group-title="西甲末轮” ,西甲 巴塞罗那 VS 比利亚雷亚尔 粤语
+https://hls.zb.ssports.com/ssports/yue3570918_xinying1080.m3u8?k=8f70d411cc77758717e1cf8d74777355&t=628ac0ac&UID=1653192587free5221070740&MATCHID=3570918&TYPE=1
+
 #EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="电视虾",CCTV-4K超高清
 https://tvfix.woodong.workers.dev/hls/cctv4k.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="电视虾",CCTV-1高清
