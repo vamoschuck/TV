@@ -1,9 +1,5 @@
 #EXTM3U url-tvg="http://epg.51zmt.top:8000/e.xml,https://epg.112114.xyz/pp.xml,https://i.mjh.nz/au/Sydney/epg.xml.gz,https://i.mjh.nz/au/Perth/epg.xml.gz,https://i.mjh.nz/PlutoTV/us.xml.gz" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
 
-#EXTINF:-1 group-title="欧协杯决赛",罗马VS费耶诺德 爱奇艺
-https://hls.zb.ssports.com/ssports/ch3710792_xinying1080.m3u8?k=937d0bd859c2d0b833084e1e1cb3af9f&t=628ec33c&UID=1653479442free0324467625&MATCHID=3710792&TYPE=1
-#EXTINF:-1 group-title="欧协杯决赛",罗马VS费耶诺德 腾讯
-https://641b0e07d6a602339d0fd667756f7524.v.smtcdns.net:443/txycdn.video.qq.com/E19089DA1D6C7248E92FA438F7AB685CA4C810006AF64CECC5FFF60E07EFFC0BBC723325A98501D698114618A39ECA1649AB3B31F454B5F65A11DB1AAC8ED774663292D857B9D55F80337FFFCE7F51183F5341684FF5D46C0ED80CC671F568E4D8DD50CADEF69E9E/1359357102.m3u8?from=player&cdncode=%2f18907E7BE0798990%2f&time=1653479332&cdn=tcloud&sdtfrom=v2212&platform=10201&butype=2&scheduleflag=0&HLSP2P=1&buname=qqlive&vkey=E19089DA1D6C7248E92FA438F7AB685CA4C810006AF64CECC5FFF60E07EFFC0BBC723325A98501D698114618A39ECA1649AB3B31F454B5F65A11DB1AAC8ED774663292D857B9D55F80337FFFCE7F51183F5341684FF5D46C0ED80CC671F568E4D8DD50CADEF69E9E&drmtype=0
 
 
 #EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="电视虾",CCTV-4K
