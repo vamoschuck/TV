@@ -576,6 +576,84 @@ http://39.135.55.105:6610/PLTV/88888888/224/3221227037/index.m3u8?servicetype=1
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="福建IPTV",百视通电竞
 http://39.135.55.105:6610/PLTV/88888888/224/3221227033/index.m3u8?servicetype=1
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s1.ax1x.com/2022/05/31/X3DJpT.png" group-title="鼠爷代理YT",CTI中天新闻HD
+https://ytb.52sf.ga/live.m3u8?c=1
+#EXTINF:-1 tvg-id="7183" tvg-name="aljazeera" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/aljazeera.png" group-title="鼠爷代理YT",半岛新闻-英语
+https://ytb.52sf.ga/live.m3u8?c=2
+#EXTINF:-1 tvg-id="6071" tvg-name="民视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FTVNews.png" group-title="鼠爷代理YT",民视新闻
+https://ytb.52sf.ga/live.m3u8?c=3
+#EXTINF:-1 tvg-id="6073" tvg-name="TVBS新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS新闻.png" group-title="鼠爷代理YT",TVBS新闻
+https://ytb.52sf.ga/live.m3u8?c=4
+#EXTINF:-1 tvg-id="6143" tvg-name="台视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/台视新闻.png" group-title="鼠爷代理YT",台视新闻
+https://ytb.52sf.ga/live.m3u8?c=5
+#EXTINF:-1 tvg-id="7100" tvg-name="ABCAustralia" tvg-logo="https://s1.ax1x.com/2022/05/31/X3yLuD.png" group-title="鼠爷代理YT",ABC News
+https://ytb.52sf.ga/live.m3u8?c=6
+#EXTINF:-1 tvg-id="7100" tvg-name="ABCAustralia" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/abcaus.png" group-title="鼠爷代理YT",ABC News
+https://ytb.52sf.ga/live.m3u8?c=7
+#EXTINF:-1 tvg-id="7176" tvg-name="中视新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/中视新闻.png" group-title="鼠爷代理YT",中视新闻
+https://ytb.52sf.ga/live.m3u8?c=8
+#EXTINF:-1 tvg-id="6069" tvg-name="东森新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCNews.png" group-title="鼠爷代理YT",东森新闻
+https://ytb.52sf.ga/live.m3u8?c=9
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s1.ax1x.com/2022/05/31/X3698P.jpg" group-title="鼠爷代理YT",三立海外
+https://ytb.52sf.ga/live.m3u8?c=10
+#EXTINF:-1 tvg-id="742" tvg-name="SkyNews" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SkyNews.png" group-title="鼠爷代理YT", Sky News
+https://ytb.52sf.ga/live.m3u8?c=11
+#EXTINF:-1 tvg-id="6075" tvg-name="东森财经新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCFinancialNews.png" group-title="鼠爷代理YT",东森财经
+https://ytb.52sf.ga/live.m3u8?c=12
+#EXTINF:-1 tvg-id="734" tvg-name="france24" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/france24.png" group-title="鼠爷代理YT",FRANCE 24
+https://ytb.52sf.ga/live.m3u8?c=13
+#EXTINF:-1 tvg-id="6140" tvg-name="BloombergTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BloombergTV.png" group-title="鼠爷代理YT",Bloomberg Global Financia
+https://ytb.52sf.ga/live.m3u8?c=14
+#EXTINF:-1 tvg-id="6171" tvg-name="寰宇新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GlobalNews.png" group-title="鼠爷代理YT",寰宇新闻
+https://ytb.52sf.ga/live.m3u8?c=15
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s1.ax1x.com/2022/05/31/X36MvT.png" group-title="鼠爷代理YT",ANN News
+https://ytb.52sf.ga/live.m3u8?c=16
+#EXTINF:-1 tvg-id="6108" tvg-name="三立财经新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETInews.png" group-title="鼠爷代理YT",三立 iNEWS
+https://ytb.52sf.ga/live.m3u8?c=17
+#EXTINF:-1 tvg-id="730" tvg-name="DW" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DW.png" group-title="鼠爷代理YT",DW News
+https://ytb.52sf.ga/live.m3u8?c=18
+#EXTINF:-1 tvg-id="6074" tvg-name="TVBS" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS.png" group-title="鼠爷代理YT",TVBS
+https://ytb.52sf.ga/live.m3u8?c=20
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s1.ax1x.com/2022/05/31/X36a26.png" group-title="鼠爷代理YT",华视新闻
+https://ytb.52sf.ga/live.m3u8?c=21
+#EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="鼠爷代理YT",凤凰中文
+https://ytb.52sf.ga/live.m3u8?c=22
+#EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="鼠爷代理YT",凤凰资讯
+https://ytb.52sf.ga/live.m3u8?c=23
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s1.ax1x.com/2022/05/31/X36RRP.jpg" group-title="鼠爷代理YT",镜新闻
+https://ytb.52sf.ga/live.m3u8?c=24
+#EXTINF:-1 tvg-id="6069" tvg-name="东森新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCNews.png" group-title="鼠爷代理YT",东森新闻全球速报
+https://ytb.52sf.ga/live.m3u8?c=25
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="鼠爷代理YT",ENGLISH SPEECH
+https://ytb.52sf.ga/live.m3u8?c=26
+#EXTINF:-1 tvg-id="7100" tvg-name="ABCAustralia" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/abcaus.png" group-title="鼠爷代理YT",ABC News-AU
+https://ytb.52sf.ga/live.m3u8?c=27
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="鼠爷代理YT",MBC News
+https://ytb.52sf.ga/live.m3u8?c=28
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="鼠爷代理YT",KBS Kr
+https://ytb.52sf.ga/live.m3u8?c=29
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="鼠爷代理YT",华视综艺
+https://ytb.52sf.ga/live.m3u8?c=31
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="鼠爷代理YT",GTV-Drama1
+https://ytb.52sf.ga/live.m3u8?c=32
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="鼠爷代理YT",GTV-Drama2
+https://ytb.52sf.ga/live.m3u8?c=33
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="鼠爷代理YT",名城综合台
+https://ytb.52sf.ga/live.m3u8?c=34
+#EXTINF:-1 tvg-id="6110" tvg-name="运通财经" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EFTV.png" group-title="鼠爷代理YT",运通财经
+https://ytb.52sf.ga/live.m3u8?c=35
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="鼠爷代理YT",YOYO TV
+https://ytb.52sf.ga/live.m3u8?c=37
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="鼠爷代理YT",中国电影频道
+https://ytb.52sf.ga/live.m3u8?c=38
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="鼠爷代理YT",NASA TV
+https://ytb.52sf.ga/live.m3u8?c=39
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="鼠爷代理YT",NASA TV2
+https://ytb.52sf.ga/live.m3u8?c=40
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="鼠爷代理YT",CNA
+https://ytb.52sf.ga/live.m3u8?c=41
+#EXTINF:-1 tvg-id="6112" tvg-name="诚心电视台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ChengSinTV.png" group-title="鼠爷代理YT",诚心电视台
+https://ytb.52sf.ga/live.m3u8?c=42
 
 
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="江西回看",CCTV-1综合
