@@ -1,5 +1,14 @@
 #EXTM3U url-tvg="http://epg.51zmt.top:8000/e.xml,https://epg.112114.xyz/pp.xml,https://i.mjh.nz/au/Sydney/epg.xml.gz,https://i.mjh.nz/au/Perth/epg.xml.gz,https://i.mjh.nz/PlutoTV/us.xml.gz" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
 
+#EXTINF:-1 group-title=“凌晨两点半直播有效”,西班牙VS葡萄牙粤语
+https://hls.zb.ssports.com/ssports/yue3666343_xinying1080.m3u8?k=c615aa4f16b11e1c11cd4a3de8e4a970&t=5f569b90&UID=1654170935free5086401041&MATCHID=3372599&TYPE=1
+
+#EXTINF:-1 group-title=“凌晨两点半直播有效”,西班牙VS葡萄牙国语
+https://hls.zb.ssports.com/ssports/ch3666343_xinying1080.m3u8?k=c615aa4f16b11e1c11cd4a3de8e4a970&t=5f569b90&UID=1654170935free5086401041&MATCHID=3372599&TYPE=1
+
+#EXTINF:-1 group-title=“凌晨两点半直播有效”,西班牙VS葡萄牙英 
+https://hls.zb.ssports.com/ssports/en3666343_xinying1080.m3u8?k=c615aa4f16b11e1c11cd4a3de8e4a970&t=5f569b90&UID=1654170935free5086401041&MATCHID=3372599&TYPE=1
+
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="福建IPTV",CCTV1
 http://39.135.55.105:6610/PLTV/88888888/224/3221225829/index.m3u8?servicetype=1
 #http://39.135.55.105:6610/PLTV/88888888/224/3221227014/index.m3u8?servicetype=1
