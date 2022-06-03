@@ -1,25 +1,26 @@
 #EXTM3U url-tvg="http://epg.51zmt.top:8000/e.xml,https://epg.112114.xyz/pp.xml,https://i.mjh.nz/au/Sydney/epg.xml.gz,https://i.mjh.nz/au/Perth/epg.xml.gz,https://i.mjh.nz/PlutoTV/us.xml.gz" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
 
-#EXTINF:-1 group-title=“欧国联 直播有效”,比利时 VS 荷兰粤语 何辉
+#EXTINF:-1 group-title="欧国联 直播有效",比利时 VS 荷兰粤语 何辉
 https://hls.zb.ssports.com/ssports/yue3666369_xinying1080.m3u8?k=62c2296967f6d999c3008b90494dcd37&t=5f569b90&UID=1654228235free0826471276&MATCHID=3372599&TYPE=1
 
-#EXTINF:-1 group-title=“欧国联 直播有效”,比利时 VS 荷兰国语
+#EXTINF:-1 group-title="欧国联 直播有效",比利时 VS 荷兰国语
 https://hls.zb.ssports.com/ssports/ch3666369_xinying1080.m3u8?k=62c2296967f6d999c3008b90494dcd37&t=5f569b90&UID=1654228235free0826471276&MATCHID=3372599&TYPE=1
 
-#EXTINF:-1 group-title=“欧国联 直播有效”,比利时 VS 荷兰原英
+#EXTINF:-1 group-title="欧国联 直播有效",比利时 VS 荷兰原英
 https://hls.zb.ssports.com/ssports/en3666369_xinying1080.m3u8?k=62c2296967f6d999c3008b90494dcd37&t=5f569b90&UID=1654228235free0826471276&MATCHID=3372599&TYPE=1
 
-#EXTINF:-1 group-title=“欧国联 直播有效”,法国 VS 丹麦国语
+#EXTINF:-1 group-title="欧国联 直播有效",法国 VS 丹麦国语
 https://hls.zb.ssports.com/ssports/ch3666331_xinying1080.m3u8?k=a49ba962f34f05e71bc89dcaa9af2217&t=5f569b90&UID=1654228425free1732735850&MATCHID=3372599&TYPE=1
 
-#EXTINF:-1 group-title=“欧国联 直播有效”,法国 VS 丹麦原英
+#EXTINF:-1 group-title="欧国联 直播有效",法国 VS 丹麦原英
 https://hls.zb.ssports.com/ssports/en3666331_xinying1080.m3u8?k=a49ba962f34f05e71bc89dcaa9af2217&t=5f569b90&UID=1654228425free1732735850&MATCHID=3372599&TYPE=1
 
-#EXTINF:-1 group-title=“欧国联 直播有效”,克罗地亚 VS 奥地利国语
+#EXTINF:-1 group-title="欧国联 直播有效",克罗地亚 VS 奥地利国语
 https://hls.zb.ssports.com/ssports/ch3666332_xinying1080.m3u8?k=958bc0d3e50cf2ab6d902d66bcea3d83&t=5f569b90&UID=1654228583free5335012488&MATCHID=3372599&TYPE=1
 
-#EXTINF:-1 group-title=“欧国联 直播有效”,克罗地亚 VS 奥地利原英
+#EXTINF:-1 group-title="欧国联 直播有效",克罗地亚 VS 奥地利原英
 https://hls.zb.ssports.com/ssports/en3666332_xinying1080.m3u8?k=958bc0d3e50cf2ab6d902d66bcea3d83&t=5f569b90&UID=1654228583free5335012488&MATCHID=3372599&TYPE=1
+
 
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="福建IPTV",CCTV1
 http://39.135.55.105:6610/PLTV/88888888/224/3221225829/index.m3u8?servicetype=1
