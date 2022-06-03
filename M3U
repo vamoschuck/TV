@@ -4210,7 +4210,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60fb040d4795a6000762fe
 #EXTINF:-1 tvg-logo="https://www.hualigs.cn/image/62070feccd0b5.jpg" group-title="NBA Playoffs",TNT
 #https://d2jh36pi0ck39m.cloudfront.net/hls/TNT/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.hualigs.cn/image/62071029b78f7.jpg" group-title="NBA Playoffs",ABC
-http://d18byr223vxn4d.cloudfront.net/stream/NDQ4NA==/NDQ4NA==.m3u8
+http://hls-pull-game1688.speedws.com/live/n1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.hualigs.cn/image/62071029b78f7.jpg" group-title="NBA Playoffs",ABC
 https://d2jh36pi0ck39m.cloudfront.net/hls/abc/playlist.m3u8
 
