@@ -1,11 +1,16 @@
 #EXTM3U url-tvg="http://epg.51zmt.top:8000/e.xml,https://epg.112114.xyz/pp.xml,https://i.mjh.nz/au/Sydney/epg.xml.gz,https://i.mjh.nz/au/Perth/epg.xml.gz,https://i.mjh.nz/PlutoTV/us.xml.gz" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
 
+#EXTINF:-1 group-title=“欧国联”,匈牙利 VS 英格兰国语
+https://hls.zb.ssports.com/ssports/ch3666362_xinying1080.m3u8?k=621f51b826ce9541ec0f61d59e004f01&t=5f569b90&UID=1654349126free0451323276&MATCHID=3372599&TYPE=1
+#EXTINF:-1 group-title=“欧国联”,匈牙利 VS 英格兰原英
+https://hls.zb.ssports.com/ssports/en3666362_xinying1080.m3u8?k=621f51b826ce9541ec0f61d59e004f01&t=5f569b90&UID=1654349126free0451323276&MATCHID=3372599&TYPE=1
 #EXTINF:-1 group-title=“欧国联”,意大利vs德国粤语 何辉
 https://hls.zb.ssports.com/ssports/yue3666355_xinying1080.m3u8?k=f8270ecb7b8cd6e9c1a54fbf0786e741&t=5f569b90&UID=1654336508free6757340547&MATCHID=3372599&TYPE=1
 #EXTINF:-1 group-title=“欧国联”,意大利vs德国国语
 https://hls.zb.ssports.com/ssports/ch3666355_xinying1080.m3u8?k=f8270ecb7b8cd6e9c1a54fbf0786e741&t=5f569b90&UID=1654336508free6757340547&MATCHID=3372599&TYPE=1
 #EXTINF:-1 group-title=“欧国联”,意大利vs德国原英
 https://hls.zb.ssports.com/ssports/en3666355_xinying1080.m3u8?k=f8270ecb7b8cd6e9c1a54fbf0786e741&t=5f569b90&UID=1654336508free6757340547&MATCHID=3372599&TYPE=1
+
 
 #EXTINF:-1 tvg-id="6013" tvg-name="广东体育" tvg-logo="http://n.ysyz.top:99/buyaolian/gdty.png" group-title="中超地方体育台",广东体育
 http://2941.vicp.net:8888/udp/239.77.0.112:5146
