@@ -1,25 +1,17 @@
 #EXTM3U url-tvg="http://epg.51zmt.top:8000/e.xml,https://epg.112114.xyz/pp.xml,https://i.mjh.nz/au/Sydney/epg.xml.gz,https://i.mjh.nz/au/Perth/epg.xml.gz,https://i.mjh.nz/PlutoTV/us.xml.gz" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
 
-#EXTINF:-1 group-title="欧国联 直播有效",比利时 VS 荷兰粤语 何辉
-https://hls.zb.ssports.com/ssports/yue3666369_xinying1080.m3u8?k=62c2296967f6d999c3008b90494dcd37&t=5f569b90&UID=1654228235free0826471276&MATCHID=3372599&TYPE=1
-
-#EXTINF:-1 group-title="欧国联 直播有效",比利时 VS 荷兰国语
-https://hls.zb.ssports.com/ssports/ch3666369_xinying1080.m3u8?k=62c2296967f6d999c3008b90494dcd37&t=5f569b90&UID=1654228235free0826471276&MATCHID=3372599&TYPE=1
-
-#EXTINF:-1 group-title="欧国联 直播有效",比利时 VS 荷兰原英
-https://hls.zb.ssports.com/ssports/en3666369_xinying1080.m3u8?k=62c2296967f6d999c3008b90494dcd37&t=5f569b90&UID=1654228235free0826471276&MATCHID=3372599&TYPE=1
-
-#EXTINF:-1 group-title="欧国联 直播有效",法国 VS 丹麦国语
-https://hls.zb.ssports.com/ssports/ch3666331_xinying1080.m3u8?k=a49ba962f34f05e71bc89dcaa9af2217&t=5f569b90&UID=1654228425free1732735850&MATCHID=3372599&TYPE=1
-
-#EXTINF:-1 group-title="欧国联 直播有效",法国 VS 丹麦原英
-https://hls.zb.ssports.com/ssports/en3666331_xinying1080.m3u8?k=a49ba962f34f05e71bc89dcaa9af2217&t=5f569b90&UID=1654228425free1732735850&MATCHID=3372599&TYPE=1
-
-#EXTINF:-1 group-title="欧国联 直播有效",克罗地亚 VS 奥地利国语
-https://hls.zb.ssports.com/ssports/ch3666332_xinying1080.m3u8?k=958bc0d3e50cf2ab6d902d66bcea3d83&t=5f569b90&UID=1654228583free5335012488&MATCHID=3372599&TYPE=1
-
-#EXTINF:-1 group-title="欧国联 直播有效",克罗地亚 VS 奥地利原英
-https://hls.zb.ssports.com/ssports/en3666332_xinying1080.m3u8?k=958bc0d3e50cf2ab6d902d66bcea3d83&t=5f569b90&UID=1654228583free5335012488&MATCHID=3372599&TYPE=1
+#EXTINF:-1 tvg-id="6013" tvg-name="广东体育" tvg-logo="http://n.ysyz.top:99/buyaolian/gdty.png" group-title=“中超地方体育台”,广东体育
+http://2941.vicp.net:8888/udp/239.77.0.112:5146
+#http://2941.vicp.net:8888/udp/239.77.0.168:5146
+#EXTINF:-1 tvg-id="1987" tvg-name="五星体育频道" tvg-logo="http://n.ysyz.top:99/buyaolian/wxty.png" group-title=“中超地方体育台”,五星体育
+http://111.40.196.25/PLTV/88888888/224/3221225503/index.m3u8
+#EXTINF:-1 tvg-id="天津体育" tvg-name="天津体育" tvg-logo="https://www.hualigs.cn/image/61ddafef7c1e8.jpg" group-title=“中超地方体育台”,天津体育
+http://anyun-ship.com:8888/udp/225.1.1.122:5002
+#EXTINF:-1 tvg-id="1428" tvg-name="山东体育" tvg-logo="http://n.ysyz.top:99/buyaolian/sdty.png" group-title=“中超地方体育台”,山东体育
+http://119.164.216.162:9901/tsfile/live/1002_1.m3u8
+#http://39.136.48.21:8089/PLTV/88888888/224/3221226075/index.m3u8
+#EXTINF:-1 tvg-id="2068" tvg-name="CDTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/cdtv5.png" group-title=“中超地方体育台”,成都公共
+http://v2.91kds.cn/b9/sccdtv.m3u8?fmt=hls&id=sccdtv5hd&auth=rinimabi
 
 
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="福建IPTV",CCTV1
@@ -1375,6 +1367,8 @@ http://shbu.live.bestvcdn.com.cn:8080/live/program/live/qjshd/4000000/mnf.m3u8
 http://shbu.live.bestvcdn.com.cn:8080/live/program/live/xfchd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-id="1987" tvg-name="五星体育频道" tvg-logo="http://n.ysyz.top:99/buyaolian/wxty.png" group-title="江浙沪包邮",五星体育
 http://shbu.live.bestvcdn.com.cn:8080/live/program/live/ssty/4000000/mnf.m3u8
+#EXTINF:-1 tvg-id="1987" tvg-name="五星体育频道" tvg-logo="http://n.ysyz.top:99/buyaolian/wxty.png" group-title="江浙沪包邮",五星体育
+http://111.40.196.25/PLTV/88888888/224/3221225503/index.m3u8
 #EXTINF:-1 tvg-id="1964" tvg-name="劲爆体育" tvg-logo="http://n.ysyz.top:99/buyaolian/jbty.png" group-title="江浙沪包邮",劲爆体育
 http://shbu.live.bestvcdn.com.cn:8080/live/program/live/jbtyhd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-id="7242" tvg-name="魅力足球" tvg-logo="http://n.ysyz.top:99/buyaolian/mlzq.png" group-title="江浙沪包邮",魅力足球
@@ -2146,6 +2140,19 @@ http://182.151.211.171:808/hls/57/index.m3u8
 #EXTINF:-1 tvg-id="2060" tvg-logo="http://n.ysyz.top:99/buyaolian/sctv7.png" group-title="云贵川渝青",四川妇女儿童
 http://182.151.211.171:808/hls/55/index.m3u8
 
+#EXTINF:-1 tvg-id="2064" tvg-name="CDTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/cdtv1.png" group-title="云贵川渝青",成都新闻综合
+http://v2.91kds.cn/b9/sccdtv.m3u8?fmt=hls&id=sccdtv1hd&auth=rinimabi
+#EXTINF:-1 tvg-id="2065" tvg-name="CDTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/cdtv2.png" group-title="云贵川渝青",成都经济
+
+#EXTINF:-1 tvg-id="2066" tvg-name="CDTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/cdtv3.png" group-title="云贵川渝青",成都都市
+
+#EXTINF:-1 tvg-id="2067" tvg-name="CDTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/cdtv4.png" group-title="云贵川渝青",成都影视
+
+#EXTINF:-1 tvg-id="2068" tvg-name="CDTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/cdtv5.png" group-title="云贵川渝青",成都公共
+http://v2.91kds.cn/b9/sccdtv.m3u8?fmt=hls&id=sccdtv5hd&auth=rinimabi
+#EXTINF:-1 tvg-id="2069" tvg-name="CDTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/cdtv6.png" group-title="云贵川渝青",成都少儿
+
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="云贵川渝青",绵阳综合
 http://live.sctvcloud.com/live/mytvzh/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="云贵川渝青",绵阳公共
@@ -2715,6 +2722,8 @@ http://111.20.33.93/TVOD/88888893/224/3221226221/index.m3u8
 http://119.167.231.18/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225494/index.m3u8
 #EXTINF:-1 tvg-id="1987" tvg-name="五星体育频道" tvg-logo="http://n.ysyz.top:99/buyaolian/wxty.png" group-title="体育-咪咕直播",五星体育
 http://shbu.live.bestvcdn.com.cn:8080/live/program/live/ssty/4000000/mnf.m3u8
+#EXTINF:-1 tvg-id="1987" tvg-name="五星体育频道" tvg-logo="http://n.ysyz.top:99/buyaolian/wxty.png" group-title="体育-咪咕直播",五星体育
+http://111.40.196.25/PLTV/88888888/224/3221225503/index.m3u8
 #EXTINF:-1 tvg-id="1963" tvg-name="新视觉" tvg-logo="http://n.ysyz.top:99/buyaolian/xsj.png" group-title="体育-咪咕直播",新视觉
 http://183.207.255.188/live/program/live/xsjhd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-id="1964" tvg-name="劲爆体育" tvg-logo="http://n.ysyz.top:99/buyaolian/jbty.png" group-title="体育-咪咕直播",劲爆体育
