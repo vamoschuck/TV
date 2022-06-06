@@ -1,5 +1,10 @@
 #EXTM3U url-tvg="http://epg.51zmt.top:8000/e.xml,https://epg.112114.xyz/pp.xml,https://i.mjh.nz/au/Sydney/epg.xml.gz,https://i.mjh.nz/au/Perth/epg.xml.gz,https://i.mjh.nz/PlutoTV/us.xml.gz" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
 
+#EXTINF:-1 group-title="欧国联",克罗地亚vs法国 国语
+https://hls.zb.ssports.com/ssports/ch3666339_xinying1080.m3u8?k=b72eae4e5e5c4b94c1ab9b3bc87e5cb2&t=5f569b90&UID=1654483443free8823124646&MATCHID=3372599&TYPE=1
+#EXTINF:-1 group-title="欧国联",克罗地亚vs法国 英语
+https://hls.zb.ssports.com/ssports/en3666339_xinying1080.m3u8?k=b72eae4e5e5c4b94c1ab9b3bc87e5cb2&t=5f569b90&UID=1654483443free8823124646&MATCHID=3372599&TYPE=1
+
 #EXTINF:-1 tvg-id="6013" tvg-name="广东体育" tvg-logo="http://n.ysyz.top:99/buyaolian/gdty.png" group-title="中超地方体育台",广东体育
 http://2941.vicp.net:8888/udp/239.77.0.112:5146
 #http://2941.vicp.net:8888/udp/239.77.0.168:5146
