@@ -7,6 +7,8 @@ http://teslagram.com/live/channel_32.m3u8
 http://61.143.45.150:9901/tsfile/live/1001_1.m3u8
 #EXTINF:-1 tvg-id="6013" tvg-name="广东体育" tvg-logo="http://n.ysyz.top:99/buyaolian/gdty.png" group-title="中超地方体育台",广东体育
 http://e59abdd420c65d43cc1550d493a88c71.v.smtcdns.net/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel34/2300.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="中超地方体育台",大连vs广州
+https://ac16fbf8762c6b46c36610c3851ffaba.v.smtcdns.net/txycdn.video.qq.com/B63ED1E1F4D429D01B8FA1A1F4D041DA7D4C83104C4F2C95A64C5CA61BF20F1317D81C70A03CF2B91F35159BA996C18AC6EA7F75446B24E7A8BEEA738133F461B5C9ACCD25EDC11E629C4CBC320897F19C19CBD3C4B504A30D9F77A54C4B6F57D3E21DACACDA9A36/1745460602.m3u8?from=player&cdncode=%2f18907E7BE0798990%2f&time=1654679351&cdn=tcloud&sdtfrom=v2212&platform=10201&butype=2&scheduleflag=0&HLSP2P=1&buname=qqlive&vkey=B63ED1E1F4D429D01B8FA1A1F4D041DA7D4C83104C4F2C95A64C5CA61BF20F1317D81C70A03CF2B91F35159BA996C18AC6EA7F75446B24E7A8BEEA738133F461B5C9ACCD25EDC11E629C4CBC320897F19C19CBD3C4B504A30D9F77A54C4B6F57D3E21DACACDA9A36&drmtype=0
 #EXTINF:-1 tvg-id="1987" tvg-name="五星体育频道" tvg-logo="http://n.ysyz.top:99/buyaolian/wxty.png" group-title="中超地方体育台",五星体育 低码
 http://111.40.196.25/PLTV/88888888/224/3221225503/index.m3u8
 #EXTINF:-1 tvg-id="1987" tvg-name="五星体育频道" tvg-logo="http://n.ysyz.top:99/buyaolian/wxty.png" group-title="中超地方体育台",五星体育 高码
@@ -18,12 +20,16 @@ http://anyun-ship.com:8888/udp/225.1.1.122:5002
 #EXTINF:-1 tvg-id="1428" tvg-name="山东体育" tvg-logo="http://n.ysyz.top:99/buyaolian/sdty.png" group-title="中超地方体育台",山东体育
 http://119.164.216.162:9901/tsfile/live/1002_1.m3u8
 #http://39.136.48.21:8089/PLTV/88888888/224/3221226075/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="中超地方体育台",河南VS山东
+https://0d0a05c6789713f9c564e94ec0da0fec.v.smtcdns.net/txycdn.video.qq.com/225FC11F15C7B12D64CC8ED2D9D41EDF03EC76207A08E30F56BCBC7C5ED68BB1A41C607148B29A640EDD38CCCB8BD5C06494B5D72986C2BEB2B08B8A645F3C220876CECC113018CF77F8664F5E1335233107826A71F8B9547637B2164802C882E0522A7B38A12DB9/1745460902.m3u8?from=player&cdncode=%2f18907E7BE0798990%2f&time=1654679219&cdn=tcloud&sdtfrom=v2212&platform=10201&butype=2&scheduleflag=0&HLSP2P=1&buname=qqlive&vkey=225FC11F15C7B12D64CC8ED2D9D41EDF03EC76207A08E30F56BCBC7C5ED68BB1A41C607148B29A640EDD38CCCB8BD5C06494B5D72986C2BEB2B08B8A645F3C220876CECC113018CF77F8664F5E1335233107826A71F8B9547637B2164802C882E0522A7B38A12DB9&drmtype=0
 #EXTINF:-1 tvg-id="1872" tvg-name="北京纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongaojishi1.png" group-title="中超地方体育台",北京冬奥纪实
 http://39.135.55.105:6610/PLTV/88888888/224/3221225944/index.m3u8?servicetype=1
 #EXTINF:-1 tvg-id="1872" tvg-name="北京纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongaojishi1.png" group-title="中超地方体育台",北京冬奥纪实
 http://117.148.179.157/PLTV/88888888/224/3221233356/index.m3u8
 #EXTINF:-1 tvg-id="1872" tvg-name="北京纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongaojishi1.png" group-title="中超地方体育台",北京冬奥纪实
 http://111.6.126.218/hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s6/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="中超地方体育台",成都vs北京国安
+https://340b29a392067040b89fcb0200254532.v.smtcdns.net/txycdn.video.qq.com/1372775D6D536284D365CF1BFCD67F23C50C274952A81C5E00D5E278D897B5E8C1EB0A0F86A025D862E2598D66296E9763B99E6F4F7036B2055888EEC728C29CC3E9DD42B0F30C69C654FADC3A18A2C9096CA1681C365F33ADA94FDBFDA0452D2FC6AF6A10AC29A0/1745461002.m3u8?from=player&cdncode=%2f18907E7BE0798990%2f&time=1654679289&cdn=tcloud&sdtfrom=v2212&platform=10201&butype=2&scheduleflag=0&HLSP2P=1&buname=qqlive&vkey=1372775D6D536284D365CF1BFCD67F23C50C274952A81C5E00D5E278D897B5E8C1EB0A0F86A025D862E2598D66296E9763B99E6F4F7036B2055888EEC728C29CC3E9DD42B0F30C69C654FADC3A18A2C9096CA1681C365F33ADA94FDBFDA0452D2FC6AF6A10AC29A0&drmtype=0
 #EXTINF:-1 tvg-id="2068" tvg-name="CDTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/cdtv5.png" group-title="中超地方体育台",成都公共
 http://v2.91kds.cn/b9/sccdtv.m3u8?fmt=hls&id=sccdtv5hd&auth=rinimabi
 
