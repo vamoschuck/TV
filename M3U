@@ -1,6 +1,109 @@
 #EXTM3U url-tvg="http://epg.51zmt.top:8000/e.xml,https://epg.112114.xyz/pp.xml,https://i.mjh.nz/au/Sydney/epg.xml.gz,https://i.mjh.nz/au/Perth/epg.xml.gz,https://i.mjh.nz/PlutoTV/us.xml.gz" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
 
 
+#EXTINF:-1 tvg-logo="" group-title="NBA Playoffs",Tencent
+https://64d6c9a69b1df26f1bb870d19b7f23c2.v.smtcdns.net:443/txycdn.video.qq.com/F2DD684B5D7B67AA20FCDFBF305BB3D0A8E408884C9D5E389C0461D6D83285BD97EDF743B58E9DC8B63DB9703588B4760D998CFEA5253C774868F69FDAFECF3B15867E964CE3774754645AE30E678FF4250EB77619672AF6D27BE3E0B0324221CCD829E32537C625/1745331102.m3u8?from=player&cdncode=%2f18907E7BE0798990%2f&time=1654839038&cdn=tcloud&sdtfrom=v2212&platform=10201&butype=2&scheduleflag=0&HLSP2P=1&buname=qqlive&vkey=F2DD684B5D7B67AA20FCDFBF305BB3D0A8E408884C9D5E389C0461D6D83285BD97EDF743B58E9DC8B63DB9703588B4760D998CFEA5253C774868F69FDAFECF3B15867E964CE3774754645AE30E678FF4250EB77619672AF6D27BE3E0B0324221CCD829E32537C625&drmtype=0
+
+#EXTINF:-1 tvg-logo="https://www.hualigs.cn/image/62071029b78f7.jpg" group-title="NBA Playoffs",ABC
+https://d2jh36pi0ck39m.cloudfront.net/hls/abc/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://www.hualigs.cn/image/62071029b78f7.jpg" group-title="NBA Playoffs",ABC
+https://d2jh36pi0ck39m.cloudfront.net/hls/abc/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/15/HgKGR0.png" group-title="NBA Playoffs",ESPN
+#https://d2jh36pi0ck39m.cloudfront.net/hls/espn/chunks.m3u8
+#https://d2jh36pi0ck39m.cloudfront.net/hls/espn/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s1.ax1x.com/2022/03/19/qAojiT.png" group-title="NBA Playoffs",ESPN 2
+#https://d2jh36pi0ck39m.cloudfront.net/hls/espn2/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://www.hualigs.cn/image/62070feccd0b5.jpg" group-title="NBA Playoffs",TNT
+#https://d2jh36pi0ck39m.cloudfront.net/hls/TNT/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.hualigs.cn/image/62070ebd8d198.jpg" group-title="NBA Playoffs",NBA TV
+#https://d2jh36pi0ck39m.cloudfront.net/hls/nbatv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s1.ax1x.com/2022/03/20/qVJdOI.png" group-title="NBA Playoffs",UFC 直播时可用
+#https://d1agn6yv8q3970.cloudfront.net/hls/ufc/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/12/HwQgRH.png" group-title="NBA Playoffs",密尔沃基雄鹿
+#https://d1k4ybyeycgihx.cloudfront.net/hls/bucks/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/12/HwQdMR.png" group-title="NBA Playoffs",太阳
+#https://d1k4ybyeycgihx.cloudfront.net/hls/suns/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/12/HwQws1.png" group-title="NBA Playoffs",魔术
+#https://d1k4ybyeycgihx.cloudfront.net/hls/magic/playlist.m3u8?SBN
+#EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/12/HwQjLq.png" group-title="NBA Playoffs",黄蜂
+#https://d1k4ybyeycgihx.cloudfront.net/hls/hornets/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/12/HwQHJg.png" group-title="NBA Playoffs",丹佛掘金
+#https://d1k4ybyeycgihx.cloudfront.net/hls/nuggets/playlist.m3u8?SBN
+#EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/12/HwQqzj.png" group-title="NBA Playoffs",独行侠
+#https://d1k4ybyeycgihx.cloudfront.net/hls/mavericks/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/12/HwQbWQ.png" group-title="NBA Playoffs",骑士
+#https://d1k4ybyeycgihx.cloudfront.net/hls/cavaliers/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/12/HwQXyn.png" group-title="NBA Playoffs",篮网
+#https://d1k4ybyeycgihx.cloudfront.net/hls/nets/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/12/HwQOQs.png" group-title="NBA Playoffs",公牛
+#https://d1k4ybyeycgihx.cloudfront.net/hls/bulls/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/12/HwQ8aT.png" group-title="NBA Playoffs",马刺
+#https://d1k4ybyeycgihx.cloudfront.net/hls/spurs/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/12/HwQNRJ.png" group-title="NBA Playoffs",波特兰开拓者
+#https://d1k4ybyeycgihx.cloudfront.net/hls/blazers/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/12/HwQ0qx.png" group-title="NBA Playoffs",76人
+#https://d1k4ybyeycgihx.cloudfront.net/hls/76ers/playlist.m3u8?SBN
+#EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/12/HwlSoT.png" group-title="NBA Playoffs",亚特兰大老鹰
+#https://d1k4ybyeycgihx.cloudfront.net/hls/hawks/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.hualigs.cn/image/6207200b323ea.jpg" group-title="NBA Playoffs",热火
+#https://d1k4ybyeycgihx.cloudfront.net/hls/heat/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/12/HwQxe0.png" group-title="NBA Playoffs",波士顿凯尔特人
+#https://d1k4ybyeycgihx.cloudfront.net/hls/celtics/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/12/HwQtG4.png" group-title="NBA Playoffs",华盛顿奇才
+#https://d1k4ybyeycgihx.cloudfront.net/hls/wizards/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/12/HwQYiF.png" group-title="NBA Playoffs",多伦多猛龙
+#https://d1k4ybyeycgihx.cloudfront.net/hls/raptors/playlist.m3u8 
+#EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/12/HwQoo8.png" group-title="NBA Playoffs",勇士
+#https://d1k4ybyeycgihx.cloudfront.net/hls/warriors/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/12/HwQrdK.png" group-title="NBA Playoffs",尼克斯
+#https://d1k4ybyeycgihx.cloudfront.net/hls/knicks/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/12/HwQIdf.png" group-title="NBA Playoffs",印第安纳步行者
+#https://d1k4ybyeycgihx.cloudfront.net/hls/pacers/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/12/HwQ7FS.png" group-title="NBA Playoffs",活塞
+#https://d1k4ybyeycgihx.cloudfront.net/hls/pistons/playlist.m3u8 
+#EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/12/HwQ2zd.png" group-title="NBA Playoffs",灰熊
+#https://d1k4ybyeycgihx.cloudfront.net/hls/grizzlies/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/12/HwQGIU.png" group-title="NBA Playoffs",爵士
+#https://d1k4ybyeycgihx.cloudfront.net/hls/jazz/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/12/HwQsIO.png" group-title="NBA Playoffs",明尼苏达森林狼
+#https://d1k4ybyeycgihx.cloudfront.net/hls/timberwolves/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/12/HwQfsI.png" group-title="NBA Playoffs",快艇
+#https://d1k4ybyeycgihx.cloudfront.net/hls/clippers/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/12/HwQWQA.png" group-title="NBA Playoffs",湖人
+#https://d1k4ybyeycgihx.cloudfront.net/hls/lakers/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/12/HwQ6iD.png" group-title="NBA Playoffs",鹈鹕
+#https://d1k4ybyeycgihx.cloudfront.net/hls/pelicans/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/12/HwQDZ6.png" group-title="NBA Playoffs",雷霆
+#https://d1k4ybyeycgihx.cloudfront.net/hls/thunder/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/12/HwQ3ZV.png" group-title="NBA Playoffs",国王
+#https://d1k4ybyeycgihx.cloudfront.net/hls/kings/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/12/HwQhLt.png" group-title="NBA Playoffs",火箭
+#https://d1k4ybyeycgihx.cloudfront.net/hls/rockets/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/15/HgnD0J.png" group-title="NBA Playoffs",NBA Live Game 1
+#http://pullstream-me.speedws.com/live/n1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/15/HgnD0J.png" group-title="NBA Playoffs",NBA Live Game 2
+#http://pullstream-me.speedws.com/live/n2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/15/HgnD0J.png" group-title="NBA Playoffs",NBA Live Game 3
+#http://pullstream-me.speedws.com/live/n3/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/15/HgnD0J.png" group-title="NBA Playoffs",NBA Live Game 4
+#http://pullstream-me.speedws.com/live/n4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/15/HgnD0J.png" group-title="NBA Playoffs",NBA Live Game 5
+#http://pullstream-me.speedws.com/live/n5/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/15/HgnD0J.png" group-title="NBA Playoffs",NBA Live Game 6
+#http://pullstream-me.speedws.com/live/n6/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/15/HgnD0J.png" group-title="NBA Playoffs",NBA Live Game 7
+#http://pullstream-me.speedws.com/live/n7/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/15/HgnD0J.png" group-title="NBA Playoffs",NBA Live Game 8
+#http://pullstream-me.speedws.com/live/n8/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/15/HgnD0J.png" group-title="NBA Playoffs",NBA Live Game 9
+#http://pullstream-me.speedws.com/live/n9/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/15/HgnD0J.png" group-title="NBA Playoffs",NBA Live Game 10
+#http://pullstream-me.speedws.com/live/n10/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/15/HgnD0J.png" group-title="NBA Playoffs",NBA Live Game 11
+#http://pullstream-me.speedws.com/live/n11/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/15/HgnD0J.png" group-title="NBA Playoffs",NBA Live Game 12
+#http://pullstream-me.speedws.com/live/n12/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="6013" tvg-name="广东体育" tvg-logo="http://n.ysyz.top:99/buyaolian/gdty.png" group-title="中超地方体育台",广东体育
 http://py.fatcat.icu:8880/hls/5/index.m3u8
@@ -4460,107 +4563,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60fb028c2e6a0c00075275
 #EXTINF:-1 channel-id="pluto-60fb040d4795a6000762fe8f" tvg-id="60fb040d4795a6000762fe8f" tvg-chno="1002" tvg-logo="https://images.pluto.tv/channels/60fb040d4795a6000762fe8f/colorLogoPNG.png" group-title="英语儿童频道",Kartoon Channel!
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60fb040d4795a6000762fe8f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/15/HgKGR0.png" group-title="NBA Playoffs",ESPN
-#https://d2jh36pi0ck39m.cloudfront.net/hls/espn/chunks.m3u8
-#https://d2jh36pi0ck39m.cloudfront.net/hls/espn/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s1.ax1x.com/2022/03/19/qAojiT.png" group-title="NBA Playoffs",ESPN 2
-#https://d2jh36pi0ck39m.cloudfront.net/hls/espn2/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://www.hualigs.cn/image/62070feccd0b5.jpg" group-title="NBA Playoffs",TNT
-#https://d2jh36pi0ck39m.cloudfront.net/hls/TNT/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.hualigs.cn/image/62071029b78f7.jpg" group-title="NBA Playoffs",ABC
 
-https://d2jh36pi0ck39m.cloudfront.net/hls/abc/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://www.hualigs.cn/image/62071029b78f7.jpg" group-title="NBA Playoffs",ABC
-https://d2jh36pi0ck39m.cloudfront.net/hls/abc/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.hualigs.cn/image/62070ebd8d198.jpg" group-title="NBA Playoffs",NBA TV
-#https://d2jh36pi0ck39m.cloudfront.net/hls/nbatv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s1.ax1x.com/2022/03/20/qVJdOI.png" group-title="NBA Playoffs",UFC 直播时可用
-#https://d1agn6yv8q3970.cloudfront.net/hls/ufc/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/12/HwQgRH.png" group-title="NBA Playoffs",密尔沃基雄鹿
-#https://d1k4ybyeycgihx.cloudfront.net/hls/bucks/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/12/HwQdMR.png" group-title="NBA Playoffs",太阳
-#https://d1k4ybyeycgihx.cloudfront.net/hls/suns/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/12/HwQws1.png" group-title="NBA Playoffs",魔术
-#https://d1k4ybyeycgihx.cloudfront.net/hls/magic/playlist.m3u8?SBN
-#EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/12/HwQjLq.png" group-title="NBA Playoffs",黄蜂
-#https://d1k4ybyeycgihx.cloudfront.net/hls/hornets/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/12/HwQHJg.png" group-title="NBA Playoffs",丹佛掘金
-#https://d1k4ybyeycgihx.cloudfront.net/hls/nuggets/playlist.m3u8?SBN
-#EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/12/HwQqzj.png" group-title="NBA Playoffs",独行侠
-#https://d1k4ybyeycgihx.cloudfront.net/hls/mavericks/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/12/HwQbWQ.png" group-title="NBA Playoffs",骑士
-#https://d1k4ybyeycgihx.cloudfront.net/hls/cavaliers/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/12/HwQXyn.png" group-title="NBA Playoffs",篮网
-#https://d1k4ybyeycgihx.cloudfront.net/hls/nets/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/12/HwQOQs.png" group-title="NBA Playoffs",公牛
-#https://d1k4ybyeycgihx.cloudfront.net/hls/bulls/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/12/HwQ8aT.png" group-title="NBA Playoffs",马刺
-#https://d1k4ybyeycgihx.cloudfront.net/hls/spurs/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/12/HwQNRJ.png" group-title="NBA Playoffs",波特兰开拓者
-#https://d1k4ybyeycgihx.cloudfront.net/hls/blazers/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/12/HwQ0qx.png" group-title="NBA Playoffs",76人
-#https://d1k4ybyeycgihx.cloudfront.net/hls/76ers/playlist.m3u8?SBN
-#EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/12/HwlSoT.png" group-title="NBA Playoffs",亚特兰大老鹰
-#https://d1k4ybyeycgihx.cloudfront.net/hls/hawks/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.hualigs.cn/image/6207200b323ea.jpg" group-title="NBA Playoffs",热火
-#https://d1k4ybyeycgihx.cloudfront.net/hls/heat/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/12/HwQxe0.png" group-title="NBA Playoffs",波士顿凯尔特人
-#https://d1k4ybyeycgihx.cloudfront.net/hls/celtics/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/12/HwQtG4.png" group-title="NBA Playoffs",华盛顿奇才
-#https://d1k4ybyeycgihx.cloudfront.net/hls/wizards/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/12/HwQYiF.png" group-title="NBA Playoffs",多伦多猛龙
-#https://d1k4ybyeycgihx.cloudfront.net/hls/raptors/playlist.m3u8 
-#EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/12/HwQoo8.png" group-title="NBA Playoffs",勇士
-#https://d1k4ybyeycgihx.cloudfront.net/hls/warriors/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/12/HwQrdK.png" group-title="NBA Playoffs",尼克斯
-#https://d1k4ybyeycgihx.cloudfront.net/hls/knicks/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/12/HwQIdf.png" group-title="NBA Playoffs",印第安纳步行者
-#https://d1k4ybyeycgihx.cloudfront.net/hls/pacers/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/12/HwQ7FS.png" group-title="NBA Playoffs",活塞
-#https://d1k4ybyeycgihx.cloudfront.net/hls/pistons/playlist.m3u8 
-#EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/12/HwQ2zd.png" group-title="NBA Playoffs",灰熊
-#https://d1k4ybyeycgihx.cloudfront.net/hls/grizzlies/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/12/HwQGIU.png" group-title="NBA Playoffs",爵士
-#https://d1k4ybyeycgihx.cloudfront.net/hls/jazz/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/12/HwQsIO.png" group-title="NBA Playoffs",明尼苏达森林狼
-#https://d1k4ybyeycgihx.cloudfront.net/hls/timberwolves/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/12/HwQfsI.png" group-title="NBA Playoffs",快艇
-#https://d1k4ybyeycgihx.cloudfront.net/hls/clippers/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/12/HwQWQA.png" group-title="NBA Playoffs",湖人
-#https://d1k4ybyeycgihx.cloudfront.net/hls/lakers/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/12/HwQ6iD.png" group-title="NBA Playoffs",鹈鹕
-#https://d1k4ybyeycgihx.cloudfront.net/hls/pelicans/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/12/HwQDZ6.png" group-title="NBA Playoffs",雷霆
-#https://d1k4ybyeycgihx.cloudfront.net/hls/thunder/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/12/HwQ3ZV.png" group-title="NBA Playoffs",国王
-#https://d1k4ybyeycgihx.cloudfront.net/hls/kings/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/12/HwQhLt.png" group-title="NBA Playoffs",火箭
-#https://d1k4ybyeycgihx.cloudfront.net/hls/rockets/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/15/HgnD0J.png" group-title="NBA Playoffs",NBA Live Game 1
-#http://pullstream-me.speedws.com/live/n1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/15/HgnD0J.png" group-title="NBA Playoffs",NBA Live Game 2
-#http://pullstream-me.speedws.com/live/n2/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/15/HgnD0J.png" group-title="NBA Playoffs",NBA Live Game 3
-#http://pullstream-me.speedws.com/live/n3/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/15/HgnD0J.png" group-title="NBA Playoffs",NBA Live Game 4
-#http://pullstream-me.speedws.com/live/n4/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/15/HgnD0J.png" group-title="NBA Playoffs",NBA Live Game 5
-#http://pullstream-me.speedws.com/live/n5/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/15/HgnD0J.png" group-title="NBA Playoffs",NBA Live Game 6
-#http://pullstream-me.speedws.com/live/n6/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/15/HgnD0J.png" group-title="NBA Playoffs",NBA Live Game 7
-#http://pullstream-me.speedws.com/live/n7/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/15/HgnD0J.png" group-title="NBA Playoffs",NBA Live Game 8
-#http://pullstream-me.speedws.com/live/n8/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/15/HgnD0J.png" group-title="NBA Playoffs",NBA Live Game 9
-#http://pullstream-me.speedws.com/live/n9/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/15/HgnD0J.png" group-title="NBA Playoffs",NBA Live Game 10
-#http://pullstream-me.speedws.com/live/n10/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/15/HgnD0J.png" group-title="NBA Playoffs",NBA Live Game 11
-#http://pullstream-me.speedws.com/live/n11/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/15/HgnD0J.png" group-title="NBA Playoffs",NBA Live Game 12
-#http://pullstream-me.speedws.com/live/n12/playlist.m3u8
 
 
 
