@@ -126,12 +126,12 @@ https://93d6d7213f156d0b3ff8861139969d4d.v.smtcdns.net/txycdn.video.qq.com/3C083
 https://50c0ad744e2bc4dce2bdddd5518e0318.v.smtcdns.net/txycdn.video.qq.com/E0F783B09997A49FB16124F977085A7DF88A2F33A12D534F40CBEE7C5F51FCD7E4A288F716F22B14A141807528898B7DBF4FB2642C5FAF408D0CF4DD221BD601F8CF82849C593CD7740FBD77183EC2F67D863FB6AABC296E78C7FEC971D6B8C480731839E8234FAC/1359729702.m3u8?from=player&cdncode=%2f18907E7BE0798990%2f&time=1655012305&cdn=tcloud&sdtfrom=v2212&platform=10201&butype=2&scheduleflag=0&HLSP2P=1&buname=qqlive&vkey=E0F783B09997A49FB16124F977085A7DF88A2F33A12D534F40CBEE7C5F51FCD7E4A288F716F22B14A141807528898B7DBF4FB2642C5FAF408D0CF4DD221BD601F8CF82849C593CD7740FBD77183EC2F67D863FB6AABC296E78C7FEC971D6B8C480731839E8234FAC&drmtype=0
 
 
-#EXTINF:-1 tvg-id="6013" tvg-name="广东体育" tvg-logo="http://n.ysyz.top:99/buyaolian/gdty.png" group-title="中超地方体育台",广东体育
+#EXTINF:-1 tvg-id="6013" tvg-name="广东体育" tvg-logo="http://n.ysyz.top:99/buyaolian/gdty.png" group-title="中超地方体育台",广东体育 我这儿不卡
 http://py.fatcat.icu:8880/hls/5/index.m3u8
-#http://fxhack.f3322.org:8000/udp/239.77.0.112:5146
 #http://120.84.96.33:808/hls/22/index.m3u8
-#http://61.143.45.150:9901/tsfile/live/1001_1.m3u8
-#EXTINF:-1 tvg-id="6013" tvg-name="广东体育" tvg-logo="http://n.ysyz.top:99/buyaolian/gdty.png" group-title="中超地方体育台",广东体育
+#EXTINF:-1 tvg-id="6013" tvg-name="广东体育" tvg-logo="http://n.ysyz.top:99/buyaolian/gdty.png" group-title="中超地方体育台",广东体育 低码 
+http://61.143.45.150:9901/tsfile/live/1001_1.m3u8
+#EXTINF:-1 tvg-id="6013" tvg-name="广东体育" tvg-logo="http://n.ysyz.top:99/buyaolian/gdty.png" group-title="中超地方体育台",广东体育 低码
 http://e59abdd420c65d43cc1550d493a88c71.v.smtcdns.net/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel34/2300.m3u8
 #EXTINF:-1 tvg-id="1987" tvg-name="五星体育频道" tvg-logo="http://n.ysyz.top:99/buyaolian/wxty.png" group-title="中超地方体育台",五星体育 低码
 http://111.40.196.25/PLTV/88888888/224/3221225503/index.m3u8
