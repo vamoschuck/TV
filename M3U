@@ -2,7 +2,7 @@
 
 
 #EXTINF:-1 tvg-logo="" group-title="NBA Playoffs",Tencent
-
+https://f1e873d6e83316e21a628d0f4ecb2d7f.v.smtcdns.net/txycdn.video.qq.com/EAA81F4F99CC4E414BAED00D9B13ABA371B49DDE724172E3333F2BD52AF67F0EF87D78908101262DDEFE7D8F9303226CF12C12F1FE3CBF14C70A188309768ACFAA0754460F85376C91BDDD1565A3DD2478FD3258E78FE3B07FF3B4613FB6B7CCC88AB88A5B918C11/1745534102.m3u8?from=player&cdncode=%2f18907E7BE0798990%2f&time=1655086162&cdn=tcloud&sdtfrom=v2212&platform=10201&butype=2&scheduleflag=0&HLSP2P=1&buname=qqlive&vkey=EAA81F4F99CC4E414BAED00D9B13ABA371B49DDE724172E3333F2BD52AF67F0EF87D78908101262DDEFE7D8F9303226CF12C12F1FE3CBF14C70A188309768ACFAA0754460F85376C91BDDD1565A3DD2478FD3258E78FE3B07FF3B4613FB6B7CCC88AB88A5B918C11&drmtype=0
 #EXTINF:-1 tvg-logo="https://www.hualigs.cn/image/62071029b78f7.jpg" group-title="NBA Playoffs",ABC
 https://d2jh36pi0ck39m.cloudfront.net/hls/abc/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://www.hualigs.cn/image/62071029b78f7.jpg" group-title="NBA Playoffs",ABC
@@ -104,14 +104,12 @@ https://d2jh36pi0ck39m.cloudfront.net/hls/abc/playlist.m3u8
 #http://pullstream-me.speedws.com/live/n12/playlist.m3u8
 
 
-#EXTINF:-1 group-title="欧国联",挪威vs瑞典 国语
-https://hls.zb.ssports.com/ssports/ch3666442_xinying1080.m3u8?k=be312e7db79b2c532c03cc29b7d4aecd&t=5f569b90&UID=1655012882free4567083330&MATCHID=3372599&TYPE=1
-#EXTINF:-1 group-title="欧国联",挪威vs瑞典 英
-https://hls.zb.ssports.com/ssports/en3666442_xinying1080.m3u8?k=be312e7db79b2c532c03cc29b7d4aecd&t=5f569b90&UID=1655012882free4567083330&MATCHID=3372599&TYPE=1
-#EXTINF:-1 group-title="欧国联",瑞士vs葡萄牙 国语
-https://hls.zb.ssports.com/ssports/ch3666354_xinying1080.m3u8?k=b7e943138a806996b05c5d391d736cc6&t=5f569b90&UID=1655012712free5287676517&MATCHID=3372599&TYPE=1
-#EXTINF:-1 group-title="欧国联",瑞士vs葡萄牙 英
-https://hls.zb.ssports.com/ssports/en3666354_xinying1080.m3u8?k=b7e943138a806996b05c5d391d736cc6&t=5f569b90&UID=1655012712free5287676517&MATCHID=3372599&TYPE=1
+#EXTINF:-1 group-title="欧国联",法国vs克罗地亚 国语
+https://hls.zb.ssports.com/ssports/ch3666333_xinying1080.m3u8?k=449a439d62ec1c26cdfc0b1cb8e3413f&t=5f569b90&UID=1655086040free3062771666&MATCHID=3372599&TYPE=1
+#EXTINF:-1 group-title="欧国联",法国vs克罗地亚 英
+https://hls.zb.ssports.com/ssports/en3666333_xinying1080.m3u8?k=449a439d62ec1c26cdfc0b1cb8e3413f&t=5f569b90&UID=1655086040free3062771666&MATCHID=3372599&TYPE=1
+#EXTINF:-1 group-title="欧国联",法国vs克罗地亚 粤语
+https://hls.zb.ssports.com/ssports/yue3666333_xinying1080.m3u8?k=449a439d62ec1c26cdfc0b1cb8e3413f&t=5f569b90&UID=1655086040free3062771666&MATCHID=3372599&TYPE=1
 
 
 
