@@ -4,9 +4,9 @@
 #EXTINF:-1 tvg-logo="https://s1.ax1x.com/2022/06/13/XWqgRH.png" group-title="NBA Playoffs",腾讯信号
 https://f1e873d6e83316e21a628d0f4ecb2d7f.v.smtcdns.net/txycdn.video.qq.com/EAA81F4F99CC4E414BAED00D9B13ABA371B49DDE724172E3333F2BD52AF67F0EF87D78908101262DDEFE7D8F9303226CF12C12F1FE3CBF14C70A188309768ACFAA0754460F85376C91BDDD1565A3DD2478FD3258E78FE3B07FF3B4613FB6B7CCC88AB88A5B918C11/1745534102.m3u8?from=player&cdncode=%2f18907E7BE0798990%2f&time=1655086162&cdn=tcloud&sdtfrom=v2212&platform=10201&butype=2&scheduleflag=0&HLSP2P=1&buname=qqlive&vkey=EAA81F4F99CC4E414BAED00D9B13ABA371B49DDE724172E3333F2BD52AF67F0EF87D78908101262DDEFE7D8F9303226CF12C12F1FE3CBF14C70A188309768ACFAA0754460F85376C91BDDD1565A3DD2478FD3258E78FE3B07FF3B4613FB6B7CCC88AB88A5B918C11&drmtype=0
 #EXTINF:-1 tvg-logo="https://www.hualigs.cn/image/62071029b78f7.jpg" group-title="NBA Playoffs",ABC
-https://d2jh36pi0ck39m.cloudfront.net/hls/abc/chunks.m3u8
+https://d33q5vs79lmt0p.cloudfront.net/hls/abc/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://www.hualigs.cn/image/62071029b78f7.jpg" group-title="NBA Playoffs",ABC
-https://d2jh36pi0ck39m.cloudfront.net/hls/abc/playlist.m3u8
+https://d33q5vs79lmt0p.cloudfront.net/hls/abc/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/15/HgKGR0.png" group-title="NBA Playoffs",ESPN
 #https://d2jh36pi0ck39m.cloudfront.net/hls/espn/chunks.m3u8
 #https://d2jh36pi0ck39m.cloudfront.net/hls/espn/playlist.m3u8
@@ -104,12 +104,6 @@ https://d2jh36pi0ck39m.cloudfront.net/hls/abc/playlist.m3u8
 #http://pullstream-me.speedws.com/live/n12/playlist.m3u8
 
 
-#EXTINF:-1 group-title="欧国联",法国vs克罗地亚 国语
-https://hls.zb.ssports.com/ssports/ch3666333_xinying1080.m3u8?k=449a439d62ec1c26cdfc0b1cb8e3413f&t=5f569b90&UID=1655086040free3062771666&MATCHID=3372599&TYPE=1
-#EXTINF:-1 group-title="欧国联",法国vs克罗地亚 英
-https://hls.zb.ssports.com/ssports/en3666333_xinying1080.m3u8?k=449a439d62ec1c26cdfc0b1cb8e3413f&t=5f569b90&UID=1655086040free3062771666&MATCHID=3372599&TYPE=1
-#EXTINF:-1 group-title="欧国联",法国vs克罗地亚 粤语
-https://hls.zb.ssports.com/ssports/yue3666333_xinying1080.m3u8?k=449a439d62ec1c26cdfc0b1cb8e3413f&t=5f569b90&UID=1655086040free3062771666&MATCHID=3372599&TYPE=1
 
 
 
