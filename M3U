@@ -132,20 +132,21 @@ http://111.6.126.218/hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s6/index.
 #EXTINF:-1 tvg-id="2068" tvg-name="CDTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/cdtv5.png" group-title="中超地方体育台",成都公共
 http://v2.91kds.cn/b9/sccdtv.m3u8?fmt=hls&id=sccdtv5hd&auth=rinimabi
 
+
+
+
+#EXTINF:-1 group-title="浙江爱看IPTV" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png",CCTV4K
+http://live.aikan.miguvideo.com/PLTV/88888888/224/3221233454/index.m3u8
+#EXTINF:-1 group-title="浙江爱看IPTV" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png",CCTV4K
+http://live.aikan.miguvideo.com/PLTV/88888888/224/3221233400/index.m3u8
 #EXTINF:-1 group-title="浙江爱看IPTV" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png",CCTV2HD
 http://live.aikan.miguvideo.com/PLTV/88888888/224/3221232362/index.m3u8
 #EXTINF:-1 group-title="浙江爱看IPTV" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png",CCTV2HD
 http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231678/index.m3u8
 #EXTINF:-1 group-title="浙江爱看IPTV" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png",CCTV4-欧洲HD
 http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231615/index.m3u8
-#EXTINF:-1 group-title="浙江爱看IPTV" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png",CCTV4-美洲HD
-http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231654/index.m3u8
 #EXTINF:-1 group-title="浙江爱看IPTV" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png",CCTV5+HD
 http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231459/index.m3u8
-#EXTINF:-1 group-title="浙江爱看IPTV" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png",CCTV5+HD
-http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231535/index.m3u8
-#EXTINF:-1 group-title="浙江爱看IPTV" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png",CCTV6HD
-http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231724/index.m3u8
 #EXTINF:-1 group-title="浙江爱看IPTV" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png",CCTV9HD
 http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231697/index.m3u8
 #EXTINF:-1 group-title="浙江爱看IPTV" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png",CCTV10HD
@@ -156,8 +157,9 @@ http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231711/index.m3u8
 http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231660/index.m3u8
 #EXTINF:-1 group-title="浙江爱看IPTV" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png",CCTV13
 http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231636/index.m3u8
-#EXTINF:-1 group-title="浙江爱看IPTV" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png",CCTV14HD
-http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231648/index.m3u8
+
+#EXTINF:-1 group-title="浙江爱看IPTV" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png",CCTV16
+http://live.aikan.miguvideo.com/PLTV/88888888/224/3221233403/index.m3u8
 #EXTINF:-1 group-title="浙江爱看IPTV" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png",CCTV17HD
 http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231772/index.m3u8
 #EXTINF:-1 group-title="浙江爱看IPTV" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE7.jpg",CCTV怀旧剧场
@@ -172,8 +174,6 @@ http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231547/index.m3u8
 http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231537/index.m3u8
 #EXTINF:-1 group-title="浙江爱看IPTV" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVnvxing.png",CCTV女时尚
 http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231598/index.m3u8
-#EXTINF:-1 group-title="浙江爱看IPTV" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVtaiqiu.png",CCTV央视台球
-http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231616/index.m3u8
 #EXTINF:-1 group-title="浙江爱看IPTV",CCTV央视文化精品
 http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231561/index.m3u8
 #EXTINF:-1 group-title="浙江爱看IPTV" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png",CGTN西班牙语
@@ -254,8 +254,6 @@ http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231712/index.m3u8
 http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231483/index.m3u8
 #EXTINF:-1 group-title="浙江爱看IPTV",江苏教育
 http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231631/index.m3u8
-#EXTINF:-1 group-title="浙江爱看IPTV" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",优漫卡通
-http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231574/index.m3u8
 #EXTINF:-1 group-title="浙江爱看IPTV",好享购物
 http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231427/index.m3u8
 #EXTINF:-1 group-title="浙江爱看IPTV",泰州新闻综合
@@ -288,10 +286,6 @@ http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231688/index.m3u8
 http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231790/index.m3u8
 #EXTINF:-1 group-title="浙江爱看IPTV",MIGU周润发影院
 http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231709/index.m3u8
-#EXTINF:-1 group-title="浙江爱看IPTV",MIGU午夜失眠剧场
-http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231516/index.m3u8
-#EXTINF:-1 group-title="浙江爱看IPTV",MIGU吴京作品集
-http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231564/index.m3u8
 #EXTINF:-1 group-title="浙江爱看IPTV",MIGU云上电影院
 http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231565/index.m3u8
 #EXTINF:-1 group-title="浙江爱看IPTV",MIGU刘德华影院
@@ -300,50 +294,24 @@ http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231757/index.m3u8
 http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231742/index.m3u8
 #EXTINF:-1 group-title="浙江爱看IPTV",MIGUTVB剧场
 http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231733/index.m3u8
-#EXTINF:-1 group-title="浙江爱看IPTV",MIGU金庸频道
-http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231477/index.m3u8
 #EXTINF:-1 group-title="浙江爱看IPTV",MIGU盗墓方法论
 http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231652/index.m3u8
 #EXTINF:-1 group-title="浙江爱看IPTV",MIGU试胆大会
 http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231672/index.m3u8
-#EXTINF:-1 group-title="浙江爱看IPTV",MIGU高能烧脑时刻
-http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231504/index.m3u8
 #EXTINF:-1 group-title="浙江爱看IPTV",MIGU军旅剧场
 http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231585/index.m3u8
 #EXTINF:-1 group-title="浙江爱看IPTV",MIGUSNH48剧场公演
 http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231622/index.m3u8
-#EXTINF:-1 group-title="浙江爱看IPTV",MIGU红色谍战剧场
-http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231627/index.m3u8
 #EXTINF:-1 group-title="浙江爱看IPTV",MIGU神探狄仁杰
 http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231634/index.m3u8
-#EXTINF:-1 group-title="浙江爱看IPTV",MIGU黄金剧场
-http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231637/index.m3u8
 #EXTINF:-1 group-title="浙江爱看IPTV",MIGU追剧少女
 http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231643/index.m3u8
-#EXTINF:-1 group-title="浙江爱看IPTV",MIGU古龙作品集
-http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231657/index.m3u8
 #EXTINF:-1 group-title="浙江爱看IPTV",MIGU经典贺岁片
 http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231679/index.m3u8
 #EXTINF:-1 group-title="浙江爱看IPTV",MIGU24小时体育
 http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231778/index.m3u8
-#EXTINF:-1 group-title="浙江爱看IPTV" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png",CCTV16
-http://live.aikan.miguvideo.com/PLTV/88888888/224/3221233409/index.m3u8
-#EXTINF:-1 group-title="浙江爱看IPTV" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png",CCTV16
-http://live.aikan.miguvideo.com/PLTV/88888888/224/3221233410/index.m3u8
-#EXTINF:-1 group-title="浙江爱看IPTV" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png",CCTV16
-http://live.aikan.miguvideo.com/PLTV/88888888/224/3221233403/index.m3u8
-#EXTINF:-1 group-title="浙江爱看IPTV" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png",CCTV16
-http://live.aikan.miguvideo.com/PLTV/88888888/224/3221233398/index.m3u8
-#EXTINF:-1 group-title="浙江爱看IPTV" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png",CCTV16
-http://live.aikan.miguvideo.com/PLTV/88888888/224/3221233406/index.m3u8
-#EXTINF:-1 group-title="浙江爱看IPTV" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png",CCTV4K
-http://live.aikan.miguvideo.com/PLTV/88888888/224/3221233454/index.m3u8
-#EXTINF:-1 group-title="浙江爱看IPTV" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png",CCTV4K
-http://live.aikan.miguvideo.com/PLTV/88888888/224/3221233400/index.m3u8
-#EXTINF:-1 group-title="浙江爱看IPTV" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png",CCTV8K
-http://live.aikan.miguvideo.com/PLTV/88888888/224/3221233413/index.m3u8
-#EXTINF:-1 group-title="浙江爱看IPTV" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png",CCTV8K
-http://live.aikan.miguvideo.com/PLTV/88888888/224/3221233350/index.m3u8
+
+
 
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="山东移动",CCTV-1高清
 http://39.136.48.2:8089/ucdn.sd.chinamobile.com/00/SNM/CHANNEL00000311/index.m3u8
