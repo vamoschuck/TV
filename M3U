@@ -659,6 +659,34 @@ http://39.136.48.2:8089/ucdn.sd.chinamobile.com/00/SNM/CHANNEL00000016/index.m3u
 #EXTINF:-1 tvg-id="40" tvg-name="重庆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png" group-title="山东移动",重庆卫视
 http://39.136.48.2:8089/ucdn.sd.chinamobile.com/00/SNM/CHANNEL00000023/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="港台電視31" tvg-logo="https://www.hkdtmb.com/png_logo/31.png" group-title="HKAnime源码限IP",港台電視31
+https://cdn.hklive.tv/raw/31.ts
+#EXTINF:-1 tvg-id="" tvg-name="港台電視32" tvg-logo="https://www.hkdtmb.com/png_logo/32.png" group-title="HKAnime源码限IP",港台電視32
+https://cdn.hklive.tv/raw/32.ts
+#EXTINF:-1 tvg-id="" tvg-name="港台電視33" tvg-logo="https://www.hkdtmb.com/png_logo/33.png" group-title="HKAnime源码限IP",港台電視33
+https://cdn.hklive.tv/raw/33.ts
+#EXTINF:-1 tvg-id="" tvg-name="香港開電視" tvg-logo="https://www.hkdtmb.com/png_logo/77.png" group-title="HKAnime源码限IP",香港開電視
+
+#EXTINF:-1 tvg-id="" tvg-name="香港國際財經台" tvg-logo="https://www.hkdtmb.com/png_logo/76.png" group-title="HKAnime源码限IP",香港國際財經台
+https://cdn.hklive.tv/raw/76.ts
+#EXTINF:-1 tvg-id="" tvg-name="翡翠台" tvg-logo="https://www.hkdtmb.com/png_logo/81.png" group-title="HKAnime源码限IP",翡翠台
+https://cdn.hklive.tv/raw/81.ts
+#EXTINF:-1 tvg-id="" tvg-name="翡翠台 (中英字幕)" tvg-logo="https://www.hkdtmb.com/png_logo/81.png" group-title="HKAnime源码限IP",翡翠台 (中英字幕)
+https://cdn.hklive.tv/raw/81b.ts
+#EXTINF:-1 tvg-id="" tvg-name="J2台" tvg-logo="https://www.hkdtmb.com/png_logo/82.png" group-title="HKAnime源码限IP",J2台
+https://cdn.hklive.tv/raw/82.ts
+#EXTINF:-1 tvg-id="" tvg-name="無綫新聞台" tvg-logo="https://www.hkdtmb.com/png_logo/83.png" group-title="HKAnime源码限IP",無綫新聞台
+https://cdn.hklive.tv/raw/83.ts
+#EXTINF:-1 tvg-id="" tvg-name="明珠台" tvg-logo="https://www.hkdtmb.com/png_logo/84.png" group-title="HKAnime源码限IP",明珠台
+https://cdn.hklive.tv/raw/84.ts
+#EXTINF:-1 tvg-id="" tvg-name="明珠台 (粵語聲道)" tvg-logo="https://www.hkdtmb.com/png_logo/84.png" group-title="HKAnime源码限IP",明珠台 (粵語聲道)
+
+#EXTINF:-1 tvg-id="" tvg-name="無綫財經·資訊台" tvg-logo="https://www.hkdtmb.com/png_logo/85.png" group-title="HKAnime源码限IP",無綫財經·資訊台
+https://cdn.hklive.tv/raw/85.ts
+#EXTINF:-1 tvg-id="ViuTV.hk" tvg-name="" tvg-logo="https://www.hkdtmb.com/png_logo/99.png" group-title="HKAnime源码限IP",ViuTV
+https://cdn.hklive.tv/raw/99.ts
+#EXTINF:-1 tvg-id="ViuTVsix.hk" tvg-name="" tvg-logo="https://www.hkdtmb.com/png_logo/96.png" group-title="HKAnime源码限IP",ViuTV Six
+https://cdn.hklive.tv/raw/96.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="鼠爷代理YTB",中天新闻
 https://ytb.52sf.ga/jmsytb.m3u8?c=1
@@ -4368,8 +4396,6 @@ https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index_42.m3u8
 #EXTINF:-1 group-title="美国Local听力磨耳朵",ABC News Live 1
 https://abcnews-streams.akamaized.net/hls/live/2023560/abcnews1/master.m3u8
-#EXTINF:-1 group-title="美国Local听力磨耳朵",ABC News Live 10
-https://abcnews-streams.akamaized.net/hls/live/2023569/abcnews10/master.m3u8
 #EXTINF:-1 group-title="美国Local听力磨耳朵",ABC News Live 2
 https://abcnews-streams.akamaized.net/hls/live/2023561/abcnews2/master.m3u8
 #EXTINF:-1 group-title="美国Local听力磨耳朵",ABC News Live 3
@@ -4402,8 +4428,6 @@ https://akaku.vod.castus.tv/live/ch3.m3u8
 https://5d658d7e9f562.streamlock.net/alhorreya.tv/alhorreya.smil/playlist.m3u8
 #EXTINF:-1 group-title="美国Local听力磨耳朵" tvg-logo="https://i.imgur.com/ENtRDds.png",American Horrors
 http://170.178.189.66:1935/live/Stream1/playlist.m3u8
-#EXTINF:-1 group-title="美国Local听力磨耳朵" tvg-logo="https://i.imgur.com/xiaJPqq.png",Beauty IQ
-https://lsqvc4us-lh.akamaihd.net/i/lsqvc4us_01@802711/master.m3u8
 #EXTINF:-1 group-title="美国Local听力磨耳朵",Bek Sports East | HD
 https://wowzaprod188-i.akamaihd.net/hls/live/728897/54d0bcd5/playlist.m3u8
 #EXTINF:-1 group-title="美国Local听力磨耳朵",Bek Sports West | HD
@@ -4420,8 +4444,6 @@ https://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-
 https://liveproduseast.global.ssl.fastly.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-240-1_live.m3u8
 #EXTINF:-1 group-title="美国Local听力磨耳朵" tvg-logo="https://i.imgur.com/4UIqtXt.jpg",Bloomberg TV Europe
 https://liveprodeuwest.akamaized.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-1000-1_live.m3u8
-#EXTINF:-1 group-title="美国Local听力磨耳朵" tvg-logo="https://i.imgur.com/nm3N3aw.png",Bluegrass 4U (Opt-1)
-https://59d39900ebfb8.streamlock.net/blugrassmusic/blugrassmusic/playlist.m3u8
 #EXTINF:-1 group-title="美国Local听力磨耳朵",Boston 25 News (WFXT)
 https://d2dy6pkj44n6e7.cloudfront.net/v1/master/77872db67918a151b697b5fbc23151e5765767dc/cmg_PROD_cmg-tv-10020_27d61a9c-67b2-4d7c-9486-626a6a071467_LE/in/cmg-wftxtv-hls-v3/live.m3u8
 #EXTINF:-1 group-title="美国Local听力磨耳朵",California: Fresno-Visalia
@@ -4496,8 +4518,6 @@ https://live.chdrstatic.com/cheddar/primary/index.m3u8
 https://livecdn.fptplay.net/hda1/cinemax_hls.smil/playlist.m3u8
 #EXTINF:-1 group-title="美国Local听力磨耳朵",Comet | HD
 http://content.uplynk.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a.m3u8
-#EXTINF:-1 group-title="美国Local听力磨耳朵" tvg-logo="https://i.imgur.com/aL4DvbN.png",Country Music 4U (Opt-1)
-https://59d39900ebfb8.streamlock.net/countrymusic4u/countrymusic4u/playlist.m3u8
 #EXTINF:-1 group-title="美国Local听力磨耳朵" tvg-logo="https://storage.googleapis.com/www-courttv-uploads/2019/05/4038d65d-courttv_logo_800x800.jpg",Court TV
 https://content.uplynk.com/channel/6c0bd0f94b1d4526a98676e9699a10ef.m3u8
 #EXTINF:-1 group-title="美国Local听力磨耳朵",CRACKLE PlexTV | HD
@@ -4708,8 +4728,6 @@ https://dai.google.com/linear/hls/event/uxPBn5ErTQ-FOjxIYle2PA/master.m3u8
 https://dai.google.com/linear/hls/event/FKoa3RaEQxyyrf8PfPbgkg/master.m3u8
 #EXTINF:-1 group-title="美国Local听力磨耳朵",TSTV
 http://tstv-stream.tsm.utexas.edu/hls/livestream_hi/index.m3u8
-#EXTINF:-1 group-title="美国Local听力磨耳朵",TV33 Detroit Live (WHPR) [Not 24/7]
-http://162.244.81.156:1935/whprtv33roku/whprtv33roku/playlist.m3u8
 #EXTINF:-1 group-title="美国Local听力磨耳朵",UCTV - University of California
 https://59e8e1c60a2b2.streamlock.net/509/509.stream/HasBahCa.m3u8
 #EXTINF:-1 group-title="美国Local听力磨耳朵",Utah: Salt Lake City (STIRR)
@@ -4831,45 +4849,6 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60fb040d4795a6000762fe
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s4.ax1x.com/2022/02/19/Hbh3GQ.png" group-title="北京冬残奥",CCTV8K
-#http://117.148.179.148:80/PLTV/88888888/224/3221233350/1.m3u8
-#http://117.148.179.141:80/PLTV/88888888/224/3221233404/index.m3u8#
-#http://117.148.179.157/PLTV/88888888/224/3221233404/index.m3u8
-#http://117.148.179.157/PLTV/88888888/224/3221233413/index.m3u8
-#http://117.148.179.157/PLTV/88888888/224/3221233350/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s4.ax1x.com/2022/02/19/Hbh3GQ.png" group-title="北京冬残奥",CCTV8K
-#http://live.aikan.miguvideo.com/PLTV/88888888/224/3221233350/index.m3u8
-#http://live.aikan.miguvideo.com/PLTV/88888888/224/3221233404/index.m3u8
-#http://live.aikan.miguvideo.com/PLTV/88888888/224/3221233413/index.m3u8
-#EXTINF:-1 tvg-id="1872" tvg-name="北京纪实" tvg-logo="http://n.ysyz.top:99/buyaolian/dongaojishi1.png" group-title="北京冬残奥",北京冬奥纪实8K
-#http://117.148.179.157/PLTV/88888888/224/3221233448/index.m3u8
-#http://58.220.43.166/mgzb.live.miguvideo.com/migu/sports/50zhenyh8/57/20210608/index.m3u8?&encrypt=
-#EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv16.png" group-title="北京冬残奥",CCTV16 回看
-#http://39.135.138.60:18890/TVOD/88888910/224/3221226230/index.m3u8
-#http://39.135.138.60:18890/TVOD/88888910/224/3221226233/index.m3u8
-#http://182.151.211.171:808/hls/18/index.m3u8
-#EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv16.png" group-title="北京冬残奥",CCTV16 4K
-#http://liveop.cctv.cn/hls/CCTV16HD/playlist.m3u8
-#http://117.148.179.157/PLTV/88888888/224/3221233409/index.m3u8
-#http://117.148.179.157/PLTV/88888888/224/3221233403/index.m3u8
-#http://117.148.179.157/PLTV/88888888/224/3221233392/index.m3u8
-#EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv4k.png" group-title="北京冬残奥",CCTV4K FHD
-#http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
-#http://117.148.179.157/PLTV/88888888/224/3221233400/index.m3u8
-#http://live.aikan.miguvideo.com/PLTV/88888888/224/3221233400/index.m3u8
-#http://58.220.43.166/mgzb.live.miguvideo.com/migu/sports/50zhenyh6/57/20210608/index.m3u8?&encrypt=
-#EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv4k.png" group-title="北京冬残奥",CCTV4K UHD
-#http://open.live-web.timetv.cn/live03/cctv4k.m3u8
-#http://ye23.win/iptv/4k.cctv.php
-#https://p.ggiptv.com/v/4k.m3u8
-#EXTINF:-1  tvg-id="5" tvg-name="CCTV5" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv5.png" group-title="北京冬残奥",CCTV-5体育
-#http://39.135.138.60:18890/TVOD/88888910/224/3221225633/index.m3u8
-#EXTINF:-1  tvg-id="5" tvg-name="CCTV5" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv5.png" group-title="北京冬残奥",CCTV-5体育
-#http://39.135.138.60:18890/TVOD/88888910/224/3221225633/index.m3u8
-#EXTINF:-1  tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv5+.png" group-title="北京冬残奥",CCTV5+
-#http://111.20.33.93/TVOD/88888893/224/3221226221/index.m3u8
-#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv5+.png" group-title="北京冬残奥",CCTV5+
-#http://119.167.231.18/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225494/index.m3u8
 
 
 
