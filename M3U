@@ -583,34 +583,6 @@ http://39.136.48.2:8089/ucdn.sd.chinamobile.com/00/SNM/CHANNEL00000016/index.m3u
 #EXTINF:-1 tvg-id="40" tvg-name="重庆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png" group-title="山东移动",重庆卫视
 http://39.136.48.2:8089/ucdn.sd.chinamobile.com/00/SNM/CHANNEL00000023/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="港台電視31" tvg-logo="https://www.hkdtmb.com/png_logo/31.png" group-title="HKAnime源码限IP",港台電視31
-https://cdn.hklive.tv/raw/31.ts
-#EXTINF:-1 tvg-id="" tvg-name="港台電視32" tvg-logo="https://www.hkdtmb.com/png_logo/32.png" group-title="HKAnime源码限IP",港台電視32
-https://cdn.hklive.tv/raw/32.ts
-#EXTINF:-1 tvg-id="" tvg-name="港台電視33" tvg-logo="https://www.hkdtmb.com/png_logo/33.png" group-title="HKAnime源码限IP",港台電視33
-https://cdn.hklive.tv/raw/33.ts
-#EXTINF:-1 tvg-id="" tvg-name="香港開電視" tvg-logo="https://www.hkdtmb.com/png_logo/77.png" group-title="HKAnime源码限IP",香港開電視
-
-#EXTINF:-1 tvg-id="" tvg-name="香港國際財經台" tvg-logo="https://www.hkdtmb.com/png_logo/76.png" group-title="HKAnime源码限IP",香港國際財經台
-https://cdn.hklive.tv/raw/76.ts
-#EXTINF:-1 tvg-id="" tvg-name="翡翠台" tvg-logo="https://www.hkdtmb.com/png_logo/81.png" group-title="HKAnime源码限IP",翡翠台
-https://cdn.hklive.tv/raw/81.ts
-#EXTINF:-1 tvg-id="" tvg-name="翡翠台 (中英字幕)" tvg-logo="https://www.hkdtmb.com/png_logo/81.png" group-title="HKAnime源码限IP",翡翠台 (中英字幕)
-https://cdn.hklive.tv/raw/81b.ts
-#EXTINF:-1 tvg-id="" tvg-name="J2台" tvg-logo="https://www.hkdtmb.com/png_logo/82.png" group-title="HKAnime源码限IP",J2台
-https://cdn.hklive.tv/raw/82.ts
-#EXTINF:-1 tvg-id="" tvg-name="無綫新聞台" tvg-logo="https://www.hkdtmb.com/png_logo/83.png" group-title="HKAnime源码限IP",無綫新聞台
-https://cdn.hklive.tv/raw/83.ts
-#EXTINF:-1 tvg-id="" tvg-name="明珠台" tvg-logo="https://www.hkdtmb.com/png_logo/84.png" group-title="HKAnime源码限IP",明珠台
-https://cdn.hklive.tv/raw/84.ts
-#EXTINF:-1 tvg-id="" tvg-name="明珠台 (粵語聲道)" tvg-logo="https://www.hkdtmb.com/png_logo/84.png" group-title="HKAnime源码限IP",明珠台 (粵語聲道)
-
-#EXTINF:-1 tvg-id="" tvg-name="無綫財經·資訊台" tvg-logo="https://www.hkdtmb.com/png_logo/85.png" group-title="HKAnime源码限IP",無綫財經·資訊台
-https://cdn.hklive.tv/raw/85.ts
-#EXTINF:-1 tvg-id="ViuTV.hk" tvg-name="" tvg-logo="https://www.hkdtmb.com/png_logo/99.png" group-title="HKAnime源码限IP",ViuTV
-https://cdn.hklive.tv/raw/99.ts
-#EXTINF:-1 tvg-id="ViuTVsix.hk" tvg-name="" tvg-logo="https://www.hkdtmb.com/png_logo/96.png" group-title="HKAnime源码限IP",ViuTV Six
-https://cdn.hklive.tv/raw/96.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="鼠爷代理YTB",中天新闻
 https://ytb.52sf.ga/jmsytb.m3u8?c=1
