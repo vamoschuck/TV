@@ -28,6 +28,166 @@ http://111.6.126.218/hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s6/index.
 #EXTINF:-1 tvg-id="2068" tvg-name="CDTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/cdtv5.png" group-title="中超地方体育台",成都公共
 http://v2.91kds.cn/b9/sccdtv.m3u8?fmt=hls&id=sccdtv5hd&auth=rinimabi
 
+#EXTINF:-1 catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" tvg-id="1" tvg-name="CCTV1" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv1.png" group-title="陕南IP",CCTV1
+http://111.20.33.93/TVOD/88888888/224/3221225804/index.m3u8
+#EXTINF:-1 catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" tvg-id="2" tvg-name="CCTV2" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv2.png" group-title="陕南IP",CCTV2
+http://111.20.33.93/TVOD/88888893/224/3221226195/index.m3u8
+#EXTINF:-1 catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" tvg-id="3" tvg-name="CCTV3" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv3.png" group-title="陕南IP",CCTV3
+http://111.20.33.93/TVOD/88888893/224/3221226397/index.m3u8
+#EXTINF:-1 catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" tvg-id="4" tvg-name="CCTV4" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv4.png" group-title="陕南IP",CCTV4
+http://111.20.33.93/TVOD/88888893/224/3221226191/index.m3u8
+#EXTINF:-1 catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" tvg-id="5" tvg-name="CCTV5" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv5.png" group-title="陕南IP",CCTV5
+http://111.20.33.93/TVOD/88888893/224/3221226395/index.m3u8
+#EXTINF:-1 catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv5+.png" group-title="陕南IP",CCTV5+
+http://111.20.33.93/TVOD/88888888/224/3221225761/index.m3u8
+#EXTINF:-1 catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" tvg-id="7" tvg-name="CCTV6" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv6.png" group-title="陕南IP",CCTV6
+http://111.20.33.93/TVOD/88888893/224/3221226393/index.m3u8
+#EXTINF:-1 catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" tvg-id="8" tvg-name="CCTV7" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv7.png" group-title="陕南IP",CCTV7
+http://111.20.33.93/TVOD/88888893/224/3221226192/index.m3u8
+#EXTINF:-1 catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" tvg-id="9" tvg-name="CCTV8" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv8.png" group-title="陕南IP",CCTV8
+http://111.20.33.93/TVOD/88888893/224/3221226391/index.m3u8
+#EXTINF:-1 catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" tvg-id="10" tvg-name="CCTV9" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv9.png" group-title="陕南IP",CCTV9
+http://111.20.33.93/TVOD/88888893/224/3221226197/index.m3u8
+#EXTINF:-1 catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" tvg-id="11" tvg-name="CCTV10" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv10.png" group-title="陕南IP",CCTV10
+http://111.20.33.93/TVOD/88888893/224/3221226189/index.m3u8
+#EXTINF:-1 catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" tvg-id="12" tvg-name="CCTV11" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv11.png" group-title="陕南IP",CCTV11
+http://111.20.33.93/TVOD/88888893/224/3221226240/index.m3u8
+#EXTINF:-1 catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" tvg-id="13" tvg-name="CCTV12" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv12.png" group-title="陕南IP",CCTV12
+http://111.20.33.93/TVOD/88888893/224/3221226190/index.m3u8
+#EXTINF:-1 catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" tvg-id="14" tvg-name="CCTV13" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv13.png" group-title="陕南IP",CCTV13
+http://111.20.33.93/TVOD/88888893/224/3221226233/index.m3u8
+#EXTINF:-1 catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" tvg-id="15" tvg-name="CCTV14" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv14.png" group-title="陕南IP",CCTV14
+http://111.20.33.93/TVOD/88888893/224/3221226193/index.m3u8
+#EXTINF:-1 catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" tvg-id="17" tvg-name="CCTV17" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv17.png" group-title="陕南IP",CCTV17
+http://111.20.33.93/TVOD/88888893/224/3221226198/index.m3u8
+#EXTINF:-1 catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/zhejiang.png" group-title="陕南IP",浙江卫视
+http://111.20.33.93/TVOD/88888888/224/3221225798/index.m3u8
+#EXTINF:-1 catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/hunan.png" group-title="陕南IP",湖南卫视
+http://111.20.33.93/TVOD/88888888/224/3221225799/index.m3u8
+#EXTINF:-1 catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" tvg-id="31" tvg-name="东方卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/dongfang.png" group-title="陕南IP",东方卫视
+http://111.20.33.93/TVOD/88888888/224/3221225797/index.m3u8
+#EXTINF:-1 catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" tvg-id="29" tvg-name="江苏卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/jiangsu.png" group-title="陕南IP",江苏卫视
+http://111.20.33.93/TVOD/88888888/224/3221225800/index.m3u8
+#EXTINF:-1 catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" tvg-id="30" tvg-name="北京卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/beijing.png" group-title="陕南IP",北京卫视
+http://111.20.33.93/TVOD/88888888/224/3221225796/index.m3u8
+#EXTINF:-1 catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" tvg-id="33" tvg-name="广东卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/guangdong.png" group-title="陕南IP",广东卫视
+http://111.20.33.93/TVOD/88888888/224/3221225803/index.m3u8
+#EXTINF:-1 catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" tvg-id="34" tvg-name="深圳卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/shenzhen.png" group-title="陕南IP",深圳卫视
+http://111.20.33.93/TVOD/88888888/224/3221225801/index.m3u8
+#EXTINF:-1 catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" tvg-id="46" tvg-name="黑龙江卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/heilongjiang.png" group-title="陕南IP",黑龙江卫视
+http://111.20.33.93/TVOD/88888888/224/3221225802/index.m3u8
+#EXTINF:-1 catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" tvg-id="1" tvg-name="CCTV1" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv1.png" group-title="陕南IP",CCTV1
+http://111.20.33.93/TVOD/88888888/224/3221225783/index.m3u8
+#EXTINF:-1 catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" tvg-id="1" tvg-name="CCTV1" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv1.png" group-title="陕南IP",CCTV1
+http://111.20.33.93/TVOD/88888888/224/3221225660/index.m3u8
+#EXTINF:-1 catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" tvg-id="2" tvg-name="CCTV2" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv2.png" group-title="陕南IP",CCTV2
+http://111.20.33.93/TVOD/88888888/224/3221225762/index.m3u8
+#EXTINF:-1 catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" tvg-id="3" tvg-name="CCTV3" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv3.png" group-title="陕南IP",CCTV3
+http://111.20.33.93/TVOD/88888888/224/3221225782/index.m3u8
+#EXTINF:-1 catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" tvg-id="4" tvg-name="CCTV4" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv4.png" group-title="陕南IP",CCTV4
+http://111.20.33.93/TVOD/88888888/224/3221225781/index.m3u8
+#EXTINF:-1 catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" tvg-id="5" tvg-name="CCTV5" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv5.png" group-title="陕南IP",CCTV5
+http://111.20.33.93/TVOD/88888888/224/3221225780/index.m3u8
+#EXTINF:-1 catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" tvg-id="7" tvg-name="CCTV6" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv6.png" group-title="陕南IP",CCTV6
+http://111.20.33.93/TVOD/88888888/224/3221225779/index.m3u8
+#EXTINF:-1 catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" tvg-id="8" tvg-name="CCTV7" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv7.png" group-title="陕南IP",CCTV7
+http://111.20.33.93/TVOD/88888888/224/3221225778/index.m3u8
+#EXTINF:-1 catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" tvg-id="9" tvg-name="CCTV8" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv8.png" group-title="陕南IP",CCTV8
+http://111.20.33.93/TVOD/88888888/224/3221225759/index.m3u8
+#EXTINF:-1 catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" tvg-id="10" tvg-name="CCTV9" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv9.png" group-title="陕南IP",CCTV9
+http://111.20.33.93/TVOD/88888888/224/3221225758/index.m3u8
+#EXTINF:-1 catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" tvg-id="11" tvg-name="CCTV10" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv10.png" group-title="陕南IP",CCTV10
+http://111.20.33.93/TVOD/88888888/224/3221225777/index.m3u8
+#EXTINF:-1 catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" tvg-id="12" tvg-name="CCTV11" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv11.png" group-title="陕南IP",CCTV11
+http://111.20.33.93/TVOD/88888888/224/3221225776/index.m3u8
+#EXTINF:-1 catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" tvg-id="13" tvg-name="CCTV12" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv12.png" group-title="陕南IP",CCTV12
+http://111.20.33.93/TVOD/88888888/224/3221225775/index.m3u8
+#EXTINF:-1 catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" tvg-id="14" tvg-name="CCTV13" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv13.png" group-title="陕南IP",CCTV13 540
+http://111.20.33.93/TVOD/88888888/224/3221225617/index.m3u8
+#EXTINF:-1 catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" tvg-id="14" tvg-name="CCTV13" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv13.png" group-title="陕南IP",CCTV13
+http://111.20.33.93/TVOD/88888888/224/3221225774/index.m3u8
+#EXTINF:-1 catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" tvg-id="15" tvg-name="CCTV14" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv14.png" group-title="陕南IP",CCTV14
+http://111.20.33.93/TVOD/88888888/224/3221225784/index.m3u8
+#EXTINF:-1 catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" tvg-id="16" tvg-name="CCTV15" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv15.png" group-title="陕南IP",CCTV15
+http://111.20.33.93/TVOD/88888888/224/3221225785/index.m3u8
+#EXTINF:-1 catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" tvg-id="73" tvg-name="中国教育1台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png" group-title="陕南IP",中国教育1
+http://111.20.33.93/TVOD/88888888/224/3221225753/index.m3u8
+#EXTINF:-1 catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" tvg-id="74" tvg-name="中国教育2台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育2台.png" group-title="陕南IP",中国教育2
+http://111.20.33.93/TVOD/88888888/224/3221225756/index.m3u8
+#EXTINF:-1 catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" tvg-id="20" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="陕南IP",CGTN
+http://111.20.33.93/TVOD/88888888/224/3221225745/index.m3u8
+#EXTINF:-1 catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" tvg-id="41" tvg-name="东南卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/dongnan.png" group-title="陕南IP",东南卫视
+http://111.20.33.93/TVOD/88888888/224/3221225766/index.m3u8
+#EXTINF:-1 catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" tvg-id="31" tvg-name="东方卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/dongfang.png" group-title="陕南IP",东方卫视
+http://111.20.33.93/TVOD/88888888/224/3221225789/index.m3u8
+#EXTINF:-1 catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" tvg-id="31" tvg-name="东方卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/dongfang.png" group-title="陕南IP",东方卫视
+http://111.20.33.93/TVOD/88888888/224/3221225599/index.m3u8
+#EXTINF:-1 catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" tvg-id="58" tvg-name="云南卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/yunnan.png" group-title="陕南IP",云南卫视
+http://111.20.33.93/TVOD/88888888/224/3221225751/index.m3u8
+#EXTINF:-1 catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" tvg-id="52" tvg-name="内蒙古卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/neimenggu.png" group-title="陕南IP",内蒙古卫视
+http://111.20.33.93/TVOD/88888888/224/3221225786/index.m3u8
+#EXTINF:-1 catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" tvg-id="30" tvg-name="北京卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/beijing.png" group-title="陕南IP",北京卫视
+http://111.20.33.93/TVOD/88888888/224/3221225790/index.m3u8
+#EXTINF:-1 catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" tvg-id="51" tvg-name="吉林卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/jilin.png" group-title="陕南IP",吉林卫视
+http://111.20.33.93/TVOD/88888888/224/3221225792/index.m3u8
+#EXTINF:-1 catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" tvg-id="56" tvg-name="四川卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/sichuan.png" group-title="陕南IP",四川卫视
+http://111.20.33.93/TVOD/88888888/224/3221225768/index.m3u8
+#EXTINF:-1 catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" tvg-id="39" tvg-name="天津卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/tianjin.png" group-title="陕南IP",天津卫视
+http://111.20.33.93/TVOD/88888888/224/3221225765/index.m3u8
+#EXTINF:-1 catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" tvg-id="53" tvg-name="宁夏卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/ningxia.png" group-title="陕南IP",宁夏卫视
+http://111.20.33.93/TVOD/88888888/224/3221225748/index.m3u8
+#EXTINF:-1 catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" tvg-id="32" tvg-name="安徽卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/anhui.png" group-title="陕南IP",安徽卫视
+http://111.20.33.93/TVOD/88888888/224/3221225773/index.m3u8
+#EXTINF:-1 catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" tvg-id="38" tvg-name="山东卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/shandong.png" group-title="陕南IP",山东卫视
+http://111.20.33.93/TVOD/88888888/224/3221225771/index.m3u8
+#EXTINF:-1 catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" tvg-id="54" tvg-name="山西卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/shanxi.png" group-title="陕南IP",山西卫视
+http://111.20.33.93/TVOD/88888888/224/3221225763/index.m3u8
+#EXTINF:-1 catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" tvg-id="33" tvg-name="广东卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/guangdong.png" group-title="陕南IP",广东卫视
+http://111.20.33.93/TVOD/88888888/224/3221225757/index.m3u8
+#EXTINF:-1 catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" tvg-id="43" tvg-name="广西卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/guangxi.png" group-title="陕南IP",广西卫视
+http://111.20.33.93/TVOD/88888888/224/3221225770/index.m3u8
+#EXTINF:-1 catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" tvg-id="57" tvg-name="新疆卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/xinjiang.png" group-title="陕南IP",新疆卫视
+http://111.20.33.93/TVOD/88888888/224/3221225747/index.m3u8
+#EXTINF:-1 catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" tvg-id="29" tvg-name="江苏卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/jiangsu.png" group-title="陕南IP",江苏卫视
+http://111.20.33.93/TVOD/88888888/224/3221225746/index.m3u8
+#EXTINF:-1 catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" tvg-id="50" tvg-name="江西卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/jiangxi.png" group-title="陕南IP",江西卫视
+http://111.20.33.93/TVOD/88888888/224/3221225764/index.m3u8
+#EXTINF:-1 catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" tvg-id="45" tvg-name="河北卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/hebei.png" group-title="陕南IP",河北卫视
+http://111.20.33.93/TVOD/88888888/224/3221225750/index.m3u8
+#EXTINF:-1 catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" tvg-id="47" tvg-name="河南卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/henan.png" group-title="陕南IP",河南卫视
+http://111.20.33.93/TVOD/88888888/224/3221225767/index.m3u8
+#EXTINF:-1 catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/zhejiang.png" group-title="陕南IP",浙江卫视
+http://111.20.33.93/TVOD/88888888/224/3221225788/index.m3u8
+#EXTINF:-1 catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" tvg-id="37" tvg-name="旅游卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/hainan.png" group-title="陕南IP",海南卫视
+http://111.20.33.93/TVOD/88888888/224/3221225769/index.m3u8
+#EXTINF:-1 catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" tvg-id="34" tvg-name="深圳卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/shenzhen.png" group-title="陕南IP",深圳卫视
+http://111.20.33.93/TVOD/88888888/224/3221225752/index.m3u8
+#EXTINF:-1 catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" tvg-id="48" tvg-name="湖北卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/hubei.png" group-title="陕南IP",湖北卫视
+http://111.20.33.93/TVOD/88888888/224/3221225760/index.m3u8
+#EXTINF:-1 catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/hunan.png" group-title="陕南IP",湖南卫视
+http://111.20.33.93/TVOD/88888888/224/3221225787/index.m3u8
+#EXTINF:-1 catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" tvg-id="42" tvg-name="甘肃卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/gansu.png" group-title="陕南IP",甘肃卫视
+http://111.20.33.93/TVOD/88888888/224/3221225754/index.m3u8
+#EXTINF:-1 catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" tvg-id="44" tvg-name="贵州卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/guizhou.png" group-title="陕南IP",贵州卫视
+http://111.20.33.93/TVOD/88888888/224/3221225793/index.m3u8
+#EXTINF:-1 catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" tvg-id="36" tvg-name="辽宁卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/liaoning.png" group-title="陕南IP",辽宁卫视
+http://111.20.33.93/TVOD/88888888/224/3221225772/index.m3u8
+#EXTINF:-1 catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" tvg-id="40" tvg-name="重庆卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/chongqing.png" group-title="陕南IP",重庆卫视
+http://111.20.33.93/TVOD/88888888/224/3221225791/index.m3u8
+#EXTINF:-1 catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" tvg-id="59" tvg-name="青海卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/qinghai.png" group-title="陕南IP",青海卫视
+http://111.20.33.93/TVOD/88888888/224/3221225794/index.m3u8
+#EXTINF:-1 catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" tvg-id="67" tvg-name="卡酷动画" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/kaku.png" group-title="陕南IP",北京卡酷少儿
+http://111.20.33.93/TVOD/88888888/224/3221225743/index.m3u8
+#EXTINF:-1 catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" tvg-id="1046" tvg-name="优漫卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png" group-title="陕南IP",江苏优漫卡通
+http://111.20.33.93/TVOD/88888888/224/3221225795/index.m3u8
+#EXTINF:-1 catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" tvg-id="69" tvg-name="金鹰卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinyingkatong.png" group-title="陕南IP",湖南金鹰卡通
+http://111.20.33.93/TVOD/88888888/224/3221225744/index.m3u8
+#EXTINF:-1 catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" tvg-id="6245" tvg-name="CHC动作电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC1.jpg" group-title="陕南IP",CHC动作电影
+http://111.20.33.93/TVOD/88888893/224/3221226465/index.m3u8
+#EXTINF:-1 catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" tvg-id="6241" tvg-name="CHC高清电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg" group-title="陕南IP",CHC高清电影
+http://111.20.33.93/TVOD/88888893/224/3221226463/index.m3u8
+
+
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv1.png" group-title="广西移动",CCTV1
 http://39.135.32.236:6610/PLTV/77777777/224/3221225870/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv1.png" group-title="广西移动",CCTV1
@@ -1976,12 +2136,6 @@ http://live.dxhmt.cn:9081/tv/10200-2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="京津冀鲁豫",开封公共频道
 http://live.dxhmt.cn:9081/tv/10200-3.m3u8
 #http://tvpull.dxhmt.cn:9081/tv/10200-3.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="京津冀鲁豫",周口新闻综合
-http://tv.zkxww.com:1935/live1/mp4:ch1-500k/playlist.m3u8?DVR
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="京津冀鲁豫",周口经济生活
-http://tv.zkxww.com:1935/live2/mp4:ch2-500k/playlist.m3u8?DVR
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="京津冀鲁豫",周口科教文化
-http://tv.zkxww.com:1935/live3/mp4:ch3-500k/playlist.m3u8?DVR
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="京津冀鲁豫",济源电视一套
 http://tvpull.dxhmt.cn:9081/tv/19001-1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="京津冀鲁豫",鹤壁综合频道
@@ -2106,13 +2260,6 @@ http://live.plus.jinhua.com.cn/jjsh/playlist.m3u8
 http://live2.plus.jinhua.com.cn/dsnc/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="江浙沪包邮",舟山新闻综合
 http://live1.plus.wifizs.cn/xwzh/sd/live.m3u8
-#http://live.wifizs.cn/xwzh/sd/live.m3u8
-#EXTINF:-1 tvg-logo="" group-title="江浙沪包邮",舟山公共生活
-http://stream.wifizs.cn/ggsh/sd/live.m3u8
-#http://live.wifizs.cn/ggsh/sd/live.m3u8
-#EXTINF:-1 tvg-logo="" group-title="江浙沪包邮",舟山群岛旅游
-http://stream.wifizs.cn/qdly/sd/live.m3u8
-#http://live.wifizs.cn/qdly/sd/live.m3u8
 #EXTINF:-1 tvg-logo="" group-title="江浙沪包邮",湖州新闻综合
 http://live.plus.hugd.com/xwzhpd/sd/live.m3u8
 #http://live.plus.hugd.com/xwzhpd/playlist.m3u8
@@ -2413,8 +2560,6 @@ http://visit.jjbctv.com:1935/live/xwzhmb/playlist.m3u8
 http://yizheng-tv-hls.cm.jstv.com/yizheng-tv/yzxwzh.m3u8
 #EXTINF:-1 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="江浙沪包邮",仪征生活频道
 http://yizheng-tv-hls.cm.jstv.com/yizheng-tv/yzshsh.m3u8
-#EXTINF:-1 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="江浙沪包邮",宿豫综合频道
-https://suyu-tv-hls.cm.jstv.com/suyu-tv/syzhpd.m3u8
 #EXTINF:-1 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="江浙沪包邮",昆山新闻综合
 http://pili-publish.living.ksrmtzx.com/ksntv/ks-tv.m3u8
 #EXTINF:-1 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="江浙沪包邮",赣榆新闻综合
@@ -2744,8 +2889,6 @@ https://play.cxsm.com/video/xrtv.m3u8?auth_key=1687377957-0-0-6ed689545599d66b75
 http://pili-live-rtmp.210.i2863.com/i2863-210/live_210_050252.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="云贵川渝青",三都新闻综合
 http://pili-live-rtmp.207.i2863.com/i2863-207/sdpdzb.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="云贵川渝青",施秉综合
-https://play.cxsm.com/video/sbtv.m3u8?auth_key=1687378140-0-0-53b8174b0555c8e50011a9a573392a8e
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="云贵川渝青",镇远综合
 https://play.cxsm.com/video/zytv.m3u8?auth_key=1687377713-0-0-360949d045526c0a1b221640ca24a1d0
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="云贵川渝青",正安综合
@@ -2902,23 +3045,23 @@ http://livecdn.dmqhyadmin.com/hls/xjminhe.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://n.ysyz.top:99/buyaolian/fjxczxgg.png" group-title="闽粤桂琼",福建乡村振兴公共
-http://39.135.55.105:6610/PLTV/88888888/224/3221227153/index.m3u8?servicetype=1
+
 #EXTINF:-1 tvg-id="" tvg-name="福建少儿" tvg-logo="http://n.ysyz.top:99/buyaolian/fjse.png" group-title="闽粤桂琼",福建少儿
-http://39.135.55.105:6610/PLTV/88888888/224/3221227194/index.m3u8?servicetype=1
+
 #EXTINF:-1 tvg-id="" tvg-name="福建体育" tvg-logo="http://n.ysyz.top:99/buyaolian/fjty.png" group-title="闽粤桂琼",福建文体
-http://39.135.55.105:6610/PLTV/88888888/224/3221227188/index.m3u8?servicetype=1
+
 #EXTINF:-1 tvg-id="福建新闻" tvg-name="" tvg-logo="http://n.ysyz.top:99/buyaolian/fjxw.png" group-title="闽粤桂琼",福建新闻
-http://39.135.55.105:6610/PLTV/88888888/224/3221227180/index.m3u8?servicetype=1
+
 #EXTINF:-1 tvg-id="福建旅游" tvg-name="" tvg-logo="http://n.ysyz.top:99/buyaolian/fjly.png" group-title="闽粤桂琼",福建旅游
-http://39.135.55.105:6610/PLTV/88888888/224/3221227190/index.m3u8?servicetype=1
+
 #EXTINF:-1 tvg-id="福建电视剧" tvg-name="" tvg-logo="http://n.ysyz.top:99/buyaolian/fjdsj.png" group-title="闽粤桂琼",福建电视剧
-http://39.135.55.105:6610/PLTV/88888888/224/3221227079/index.m3u8?servicetype=1
+
 #EXTINF:-1 tvg-id="" tvg-name="福建经济" tvg-logo="http://n.ysyz.top:99/buyaolian/fjjj.png" group-title="闽粤桂琼",福建经济
-http://39.135.55.105:6610/PLTV/88888888/224/3221227184/index.m3u8?servicetype=1
+
 #EXTINF:-1 tvg-id="福建综合" tvg-name="" tvg-logo="http://n.ysyz.top:99/buyaolian/fjzh.png" group-title="闽粤桂琼",福建综合
-http://39.135.55.105:6610/PLTV/88888888/224/3221227149/index.m3u8?servicetype=1
+
 #EXTINF:-1 tvg-id="福建教育" tvg-name="" tvg-logo="" group-title="闽粤桂琼",福建教育
-http://39.135.55.105:6610/PLTV/88888888/224/3221227202/index.m3u8?servicetype=1
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://n.ysyz.top:99/buyaolian/fzzh.png" group-title="闽粤桂琼",福建·福州新闻综合
 http://live.zohi.tv/video/s10001-FZTV-1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://n.ysyz.top:99/buyaolian/fzys.png" group-title="闽粤桂琼",福建·福州影视
@@ -2929,11 +3072,11 @@ http://live.zohi.tv/video/s10001-shpd-3/index.m3u8
 http://live.zohi.tv/video/s10001-sepd-4/index.m3u8
 
 #EXTINF:-1 tvg-id="厦门一套" tvg-name="厦门一套" tvg-logo="http://n.ysyz.top:99/buyaolian/xm1.png" group-title="闽粤桂琼",厦门1
-http://39.135.55.105:6610/PLTV/88888888/224/3221226814/index.m3u8?servicetype=1
+
 #EXTINF:-1 tvg-id="厦门二套" tvg-name="厦门二套" tvg-logo="http://n.ysyz.top:99/buyaolian/xm2.png" group-title="闽粤桂琼",厦门2
-http://39.135.55.105:6610/PLTV/88888888/224/3221226777/index.m3u8?servicetype=1
+
 #EXTINF:-1 tvg-id="厦门三套" tvg-name="厦门三套" tvg-logo="http://n.ysyz.top:99/buyaolian/xm3.png" group-title="闽粤桂琼",厦门3
-http://39.135.55.105:6610/PLTV/88888888/224/3221226760/index.m3u8?servicetype=1
+
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.hualigs.cn/image/61e139f9c0690.jpg" group-title="闽粤桂琼",福建·龙岩综合
 http://live.lytv.net.cn/zhpwd/hd/live.m3u8
