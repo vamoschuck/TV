@@ -3004,10 +3004,7 @@ http://live2.scmstv.cn/ggpd/sd/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="云贵川渝青",甘孜综合频道
 http://tv.drs.ganzitv.com:8100/channellive/gztv.flv
 #http://m3u8.channel.ganzitv.com/vms/videos/nmip-media/channellive/channel1/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="云贵川渝青",阿坝综合频道
-http://ablive.abatv.com.cn:90/live/zhpd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="云贵川渝青",阿坝文艺频道
-http://ablive.abatv.com.cn:90/live/wypd.m3u8
+
 
 
 
@@ -3410,8 +3407,6 @@ http://110.153.180.106:55555/out_4/index.m3u8
 #http://202.107.188.140:5002/yili4_hdcq-1.m3u8?token=guoziyun
 #http://202.107.188.139:5002/yili4_hdbq.m3u8?token=guoziyun
 #http://202.107.188.140:5002/yili4_hdbq.m3u8?token=guoziyun
-#EXTINF:-1 tvg-logo="" group-title="黑吉辽蒙疆藏",吐鲁番直播频道
-http://www.tlfgbdt.com:8000/hls/Mystream2/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="黑吉辽蒙疆藏",和田汉语综合
 http://202.107.188.139:5002/hetiankzkt1_hdcq.m3u8?token=guoziyun
 #http://202.107.188.140:5002/hetiankzkt1_hdcq.m3u8?token=guoziyun
@@ -3599,13 +3594,11 @@ http://39.135.42.203/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225860/index.m3u8
 
 
 #EXTINF:-1 tvg-id="6246" tvg-name="CHC家庭电影" tvg-logo="http://n.ysyz.top:99/buyaolian/CHCjiating.png" group-title="影视综艺记录",CHC家庭影院
-http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
-#http://59.49.41.44/live.aishang.ctlcdn.com/00000110240323_1/playlist.m3u8?CONTENTID=00000110240323_1
+http://59.49.41.44/live.aishang.ctlcdn.com/00000110240323_1/playlist.m3u8?CONTENTID=00000110240323_1
 #EXTINF:-1 tvg-id="6241" tvg-name="CHC高清电影" tvg-logo="http://n.ysyz.top:99/buyaolian/CHCgaoqing.png" group-title="影视综艺记录",CHC高清电影
-http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
-#http://59.49.41.44/live.aishang.ctlcdn.com/00000110240325_1/playlist.m3u8?CONTENTID=00000110240325_1
+http://59.49.41.44/live.aishang.ctlcdn.com/00000110240325_1/playlist.m3u8?CONTENTID=00000110240325_1
 #EXTINF:-1 tvg-id="6245" tvg-name="CHC动作电影" tvg-logo="http://n.ysyz.top:99/buyaolian/CHCdongzuo.png" group-title="影视综艺记录",CHC动作电影
-http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
+
 #EXTINF:-1 tvg-id="黑莓电影" tvg-name="黑莓电影" tvg-logo="https://epg.112114.xyz/logo/黑莓电影.png" group-title="影视综艺记录",黑莓电影
 http://39.135.138.59:18890/PLTV/88888910/224/3221225769/index.m3u8
 #EXTINF:-1 tvg-id="黑莓动画" tvg-name="黑莓动画" tvg-logo="https://epg.112114.xyz/logo/黑莓动画.png" group-title="影视综艺记录",黑莓动画
@@ -3627,8 +3620,6 @@ http://39.134.134.85/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226550/index
 
 #EXTINF:-1 tvg-logo="http://n.ysyz.top:99/buyaolian/aishang4k.png" group-title="影视综艺记录",爱上4K
 http://111.20.33.93/TVOD/88888893/224/3221226352/index.m3u8
-#EXTINF:-1 tvg-logo="http://n.ysyz.top:99/buyaolian/aishang4k.png" group-title="影视综艺记录",爱上4K
-http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226352/index.m3u8
 #EXTINF:-1 tvg-logo="http://n.ysyz.top:99/buyaolian/LoveNature.png" group-title="影视综艺记录",Love Nature 4K
 https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 #EXTINF:-1 tvg-logo="http://n.ysyz.top:99/buyaolian/LoveNature.png" group-title="影视综艺记录",Love Nature 4K
@@ -3664,9 +3655,6 @@ http://39.134.115.163:8080/PLTV/88888910/224/3221225655/index.m3u8
 http://shbu.live.bestvcdn.com.cn:8080/live/program/live/qjshd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-id="2025" tvg-name="金鹰纪实" tvg-logo="http://n.ysyz.top:99/buyaolian/jinyingjishi.png" group-title="影视综艺记录",金鹰纪实
 http://111.20.33.93/TVOD/88888893/224/3221226351/index.m3u8
-#EXTINF:-1 tvg-id="6595" tvg-logo="http://n.ysyz.top:99/buyaolian/klcd.png" group-title="影视综艺记录",快乐垂钓
-http://39.135.49.209:6610/PLTV/88888888/224/3221227028/1.m3u8?servicetype=1
-
 #EXTINF:-1 tvg-logo="https://s1.ax1x.com/2022/04/14/L1GDP0.png" group-title="影视综艺记录",Fashion TV 4K
 https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s1.ax1x.com/2022/04/14/L1GDP0.png" group-title="影视综艺记录",Fashion TV
