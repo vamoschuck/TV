@@ -20,6 +20,8 @@ http://112.25.48.11/live/program/live/ssty/4000000/mnf.m3u8
 http://112.132.214.218/liveplay-kk.rtxapp.com/live/program/live/ssty/4000000/mnf.m3u8
 #EXTINF:-1 tvg-id="天津体育" tvg-name="天津体育" tvg-logo="https://s1.ax1x.com/2022/06/24/jikSeJ.jpg" group-title="中超地方体育台",天津体育
 http://anyun-ship.com:8888/udp/225.1.1.122:5002
+#EXTINF:-1 tvg-id="天津体育" tvg-name="天津体育" tvg-logo="https://s1.ax1x.com/2022/06/24/jikSeJ.jpg" group-title="中超地方体育台",天津体育
+http://117.14.55.102:18080/hls/24/index.m3u8
 #EXTINF:-1 tvg-id="1428" tvg-name="山东体育" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/sd_tiyu.png" group-title="中超地方体育台",山东体育
 http://39.136.48.21:8089/PLTV/88888888/224/3221226075/index.m3u8
 #EXTINF:-1 tvg-id="1872" tvg-name="北京纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png" group-title="中超地方体育台",北京冬奥纪实
@@ -1557,19 +1559,19 @@ http://111.6.126.218/hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s10/index
 
 
 #EXTINF:-1 tvg-id="天津新闻" tvg-name="天津新闻" tvg-logo="https://www.hualigs.cn/image/61ddafef6b6e3.jpg" group-title="京津冀鲁豫",天津新闻
-
+http://117.14.55.102:18080/hls/20/index.m3u8
 #EXTINF:-1 tvg-id="天津文艺" tvg-name="天津文艺" tvg-logo="https://www.hualigs.cn/image/61ddafef685ee.jpg" group-title="京津冀鲁豫",天津文艺
-
+http://117.14.55.102:18080/hls/21/index.m3u8
 #EXTINF:-1 tvg-id="天津都市" tvg-name="天津都市" tvg-logo="https://www.hualigs.cn/image/61ddafefbe630.jpg" group-title="京津冀鲁豫",天津都市
-
+http://117.14.55.102:18080/hls/23/index.m3u8
 #EXTINF:-1 tvg-id="天津影视" tvg-name="天津影视" tvg-logo="https://www.hualigs.cn/image/61ddafefbe060.jpg" group-title="京津冀鲁豫",天津影视
-
+http://117.14.55.102:18080/hls/22/index.m3u8
 #EXTINF:-1 tvg-id="天津科教" tvg-name="天津科教" tvg-logo="https://www.hualigs.cn/image/61ddaff78eb8e.jpg" group-title="京津冀鲁豫",天津科教
-
+http://117.14.55.102:18080/hls/25/index.m3u8
 #EXTINF:-1 tvg-id="天津体育" tvg-name="天津体育" tvg-logo="https://www.hualigs.cn/image/61ddafef7c1e8.jpg" group-title="京津冀鲁豫",天津体育
-
+http://117.14.55.102:18080/hls/24/index.m3u8
 #EXTINF:-1 tvg-id="天津少儿" tvg-name="天津少儿" tvg-logo="https://www.hualigs.cn/image/61ddaff792825.jpg" group-title="京津冀鲁豫",天津少儿
-
+http://117.14.55.102:18080/hls/26/index.m3u8
 #EXTINF:-1 tvg-id="河北影视" tvg-name="河北影视" tvg-logo="http://n.ysyz.top:99/buyaolian/hbysj.png" group-title="京津冀鲁豫",河北影视
 http://live6.plus.hebtv.com/hbysx/hd/live.m3u8
 #EXTINF:-1 tvg-id="河北经济" tvg-name="河北经济" tvg-logo="http://n.ysyz.top:99/buyaolian/hbjjsh.png" group-title="京津冀鲁豫",河北经济生活
