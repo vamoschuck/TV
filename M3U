@@ -3746,7 +3746,7 @@ http://111.11.123.49:6610/000000001000/6000000006000070630/1.m3u8?Contentid=6000
 http://111.11.123.49:6610/000000001000/6000000006000150630/1.m3u8?Contentid=6000000006000150630&livemode=1&stbId=3&channel-id=wasusyt
 #EXTINF:-1 tvg-logo="http://n.ysyz.top:99/wuchixialiu/ailq.png" group-title="iHOT系列",iHOT爱猎奇
 http://111.11.123.49:6610/000000001000/6000000006000190630/1.m3u8?Contentid=6000000006000190630&livemode=1&stbId=3&channel-id=wasusyt
-#EXTINF:- tvg-logo="http://n.ysyz.top:99/wuchixialiu/aids.png" group-title="iHOT系列",iHOT爱都市
+#EXTINF:-1 tvg-logo="http://n.ysyz.top:99/wuchixialiu/aids.png" group-title="iHOT系列",iHOT爱都市
 http://111.11.123.49:6610/000000001000/6000000006000080630/1.m3u8?Contentid=6000000006000080630&livemode=1&stbId=3&channel-id=wasusyt
 #EXTINF:-1 tvg-logo="http://n.ysyz.top:99/wuchixialiu/aikx.png" group-title="iHOT系列",iHOT爱科学
 http://111.11.123.49:6610/000000001000/6000000006000160630/1.m3u8?Contentid=6000000006000160630&livemode=1&stbId=3&channel-id=wasusyt
