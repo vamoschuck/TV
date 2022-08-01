@@ -3467,6 +3467,12 @@ http://124.88.144.73:1935/live/dywt/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="黑吉辽蒙疆藏",石河子教育
 http://124.88.144.73:1935/live/jiaoyu/playlist.m3u8
 
+
+#EXTINF:-1 group-title="体育-咪咕直播" tvg-logo="https://www.qatar.qa/media/2021/10/alkass_logo_ar.png",Al Kass One
+https://liveak.alkassdigital.net/livehttporigin/smil:YWxrYXNh1.smil/chunklist.m3u8
+#EXTINF:-1 group-title="体育-咪咕直播" tvg-logo="https://www.qatar.qa/media/2021/10/alkass_logo_ar.png",Al Kass One
+https://list.iptvcat.com/my_list/s/deb90284fa6c305458809a8ab6cc5057.m3u8
+
 #EXTINF:-1 catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" tvg-id="5" tvg-name="CCTV5" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv5.png" group-title="体育-咪咕直播",CCTV-5体育
 http://39.134.67.226/TVOD/88888888/224/3221225818/index.m3u8
 #EXTINF:-1 catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" tvg-id="5" tvg-name="CCTV5" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv5.png" group-title="体育-咪咕直播",CCTV-5体育
@@ -3475,8 +3481,6 @@ http://39.134.67.99/TVOD/88888888/224/3221225818/index.m3u8
 http://39.135.138.60:18890/TVOD/88888910/224/3221225633/index.m3u8
 #EXTINF:-1 catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv5+.png" group-title="体育-咪咕直播",CCTV5+
 http://111.20.33.93/TVOD/88888893/224/3221226221/index.m3u8
-#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv5+.png" group-title="体育-咪咕直播",CCTV5+
-http://119.167.231.18/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225494/index.m3u8
 #EXTINF:-1 tvg-id="1987" tvg-name="五星体育频道" tvg-logo="http://n.ysyz.top:99/buyaolian/wxty.png" group-title="体育-咪咕直播",五星体育
 http://shbu.live.bestvcdn.com.cn:8080/live/program/live/ssty/4000000/mnf.m3u8
 #EXTINF:-1 tvg-id="1987" tvg-name="五星体育频道" tvg-logo="http://n.ysyz.top:99/buyaolian/wxty.png" group-title="体育-咪咕直播",五星体育
