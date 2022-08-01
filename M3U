@@ -3468,10 +3468,13 @@ http://124.88.144.73:1935/live/dywt/playlist.m3u8
 http://124.88.144.73:1935/live/jiaoyu/playlist.m3u8
 
 
-#EXTINF:-1 group-title="体育-咪咕直播" tvg-logo="https://www.qatar.qa/media/2021/10/alkass_logo_ar.png",Al Kass One
+#EXTINF:-1 group-title="体育-咪咕直播" tvg-logo="https://www.qatar.qa/media/2021/10/alkass_logo_ar.png",AlKass 1
 https://liveak.alkassdigital.net/livehttporigin/smil:YWxrYXNh1.smil/chunklist.m3u8
-#EXTINF:-1 group-title="体育-咪咕直播" tvg-logo="https://www.qatar.qa/media/2021/10/alkass_logo_ar.png",Al Kass One
+#EXTINF:-1 group-title="体育-咪咕直播" tvg-logo="https://www.qatar.qa/media/2021/10/alkass_logo_ar.png",AlKass 1
 https://list.iptvcat.com/my_list/s/deb90284fa6c305458809a8ab6cc5057.m3u8
+#EXTINF:-1 group-title="体育-咪咕直播" tvg-logo="https://www.qatar.qa/media/2021/10/alkass_logo_ar.png",AlKass 2
+https://liveak.alkassdigital.net/livehttporigin/smil:YWxrYXNh2.smil/chunklist.m3u8
+
 
 #EXTINF:-1 catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" tvg-id="5" tvg-name="CCTV5" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv5.png" group-title="体育-咪咕直播",CCTV-5体育
 http://39.134.67.226/TVOD/88888888/224/3221225818/index.m3u8
