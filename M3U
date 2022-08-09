@@ -2492,7 +2492,7 @@ http://cm.wshls.homecdn.com/live/829d.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="湘鄂赣皖",铜陵新闻综合
 http://dstpush1.retalltech.com/app/stream1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="湘鄂赣皖",铜陵科教频道
-http://dstpush1.retalltech.com/app/stream3.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="湘鄂赣皖",亳州新闻频道
 http://zbbf2.ahbztv.com/live/416.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="湘鄂赣皖",亳州农村频道
@@ -2827,7 +2827,7 @@ http://stream.ysbtv.net/1/sd/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="云贵川渝青",海东综合频道
 https://pili-live-hls-ashh.tianma3600.com/ashh/TV.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="云贵川渝青",海南州藏语频道
-http://live.hnzzzzzdst.com/channel1/sd/live.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="云贵川渝青",海西州综合频道
 http://stream.haixitv.cn/1/sd/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="云贵川渝青",囊谦综合
@@ -2974,7 +2974,6 @@ http://stream.gxqztv.com/01/sd/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.hualigs.cn/image/61e140d24b855.jpg" group-title="闽粤桂琼",广西·来宾新闻综合频道
 
 #EXTINF:-1 tvg-id="72" tvg-name="三沙卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/sansha.png" group-title="闽粤桂琼",三沙卫视
-http://pull2.ssws.tv/live/SswsTV20210803.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="黑吉辽蒙疆藏",黑龙江文体
 http://39.134.65.149/PLTV/88888888/224/3221225965/1.m3u8
@@ -3025,9 +3024,6 @@ http://39.134.65.181/PLTV/88888888/224/3221225736/1.m3u8
 #EXTINF:-1 tvg-logo="" group-title="黑吉辽蒙疆藏",大庆公共
 http://39.134.65.181/PLTV/88888888/224/3221225734/1.m3u8
 #http://39.134.65.183/PLTV/88888888/224/3221225734/1.m3u8
-#EXTINF:-1 tvg-logo="" group-title="黑吉辽蒙疆藏",伊春综合频道
-http://live.yichuntv.com/e5d7b4b95cf849d79fa3964431dca1f3/h264_800k_ts/index.m3u8?type=flv2hls_m3u8
-#http://live.yichuntv.com/live/e5d7b4b95cf849d79fa3964431dca1f3?fmt=h264_800k_flv
 #EXTINF:-1 tvg-logo="" group-title="黑吉辽蒙疆藏",伊春公共频道
 http://live.yichuntv.com/1501fae792774811b2cd1366a078e666/h264_800k_ts/index.m3u8?type=flv2hls_m3u8
 #http://live.yichuntv.com/live/1501fae792774811b2cd1366a078e666?fmt=h264_800k_flv
@@ -3183,9 +3179,6 @@ http://110.153.180.106:55555/out_4/index.m3u8
 #http://202.107.188.140:5002/yili4_hdcq-1.m3u8?token=guoziyun
 #http://202.107.188.139:5002/yili4_hdbq.m3u8?token=guoziyun
 #http://202.107.188.140:5002/yili4_hdbq.m3u8?token=guoziyun
-#EXTINF:-1 tvg-logo="" group-title="黑吉辽蒙疆藏",和田汉语综合
-http://202.107.188.139:5002/hetiankzkt1_hdcq.m3u8?token=guoziyun
-#http://202.107.188.140:5002/hetiankzkt1_hdcq.m3u8?token=guoziyun
 #EXTINF:-1 tvg-logo="" group-title="黑吉辽蒙疆藏",和田维语综合
 http://202.107.188.141:5002/hetiankzkt2_hdcq.m3u8?token=guoziyun
 #http://202.107.188.139:5002/hetiankzkt2_hdcq.m3u8?token=guoziyun
@@ -3198,12 +3191,7 @@ http://p4.weizan.cn/635735175/716981024541808512/live.m3u8
 http://117.190.130.4:8081/out_1/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="黑吉辽蒙疆藏",裕民哈语
 http://117.190.130.4:8081/out_2/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="黑吉辽蒙疆藏",尉犁一套
-http://202.107.188.140:5002/yuli1_hdcq.m3u8?token=guoziyun
-#EXTINF:-1 tvg-logo="" group-title="黑吉辽蒙疆藏",库尔勒二套
-http://202.107.188.139:5002/kuerle2_hdcq.m3u8?token=guoziyun
-#EXTINF:-1 tvg-logo="" group-title="黑吉辽蒙疆藏",吉木萨尔综合
-http://218.31.201.189:9000/api/material/local/mnt/shiping1/prog_index.m3u8
+
 
 #EXTINF:-1 tvg-logo="" group-title="黑吉辽蒙疆藏",奎屯哈萨克语
 http://218.84.12.186:8002/hls/main/playlist.m3u8
