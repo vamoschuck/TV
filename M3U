@@ -1748,6 +1748,92 @@ http://223.110.242.134:6610/cntv/live1/HD-8000k-1080P-shanghaijishi/1.m3u8
 http://223.110.242.134:6610/cntv/live1/HD-8000k-1080P-beijingjishi/1.m3u8
 
 
+#EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="鼠爷YTB代理",凤凰资讯
+https://ytb.arp220.us/jmsytb.m3u8?c=1
+#EXTINF:-1 tvg-id="6073" tvg-name="TVBS新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS新闻.png" group-title="鼠爷YTB代理",TVBS新闻
+https://ytb.arp220.us/jmsytb.m3u8?c=2
+#EXTINF:-1 tvg-id="6074" tvg-name="TVBS" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS.png" group-title="鼠爷YTB代理",TVBS
+https://ytb.arp220.us/jmsytb.m3u8?c=3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="鼠爷YTB代理",华视新闻
+https://ytb.arp220.us/jmsytb.m3u8?c=4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="鼠爷YTB代理",中天新闻
+https://ytb.arp220.us/jmsytb.m3u8?c=5
+#EXTINF:-1 tvg-id="6171" tvg-name="寰宇新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GlobalNews.png" group-title="鼠爷YTB代理",寰宇新闻
+https://ytb.arp220.us/jmsytb.m3u8?c=6
+#EXTINF:-1 tvg-id="6071" tvg-name="民视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FTVNews.png" group-title="鼠爷YTB代理",民视新闻
+https://ytb.arp220.us/jmsytb.m3u8?c=7
+#EXTINF:-1 tvg-id="6143" tvg-name="台视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/台视新闻.png" group-title="鼠爷YTB代理",台视新闻
+https://ytb.arp220.us/jmsytb.m3u8?c=8
+#EXTINF:-1 tvg-id="7176" tvg-name="中视新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/中视新闻.png" group-title="鼠爷YTB代理",中视新闻
+https://ytb.arp220.us/jmsytb.m3u8?c=9
+#EXTINF:-1 tvg-id="6069" tvg-name="东森新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCNews.png" group-title="鼠爷YTB代理",东森新闻
+https://ytb.arp220.us/jmsytb.m3u8?c=10
+#EXTINF:-1 tvg-id="6075" tvg-name="东森财经新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCFinancialNews.png" group-title="鼠爷YTB代理",东森财经
+https://ytb.arp220.us/jmsytb.m3u8?c=11
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="鼠爷YTB代理",东森全球速报
+https://ytb.arp220.us/jmsytb.m3u8?c=12
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="鼠爷YTB代理",三立海外
+https://ytb.arp220.us/jmsytb.m3u8?c=13
+#EXTINF:-1 tvg-id="6108" tvg-name="三立财经新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETInews.png" group-title="鼠爷YTB代理",三立iNEWS
+https://ytb.arp220.us/jmsytb.m3u8?c=14
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="鼠爷YTB代理",镜新闻
+https://ytb.arp220.us/jmsytb.m3u8?c=15
+#EXTINF:-1 tvg-id="6110" tvg-name="运通财经" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EFTV.png" group-title="鼠爷YTB代理",运通财经
+https://ytb.arp220.us/jmsytb.m3u8?c=16
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="鼠爷YTB代理",YOYO TV
+https://ytb.arp220.us/jmsytb.m3u8?c=17
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="鼠爷YTB代理",华视综艺
+https://ytb.arp220.us/jmsytb.m3u8?c=18
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="鼠爷YTB代理",名城综合台
+https://ytb.arp220.us/jmsytb.m3u8?c=19
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="鼠爷YTB代理",龙华桌逰
+https://ytb.arp220.us/jmsytb.m3u8?c=21
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="鼠爷YTB代理",靖天电视台
+https://ytb.arp220.us/jmsytb.m3u8?c=22
+#EXTINF:-1 tvg-id="6112" tvg-name="诚心电视台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ChengSinTV.png" group-title="鼠爷YTB代理",诚心电视台
+https://ytb.arp220.us/jmsytb.m3u8?c=23
+#EXTINF:-1 tvg-id="7183" tvg-name="aljazeera" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/aljazeera.png" group-title="鼠爷YTB代理",半岛新闻
+https://ytb.arp220.us/jmsytb.m3u8?c=24
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="鼠爷YTB代理",参宿四爆炸
+https://ytb.arp220.us/jmsytb.m3u8?c=25
+#EXTINF:-1 tvg-id="7100" tvg-name="ABCAustralia" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/abcaus.png" group-title="鼠爷YTB代理",ABC News
+https://ytb.arp220.us/jmsytb.m3u8?c=26
+#EXTINF:-1 tvg-id="742" tvg-name="SkyNews" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SkyNews.png" group-title="鼠爷YTB代理",Sky News
+https://ytb.arp220.us/jmsytb.m3u8?c=27
+#EXTINF:-1 tvg-id="734" tvg-name="france24" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/france24.png" group-title="鼠爷YTB代理",FRANCE 24
+https://ytb.arp220.us/jmsytb.m3u8?c=28
+#EXTINF:-1 tvg-id="6140" tvg-name="BloombergTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BloombergTV.png" group-title="鼠爷YTB代理",Bloomberg Global Financia
+https://ytb.arp220.us/jmsytb.m3u8?c=29
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="鼠爷YTB代理",ANN News
+https://ytb.arp220.us/jmsytb.m3u8?c=30
+#EXTINF:-1 tvg-id="730" tvg-name="DW" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DW.png" group-title="鼠爷YTB代理",DW News
+https://ytb.arp220.us/jmsytb.m3u8?c=31
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="鼠爷YTB代理",ENGLISH SPEECH
+https://ytb.arp220.us/jmsytb.m3u8?c=32
+#EXTINF:-1 tvg-id="7100" tvg-name="ABCAustralia" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/abcaus.png" group-title="鼠爷YTB代理",ABC News-AU
+https://ytb.arp220.us/jmsytb.m3u8?c=33
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="鼠爷YTB代理",MBC News
+https://ytb.arp220.us/jmsytb.m3u8?c=34
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="鼠爷YTB代理",KBS Kr
+https://ytb.arp220.us/jmsytb.m3u8?c=35
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="鼠爷YTB代理",NASA TV
+https://ytb.arp220.us/jmsytb.m3u8?c=36
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="鼠爷YTB代理",NASA TV2
+https://ytb.arp220.us/jmsytb.m3u8?c=37
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="鼠爷YTB代理",CNA
+https://ytb.arp220.us/jmsytb.m3u8?c=38
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="鼠爷YTB代理",NBC News
+https://ytb.arp220.us/jmsytb.m3u8?c=39
+#EXTINF:-1 tvg-id="331" tvg-name="NHKWorld" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NHKWorld.png" group-title="鼠爷YTB代理",NHK World
+https://ytb.arp220.us/jmsytb.m3u8?c=40
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="鼠爷YTB代理",THE K-POP
+https://ytb.arp220.us/jmsytb.m3u8?c=41
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="鼠爷YTB代理",EarthTV
+https://ytb.arp220.us/jmsytb.m3u8?c=42
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="鼠爷YTB代理",ISS Cameras
+https://ytb.arp220.us/jmsytb.m3u8?c=43
+
+
 
 #EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/beijing.png" group-title="京津冀鲁豫",北京卫视
 http://111.6.126.218/hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s1/index.m3u8
