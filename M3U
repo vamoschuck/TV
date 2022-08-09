@@ -794,6 +794,10 @@ http://39.136.48.2:8089/ucdn.sd.chinamobile.com/00/SNM/CHANNEL00000311/index.m3u
 http://39.136.48.2:8089/ucdn.sd.chinamobile.com/00/SNM/CHANNEL00000317/index.m3u8
 #EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="山东移动",CCTV-4高清
 http://39.136.48.2:8089/ucdn.sd.chinamobile.com/00/SNM/CHANNEL00000320/index.m3u8
+#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv5.png" group-title="山东移动",CCTV5
+http://39.136.48.2:8089/ucdn.sd.chinamobile.com/00/SNM/CHANNEL00000360/index.m3u8
+#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv5+.png" group-title="山东移动",CCTV5+
+http://39.136.48.2:8089/ucdn.sd.chinamobile.com/00/SNM/CHANNEL00000316/index.m3u8
 #EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="山东移动",CCTV-7高清
 http://39.136.48.2:8089/ucdn.sd.chinamobile.com/00/SNM/CHANNEL00000318/index.m3u8
 #EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" group-title="山东移动",CCTV-9高清
@@ -902,7 +906,10 @@ http://39.136.48.2:8089/ucdn.sd.chinamobile.com/00/SNM/CHANNEL00000039/index.m3u
 http://39.136.48.2:8089/ucdn.sd.chinamobile.com/00/SNM/CHANNEL00000016/index.m3u8
 #EXTINF:-1 tvg-id="40" tvg-name="重庆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png" group-title="山东移动",重庆卫视
 http://39.136.48.2:8089/ucdn.sd.chinamobile.com/00/SNM/CHANNEL00000023/index.m3u8
-
+#EXTINF:-1 tvg-id="6591" tvg-name="文物宝库" tvg-logo="http://n.ysyz.top:99/buyaolian/WENWUBAOKU.jpg" group-title="山东移动",河南文物宝库
+http://39.136.48.2:8089/ucdn.sd.chinamobile.com/00/SNM/CHANNEL00000658/index.m3u8
+#EXTINF:-1 tvg-id="6555" tvg-name="梨园" tvg-logo="http://n.ysyz.top:99/buyaolian/CCTVPAYFEE20.jpg" group-title="山东移动",河南梨园
+http://39.136.48.2:8089/ucdn.sd.chinamobile.com/00/SNM/CHANNEL00000656/index.m3u8
 
 
 
