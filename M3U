@@ -3007,7 +3007,7 @@ http://stream.jinjiang.tv/1/sd/live.m3u8
 #EXTINF:-1 tvg-id="广州影视" tvg-name="广州影视" tvg-logo="https://www.hualigs.cn/image/61e13c430ccf1.jpg" group-title="闽粤桂琼",广州影视
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.hualigs.cn/image/61e13c42c8f20.jpg" group-title="闽粤桂琼",南国都市
-
+http://103.213.250.168:889/m3u8.php/GZTV/shenghuo
 
 
 #EXTINF:-1 tvg-id="深圳都市" tvg-name="深圳都市" tvg-logo="http://n.ysyz.top:99/buyaolian/shenzhen.png" group-title="闽粤桂琼",深圳都市
@@ -3340,6 +3340,8 @@ http://39.136.48.21:8089/PLTV/88888888/224/3221226075/index.m3u8
 http://111.6.126.218/hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s6/index.m3u8
 #EXTINF:-1 tvg-id="2068" tvg-name="CDTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/cdtv5.png" group-title="体育-咪咕直播",成都公共
 http://v2.91kds.cn/b9/sccdtv.m3u8?fmt=hls&id=sccdtv5hd&auth=rinimabi
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.hualigs.cn/image/61e13c42c8f20.jpg" group-title="体育-咪咕直播",南国都市
+http://103.213.250.168:889/m3u8.php/GZTV/shenghuo
 
 #EXTINF:-1 catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" tvg-id="5" tvg-name="CCTV5" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv5.png" group-title="体育-咪咕直播",CCTV-5体育
 http://39.134.67.226/TVOD/88888888/224/3221225818/index.m3u8
