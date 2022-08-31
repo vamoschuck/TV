@@ -166,10 +166,6 @@ http://111.20.33.93/TVOD/88888893/224/3221226463/index.m3u8
 http://111.20.33.70/TVOD/88888893/224/3221226010/index.m3u8
 #EXTINF:-1 catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" tvg-id="1" tvg-name="CCTV1" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv1.png" group-title="陕西移动城固",CCTV1
 http://111.20.33.70/TVOD/88888893/224/3221226231/index.m3u8
-#EXTINF:-1 catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" tvg-id="1" tvg-name="CCTV1" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv1.png" group-title="陕西移动城固",CCTV1
-http://111.20.33.70/TVOD/88888893/224/3221226239/index.m3u8
-#EXTINF:-1 catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" tvg-id="1" tvg-name="CCTV1" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv1.png" group-title="陕西移动城固",CCTV1
-http://111.20.33.70/TVOD/88888893/224/3221226246/index.m3u8
 #EXTINF:-1 catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" tvg-id="2" tvg-name="CCTV2" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv2.png" group-title="陕西移动城固",CCTV2
 http://111.20.33.70/TVOD/88888893/224/3221226195/index.m3u8
 #EXTINF:-1 catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" tvg-id="2" tvg-name="CCTV2" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv2.png" group-title="陕西移动城固",CCTV2
@@ -189,8 +185,6 @@ http://111.20.33.70/TVOD/88888893/224/3221226011/index.m3u8
 #EXTINF:-1 catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" tvg-id="7" tvg-name="CCTV6" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv6.png" group-title="陕西移动城固",CCTV6
 http://111.20.33.70/TVOD/88888893/224/3221226393/index.m3u8
 #EXTINF:-1 catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" tvg-id="8" tvg-name="CCTV7" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv7.png" group-title="陕西移动城固",CCTV7
-http://111.20.33.70/TVOD/88888893/224/3221226248/index.m3u8
-#EXTINF:-1 catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" tvg-id="8" tvg-name="CCTV7" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv7.png" group-title="陕西移动城固",CCTV7
 http://111.20.33.70/TVOD/88888893/224/3221226192/index.m3u8
 #EXTINF:-1 catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" tvg-id="9" tvg-name="CCTV8" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv8.png" group-title="陕西移动城固",CCTV8
 http://111.20.33.70/TVOD/88888893/224/3221226012/index.m3u8
@@ -200,12 +194,10 @@ http://111.20.33.70/TVOD/88888893/224/3221226391/index.m3u8
 http://111.20.33.70/TVOD/88888893/224/3221226197/index.m3u8
 #EXTINF:-1 catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" tvg-id="11" tvg-name="CCTV10" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv10.png" group-title="陕西移动城固",CCTV10
 http://111.20.33.70/TVOD/88888893/224/3221226189/index.m3u8
-#EXTINF:-1 catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" tvg-id="11" tvg-name="CCTV10" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv10.png" group-title="陕西移动城固",CCTV10
-http://111.20.33.70/TVOD/88888893/224/3221226228/index.m3u8
-#EXTINF:-1 catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" tvg-id="13" tvg-name="CCTV12" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv12.png" group-title="陕西移动城固",CCTV12
-http://111.20.33.70/TVOD/88888893/224/3221226190/index.m3u8
 #EXTINF:-1 catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" tvg-id="12" tvg-name="CCTV11" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv11.png" group-title="陕西移动城固",CCTV11
 http://111.20.33.70/TVOD/88888893/224/3221226240/index.m3u8
+#EXTINF:-1 catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" tvg-id="13" tvg-name="CCTV12" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv12.png" group-title="陕西移动城固",CCTV12
+http://111.20.33.70/TVOD/88888893/224/3221226190/index.m3u8
 #EXTINF:-1 catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" tvg-id="14" tvg-name="CCTV13" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv13.png" group-title="陕西移动城固",CCTV13
 http://111.20.33.70/TVOD/88888893/224/3221226233/index.m3u8
 #EXTINF:-1 catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" tvg-id="15" tvg-name="CCTV14" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv14.png" group-title="陕西移动城固",CCTV14
@@ -214,8 +206,6 @@ http://111.20.33.70/TVOD/88888893/224/3221226193/index.m3u8
 http://111.20.33.70/TVOD/88888893/224/3221226921/index.m3u8
 #EXTINF:-1 catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" tvg-id="17" tvg-name="CCTV17" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv17.png" group-title="陕西移动城固",CCTV17
 http://111.20.33.70/TVOD/88888893/224/3221226198/index.m3u8
-#EXTINF:-1 catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" tvg-id="17" tvg-name="CCTV17" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv17.png" group-title="陕西移动城固",CCTV17
-http://111.20.33.70/TVOD/88888893/224/3221226208/index.m3u8
 #EXTINF:-1 catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" tvg-id="48" tvg-name="湖北卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/hubei.png" group-title="陕西移动城固",湖北卫视
 http://111.20.33.70/TVOD/88888893/224/3221226194/index.m3u8
 #EXTINF:-1 catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" tvg-id="32" tvg-name="安徽卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/anhui.png" group-title="陕西移动城固",安徽卫视
@@ -300,8 +290,6 @@ http://111.20.33.70/TVOD/88888893/224/3221226243/index.m3u8
 http://111.20.33.70/TVOD/88888893/224/3221226245/index.m3u8
 #EXTINF:-1 catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" tvg-id="" tvg-name="" tvg-logo="" group-title="陕西移动城固",略阳
 http://111.20.33.70/TVOD/88888893/224/3221226322/index.m3u8
-#EXTINF:-1 catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" tvg-id="" tvg-name="" tvg-logo="" group-title="陕西移动城固",汉中1
-http://111.20.33.70/TVOD/88888893/224/3221226331/index.m3u8
 #EXTINF:-1 catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" tvg-id="2025" tvg-name="金鹰纪实" tvg-logo="http://n.ysyz.top:99/buyaolian/jinyingjishi.png" group-title="陕西移动城固",金鹰纪实
 http://111.20.33.70/TVOD/88888893/224/3221226351/index.m3u8
 #EXTINF:-1 catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" tvg-id="" tvg-name="" tvg-logo="" group-title="陕西移动城固",4K电影
@@ -322,17 +310,11 @@ http://111.20.33.70/TVOD/88888893/224/3221226361/index.m3u8
 http://111.20.33.70/TVOD/88888893/224/3221226363/index.m3u8
 #EXTINF:-1 catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" tvg-id="" tvg-name="" tvg-logo="" group-title="陕西移动城固",西部电影
 http://111.20.33.70/TVOD/88888893/224/3221226364/index.m3u8
-#EXTINF:-1 catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" tvg-id="" tvg-name="" tvg-logo="" group-title="陕西移动城固",佛坪
-http://111.20.33.70/TVOD/88888893/224/3221226454/index.m3u8
-#EXTINF:-1 catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" tvg-id="" tvg-name="" tvg-logo="" group-title="陕西移动城固",镇巴
-http://111.20.33.70/TVOD/88888893/224/3221226457/index.m3u8
-#EXTINF:-1 catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" tvg-id="" tvg-name="" tvg-logo="" group-title="陕西移动城固",电竞
-http://111.20.33.70/TVOD/88888893/224/3221226458/index.m3u8
-#EXTINF:-1 catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" tvg-id="" tvg-name="" tvg-logo="" group-title="陕西移动城固",CHC影院
+#EXTINF:-1 catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" tvg-id="6246" tvg-name="CHC家庭电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg" group-title="陕西移动城固",CHC影院
 http://111.20.33.70/TVOD/88888893/224/3221226462/index.m3u8
-#EXTINF:-1 catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" tvg-id="" tvg-name="" tvg-logo="" group-title="陕西移动城固",CHC电影
+#EXTINF:-1 catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" tvg-id="6241" tvg-name="CHC高清电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg" group-title="陕西移动城固",CHC高清电影
 http://111.20.33.70/TVOD/88888893/224/3221226463/index.m3u8
-#EXTINF:-1 catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" tvg-id="6245" tvg-name="CHC动作电影" tvg-logo="http://n.ysyz.top:99/buyaolian//CHC1.jpg" group-title="陕西移动城固",CHC动作
+#EXTINF:-1 catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" tvg-id="6245" tvg-name="CHC动作电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC1.jpg" group-title="陕西移动城固",CHC动作电影
 http://111.20.33.70/TVOD/88888893/224/3221226465/index.m3u8
 #EXTINF:-1 catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" tvg-id="1977" tvg-name="欢笑剧场" tvg-logo="http://n.ysyz.top:99/buyaolian//huanxiao.png" group-title="陕西移动城固",欢笑剧场
 http://111.20.33.70/TVOD/88888893/224/3221226582/index.m3u8
@@ -512,186 +494,368 @@ http://111.40.196.9/0000000000001001/1/index.m3u8?Contentid=1000000001000030159&
 http://111.40.196.9/0000000000001001/1/index.m3u8?Contentid=1000000001000010606&livemode=1&stbId=2&channel-id=ystenlive
 
 
-
-
-#EXTINF:-1 group-title="浙江爱看IPTV" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png",CCTV4K
-http://live.aikan.miguvideo.com/PLTV/88888888/224/3221233454/index.m3u8
-#EXTINF:-1 group-title="浙江爱看IPTV" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png",CCTV4K
-http://live.aikan.miguvideo.com/PLTV/88888888/224/3221233400/index.m3u8
-#EXTINF:-1 group-title="浙江爱看IPTV" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png",CCTV2HD
-http://live.aikan.miguvideo.com/PLTV/88888888/224/3221232362/index.m3u8
-#EXTINF:-1 group-title="浙江爱看IPTV" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png",CCTV2HD
-http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231678/index.m3u8
-#EXTINF:-1 group-title="浙江爱看IPTV" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png",CCTV4-欧洲HD
-http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231615/index.m3u8
-#EXTINF:-1 group-title="浙江爱看IPTV" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png",CCTV5+HD
-http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231459/index.m3u8
-#EXTINF:-1 group-title="浙江爱看IPTV" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png",CCTV9HD
-http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231697/index.m3u8
-#EXTINF:-1 group-title="浙江爱看IPTV" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png",CCTV10HD
-http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231666/index.m3u8
-#EXTINF:-1 group-title="浙江爱看IPTV" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png",CCTV11HD
-http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231711/index.m3u8
-#EXTINF:-1 group-title="浙江爱看IPTV" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png",CCTV12HD
-http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231660/index.m3u8
-#EXTINF:-1 group-title="浙江爱看IPTV" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png",CCTV13
-http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231636/index.m3u8
-#EXTINF:-1 group-title="浙江爱看IPTV" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png",CCTV16
-http://live.aikan.miguvideo.com/PLTV/88888888/224/3221233403/index.m3u8
-#EXTINF:-1 group-title="浙江爱看IPTV" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png",CCTV17HD
-http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231772/index.m3u8
-#EXTINF:-1 group-title="浙江爱看IPTV" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE7.jpg",CCTV怀旧剧场
-http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231544/index.m3u8
-#EXTINF:-1 group-title="浙江爱看IPTV" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVdiyijuchang.png",CCTV第一剧场
-http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231540/index.m3u8
-#EXTINF:-1 group-title="浙江爱看IPTV" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTBfengyun.png",CCTV风云剧场
-http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231604/index.m3u8
-#EXTINF:-1 group-title="浙江爱看IPTV" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVfengyunzuqiu.png",CCTV风云足球
-http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231547/index.m3u8
-#EXTINF:-1 group-title="浙江爱看IPTV" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVshijiedili.png",CCTV世界地理
-http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231537/index.m3u8
-#EXTINF:-1 group-title="浙江爱看IPTV" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVnvxing.png",CCTV女时尚
-http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231598/index.m3u8
-#EXTINF:-1 group-title="浙江爱看IPTV",CCTV央视文化精品
-http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231561/index.m3u8
-#EXTINF:-1 group-title="浙江爱看IPTV" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png",CGTN西班牙语
-http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231546/index.m3u8
-#EXTINF:-1 group-title="浙江爱看IPTV" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png",CGTN阿拉伯语
-http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231579/index.m3u8
-#EXTINF:-1 group-title="浙江爱看IPTV" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png",CGTN俄语
-http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231591/index.m3u8
-#EXTINF:-1 group-title="浙江爱看IPTV",CETV1HD
-http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231714/index.m3u8
-#EXTINF:-1 group-title="浙江爱看IPTV",CETV2
-http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231607/index.m3u8
-#EXTINF:-1 group-title="浙江爱看IPTV",CETV3
-http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231543/index.m3u8
-#EXTINF:-1 group-title="浙江爱看IPTV" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC1.jpg",CHC动作电影
-http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231580/index.m3u8
-#EXTINF:-1 group-title="浙江爱看IPTV" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg",CHC家庭影院
-http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231799/index.m3u8
-#EXTINF:-1 group-title="浙江爱看IPTV" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png",湖南卫视HD
-http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231729/index.m3u8
-#EXTINF:-1 group-title="浙江爱看IPTV" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png",湖南卫视HD
-http://live.aikan.miguvideo.com/PLTV/88888888/224/3221230206/index.m3u8
-#EXTINF:-1 group-title="浙江爱看IPTV" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png",湖南卫视HD
-http://live.aikan.miguvideo.com/PLTV/88888888/224/3221230824/index.m3u8
-#EXTINF:-1 group-title="浙江爱看IPTV" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png",浙江卫视HD
-http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229352/index.m3u8
-#EXTINF:-1 group-title="浙江爱看IPTV" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png",浙江卫视HD
-http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231567/index.m3u8
-#EXTINF:-1 group-title="浙江爱看IPTV" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png",东方卫视HD
-http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231450/index.m3u8
-#EXTINF:-1 group-title="浙江爱看IPTV" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png",广东卫视HD
-http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231891/index.m3u8
-#EXTINF:-1 group-title="浙江爱看IPTV" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png",广东卫视HD
-http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231502/index.m3u8
-#EXTINF:-1 group-title="浙江爱看IPTV" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/tianjin.png",天津卫视HD
-http://live.aikan.miguvideo.com/PLTV/88888888/224/3221228905/index.m3u8
-#EXTINF:-1 group-title="浙江爱看IPTV" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png",山东卫视HD
-http://live.aikan.miguvideo.com/PLTV/88888888/224/3221227909/index.m3u8
-#EXTINF:-1 group-title="浙江爱看IPTV" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hubei.png",湖北卫视HD
-http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231888/index.m3u8
-#EXTINF:-1 group-title="浙江爱看IPTV" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hubei.png",湖北卫视
-http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231523/index.m3u8
-#EXTINF:-1 group-title="浙江爱看IPTV" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png",黑龙江卫视HD
-http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231967/index.m3u8
-#EXTINF:-1 group-title="浙江爱看IPTV" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png",黑龙江卫视HD
-http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231520/index.m3u8
-#EXTINF:-1 group-title="浙江爱看IPTV" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png",安徽卫视HD
-http://live.aikan.miguvideo.com/PLTV/88888888/224/3221230215/index.m3u8
-#EXTINF:-1 group-title="浙江爱看IPTV" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangxi.png",江西卫视HD
-http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231964/index.m3u8
-#EXTINF:-1 group-title="浙江爱看IPTV" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangxi.png",江西卫视
-http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231511/index.m3u8
-#EXTINF:-1 group-title="浙江爱看IPTV" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/qinghai.png",青海卫视
-http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231435/index.m3u8
-#EXTINF:-1 group-title="浙江爱看IPTV" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png",云南卫视
-http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231499/index.m3u8
-#EXTINF:-1 group-title="浙江爱看IPTV" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/henan.png",河南卫视
-http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231514/index.m3u8
-#EXTINF:-1 group-title="浙江爱看IPTV" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi.png",陕西卫视
-http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231408/index.m3u8
-#EXTINF:-1 group-title="浙江爱看IPTV" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jilin.png",吉林卫视
-http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231472/index.m3u8
-#EXTINF:-1 group-title="浙江爱看IPTV" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangxi.png",广西卫视
-http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231600/index.m3u8
-#EXTINF:-1 group-title="浙江爱看IPTV" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/neimeng.png",内蒙古卫视
-http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231478/index.m3u8
-#EXTINF:-1 group-title="浙江爱看IPTV" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png",重庆卫视
-http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231508/index.m3u8
-#EXTINF:-1 group-title="浙江爱看IPTV" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/bingtuan.png",兵团卫视
-http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231469/index.m3u8
-#EXTINF:-1 group-title="浙江爱看IPTV" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xiamen.png",厦门卫视
-http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229184/index.m3u8
-#EXTINF:-1 group-title="浙江爱看IPTV" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/BAMC4.jpg",四海钓鱼
-http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231718/index.m3u8
-#EXTINF:-1 group-title="浙江爱看IPTV" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/BAMC6.jpg",环球旅游
-http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231712/index.m3u8
-#EXTINF:-1 group-title="浙江爱看IPTV" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jiajiakt.png",嘉佳卡通
-http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231483/index.m3u8
-#EXTINF:-1 group-title="浙江爱看IPTV",江苏教育
-http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231631/index.m3u8
-#EXTINF:-1 group-title="浙江爱看IPTV",好享购物
-http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231427/index.m3u8
-#EXTINF:-1 group-title="浙江爱看IPTV",泰州新闻综合
-http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231369/index.m3u8
-#EXTINF:-1 group-title="浙江爱看IPTV",泰州新闻综合
-http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231430/index.m3u8
-#EXTINF:-1 group-title="浙江爱看IPTV",山东教育卫视
-http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231549/index.m3u8
-#EXTINF:-1 group-title="浙江爱看IPTV" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaidongfangyingshi.png",东方影视HD
-http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231639/index.m3u8
-#EXTINF:-1 group-title="浙江爱看IPTV" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaidushi.jpg",上海都市HD
-http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231618/index.m3u8
-#EXTINF:-1 group-title="浙江爱看IPTV" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xingfucai.png",幸福彩HD
-http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231730/index.m3u8
-#EXTINF:-1 group-title="浙江爱看IPTV",东方财经浦东
-http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231646/index.m3u8
-#EXTINF:-1 group-title="浙江爱看IPTV" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xuandong.png",哈哈炫动
-http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231480/index.m3u8
-#EXTINF:-1 group-title="浙江爱看IPTV",咪咕Y+
-http://live.aikan.miguvideo.com/PLTV/88888888/224/3221230226/index.m3u8
-#EXTINF:-1 group-title="浙江爱看IPTV",MIGU喜剧联盟
-http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231621/index.m3u8
-#EXTINF:-1 group-title="浙江爱看IPTV",MIGU古天乐影院
-http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231645/index.m3u8
-#EXTINF:-1 group-title="浙江爱看IPTV",MIGU成龙作品集
-http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231687/index.m3u8
-#EXTINF:-1 group-title="浙江爱看IPTV",MIGU郭富城影院
-http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231688/index.m3u8
-#EXTINF:-1 group-title="浙江爱看IPTV",MIGU张国荣影院
-http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231790/index.m3u8
-#EXTINF:-1 group-title="浙江爱看IPTV",MIGU周润发影院
-http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231709/index.m3u8
-#EXTINF:-1 group-title="浙江爱看IPTV",MIGU云上电影院
-http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231565/index.m3u8
-#EXTINF:-1 group-title="浙江爱看IPTV",MIGU刘德华影院
-http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231757/index.m3u8
-#EXTINF:-1 group-title="浙江爱看IPTV",MIGU僵尸剧场
-http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231742/index.m3u8
-#EXTINF:-1 group-title="浙江爱看IPTV",MIGUTVB剧场
-http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231733/index.m3u8
-#EXTINF:-1 group-title="浙江爱看IPTV",MIGU盗墓方法论
-http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231652/index.m3u8
-#EXTINF:-1 group-title="浙江爱看IPTV",MIGU试胆大会
-http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231672/index.m3u8
-#EXTINF:-1 group-title="浙江爱看IPTV",MIGU军旅剧场
-http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231585/index.m3u8
-#EXTINF:-1 group-title="浙江爱看IPTV",MIGUSNH48剧场公演
-http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231622/index.m3u8
-#EXTINF:-1 group-title="浙江爱看IPTV",MIGU神探狄仁杰
-http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231634/index.m3u8
-#EXTINF:-1 group-title="浙江爱看IPTV",MIGU追剧少女
-http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231643/index.m3u8
-#EXTINF:-1 group-title="浙江爱看IPTV",MIGU经典贺岁片
-http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231679/index.m3u8
-#EXTINF:-1 group-title="浙江爱看IPTV",MIGU24小时体育
-http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231778/index.m3u8
-
-
-
-
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv1.png" group-title="亦非云IP版",CCTV1
+http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel1/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv1.png" group-title="亦非云IP版",CCTV1
+http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel1/2300.m3u8
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv2.png" group-title="亦非云IP版",CCTV2
+http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel2/index.m3u8
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv2.png" group-title="亦非云IP版",CCTV2
+http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel2/2300.m3u8
+#EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv3.png" group-title="亦非云IP版",CCTV3
+http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel3/index.m3u8
+#EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv3.png" group-title="亦非云IP版",CCTV3
+http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel3/2300.m3u8
+#EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv4.png" group-title="亦非云IP版",CCTV4
+http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel4/index.m3u8
+#EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv4.png" group-title="亦非云IP版",CCTV4
+http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel4/2300.m3u8
+#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv5.png" group-title="亦非云IP版",CCTV5
+http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel5/index.m3u8
+#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv5.png" group-title="亦非云IP版",CCTV5
+http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel5/2300.m3u8
+#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv5+.png" group-title="亦非云IP版",CCTV5+
+http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel13/index.m3u8
+#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv5+.png" group-title="亦非云IP版",CCTV5+
+http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel13/2300.m3u8
+#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv5+.png" group-title="亦非云IP版",CCTV5+
+http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel13/1300.m3u8
+#EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv6.png" group-title="亦非云IP版",CCTV6
+http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel6/index.m3u8
+#EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv6.png" group-title="亦非云IP版",CCTV6
+http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel6/2300.m3u8
+#EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv7.png" group-title="亦非云IP版",CCTV7
+http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel7/index.m3u8
+#EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv7.png" group-title="亦非云IP版",CCTV7
+http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel7/2300.m3u8
+#EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv7.png" group-title="亦非云IP版",CCTV7
+http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel7/1300.m3u8
+#EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv8.png" group-title="亦非云IP版",CCTV8
+http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel8/index.m3u8
+#EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv8.png" group-title="亦非云IP版",CCTV8
+http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel8/2300.m3u8
+#EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv8.png" group-title="亦非云IP版",CCTV8
+http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel8/1300.m3u8
+#EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv9.png" group-title="亦非云IP版",CCTV9
+http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel9/index.m3u8
+#EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv9.png" group-title="亦非云IP版",CCTV9
+http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel9/2300.m3u8
+#EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv9.png" group-title="亦非云IP版",CCTV9
+http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel9/1300.m3u8
+#EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv10.png" group-title="亦非云IP版",CCTV10
+http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel10/index.m3u8
+#EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv10.png" group-title="亦非云IP版",CCTV10
+http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel10/1300.m3u8
+#EXTINF:-1 tvg-id="12" tvg-name="CCTV11" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv11.png" group-title="亦非云IP版",CCTV11
+http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel41/index.m3u8
+#EXTINF:-1 tvg-id="12" tvg-name="CCTV11" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv11.png" group-title="亦非云IP版",CCTV11
+http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel41/1300.m3u8
+#EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv12.png" group-title="亦非云IP版",CCTV12
+http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel11/index.m3u8
+#EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv12.png" group-title="亦非云IP版",CCTV12
+http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel11/2300.m3u8
+#EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv12.png" group-title="亦非云IP版",CCTV12
+http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel11/1300.m3u8
+#EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv13.png" group-title="亦非云IP版",CCTV13
+http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel39/index.m3u8
+#EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv13.png" group-title="亦非云IP版",CCTV13
+http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel39/2300.m3u8
+#EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv14.png" group-title="亦非云IP版",CCTV14
+http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel12/index.m3u8
+#EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv15.png" group-title="亦非云IP版",CCTV15
+http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel40/index.m3u8
+#EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv17.png" group-title="亦非云IP版",CCTV17
+http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel90/index.m3u8
+#EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv17.png" group-title="亦非云IP版",CCTV17
+http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel90/1300.m3u8
+#EXTINF:-1 tvg-id="73" tvg-name="中国教育1台" tvg-logo="http://n.ysyz.top:99/buyaolian/中国教育1台.png" group-title="亦非云IP版",中国教育1
+http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel10001/1300.m3u8
+#EXTINF:-1 tvg-id="73" tvg-name="中国教育1台" tvg-logo="http://n.ysyz.top:99/buyaolian/中国教育1台.png" group-title="亦非云IP版",中国教育1
+http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel33/1300.m3u8
+#EXTINF:-1 tvg-id="73" tvg-name="中国教育1台" tvg-logo="http://n.ysyz.top:99/buyaolian/中国教育1台.png" group-title="亦非云IP版",中国教育1
+http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel33/index.m3u8
+#EXTINF:-1 tvg-id="7245" tvg-name="中国教育4台" tvg-logo="http://n.ysyz.top:99/buyaolian/中国教育4台.png" group-title="亦非云IP版",中国教育4
+http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel38/index.m3u8
+#EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="亦非云IP版",CGTN
+http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel15/index.m3u8
+#EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="亦非云IP版",CGTN纪录
+http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel14/index.m3u8
+#EXTINF:-1 tvg-id="33" tvg-name="广东卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/guangdong.png" group-title="亦非云IP版",广东卫视
+http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel16/index.m3u8
+#EXTINF:-1 tvg-id="33" tvg-name="广东卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/guangdong.png" group-title="亦非云IP版",广东卫视
+http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel16/2300.m3u8
+#EXTINF:-1 tvg-id="34" tvg-name="深圳卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/shenzhen.png" group-title="亦非云IP版",深圳卫视
+http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel17/index.m3u8
+#EXTINF:-1 tvg-id="34" tvg-name="深圳卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/shenzhen.png" group-title="亦非云IP版",深圳卫视
+http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel17/2300.m3u8
+#EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/jiangsu.png" group-title="亦非云IP版",江苏卫视
+http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel18/index.m3u8
+#EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/jiangsu.png" group-title="亦非云IP版",江苏卫视
+http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel18/2300.m3u8
+#EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/jiangsu.png" group-title="亦非云IP版",江苏卫视
+http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel18/1300.m3u8
+#EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/zhejiang.png" group-title="亦非云IP版",浙江卫视
+http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel19/index.m3u8
+#EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/zhejiang.png" group-title="亦非云IP版",浙江卫视
+http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel19/2300.m3u8
+#EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/zhejiang.png" group-title="亦非云IP版",浙江卫视
+http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel19/1300.m3u8
+#EXTINF:-1 tvg-id="51" tvg-name="吉林卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/jilin.png" group-title="亦非云IP版",吉林卫视
+http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel20/index.m3u8
+#EXTINF:-1 tvg-id="51" tvg-name="吉林卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/jilin.png" group-title="亦非云IP版",吉林卫视
+http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel20/2300.m3u8
+#EXTINF:-1 tvg-id="51" tvg-name="吉林卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/jilin.png" group-title="亦非云IP版",吉林卫视
+http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel20/1300.m3u8
+#EXTINF:-1 tvg-id="48" tvg-name="湖北卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/hubei.png" group-title="亦非云IP版",湖北卫视
+http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel21/index.m3u8
+#EXTINF:-1 tvg-id="48" tvg-name="湖北卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/hubei.png" group-title="亦非云IP版",湖北卫视
+http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel21/2300.m3u8
+#EXTINF:-1 tvg-id="48" tvg-name="湖北卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/hubei.png" group-title="亦非云IP版",湖北卫视
+http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel21/1300.m3u8
+#EXTINF:-1 tvg-id="50" tvg-name="江西卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/jiangxi.png" group-title="亦非云IP版",江西卫视
+http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel22/index.m3u8
+#EXTINF:-1 tvg-id="50" tvg-name="江西卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/jiangxi.png" group-title="亦非云IP版",江西卫视
+http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel22/1300.m3u8
+#EXTINF:-1 tvg-id="32" tvg-name="安徽卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/anhui.png" group-title="亦非云IP版",安徽卫视
+http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel23/index.m3u8
+#EXTINF:-1 tvg-id="32" tvg-name="安徽卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/anhui.png" group-title="亦非云IP版",安徽卫视
+http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel23/2300.m3u8
+#EXTINF:-1 tvg-id="32" tvg-name="安徽卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/anhui.png" group-title="亦非云IP版",安徽卫视
+http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel23/1300.m3u8
+#EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/beijing.png" group-title="亦非云IP版",北京卫视
+http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel24/index.m3u8
+#EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/beijing.png" group-title="亦非云IP版",北京卫视
+http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel24/2300.m3u8
+#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/hunan.png" group-title="亦非云IP版",湖南卫视
+http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel25/index.m3u8
+#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/hunan.png" group-title="亦非云IP版",湖南卫视
+http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel25/2300.m3u8
+#EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/dongfang.png" group-title="亦非云IP版",东方卫视
+http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel26/index.m3u8
+#EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/dongfang.png" group-title="亦非云IP版",东方卫视
+http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel26/1300.m3u8
+#EXTINF:-1 tvg-id="46" tvg-name="黑龙江卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/heilongjiang.png" group-title="亦非云IP版",黑龙江卫视
+http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel27/index.m3u8
+#EXTINF:-1 tvg-id="46" tvg-name="黑龙江卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/heilongjiang.png" group-title="亦非云IP版",黑龙江卫视
+http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel27/1300.m3u8
+#EXTINF:-1 tvg-id="39" tvg-name="天津卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/tianjin.png" group-title="亦非云IP版",天津卫视
+http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel28/index.m3u8
+#EXTINF:-1 tvg-id="38" tvg-name="山东卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/shandong.png" group-title="亦非云IP版",山东卫视
+http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel29/index.m3u8
+#EXTINF:-1 tvg-id="44" tvg-name="贵州卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/guizhou.png" group-title="亦非云IP版",贵州卫视
+http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel30/index.m3u8
+#EXTINF:-1 tvg-id="44" tvg-name="贵州卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/guizhou.png" group-title="亦非云IP版",贵州卫视
+http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel30/1300.m3u8
+#EXTINF:-1 tvg-id="56" tvg-name="四川卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/sichuan.png" group-title="亦非云IP版",四川卫视
+http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel31/index.m3u8
+#EXTINF:-1 tvg-id="56" tvg-name="四川卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/sichuan.png" group-title="亦非云IP版",四川卫视
+http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel31/2300.m3u8
+#EXTINF:-1 tvg-id="56" tvg-name="四川卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/sichuan.png" group-title="亦非云IP版",四川卫视
+http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel31/1300.m3u8
+#EXTINF:-1 tvg-id="36" tvg-name="辽宁卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/liaoning.png" group-title="亦非云IP版",辽宁卫视
+http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel32/index.m3u8
+#EXTINF:-1 tvg-id="36" tvg-name="辽宁卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/liaoning.png" group-title="亦非云IP版",辽宁卫视
+http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel32/2300.m3u8
+#EXTINF:-1 tvg-id="54" tvg-name="山西卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/shanxi_.png" group-title="亦非云IP版",山西卫视
+http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel54/index.m3u8
+#EXTINF:-1 tvg-id="54" tvg-name="山西卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/shanxi_.png" group-title="亦非云IP版",山西卫视
+http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel54/2300.m3u8
+#EXTINF:-1 tvg-id="55" tvg-name="陕西卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/shanxi.png" group-title="亦非云IP版",陕西卫视
+http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel55/index.m3u8
+#EXTINF:-1 tvg-id="60" tvg-name="南方卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/nanfang.png" group-title="亦非云IP版",广东南方卫视
+http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel58/index.m3u8
+#EXTINF:-1 tvg-id="60" tvg-name="南方卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/nanfang.png" group-title="亦非云IP版",广东南方卫视
+http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel58/1300.m3u8
+#EXTINF:-1 tvg-id="43" tvg-name="广西卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/guangxi.png" group-title="亦非云IP版",广西卫视
+http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel59/1300.m3u8
+#EXTINF:-1 tvg-id="58" tvg-name="云南卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/yunnan.png" group-title="亦非云IP版",云南卫视
+http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel61/index.m3u8
+#EXTINF:-1 tvg-id="58" tvg-name="云南卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/yunnan.png" group-title="亦非云IP版",云南卫视
+http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel61/1300.m3u8
+#EXTINF:-1 tvg-id="37" tvg-name="旅游卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/lvyou.png" group-title="亦非云IP版",海南卫视
+http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel62/1300.m3u8
+#EXTINF:-1 tvg-id="57" tvg-name="新疆卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/xinjiang.png" group-title="亦非云IP版",新疆卫视
+http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel64/index.m3u8
+#EXTINF:-1 tvg-id="57" tvg-name="新疆卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/xinjiang.png" group-title="亦非云IP版",新疆卫视
+http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel64/1300.m3u8
+#EXTINF:-1 tvg-id="71" tvg-name="西藏卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/xizang.png" group-title="亦非云IP版",西藏卫视
+http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel66/index.m3u8
+#EXTINF:-1 tvg-id="71" tvg-name="西藏卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/xizang.png" group-title="亦非云IP版",西藏卫视
+http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel66/1300.m3u8
+#EXTINF:-1 tvg-id="61" tvg-name="兵团卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/bingtuan.png" group-title="亦非云IP版",兵团卫视
+http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel67/index.m3u8
+#EXTINF:-1 tvg-id="61" tvg-name="兵团卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/bingtuan.png" group-title="亦非云IP版",兵团卫视
+http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel67/1300.m3u8
+#EXTINF:-1 tvg-id="53" tvg-name="宁夏卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/ningxia.png" group-title="亦非云IP版",宁夏卫视
+http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel69/2300.m3u8
+#EXTINF:-1 tvg-id="53" tvg-name="宁夏卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/ningxia.png" group-title="亦非云IP版",宁夏卫视
+http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel69/1300.m3u8
+#EXTINF:-1 tvg-id="45" tvg-name="河北卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/hebei.png" group-title="亦非云IP版",河北卫视
+http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel79/2300.m3u8
+#EXTINF:-1 tvg-id="45" tvg-name="河北卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/hebei.png" group-title="亦非云IP版",河北卫视
+http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel79/1300.m3u8
+#EXTINF:-1 tvg-id="41" tvg-name="东南卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/dongnan.png" group-title="亦非云IP版",东南卫视
+http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel80/index.m3u8
+#EXTINF:-1 tvg-id="41" tvg-name="东南卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/dongnan.png" group-title="亦非云IP版",东南卫视
+http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel80/2300.m3u8
+#EXTINF:-1 tvg-id="52" tvg-name="内蒙古卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/neimeng.png" group-title="亦非云IP版",内蒙古卫视
+http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel93/2300.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云IP版",山东教育卫视
+http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel37001/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云IP版",SiTV动漫秀场
+http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel43045/1300.m3u8
+#EXTINF:-1 tvg-id="1980" tvg-name="幸福彩" tvg-logo="http://n.ysyz.top:99/buyaolian/xingfucai.png" group-title="亦非云IP版",SiTV幸福彩
+http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel43044/1300.m3u8
+#EXTINF:-1 tvg-id="1980" tvg-name="幸福彩" tvg-logo="http://n.ysyz.top:99/buyaolian/xingfucai.png" group-title="亦非云IP版",SiTV幸福彩
+http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel51033/1300.m3u8
+#EXTINF:-1 tvg-id="1980" tvg-name="幸福彩" tvg-logo="http://n.ysyz.top:99/buyaolian/xingfucai.png" group-title="亦非云IP版",SiTV幸福彩
+http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel51034/1300.m3u8
+#EXTINF:-1 tvg-id="1975" tvg-name="MAX极速汽车" tvg-logo="http://n.ysyz.top:99/buyaolian/jisuqiche.png" group-title="亦非云IP版",SiTV极速汽车
+http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel43042/1300.m3u8
+#EXTINF:-1 tvg-id="1977" tvg-name="欢笑剧场" tvg-logo="http://n.ysyz.top:99/buyaolian/huanxiao.png" group-title="亦非云IP版",SiTV欢笑剧场
+http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel43039/1300.m3u8
+#EXTINF:-1 tvg-id="1987" tvg-name="五星体育频道" tvg-logo="http://n.ysyz.top:99/buyaolian/wuxingtiyu.png" group-title="亦非云IP版",上海五星体育
+http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel11223/1300.m3u8
+#EXTINF:-1 tvg-id="6013" tvg-name="广东体育" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTV3.png" group-title="亦非云IP版",广东体育
+http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel34/index.m3u8
+#EXTINF:-1 tvg-id="6013" tvg-name="广东体育" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTV3.png" group-title="亦非云IP版",广东体育
+http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel34/2300.m3u8
+#EXTINF:-1 tvg-id="6013" tvg-name="广东体育" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTV3.png" group-title="亦非云IP版",广东体育
+http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel34/1300.m3u8
+#EXTINF:-1 tvg-id="6014" tvg-name="广东公共" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTV4.png" group-title="亦非云IP版",广东公共
+http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel45/index.m3u8
+#EXTINF:-1 tvg-id="7253" tvg-name="广东少儿" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTVSHAO.png" group-title="亦非云IP版",广东少儿
+http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel63/index.m3u8
+#EXTINF:-1 tvg-id="7125" tvg-name="珠江频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/zhujiang.png" group-title="亦非云IP版",广东珠江
+http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel65/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云IP版",蛇口
+http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel37/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云IP版",蛇口
+http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel37/1300.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云IP版",深圳都市
+http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel46/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云IP版",深圳都市
+http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel46/1300.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云IP版",深圳电视剧
+http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel47/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云IP版",深圳电视剧
+http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel47/1300.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云IP版",深圳财经生活
+http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel48/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云IP版",深圳财经生活
+http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel48/1300.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云IP版",深圳娱乐
+http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel49/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云IP版",深圳娱乐
+http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel49/1300.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云IP版",深圳体育健康
+http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel50/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云IP版",深圳体育健康
+http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel50/1300.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云IP版",深圳少儿
+http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel51/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云IP版",深圳少儿
+http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel51/1300.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云IP版",深圳公共
+http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel52/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云IP版",深圳公共
+http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel52/1300.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云IP版",深圳DV生活
+http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel51039/1300.m3u8
+#EXTINF:-1 tvg-id="1046" tvg-name="优漫卡通" tvg-logo="http://n.ysyz.top:99/buyaolian/youman.png" group-title="亦非云IP版",江苏优漫卡通
+http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel53/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云IP版",山西黄河
+http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel88/1300.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云IP版",山西少儿
+http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel89/1300.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云IP版",阳泉新闻综合
+http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel71/1300.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云IP版",阳泉科教
+http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel72/1300.m3u8
+#EXTINF:-1 tvg-id="1872" tvg-name="北京纪实" tvg-logo="http://n.ysyz.top:99/buyaolian/beijingjishi.png" group-title="亦非云IP版",北京冬奥纪实
+http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel22030/1300.m3u8
+#EXTINF:-1 tvg-id="67" tvg-name="卡酷动画" tvg-logo="http://n.ysyz.top:99/buyaolian/kaku.png" group-title="亦非云IP版",北京卡酷少儿
+http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel11003/1300.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云IP版",吉林公共新闻
+http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel22005/2300.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云IP版",长春经济
+http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel22010/2300.m3u8
+#EXTINF:-1 tvg-id="6555" tvg-name="梨园" tvg-logo="http://n.ysyz.top:99/buyaolian/CCTVPAYFEE20.jpg" group-title="亦非云IP版",河南梨园
+http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel13001/2300.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云IP版",河南法治
+http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel41103/1300.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云IP版",河南电视剧
+http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel41104/1300.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云IP版",河南新闻
+http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel41105/1300.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云IP版",河南公共
+http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel41106/1300.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云IP版",河南晴彩中原
+http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel41108/1300.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云IP版",河南移动戏曲
+http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel41109/1300.m3u8
+#EXTINF:-1 tvg-id="6586" tvg-name="武术世界" tvg-logo="http://n.ysyz.top:99/buyaolian/WUSHUSHIJIE.jpg" group-title="亦非云IP版",河南武术世界
+http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel41110/1300.m3u8
+#EXTINF:-1 tvg-id="6591" tvg-name="文物宝库" tvg-logo="http://n.ysyz.top:99/buyaolian/WENWUBAOKU.jpg" group-title="亦非云IP版",河南文物宝库
+http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel41111/1300.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云IP版",开封新闻综合
+http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel41114/1300.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云IP版",新乡新闻综合
+http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel41119/1300.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云IP版",三门峡新闻综合
+http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel41124/1300.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云IP版",驻马店新闻综合
+http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel41126/1300.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云IP版",南阳新闻综合
+http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel41127/1300.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云IP版",湖南教育
+http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel43021/2300.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云IP版",湖南导视
+http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel43023/1300.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云IP版",湖南经视
+http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel43024/1300.m3u8
+#EXTINF:-1 tvg-id="2025" tvg-name="金鹰纪实" tvg-logo="http://n.ysyz.top:99/buyaolian/jinyingjishi.png" group-title="亦非云IP版",湖南金鹰纪实
+http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel43025/1300.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云IP版",湖南娱乐
+http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel43027/1300.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云IP版",湖南都市
+http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel43028/1300.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云IP版",湖南电影
+http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel43029/1300.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云IP版",湖南电视剧
+http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel43030/1300.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云IP版",岳阳新闻综合
+http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel43075/1300.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云IP版",益阳新闻综合
+http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel43076/1300.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云IP版",湘潭新闻综合
+http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel43077/1300.m3u8
+#EXTINF:-1 tvg-id="69" tvg-name="金鹰卡通" tvg-logo="http://n.ysyz.top:99/buyaolian/jinyingkatong.png" group-title="亦非云IP版",湖南金鹰卡通
+http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel43087/1300.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云IP版",益阳新闻综合
+http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel43088/1300.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云IP版",益阳教育
+http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel43089/1300.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云IP版",益阳公共
+http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel43090/1300.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云IP版",青岛中华美食
+http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel43061/1300.m3u8
+#EXTINF:-1 tvg-id="2054" tvg-name="SCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/sctv2.png" group-title="亦非云IP版",四川文化旅游
+http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel51001/2300.m3u8
+#EXTINF:-1 tvg-id="2062" tvg-name="SCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/sctv8.png" group-title="亦非云IP版",四川科教
+http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel51006/2300.m3u8
+#EXTINF:-1 tvg-id="2061" tvg-name="SCTV9" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/sctv9.png" group-title="亦非云IP版",四川公共乡村
+http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel51007/2300.m3u8
+#EXTINF:-1 tvg-id="7244" tvg-name="爱上4K" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/aishang4k.png" group-title="亦非云IP版",四川峨眉电影
+http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel51008/2300.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云IP版",湖北休闲指南
+http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel51035/1300.m3u8
+#EXTINF:-1 tvg-id="6573" tvg-name="汽摩" tvg-logo="http://n.ysyz.top:99/buyaolian/CCTVPAYFEE22.jpg" group-title="亦非云IP版",重汽摩
+http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel51038/1300.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云IP版",内蒙古足球
+http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel15001/1300.m3u8
+#EXTINF:-1 tvg-id="6601" tvg-name="DOXTV" tvg-logo="http://n.ysyz.top:99/buyaolian/DOXTV.png" group-title="亦非云IP版",DoxTV测试
+http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel22023/1300.m3u8
 
 
 
@@ -3283,7 +3447,6 @@ http://91.213.59.156/play/6/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="体育-咪咕直播",SETANTA SPORT PLUS GIOR CristalAzul
 http://188.93.94.140/setanta_sports_plus_georgia/playlist.m3u8?token=ジョルジ
 #EXTINF:-1 tvg-logo="" group-title="体育-咪咕直播",曼联MUTV
-http://91.213.59.156/play/6/index.m3u8
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="体育-咪咕直播",皇马RMTV
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
