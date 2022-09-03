@@ -32,8 +32,26 @@ http://39.134.66.48/PLTV/88888888/224/3221225812/index.m3u8
 http://39.134.66.48/PLTV/88888888/224/3221225674/index.m3u8
 #EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv15.png" group-title="央视高清",CCTV-15
 http://39.134.66.48/PLTV/88888888/224/3221225513/index.m3u8
+#EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv16.png" group-title="央视高清",CCTV16
+http://39.134.66.4/PLTV/88888888/224/3221225893/index.m3u8
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv17.png" group-title="央视高清",CCTV-17
 http://39.134.66.48/PLTV/88888888/224/3221225708/index.m3u8
+#EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/jiangsu.png" group-title="央视高清",江苏卫视
+http://39.134.66.4/PLTV/88888888/224/3221225503/index.m3u8
+#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/hunan.png" group-title="央视高清",湖南卫视
+http://39.134.66.4/PLTV/88888888/224/3221225506/index.m3u8
+#EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/zhejiang.png" group-title="央视高清",浙江卫视
+http://39.134.66.4/PLTV/88888888/224/3221225514/index.m3u8
+#EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/dongfang.png" group-title="央视高清",东方卫视
+http://39.134.66.4/PLTV/88888888/224/3221225942/index.m3u8
+#EXTINF:-1 tvg-id="41" tvg-name="东南卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/dongnan.png" group-title="央视高清",东南卫视
+http://39.134.66.4/PLTV/88888888/224/3221225950/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="央视高清",咪咕1
+http://39.134.66.4/PLTV/88888888/224/3221225620/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="央视高清",咪咕2
+http://39.134.66.4/PLTV/88888888/224/3221225901/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="央视高清",咪咕3
+http://39.134.66.4/PLTV/88888888/224/3221225914/index.m3u8
 
 
 #EXTINF:-1 catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" tvg-id="1" tvg-name="CCTV1" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv1.png" group-title="陕南IP",CCTV1
