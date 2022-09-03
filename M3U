@@ -1,6 +1,39 @@
 #EXTM3U url-tvg="http://epg.51zmt.top:8000/e.xml,https://epg.112114.xyz/pp.xml"
 
-
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv1.png" group-title="央视高清",CCTV-1
+http://39.134.66.48/PLTV/88888888/224/3221225816/index.m3u8
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv2.png" group-title="央视高清",CCTV-2
+http://39.134.66.48/PLTV/88888888/224/3221225599/index.m3u8
+#EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv3.png" group-title="央视高清",CCTV-3
+http://39.134.66.48/PLTV/88888888/224/3221225799/index.m3u8
+#EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv4.png" group-title="央视高清",CCTV-4
+http://39.134.66.48/PLTV/88888888/224/3221225797/index.m3u8
+#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv5.png" group-title="央视高清",CCTV-5
+http://39.134.66.48/PLTV/88888888/224/3221225818/index.m3u8
+#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv5+.png" group-title="央视高清",CCTV-5+
+http://39.134.66.48/PLTV/88888888/224/3221225507/index.m3u8
+#EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv6.png" group-title="央视高清",CCTV-6
+http://39.134.66.48/PLTV/88888888/224/3221225814/index.m3u8
+#EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv7.png" group-title="央视高清",CCTV-7
+http://39.134.66.48/PLTV/88888888/224/3221225671/index.m3u8
+#EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv8.png" group-title="央视高清",CCTV-8
+http://39.134.66.48/PLTV/88888888/224/3221225795/index.m3u8
+#EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv9.png" group-title="央视高清",CCTV-9
+http://39.134.66.48/PLTV/88888888/224/3221225676/index.m3u8
+#EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv10.png" group-title="央视高清",CCTV-10
+http://39.134.66.48/PLTV/88888888/224/3221225677/index.m3u8
+#EXTINF:-1 tvg-id="12" tvg-name="CCTV11" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv11.png" group-title="央视高清",CCTV-11
+http://39.134.66.48/PLTV/88888888/224/3221225517/index.m3u8
+#EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv12.png" group-title="央视高清",CCTV-12
+http://39.134.66.48/PLTV/88888888/224/3221225669/index.m3u8
+#EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv13.png" group-title="央视高清",CCTV-13
+http://39.134.66.48/PLTV/88888888/224/3221225812/index.m3u8
+#EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv14.png" group-title="央视高清",CCTV-14
+http://39.134.66.48/PLTV/88888888/224/3221225674/index.m3u8
+#EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv15.png" group-title="央视高清",CCTV-15
+http://39.134.66.48/PLTV/88888888/224/3221225513/index.m3u8
+#EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv17.png" group-title="央视高清",CCTV-17
+http://39.134.66.48/PLTV/88888888/224/3221225708/index.m3u8
 
 
 #EXTINF:-1 catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" tvg-id="1" tvg-name="CCTV1" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv1.png" group-title="陕南IP",CCTV1
