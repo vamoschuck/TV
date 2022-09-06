@@ -1866,90 +1866,246 @@ http://223.110.242.134:6610/cntv/live1/HD-8000k-1080P-shanghaijishi/1.m3u8
 http://223.110.242.134:6610/cntv/live1/HD-8000k-1080P-beijingjishi/1.m3u8
 
 
-#EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="鼠爷YTB代理",凤凰资讯
-https://ytb.arp220.us/jmsytb.m3u8?c=1
-#EXTINF:-1 tvg-id="6073" tvg-name="TVBS新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS新闻.png" group-title="鼠爷YTB代理",TVBS新闻
-https://ytb.arp220.us/jmsytb.m3u8?c=2
-#EXTINF:-1 tvg-id="6074" tvg-name="TVBS" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS.png" group-title="鼠爷YTB代理",TVBS
-https://ytb.arp220.us/jmsytb.m3u8?c=3
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="鼠爷YTB代理",华视新闻
-https://ytb.arp220.us/jmsytb.m3u8?c=4
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="鼠爷YTB代理",中天新闻
-https://ytb.arp220.us/jmsytb.m3u8?c=5
-#EXTINF:-1 tvg-id="6171" tvg-name="寰宇新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GlobalNews.png" group-title="鼠爷YTB代理",寰宇新闻
-https://ytb.arp220.us/jmsytb.m3u8?c=6
-#EXTINF:-1 tvg-id="6071" tvg-name="民视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FTVNews.png" group-title="鼠爷YTB代理",民视新闻
-https://ytb.arp220.us/jmsytb.m3u8?c=7
-#EXTINF:-1 tvg-id="6143" tvg-name="台视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/台视新闻.png" group-title="鼠爷YTB代理",台视新闻
-https://ytb.arp220.us/jmsytb.m3u8?c=8
-#EXTINF:-1 tvg-id="7176" tvg-name="中视新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/中视新闻.png" group-title="鼠爷YTB代理",中视新闻
-https://ytb.arp220.us/jmsytb.m3u8?c=9
-#EXTINF:-1 tvg-id="6069" tvg-name="东森新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCNews.png" group-title="鼠爷YTB代理",东森新闻
-https://ytb.arp220.us/jmsytb.m3u8?c=10
-#EXTINF:-1 tvg-id="6075" tvg-name="东森财经新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCFinancialNews.png" group-title="鼠爷YTB代理",东森财经
-https://ytb.arp220.us/jmsytb.m3u8?c=11
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="鼠爷YTB代理",东森全球速报
-https://ytb.arp220.us/jmsytb.m3u8?c=12
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="鼠爷YTB代理",三立海外
-https://ytb.arp220.us/jmsytb.m3u8?c=13
-#EXTINF:-1 tvg-id="6108" tvg-name="三立财经新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETInews.png" group-title="鼠爷YTB代理",三立iNEWS
-https://ytb.arp220.us/jmsytb.m3u8?c=14
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="鼠爷YTB代理",镜新闻
-https://ytb.arp220.us/jmsytb.m3u8?c=15
-#EXTINF:-1 tvg-id="6110" tvg-name="运通财经" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EFTV.png" group-title="鼠爷YTB代理",运通财经
-https://ytb.arp220.us/jmsytb.m3u8?c=16
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="鼠爷YTB代理",YOYO TV
-https://ytb.arp220.us/jmsytb.m3u8?c=17
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="鼠爷YTB代理",华视综艺
-https://ytb.arp220.us/jmsytb.m3u8?c=18
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="鼠爷YTB代理",名城综合台
-https://ytb.arp220.us/jmsytb.m3u8?c=19
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="鼠爷YTB代理",龙华桌逰
-https://ytb.arp220.us/jmsytb.m3u8?c=21
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="鼠爷YTB代理",靖天电视台
-https://ytb.arp220.us/jmsytb.m3u8?c=22
-#EXTINF:-1 tvg-id="6112" tvg-name="诚心电视台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ChengSinTV.png" group-title="鼠爷YTB代理",诚心电视台
-https://ytb.arp220.us/jmsytb.m3u8?c=23
-#EXTINF:-1 tvg-id="7183" tvg-name="aljazeera" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/aljazeera.png" group-title="鼠爷YTB代理",半岛新闻
-https://ytb.arp220.us/jmsytb.m3u8?c=24
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="鼠爷YTB代理",参宿四爆炸
-https://ytb.arp220.us/jmsytb.m3u8?c=25
-#EXTINF:-1 tvg-id="7100" tvg-name="ABCAustralia" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/abcaus.png" group-title="鼠爷YTB代理",ABC News
-https://ytb.arp220.us/jmsytb.m3u8?c=26
-#EXTINF:-1 tvg-id="742" tvg-name="SkyNews" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SkyNews.png" group-title="鼠爷YTB代理",Sky News
-https://ytb.arp220.us/jmsytb.m3u8?c=27
-#EXTINF:-1 tvg-id="734" tvg-name="france24" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/france24.png" group-title="鼠爷YTB代理",FRANCE 24
-https://ytb.arp220.us/jmsytb.m3u8?c=28
-#EXTINF:-1 tvg-id="6140" tvg-name="BloombergTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BloombergTV.png" group-title="鼠爷YTB代理",Bloomberg Global Financia
-https://ytb.arp220.us/jmsytb.m3u8?c=29
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="鼠爷YTB代理",ANN News
-https://ytb.arp220.us/jmsytb.m3u8?c=30
-#EXTINF:-1 tvg-id="730" tvg-name="DW" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DW.png" group-title="鼠爷YTB代理",DW News
-https://ytb.arp220.us/jmsytb.m3u8?c=31
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="鼠爷YTB代理",ENGLISH SPEECH
-https://ytb.arp220.us/jmsytb.m3u8?c=32
-#EXTINF:-1 tvg-id="7100" tvg-name="ABCAustralia" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/abcaus.png" group-title="鼠爷YTB代理",ABC News-AU
-https://ytb.arp220.us/jmsytb.m3u8?c=33
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="鼠爷YTB代理",MBC News
-https://ytb.arp220.us/jmsytb.m3u8?c=34
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="鼠爷YTB代理",KBS Kr
-https://ytb.arp220.us/jmsytb.m3u8?c=35
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="鼠爷YTB代理",NASA TV
-https://ytb.arp220.us/jmsytb.m3u8?c=36
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="鼠爷YTB代理",NASA TV2
-https://ytb.arp220.us/jmsytb.m3u8?c=37
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="鼠爷YTB代理",CNA
-https://ytb.arp220.us/jmsytb.m3u8?c=38
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="鼠爷YTB代理",NBC News
-https://ytb.arp220.us/jmsytb.m3u8?c=39
-#EXTINF:-1 tvg-id="331" tvg-name="NHKWorld" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NHKWorld.png" group-title="鼠爷YTB代理",NHK World
-https://ytb.arp220.us/jmsytb.m3u8?c=40
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="鼠爷YTB代理",THE K-POP
-https://ytb.arp220.us/jmsytb.m3u8?c=41
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="鼠爷YTB代理",EarthTV
-https://ytb.arp220.us/jmsytb.m3u8?c=42
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="鼠爷YTB代理",ISS Cameras
-https://ytb.arp220.us/jmsytb.m3u8?c=43
+#EXTINF:-1 tvg-chno="4" tvg-id="4gtv-4gtv003" tvg-name="民视第一台" tvg-logo="https://4gtvimg.4gtv.tv/4gtv-Image/Production/Channel/Live/4gtv-4gtv003.jpg" group-title="鼠爷4GTV",民视第一台
+https://4g.52sf.ga/channel.m3u8?fid=4gtv-4gtv003&hd=720
+#EXTINF:-1 tvg-chno="5" tvg-id="4gtv-4gtv001" tvg-name="民视台湾台" tvg-logo="https://4gtvimg.4gtv.tv/4gtv-Image/Production/Channel/Live/4gtv-4gtv001.jpg" group-title="鼠爷4GTV",民视台湾台
+https://4g.52sf.ga/channel.m3u8?fid=4gtv-4gtv001&hd=720
+#EXTINF:-1 tvg-chno="6" tvg-id="4gtv-4gtv002" tvg-name="民视" tvg-logo="https://4gtvimg.4gtv.tv/4gtv-Image/Production/Channel/Live/4gtv-4gtv002.jpg" group-title="鼠爷4GTV",民视
+https://4g.52sf.ga/channel.m3u8?fid=4gtv-4gtv002&hd=720
+#EXTINF:-1 tvg-chno="9" tvg-id="4gtv-live007" tvg-name="大爱电视" tvg-logo="https://4gtvimg.4gtv.tv/4gtv-Image/Production/Channel/Live/4gtv-live007.jpg" group-title="鼠爷4GTV",大爱电视
+https://4g.52sf.ga/channel.m3u8?fid=4gtv-live007&hd=720
+#EXTINF:-1 tvg-chno="10" tvg-id="4gtv-4gtv040" tvg-name="中视" tvg-logo="https://4gtvimg.4gtv.tv/4gtv-Image/Production/Channel/Live/4gtv-4gtv040.jpg" group-title="鼠爷4GTV",中视
+https://4g.52sf.ga/channel.m3u8?fid=4gtv-4gtv040&hd=720
+#EXTINF:-1 tvg-chno="11" tvg-id="4gtv-4gtv080" tvg-name="中视经典台" tvg-logo="https://4gtvimg.4gtv.tv/4gtv-Image/Production/Channel/Live/4gtv-4gtv080.jpg" group-title="鼠爷4GTV",中视经典台
+https://4g.52sf.ga/channel.m3u8?fid=4gtv-4gtv080&hd=720
+#EXTINF:-1 tvg-chno="12" tvg-id="4gtv-4gtv041" tvg-name="华视" tvg-logo="https://4gtvimg.4gtv.tv/4gtv-Image/Production/Channel/Live/4gtv-4gtv041.jpg" group-title="鼠爷4GTV",华视
+https://4g.52sf.ga/channel.m3u8?fid=4gtv-4gtv041&hd=720
+#EXTINF:-1 tvg-chno="13" tvg-id="4gtv-live207" tvg-name="三立综合台" tvg-logo="https://4gtvimg.4gtv.tv/4gtv-Image/Production/Channel/Live/4gtv-live207.jpg" group-title="鼠爷4GTV",三立综合台
+https://4g.52sf.ga/channel.m3u8?fid=4gtv-live207&hd=720
+#EXTINF:-1 tvg-chno="14" tvg-id="4gtv-4gtv043" tvg-name="客家电视台" tvg-logo="https://4gtvimg.4gtv.tv/4gtv-Image/Production/Channel/Live/4gtv-4gtv043.jpg" group-title="鼠爷4GTV",客家电视台
+https://4g.52sf.ga/channel.m3u8?fid=4gtv-4gtv043&hd=720
+#EXTINF:-1 tvg-chno="15" tvg-id="4gtv-4gtv039" tvg-name="八大综艺台" tvg-logo="https://4gtvimg.4gtv.tv/4gtv-Image/Production/Channel/Live/4gtv-4gtv039.jpg" group-title="鼠爷4GTV",八大综艺台
+https://4g.52sf.ga/channel.m3u8?fid=4gtv-4gtv039&hd=720
+#EXTINF:-1 tvg-chno="16" tvg-id="4gtv-4gtv064" tvg-name="中视菁采台" tvg-logo="https://4gtvimg.4gtv.tv/4gtv-Image/Production/Channel/Live/4gtv-4gtv064.jpg" group-title="鼠爷4GTV",中视菁采台
+https://4g.52sf.ga/channel.m3u8?fid=4gtv-4gtv064&hd=720
+#EXTINF:-1 tvg-chno="17" tvg-id="4gtv-live086" tvg-name="TVBS精采台" tvg-logo="https://4gtvimg.4gtv.tv/4gtv-Image/Production/Channel/Live/4gtv-live086.jpg" group-title="综合,戏剧、电影与纪录片",TVBS精采台
+https://4g.52sf.ga/channel.m3u8?fid=4gtv-live086&hd=720
+#EXTINF:-1 tvg-chno="18" tvg-id="4gtv-4gtv070" tvg-name="爱尔达娱乐台" tvg-logo="https://4gtvimg.4gtv.tv/4gtv-Image/Production/Channel/Live/4gtv-4gtv070.jpg" group-title="鼠爷4GTV",爱尔达娱乐台
+https://4g.52sf.ga/channel.m3u8?fid=4gtv-4gtv070&hd=720
+#EXTINF:-1 tvg-chno="19" tvg-id="4gtv-4gtv046" tvg-name="靖天综合台" tvg-logo="https://4gtvimg.4gtv.tv/4gtv-Image/Production/Channel/Live/4gtv-4gtv046.jpg" group-title="鼠爷4GTV",靖天综合台
+https://4g.52sf.ga/channel.m3u8?fid=4gtv-4gtv046&hd=720
+#EXTINF:-1 tvg-chno="20" tvg-id="4gtv-4gtv047" tvg-name="靖天日本台" tvg-logo="https://4gtvimg.4gtv.tv/4gtv-Image/Production/Channel/Live/4gtv-4gtv047.jpg" group-title="鼠爷4GTV",靖天日本台
+https://4g.52sf.ga/channel.m3u8?fid=4gtv-4gtv047&hd=720
+#EXTINF:-1 tvg-chno="22" tvg-id="4gtv-live033" tvg-name="中天综合台" tvg-logo="https://4gtvimg.4gtv.tv/4gtv-Image/Production/Channel/Live/4gtv-live033.jpg" group-title="鼠爷4GTV",中天综合台
+https://4g.52sf.ga/channel.m3u8?fid=4gtv-live033&hd=720
+#EXTINF:-1 tvg-chno="23" tvg-id="4gtv-4gtv079" tvg-name="ARIRANG阿里郎频道" tvg-logo="https://4gtvimg.4gtv.tv/4gtv-Image/Production/Channel/Live/4gtv-4gtv079.jpg" group-title="鼠爷4GTV",ARIRANG阿里郎频道
+https://4g.52sf.ga/channel.m3u8?fid=4gtv-4gtv079&hd=720
+#EXTINF:-1 tvg-chno="30" tvg-id="4gtv-live030" tvg-name="LiveABC互动英语频道" tvg-logo="https://4gtvimg.4gtv.tv/4gtv-Image/Production/Channel/Live/4gtv-live030.jpg" group-title="鼠爷4GTV",LiveABC互动英语频道
+https://4g.52sf.ga/channel.m3u8?fid=4gtv-live030&hd=720
+#EXTINF:-1 tvg-chno="31" tvg-id="4gtv-4gtv018" tvg-name="达文西频道" tvg-logo="https://4gtvimg.4gtv.tv/4gtv-Image/Production/Channel/Live/4gtv-4gtv018.jpg" group-title="鼠爷4GTV",达文西频道
+https://4g.52sf.ga/channel.m3u8?fid=4gtv-4gtv018&hd=720
+#EXTINF:-1 tvg-chno="32" tvg-id="litv-longturn20" tvg-name="ELTV生活英语台" tvg-logo="https://4gtvimg.4gtv.tv/4gtv-Image/Production/Channel/Live/litv-longturn20.jpg" group-title="鼠爷4GTV",ELTV生活英语台
+https://4g.52sf.ga/channel.m3u8?fid=litv-longturn20&hd=720
+#EXTINF:-1 tvg-chno="33" tvg-id="4gtv-live032" tvg-name="Nick Jr. 儿童频道" tvg-logo="https://4gtvimg.4gtv.tv/4gtv-Image/Production/Channel/Live/4gtv-live032.jpg" group-title="鼠爷4GTV",Nick Jr. 儿童频道
+https://4g.52sf.ga/channel.m3u8?fid=4gtv-live032&hd=720
+#EXTINF:-1 tvg-chno="34" tvg-id="4gtv-live105" tvg-name="尼克儿童频道" tvg-logo="https://4gtvimg.4gtv.tv/4gtv-Image/Production/Channel/Live/4gtv-live105.jpg" group-title="鼠爷4GTV",尼克儿童频道
+https://4g.52sf.ga/channel.m3u8?fid=4gtv-live105&hd=720
+#EXTINF:-1 tvg-chno="36" tvg-id="4gtv-4gtv044" tvg-name="靖天卡通台" tvg-logo="https://4gtvimg.4gtv.tv/4gtv-Image/Production/Channel/Live/4gtv-4gtv044.jpg" group-title="鼠爷4GTV",靖天卡通台
+https://4g.52sf.ga/channel.m3u8?fid=4gtv-4gtv044&hd=720
+#EXTINF:-1 tvg-chno="37" tvg-id="4gtv-4gtv057" tvg-name="靖洋卡通Nice Bingo" tvg-logo="https://4gtvimg.4gtv.tv/4gtv-Image/Production/Channel/Live/4gtv-4gtv057.jpg" group-title="鼠爷4GTV",靖洋卡通Nice Bingo
+https://4g.52sf.ga/channel.m3u8?fid=4gtv-4gtv057&hd=720
+#EXTINF:-1 tvg-chno="38" tvg-id="litv-ftv15" tvg-name="i-Fun动漫台" tvg-logo="https://4gtvimg.4gtv.tv/4gtv-Image/Production/Channel/Live/litv-ftv15.jpg" group-title="鼠爷4GTV",i-Fun动漫台
+https://4g.52sf.ga/channel.m3u8?fid=litv-ftv15&hd=720
+#EXTINF:-1 tvg-chno="42" tvg-id="4gtv-live107" tvg-name="MOMO亲子台" tvg-logo="https://4gtvimg.4gtv.tv/4gtv-Image/Production/Channel/Live/4gtv-live107.jpg" group-title="鼠爷4GTV",MOMO亲子台
+https://4g.52sf.ga/channel.m3u8?fid=4gtv-live107&hd=720
+#EXTINF:-1 tvg-chno="44" tvg-id="4gtv-live205" tvg-name="CN卡通" tvg-logo="https://4gtvimg.4gtv.tv/4gtv-Image/Production/Channel/Live/4gtv-live205.jpg" group-title="鼠爷4GTV",CN卡通
+https://4g.52sf.ga/channel.m3u8?fid=4gtv-live205&hd=720
+#EXTINF:-1 tvg-chno="49" tvg-id="4gtv-live047" tvg-name="东森购物一台" tvg-logo="https://4gtvimg.4gtv.tv/4gtv-Image/Production/Channel/Live/4gtv-live047.jpg" group-title="鼠爷4GTV",东森购物一台
+https://4g.52sf.ga/channel.m3u8?fid=4gtv-live047&hd=720
+#EXTINF:-1 tvg-chno="50" tvg-id="4gtv-4gtv075" tvg-name="镜电视新闻台" tvg-logo="https://4gtvimg.4gtv.tv/4gtv-Image/Production/Channel/Live/4gtv-4gtv075.jpg" group-title="鼠爷4GTV",镜电视新闻台
+https://4g.52sf.ga/channel.m3u8?fid=4gtv-4gtv075&hd=720
+#EXTINF:-1 tvg-chno="51" tvg-id="4gtv-live114" tvg-name="东森新闻台" tvg-logo="https://4gtvimg.4gtv.tv/4gtv-Image/Production/Channel/Live/4gtv-live114.jpg" group-title="鼠爷4GTV",东森新闻台
+https://4g.52sf.ga/channel.m3u8?fid=4gtv-live114&hd=720
+#EXTINF:-1 tvg-chno="52" tvg-id="4gtv-4gtv052" tvg-name="华视新闻" tvg-logo="https://4gtvimg.4gtv.tv/4gtv-Image/Production/Channel/Live/4gtv-4gtv052.jpg" group-title="鼠爷4GTV",华视新闻
+https://4g.52sf.ga/channel.m3u8?fid=4gtv-4gtv052&hd=720
+#EXTINF:-1 tvg-chno="53" tvg-id="litv-ftv13" tvg-name="民视新闻台" tvg-logo="https://4gtvimg.4gtv.tv/4gtv-Image/Production/Channel/Live/litv-ftv13.jpg" group-title="鼠爷4GTV",民视新闻台
+https://4g.52sf.ga/channel.m3u8?fid=litv-ftv13&hd=720
+#EXTINF:-1 tvg-chno="54" tvg-id="4gtv-live089" tvg-name="三立财经新闻iNEWS" tvg-logo="https://4gtvimg.4gtv.tv/4gtv-Image/Production/Channel/Live/4gtv-live089.jpg" group-title="鼠爷4GTV",三立财经新闻iNEWS
+https://4g.52sf.ga/channel.m3u8?fid=4gtv-live089&hd=720
+#EXTINF:-1 tvg-chno="55" tvg-id="4gtv-live072" tvg-name="TVBS新闻" tvg-logo="https://4gtvimg.4gtv.tv/4gtv-Image/Production/Channel/Live/4gtv-live072.jpg" group-title="鼠爷4GTV",TVBS新闻
+https://4g.52sf.ga/channel.m3u8?fid=4gtv-live072&hd=720
+#EXTINF:-1 tvg-chno="56" tvg-id="4gtv-live019" tvg-name="东森财经新闻台" tvg-logo="https://4gtvimg.4gtv.tv/4gtv-Image/Production/Channel/Live/4gtv-live019.jpg" group-title="鼠爷4GTV",东森财经新闻台
+https://4g.52sf.ga/channel.m3u8?fid=4gtv-live019&hd=720
+#EXTINF:-1 tvg-chno="57" tvg-id="4gtv-4gtv074" tvg-name="中视新闻" tvg-logo="https://4gtvimg.4gtv.tv/4gtv-Image/Production/Channel/Live/4gtv-4gtv074.jpg" group-title="鼠爷4GTV",中视新闻
+https://4g.52sf.ga/channel.m3u8?fid=4gtv-4gtv074&hd=720
+#EXTINF:-1 tvg-chno="58" tvg-id="4gtv-4gtv009" tvg-name="中天新闻台" tvg-logo="https://4gtvimg.4gtv.tv/4gtv-Image/Production/Channel/Live/4gtv-4gtv009.jpg" group-title="鼠爷4GTV",中天新闻台
+https://4g.52sf.ga/channel.m3u8?fid=4gtv-4gtv009&hd=720
+#EXTINF:-1 tvg-chno="60" tvg-id="litv-longturn14" tvg-name="寰宇新闻台" tvg-logo="https://4gtvimg.4gtv.tv/4gtv-Image/Production/Channel/Live/litv-longturn14.jpg" group-title="鼠爷4GTV",寰宇新闻台
+https://4g.52sf.ga/channel.m3u8?fid=litv-longturn14&hd=720
+#EXTINF:-1 tvg-chno="62" tvg-id="4gtv-live060" tvg-name="SBN全球财经台" tvg-logo="https://4gtvimg.4gtv.tv/4gtv-Image/Production/Channel/Live/4gtv-live060.jpg" group-title="鼠爷4GTV",SBN全球财经台
+https://4g.52sf.ga/channel.m3u8?fid=4gtv-live060&hd=720
+#EXTINF:-1 tvg-chno="67" tvg-id="4gtv-4gtv073" tvg-name="TVBS" tvg-logo="https://4gtvimg.4gtv.tv/4gtv-Image/Production/Channel/Live/4gtv-4gtv073.jpg" group-title="鼠爷4GTV",TVBS
+https://4g.52sf.ga/channel.m3u8?fid=4gtv-4gtv073&hd=720
+#EXTINF:-1 tvg-chno="69" tvg-id="4gtv-live046" tvg-name="东森购物二台" tvg-logo="https://4gtvimg.4gtv.tv/4gtv-Image/Production/Channel/Live/4gtv-live046.jpg" group-title="鼠爷4GTV",东森购物二台
+https://4g.52sf.ga/channel.m3u8?fid=4gtv-live046&hd=720
+#EXTINF:-1 tvg-chno="70" tvg-id="4gtv-4gtv004" tvg-name="民视综艺台" tvg-logo="https://4gtvimg.4gtv.tv/4gtv-Image/Production/Channel/Live/4gtv-4gtv004.jpg" group-title="鼠爷4GTV",民视综艺台
+https://4g.52sf.ga/channel.m3u8?fid=4gtv-4gtv004&hd=720
+#EXTINF:-1 tvg-chno="71" tvg-id="4gtv-4gtv006" tvg-name="猪哥亮歌厅秀" tvg-logo="https://4gtvimg.4gtv.tv/4gtv-Image/Production/Channel/Live/4gtv-4gtv006.jpg" group-title="鼠爷4GTV",猪哥亮歌厅秀
+https://4g.52sf.ga/channel.m3u8?fid=4gtv-4gtv006&hd=720
+#EXTINF:-1 tvg-chno="72" tvg-id="4gtv-4gtv062" tvg-name="靖天育乐台" tvg-logo="https://4gtvimg.4gtv.tv/4gtv-Image/Production/Channel/Live/4gtv-4gtv062.jpg" group-title="鼠爷4GTV",靖天育乐台
+https://4g.52sf.ga/channel.m3u8?fid=4gtv-4gtv062&hd=720
+#EXTINF:-1 tvg-chno="73" tvg-id="4gtv-4gtv063" tvg-name="KLT-靖天国际台" tvg-logo="https://4gtvimg.4gtv.tv/4gtv-Image/Production/Channel/Live/4gtv-4gtv063.jpg" group-title="鼠爷4GTV",KLT-靖天国际台
+https://4g.52sf.ga/channel.m3u8?fid=4gtv-4gtv063&hd=720
+#EXTINF:-1 tvg-chno="74" tvg-id="4gtv-4gtv054" tvg-name="Nice TV 靖天欢乐台" tvg-logo="https://4gtvimg.4gtv.tv/4gtv-Image/Production/Channel/Live/4gtv-4gtv054.jpg" group-title="鼠爷4GTV",Nice TV 靖天欢乐台
+https://4g.52sf.ga/channel.m3u8?fid=4gtv-4gtv054&hd=720
+#EXTINF:-1 tvg-chno="75" tvg-id="4gtv-4gtv065" tvg-name="靖天资讯台" tvg-logo="https://4gtvimg.4gtv.tv/4gtv-Image/Production/Channel/Live/4gtv-4gtv065.jpg" group-title="鼠爷4GTV",靖天资讯台
+https://4g.52sf.ga/channel.m3u8?fid=4gtv-4gtv065&hd=720
+#EXTINF:-1 tvg-chno="76" tvg-id="4gtv-live076" tvg-name="中天全民最大党" tvg-logo="https://4gtvimg.4gtv.tv/4gtv-Image/Production/Channel/Live/4gtv-live076.jpg" group-title="鼠爷4GTV",中天全民最大党
+https://4g.52sf.ga/channel.m3u8?fid=4gtv-live076&hd=720
+#EXTINF:-1 tvg-chno="77" tvg-id="4gtv-4gtv068" tvg-name="TVBS欢乐台" tvg-logo="https://4gtvimg.4gtv.tv/4gtv-Image/Production/Channel/Live/4gtv-4gtv068.jpg" group-title="鼠爷4GTV",TVBS欢乐台
+https://4g.52sf.ga/channel.m3u8?fid=4gtv-4gtv068&hd=720
+#EXTINF:-1 tvg-chno="78" tvg-id="4gtv-4gtv016" tvg-name="韩国娱乐台 KMTV" tvg-logo="https://4gtvimg.4gtv.tv/4gtv-Image/Production/Channel/Live/4gtv-4gtv016.jpg" group-title="鼠爷4GTV",韩国娱乐台 KMTV
+https://4g.52sf.ga/channel.m3u8?fid=4gtv-4gtv016&hd=720
+#EXTINF:-1 tvg-chno="81" tvg-id="4gtv-live029" tvg-name="Lifetime 娱乐频道" tvg-logo="https://4gtvimg.4gtv.tv/4gtv-Image/Production/Channel/Live/4gtv-live029.jpg" group-title="鼠爷4GTV",Lifetime 娱乐频道
+https://4g.52sf.ga/channel.m3u8?fid=4gtv-live029&hd=720
+#EXTINF:-1 tvg-chno="82" tvg-id="4gtv-live031" tvg-name="电影原声台CMusic" tvg-logo="https://4gtvimg.4gtv.tv/4gtv-Image/Production/Channel/Live/4gtv-live031.jpg" group-title="鼠爷4GTV",电影原声台CMusic
+https://4g.52sf.ga/channel.m3u8?fid=4gtv-live031&hd=720
+#EXTINF:-1 tvg-chno="83" tvg-id="4gtv-4gtv082" tvg-name="TRACE Urban" tvg-logo="https://4gtvimg.4gtv.tv/4gtv-Image/Production/Channel/Live/4gtv-4gtv082.jpg" group-title="鼠爷4GTV",TRACE Urban
+https://4g.52sf.ga/channel.m3u8?fid=4gtv-4gtv082&hd=720
+#EXTINF:-1 tvg-chno="84" tvg-id="4gtv-live025" tvg-name="MTV Live HD 音乐频道" tvg-logo="https://4gtvimg.4gtv.tv/4gtv-Image/Production/Channel/Live/4gtv-live025.jpg" group-title="鼠爷4GTV",MTV Live HD 音乐频道
+https://4g.52sf.ga/channel.m3u8?fid=4gtv-live025&hd=720
+#EXTINF:-1 tvg-chno="86" tvg-id="4gtv-4gtv083" tvg-name="Mezzo Live HD" tvg-logo="https://4gtvimg.4gtv.tv/4gtv-Image/Production/Channel/Live/4gtv-4gtv083.jpg" group-title="鼠爷4GTV",Mezzo Live HD
+https://4g.52sf.ga/channel.m3u8?fid=4gtv-4gtv083&hd=720
+#EXTINF:-1 tvg-chno="87" tvg-id="4gtv-4gtv059" tvg-name="CLASSICA 古典乐" tvg-logo="https://4gtvimg.4gtv.tv/4gtv-Image/Production/Channel/Live/4gtv-4gtv059.jpg" group-title="鼠爷4GTV",CLASSICA 古典乐
+https://4g.52sf.ga/channel.m3u8?fid=4gtv-4gtv059&hd=720
+#EXTINF:-1 tvg-chno="97" tvg-id="litv-longturn05" tvg-name="博斯高球台" tvg-logo="https://4gtvimg.4gtv.tv/4gtv-Image/Production/Channel/Live/litv-longturn05.jpg" group-title="鼠爷4GTV",博斯高球台
+https://4g.52sf.ga/channel.m3u8?fid=litv-longturn05&hd=720
+#EXTINF:-1 tvg-chno="99" tvg-id="litv-longturn07" tvg-name="博斯运动一台" tvg-logo="https://4gtvimg.4gtv.tv/4gtv-Image/Production/Channel/Live/litv-longturn07.jpg" group-title="鼠爷4GTV",博斯运动一台
+https://4g.52sf.ga/channel.m3u8?fid=litv-longturn07&hd=720
+#EXTINF:-1 tvg-chno="100" tvg-id="litv-longturn10" tvg-name="博斯无限台" tvg-logo="https://4gtvimg.4gtv.tv/4gtv-Image/Production/Channel/Live/litv-longturn10.jpg" group-title="鼠爷4GTV",博斯无限台
+https://4g.52sf.ga/channel.m3u8?fid=litv-longturn10&hd=720
+#EXTINF:-1 tvg-chno="101" tvg-id="litv-longturn09" tvg-name="博斯网球台" tvg-logo="https://4gtvimg.4gtv.tv/4gtv-Image/Production/Channel/Live/litv-longturn09.jpg" group-title="鼠爷4GTV",博斯网球台
+https://4g.52sf.ga/channel.m3u8?fid=litv-longturn09&hd=720
+#EXTINF:-1 tvg-chno="104" tvg-id="4gtv-4gtv077" tvg-name="TRACE Sport Stars" tvg-logo="https://4gtvimg.4gtv.tv/4gtv-Image/Production/Channel/Live/4gtv-4gtv077.jpg" group-title="鼠爷4GTV",TRACE Sport Stars
+https://4g.52sf.ga/channel.m3u8?fid=4gtv-4gtv077&hd=720
+#EXTINF:-1 tvg-chno="105" tvg-id="4gtv-4gtv101" tvg-name="智林体育台" tvg-logo="https://4gtvimg.4gtv.tv/4gtv-Image/Production/Channel/Live/4gtv-4gtv101.jpg" group-title="鼠爷4GTV",智林体育台
+https://4g.52sf.ga/channel.m3u8?fid=4gtv-4gtv101&hd=720
+#EXTINF:-1 tvg-chno="106" tvg-id="4gtv-4gtv014" tvg-name="时尚运动X" tvg-logo="https://4gtvimg.4gtv.tv/4gtv-Image/Production/Channel/Live/4gtv-4gtv014.jpg" group-title="鼠爷4GTV",时尚运动X
+https://4g.52sf.ga/channel.m3u8?fid=4gtv-4gtv014&hd=720
+#EXTINF:-1 tvg-chno="107" tvg-id="4gtv-live201" tvg-name="车迷TV" tvg-logo="https://4gtvimg.4gtv.tv/4gtv-Image/Production/Channel/Live/4gtv-live201.jpg" group-title="鼠爷4GTV",车迷TV
+https://4g.52sf.ga/channel.m3u8?fid=4gtv-live201&hd=720
+#EXTINF:-1 tvg-chno="108" tvg-id="4gtv-4gtv053" tvg-name="GINX Esports TV" tvg-logo="https://4gtvimg.4gtv.tv/4gtv-Image/Production/Channel/Live/4gtv-4gtv053.jpg" group-title="鼠爷4GTV",GINX Esports TV
+https://4g.52sf.ga/channel.m3u8?fid=4gtv-4gtv053&hd=720
+#EXTINF:-1 tvg-chno="109" tvg-id="4gtv-live109" tvg-name="TechStorm" tvg-logo="https://4gtvimg.4gtv.tv/4gtv-Image/Production/Channel/Live/4gtv-live109.jpg" group-title="鼠爷4GTV",TechStorm
+https://4g.52sf.ga/channel.m3u8?fid=4gtv-live109&hd=720
+#EXTINF:-1 tvg-chno="110" tvg-id="4gtv-live110" tvg-name="Pet Club TV" tvg-logo="https://4gtvimg.4gtv.tv/4gtv-Image/Production/Channel/Live/4gtv-live110.jpg" group-title="鼠爷4GTV",Pet Club TV
+https://4g.52sf.ga/channel.m3u8?fid=4gtv-live110&hd=720
+#EXTINF:-1 tvg-chno="111" tvg-id="litv-ftv07" tvg-name="民视旅游台" tvg-logo="https://4gtvimg.4gtv.tv/4gtv-Image/Production/Channel/Live/litv-ftv07.jpg" group-title="鼠爷4GTV",民视旅游台
+https://4g.52sf.ga/channel.m3u8?fid=litv-ftv07&hd=720
+#EXTINF:-1 tvg-chno="112" tvg-id="4gtv-live012" tvg-name="滚动力rollor" tvg-logo="https://4gtvimg.4gtv.tv/4gtv-Image/Production/Channel/Live/4gtv-live012.jpg" group-title="鼠爷4GTV",滚动力rollor
+https://4g.52sf.ga/channel.m3u8?fid=4gtv-live012&hd=720
+#EXTINF:-1 tvg-chno="113" tvg-id="litv-longturn17" tvg-name="亚洲旅游台" tvg-logo="https://4gtvimg.4gtv.tv/4gtv-Image/Production/Channel/Live/litv-longturn17.jpg" group-title="鼠爷4GTV",亚洲旅游台
+https://4g.52sf.ga/channel.m3u8?fid=litv-longturn17&hd=720
+#EXTINF:-1 tvg-chno="115" tvg-id="4gtv-live206" tvg-name="幸福空间居家台" tvg-logo="https://4gtvimg.4gtv.tv/4gtv-Image/Production/Channel/Live/4gtv-live206.jpg" group-title="鼠爷4GTV",幸福空间居家台
+https://4g.52sf.ga/channel.m3u8?fid=4gtv-live206&hd=720
+#EXTINF:-1 tvg-chno="116" tvg-id="4gtv-live208" tvg-name="Love Nature" tvg-logo="https://4gtvimg.4gtv.tv/4gtv-Image/Production/Channel/Live/4gtv-live208.jpg" group-title="鼠爷4GTV",Love Nature
+https://4g.52sf.ga/channel.m3u8?fid=4gtv-live208&hd=720
+#EXTINF:-1 tvg-chno="117" tvg-id="4gtv-live026" tvg-name="History 历史频道" tvg-logo="https://4gtvimg.4gtv.tv/4gtv-Image/Production/Channel/Live/4gtv-live026.jpg" group-title="鼠爷4GTV",History 历史频道
+https://4g.52sf.ga/channel.m3u8?fid=4gtv-live026&hd=720
+#EXTINF:-1 tvg-chno="118" tvg-id="4gtv-live028" tvg-name="HISTORY 2 频道" tvg-logo="https://4gtvimg.4gtv.tv/4gtv-Image/Production/Channel/Live/4gtv-live028.jpg" group-title="鼠爷4GTV",HISTORY 2 频道
+https://4g.52sf.ga/channel.m3u8?fid=4gtv-live028&hd=720
+#EXTINF:-1 tvg-chno="119" tvg-id="4gtv-live088" tvg-name="Smithsonian Channel" tvg-logo="https://4gtvimg.4gtv.tv/4gtv-Image/Production/Channel/Live/4gtv-live088.jpg" group-title="鼠爷4GTV",Smithsonian Channel
+https://4g.52sf.ga/channel.m3u8?fid=4gtv-live088&hd=720
+#EXTINF:-1 tvg-chno="120" tvg-id="4gtv-live120" tvg-name="爱尔达生活旅游台" tvg-logo="https://4gtvimg.4gtv.tv/4gtv-Image/Production/Channel/Live/4gtv-live120.jpg" group-title="鼠爷4GTV",爱尔达生活旅游台
+https://4g.52sf.ga/channel.m3u8?fid=4gtv-live120&hd=720
+#EXTINF:-1 tvg-chno="121" tvg-id="4gtv-live121" tvg-name="LUXE TV Channel" tvg-logo="https://4gtvimg.4gtv.tv/4gtv-Image/Production/Channel/Live/4gtv-live121.jpg" group-title="鼠爷4GTV",LUXE TV Channel
+https://4g.52sf.ga/channel.m3u8?fid=4gtv-live121&hd=720
+#EXTINF:-1 tvg-chno="122" tvg-id="4gtv-live122" tvg-name="TV5MONDE STYLE HD 生活时尚" tvg-logo="https://4gtvimg.4gtv.tv/4gtv-Image/Production/Channel/Live/4gtv-live122.jpg" group-title="鼠爷4GTV",TV5MONDE STYLE HD 生活时尚
+https://4g.52sf.ga/channel.m3u8?fid=4gtv-live122&hd=720
+#EXTINF:-1 tvg-chno="123" tvg-id="4gtv-live123" tvg-name="中天美食旅游" tvg-logo="https://4gtvimg.4gtv.tv/4gtv-Image/Production/Channel/Live/4gtv-live123.jpg" group-title="鼠爷4GTV",中天美食旅游
+https://4g.52sf.ga/channel.m3u8?fid=4gtv-live123&hd=720
+#EXTINF:-1 tvg-chno="125" tvg-id="4gtv-4gtv042" tvg-name="公视戏剧" tvg-logo="https://4gtvimg.4gtv.tv/4gtv-Image/Production/Channel/Live/4gtv-4gtv042.jpg" group-title="鼠爷4GTV",公视戏剧
+https://4g.52sf.ga/channel.m3u8?fid=4gtv-4gtv042&hd=720
+#EXTINF:-1 tvg-chno="126" tvg-id="litv-ftv09" tvg-name="民视影剧台" tvg-logo="https://4gtvimg.4gtv.tv/4gtv-Image/Production/Channel/Live/litv-ftv09.jpg" group-title="鼠爷4GTV",民视影剧台
+https://4g.52sf.ga/channel.m3u8?fid=litv-ftv09&hd=720
+#EXTINF:-1 tvg-chno="127" tvg-id="litv-longturn18" tvg-name="龙华戏剧台" tvg-logo="https://4gtvimg.4gtv.tv/4gtv-Image/Production/Channel/Live/litv-longturn18.jpg" group-title="鼠爷4GTV",龙华戏剧台
+https://4g.52sf.ga/channel.m3u8?fid=litv-longturn18&hd=720
+#EXTINF:-1 tvg-chno="128" tvg-id="4gtv-live620" tvg-name="HITS频道" tvg-logo="https://4gtvimg.4gtv.tv/4gtv-Image/Production/Channel/Live/4gtv-live620.jpg" group-title="鼠爷4GTV",HITS频道
+https://4g.52sf.ga/channel.m3u8?fid=4gtv-live620&hd=720
+#EXTINF:-1 tvg-chno="129" tvg-id="litv-longturn11" tvg-name="龙华日韩台" tvg-logo="https://4gtvimg.4gtv.tv/4gtv-Image/Production/Channel/Live/litv-longturn11.jpg" group-title="鼠爷4GTV",龙华日韩台
+https://4g.52sf.ga/channel.m3u8?fid=litv-longturn11&hd=720
+#EXTINF:-1 tvg-chno="130" tvg-id="4gtv-4gtv034" tvg-name="八大精彩台" tvg-logo="https://4gtvimg.4gtv.tv/4gtv-Image/Production/Channel/Live/4gtv-4gtv034.jpg" group-title="鼠爷4GTV",八大精彩台
+https://4g.52sf.ga/channel.m3u8?fid=4gtv-4gtv034&hd=720
+#EXTINF:-1 tvg-chno="132" tvg-id="4gtv-4gtv058" tvg-name="靖天戏剧台" tvg-logo="https://4gtvimg.4gtv.tv/4gtv-Image/Production/Channel/Live/4gtv-4gtv058.jpg" group-title="鼠爷4GTV",靖天戏剧台
+https://4g.52sf.ga/channel.m3u8?fid=4gtv-4gtv058&hd=720
+#EXTINF:-1 tvg-chno="133" tvg-id="4gtv-4gtv045" tvg-name="靖洋戏剧台" tvg-logo="https://4gtvimg.4gtv.tv/4gtv-Image/Production/Channel/Live/4gtv-4gtv045.jpg" group-title="鼠爷4GTV",靖洋戏剧台
+https://4g.52sf.ga/channel.m3u8?fid=4gtv-4gtv045&hd=720
+#EXTINF:-1 tvg-chno="134" tvg-id="4gtv-live027" tvg-name="CI 罪案侦查频道" tvg-logo="https://4gtvimg.4gtv.tv/4gtv-Image/Production/Channel/Live/4gtv-live027.jpg" group-title="鼠爷4GTV",CI 罪案侦查频道
+https://4g.52sf.ga/channel.m3u8?fid=4gtv-live027&hd=720
+#EXTINF:-1 tvg-chno="135" tvg-id="4gtv-4gtv013" tvg-name="视纳华仁纪实频道" tvg-logo="https://4gtvimg.4gtv.tv/4gtv-Image/Production/Channel/Live/4gtv-4gtv013.jpg" group-title="鼠爷4GTV",视纳华仁纪实频道
+https://4g.52sf.ga/channel.m3u8?fid=4gtv-4gtv013&hd=720
+#EXTINF:-1 tvg-chno="136" tvg-id="4gtv-live023" tvg-name="影迷数位纪实台" tvg-logo="https://4gtvimg.4gtv.tv/4gtv-Image/Production/Channel/Live/4gtv-live023.jpg" group-title="鼠爷4GTV",影迷数位纪实台
+https://4g.52sf.ga/channel.m3u8?fid=4gtv-live023&hd=720
+#EXTINF:-1 tvg-chno="137" tvg-id="4gtv-live144" tvg-name="金光布袋戏" tvg-logo="https://4gtvimg.4gtv.tv/4gtv-Image/Production/Channel/Live/4gtv-live144.jpg" group-title="鼠爷4GTV",金光布袋戏
+https://4g.52sf.ga/channel.m3u8?fid=4gtv-live144&hd=720
+#EXTINF:-1 tvg-chno="138" tvg-id="4gtv-live138" tvg-name="ROCK Extreme" tvg-logo="https://4gtvimg.4gtv.tv/4gtv-Image/Production/Channel/Live/4gtv-live138.jpg" group-title="鼠爷4GTV",ROCK Extreme
+https://4g.52sf.ga/channel.m3u8?fid=4gtv-live138&hd=720
+#EXTINF:-1 tvg-chno="145" tvg-id="4gtv-4gtv049" tvg-name="采昌影剧台" tvg-logo="https://4gtvimg.4gtv.tv/4gtv-Image/Production/Channel/Live/4gtv-4gtv049.jpg" group-title="鼠爷4GTV",采昌影剧台
+https://4g.52sf.ga/channel.m3u8?fid=4gtv-4gtv049&hd=720
+#EXTINF:-1 tvg-chno="146" tvg-id="4gtv-4gtv055" tvg-name="靖天映画" tvg-logo="https://4gtvimg.4gtv.tv/4gtv-Image/Production/Channel/Live/4gtv-4gtv055.jpg" group-title="鼠爷4GTV",靖天映画
+https://4g.52sf.ga/channel.m3u8?fid=4gtv-4gtv055&hd=720
+#EXTINF:-1 tvg-chno="147" tvg-id="4gtv-4gtv061" tvg-name="靖天电影台" tvg-logo="https://4gtvimg.4gtv.tv/4gtv-Image/Production/Channel/Live/4gtv-4gtv061.jpg" group-title="鼠爷4GTV",靖天电影台
+https://4g.52sf.ga/channel.m3u8?fid=4gtv-4gtv061&hd=720
+#EXTINF:-1 tvg-chno="148" tvg-id="litv-longturn03" tvg-name="龙华电影台" tvg-logo="https://4gtvimg.4gtv.tv/4gtv-Image/Production/Channel/Live/litv-longturn03.jpg" group-title="鼠爷4GTV",龙华电影台
+https://4g.52sf.ga/channel.m3u8?fid=litv-longturn03&hd=720
+#EXTINF:-1 tvg-chno="152" tvg-id="4gtv-4gtv011" tvg-name="影迷数位电影台" tvg-logo="https://4gtvimg.4gtv.tv/4gtv-Image/Production/Channel/Live/4gtv-4gtv011.jpg" group-title="鼠爷4GTV",影迷数位电影台
+https://4g.52sf.ga/channel.m3u8?fid=4gtv-4gtv011&hd=720
+#EXTINF:-1 tvg-chno="153" tvg-id="4gtv-4gtv017" tvg-name="amc最爱电影" tvg-logo="https://4gtvimg.4gtv.tv/4gtv-Image/Production/Channel/Live/4gtv-4gtv017.jpg" group-title="鼠爷4GTV",amc最爱电影
+https://4g.52sf.ga/channel.m3u8?fid=4gtv-4gtv017&hd=720
+#EXTINF:-1 tvg-chno="154" tvg-id="4gtv-live069" tvg-name="CinemaWorld" tvg-logo="https://4gtvimg.4gtv.tv/4gtv-Image/Production/Channel/Live/4gtv-live069.jpg" group-title="鼠爷4GTV",CinemaWorld
+https://4g.52sf.ga/channel.m3u8?fid=4gtv-live069&hd=720
+#EXTINF:-1 tvg-chno="155" tvg-id="4gtv-live155" tvg-name="CATCHPLAY Beyond" tvg-logo="https://4gtvimg.4gtv.tv/4gtv-Image/Production/Channel/Live/4gtv-live155.jpg" group-title="鼠爷4GTV",CATCHPLAY Beyond
+https://4g.52sf.ga/channel.m3u8?fid=4gtv-live155&hd=720
+#EXTINF:-1 tvg-chno="156" tvg-id="4gtv-4gtv076" tvg-name="CATCHPLAY电影台" tvg-logo="https://4gtvimg.4gtv.tv/4gtv-Image/Production/Channel/Live/4gtv-4gtv076.jpg" group-title="鼠爷4GTV",CATCHPLAY电影台
+https://4g.52sf.ga/channel.m3u8?fid=4gtv-4gtv076&hd=720
+#EXTINF:-1 tvg-chno="157" tvg-id="4gtv-live157" tvg-name="My Cinema Europe HD 我的欧洲电影" tvg-logo="https://4gtvimg.4gtv.tv/4gtv-Image/Production/Channel/Live/4gtv-live157.jpg" group-title="鼠爷4GTV",My Cinema Europe HD 我的欧洲电影
+https://4g.52sf.ga/channel.m3u8?fid=4gtv-live157&hd=720
+#EXTINF:-1 tvg-chno="160" tvg-id="litv-ftv17" tvg-name="好消息2台" tvg-logo="https://4gtvimg.4gtv.tv/4gtv-Image/Production/Channel/Live/litv-ftv17.jpg" group-title="鼠爷4GTV",好消息2台
+https://4g.52sf.ga/channel.m3u8?fid=litv-ftv17&hd=720
+#EXTINF:-1 tvg-chno="161" tvg-id="litv-ftv16" tvg-name="好消息" tvg-logo="https://4gtvimg.4gtv.tv/4gtv-Image/Production/Channel/Live/litv-ftv16.jpg" group-title="鼠爷4GTV",好消息
+https://4g.52sf.ga/channel.m3u8?fid=litv-ftv16&hd=720
+#EXTINF:-1 tvg-chno="163" tvg-id="4gtv-live106" tvg-name="大爱二台" tvg-logo="https://4gtvimg.4gtv.tv/4gtv-Image/Production/Channel/Live/4gtv-live106.jpg" group-title="鼠爷4GTV",大爱二台
+https://4g.52sf.ga/channel.m3u8?fid=4gtv-live106&hd=720
+#EXTINF:-1 tvg-chno="164" tvg-id="4gtv-live008" tvg-name="人间卫视" tvg-logo="https://4gtvimg.4gtv.tv/4gtv-Image/Production/Channel/Live/4gtv-live008.jpg" group-title="鼠爷4GTV",人间卫视
+https://4g.52sf.ga/channel.m3u8?fid=4gtv-live008&hd=720
+#EXTINF:-1 tvg-chno="170" tvg-id="litv-ftv10" tvg-name="半岛国际新闻台" tvg-logo="https://4gtvimg.4gtv.tv/4gtv-Image/Production/Channel/Live/litv-ftv10.jpg" group-title="鼠爷4GTV",半岛国际新闻台
+https://4g.52sf.ga/channel.m3u8?fid=litv-ftv10&hd=720
+#EXTINF:-1 tvg-chno="171" tvg-id="litv-ftv03" tvg-name="VOA美国之音" tvg-logo="https://4gtvimg.4gtv.tv/4gtv-Image/Production/Channel/Live/litv-ftv03.jpg" group-title="鼠爷4GTV",VOA美国之音
+https://4g.52sf.ga/channel.m3u8?fid=litv-ftv03&hd=720
+#EXTINF:-1 tvg-chno="172" tvg-id="4gtv-live130" tvg-name="CNBC Asia 财经台" tvg-logo="https://4gtvimg.4gtv.tv/4gtv-Image/Production/Channel/Live/4gtv-live130.jpg" group-title="鼠爷4GTV",CNBC Asia 财经台
+https://4g.52sf.ga/channel.m3u8?fid=4gtv-live130&hd=720
+#EXTINF:-1 tvg-chno="173" tvg-id="4gtv-live071" tvg-name="DW德国之声" tvg-logo="https://4gtvimg.4gtv.tv/4gtv-Image/Production/Channel/Live/4gtv-live071.jpg" group-title="鼠爷4GTV",DW德国之声
+https://4g.52sf.ga/channel.m3u8?fid=4gtv-live071&hd=720
+#EXTINF:-1 tvg-chno="175" tvg-id="4gtv-live203" tvg-name="CNN头条新闻台" tvg-logo="https://4gtvimg.4gtv.tv/4gtv-Image/Production/Channel/Live/4gtv-live203.jpg" group-title="鼠爷4GTV",CNN头条新闻台
+https://4g.52sf.ga/channel.m3u8?fid=4gtv-live203&hd=720
+#EXTINF:-1 tvg-chno="176" tvg-id="4gtv-live204" tvg-name="CNN国际新闻台" tvg-logo="https://4gtvimg.4gtv.tv/4gtv-Image/Production/Channel/Live/4gtv-live204.jpg" group-title="鼠爷4GTV",CNN国际新闻台
+https://4g.52sf.ga/channel.m3u8?fid=4gtv-live204&hd=720
+#EXTINF:-1 tvg-chno="185" tvg-id="4gtv-4gtv084" tvg-name="国会频道1" tvg-logo="https://4gtvimg.4gtv.tv/4gtv-Image/Production/Channel/Live/4gtv-4gtv084.jpg" group-title="国会频道",国会频道1
+https://4g.52sf.ga/channel.m3u8?fid=4gtv-4gtv084&hd=720
+#EXTINF:-1 tvg-chno="186" tvg-id="4gtv-4gtv085" tvg-name="国会频道2" tvg-logo="https://4gtvimg.4gtv.tv/4gtv-Image/Production/Channel/Live/4gtv-4gtv085.jpg" group-title="国会频道",国会频道2
+https://4g.52sf.ga/channel.m3u8?fid=4gtv-4gtv085&hd=720
+#EXTINF:-1 tvg-chno="201" tvg-id="4gtv-live021" tvg-name="经典电影台" tvg-logo="https://4gtvimg.4gtv.tv/4gtv-Image/Production/Channel/Live/4gtv-live021.jpg" group-title="鼠爷4GTV",经典电影台
+https://4g.52sf.ga/channel.m3u8?fid=4gtv-live021&hd=720
+#EXTINF:-1 tvg-chno="202" tvg-id="4gtv-live022" tvg-name="经典卡通台" tvg-logo="https://4gtvimg.4gtv.tv/4gtv-Image/Production/Channel/Live/4gtv-live022.jpg" group-title="鼠爷4GTV",经典卡通台
+https://4g.52sf.ga/channel.m3u8?fid=4gtv-live022&hd=720
+#EXTINF:-1 tvg-chno="204" tvg-id="4gtv-live024" tvg-name="精选动漫台" tvg-logo="https://4gtvimg.4gtv.tv/4gtv-Image/Production/Channel/Live/4gtv-live024.jpg" group-title="鼠爷4GTV",精选动漫台
+https://4g.52sf.ga/channel.m3u8?fid=4gtv-live024&hd=720
+#EXTINF:-1 tvg-chno="205" tvg-id="4gtv-live005" tvg-name="华语戏剧台" tvg-logo="https://4gtvimg.4gtv.tv/4gtv-Image/Production/Channel/Live/4gtv-live005.jpg" group-title="鼠爷4GTV",华语戏剧台
+https://4g.52sf.ga/channel.m3u8?fid=4gtv-live005&hd=720
+#EXTINF:-1 tvg-chno="206" tvg-id="4gtv-live006" tvg-name="华语综艺台" tvg-logo="https://4gtvimg.4gtv.tv/4gtv-Image/Production/Channel/Live/4gtv-live006.jpg" group-title="鼠爷4GTV",华语综艺台
+https://4g.52sf.ga/channel.m3u8?fid=4gtv-live006&hd=720
+
+
 
 
 
@@ -2198,6 +2354,10 @@ http://live.dxhmt.cn:9080/13619822555/b119d353d9fe4ee0ad34056550705665.m3u8
 
 #EXTINF:-1 tvg-id="1963" tvg-name="新视觉" tvg-logo="http://n.ysyz.top:99/buyaolian/xsj.png" group-title="江浙沪包邮",新视觉
 http://shbu.live.bestvcdn.com.cn:8080/live/program/live/xsjhd/4000000/mnf.m3u8
+
+#http://112.132.214.218/liveplay-kk.rtxapp.com/live/program/live/xsjhd/4000000/mnf.m3u8
+#http://140.207.241.3:8080/live/program/live/xsjhd/4000000/mnf.m3u8
+#http://140.207.241.3:8080/live/program/live/xsjhd/4000000/d1.m3u8
 #EXTINF:-1 tvg-id="1976" tvg-name="全纪实" tvg-logo="http://n.ysyz.top:99/buyaolian/qjs.png" group-title="江浙沪包邮",全纪实
 http://shbu.live.bestvcdn.com.cn:8080/live/program/live/qjshd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-id="1980" tvg-name="幸福彩" tvg-logo="http://n.ysyz.top:99/buyaolian/xfc.png" group-title="江浙沪包邮",幸福彩
