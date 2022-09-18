@@ -1,60 +1,141 @@
 #EXTM3U url-tvg="http://epg.51zmt.top:8000/e.xml,https://epg.112114.xyz/pp.xml"
 
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="南昌移动",CCTV1
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv1.png" group-title="电信爱上源",CCTV1
+http://59.49.41.44/live.aishang.ctlcdn.com/00000110240127_1/playlist.m3u8?CONTENTID=00000110240127_1
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv2.png" group-title="电信爱上源",CCTV2
+http://59.49.41.44/live.aishang.ctlcdn.com/00000110240244_1/playlist.m3u8?CONTENTID=00000110240244_1
+#EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv3.png" group-title="电信爱上源",CCTV3
+http://59.49.41.44/live.aishang.ctlcdn.com/00000110240245_1/playlist.m3u8?CONTENTID=00000110240245_1
+#EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv4.png" group-title="电信爱上源",CCTV4
+http://59.49.41.44/live.aishang.ctlcdn.com/00000110240316_1/playlist.m3u8?CONTENTID=00000110240316_1
+#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv5.png" group-title="电信爱上源",CCTV5
+http://59.49.41.44/live.aishang.ctlcdn.com/00000110240246_1/playlist.m3u8?CONTENTID=00000110240246_1
+#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv5+.png" group-title="电信爱上源",CCTV5+
+http://59.49.41.44/live.aishang.ctlcdn.com/00000110240128_1/playlist.m3u8?CONTENTID=00000110240128_1
+#EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv6.png" group-title="电信爱上源",CCTV6
+http://59.49.41.44/live.aishang.ctlcdn.com/00000110240247_1/playlist.m3u8?CONTENTID=00000110240247_1
+#EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv7.png" group-title="电信爱上源",CCTV7
+http://59.49.41.44/live.aishang.ctlcdn.com/00000110240248_1/playlist.m3u8?CONTENTID=00000110240248_1
+#EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv8.png" group-title="电信爱上源",CCTV8
+http://59.49.41.44/live.aishang.ctlcdn.com/00000110240249_1/playlist.m3u8?CONTENTID=00000110240249_1
+#EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv9.png" group-title="电信爱上源",CCTV9
+http://59.49.41.44/live.aishang.ctlcdn.com/00000110240250_1/playlist.m3u8?CONTENTID=00000110240250_1
+#EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv9.png" group-title="电信爱上源",CCTV9
+http://59.49.41.44/live.aishang.ctlcdn.com/00000110240478_1/playlist.m3u8?CONTENTID=00000110240478_1
+#EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv10.png" group-title="电信爱上源",CCTV10
+http://59.49.41.44/live.aishang.ctlcdn.com/00000110240251_1/playlist.m3u8?CONTENTID=00000110240251_1
+#EXTINF:-1 tvg-id="12" tvg-name="CCTV11" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv11.png" group-title="电信爱上源",CCTV11
+http://59.49.41.44/live.aishang.ctlcdn.com/00000110240328_1/playlist.m3u8?CONTENTID=00000110240328_1
+#EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv12.png" group-title="电信爱上源",CCTV12
+http://59.49.41.44/live.aishang.ctlcdn.com/00000110240252_1/playlist.m3u8?CONTENTID=00000110240252_1
+#EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv13.png" group-title="电信爱上源",CCTV13
+http://59.49.41.44/live.aishang.ctlcdn.com/00000110240502_1/playlist.m3u8?CONTENTID=00000110240502_1
+#EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv14.png" group-title="电信爱上源",CCTV14
+http://59.49.41.44/live.aishang.ctlcdn.com/00000110240253_1/playlist.m3u8?CONTENTID=00000110240253_1
+#EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv15.png" group-title="电信爱上源",CCTV15
+http://59.49.41.44/live.aishang.ctlcdn.com/00000110240329_1/playlist.m3u8?CONTENTID=00000110240329_1
+#EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv17.png" group-title="电信爱上源",CCTV17
+http://59.49.41.44/live.aishang.ctlcdn.com/00000110240326_1/playlist.m3u8?CONTENTID=00000110240326_1
+#EXTINF:-1 tvg-id="94" tvg-name="IPTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/IPTV5+.png" group-title="电信爱上源",IPTV5+
+http://59.49.41.44/live.aishang.ctlcdn.com/00000110240281_1/playlist.m3u8?CONTENTID=00000110240281_1
+#EXTINF:-1 tvg-id="73" tvg-name="中国教育1台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png" group-title="电信爱上源",中国教育1
+http://59.49.41.44/live.aishang.ctlcdn.com/00000110240302_1/playlist.m3u8?CONTENTID=00000110240302_1
+#EXTINF:-1 tvg-id="41" tvg-name="东南卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/dongnan.png" group-title="电信爱上源",东南卫视
+http://59.49.41.44/live.aishang.ctlcdn.com/00000110240588_1/playlist.m3u8?CONTENTID=00000110240588_1
+#EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/dongfang.png" group-title="电信爱上源",东方卫视
+http://59.49.41.44/live.aishang.ctlcdn.com/00000110240242_1/playlist.m3u8?CONTENTID=00000110240242_1
+#EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/beijing.png" group-title="电信爱上源",北京卫视
+http://59.49.41.44/live.aishang.ctlcdn.com/00000110240129_1/playlist.m3u8?CONTENTID=00000110240129_1
+#EXTINF:-1 tvg-id="39" tvg-name="天津卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/tianjin.png" group-title="电信爱上源",天津卫视
+http://59.49.41.44/live.aishang.ctlcdn.com/00000110240136_1/playlist.m3u8?CONTENTID=00000110240136_1
+#EXTINF:-1 tvg-id="32" tvg-name="安徽卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/anhui.png" group-title="电信爱上源",安徽卫视
+http://59.49.41.44/live.aishang.ctlcdn.com/00000110240256_1/playlist.m3u8?CONTENTID=00000110240256_1
+#EXTINF:-1 tvg-id="38" tvg-name="山东卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/shandong.png" group-title="电信爱上源",山东卫视
+http://59.49.41.44/live.aishang.ctlcdn.com/00000110240254_1/playlist.m3u8?CONTENTID=00000110240254_1
+#EXTINF:-1 tvg-id="33" tvg-name="广东卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/guangdong.png" group-title="电信爱上源",广东卫视
+http://59.49.41.44/live.aishang.ctlcdn.com/00000110240137_1/playlist.m3u8?CONTENTID=00000110240137_1
+#EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/jiangsu.png" group-title="电信爱上源",江苏卫视
+http://59.49.41.44/live.aishang.ctlcdn.com/00000110240133_1/playlist.m3u8?CONTENTID=00000110240133_1
+#EXTINF:-1 tvg-id="45" tvg-name="河北卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/hebei.png" group-title="电信爱上源",河北卫视
+http://59.49.41.44/live.aishang.ctlcdn.com/00000110240317_1/playlist.m3u8?CONTENTID=00000110240317_1
+#EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/zhejiang.png" group-title="电信爱上源",浙江卫视
+http://59.49.41.44/live.aishang.ctlcdn.com/00000110240134_1/playlist.m3u8?CONTENTID=00000110240134_1
+#EXTINF:-1 tvg-id="34" tvg-name="深圳卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/shenzhen.png" group-title="电信爱上源",深圳卫视
+http://59.49.41.44/live.aishang.ctlcdn.com/00000110240132_1/playlist.m3u8?CONTENTID=00000110240132_1
+#EXTINF:-1 tvg-id="48" tvg-name="湖北卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/hubei.png" group-title="电信爱上源",湖北卫视
+http://59.49.41.44/live.aishang.ctlcdn.com/00000110240135_1/playlist.m3u8?CONTENTID=00000110240135_1
+#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/hunan.png" group-title="电信爱上源",湖南卫视
+http://59.49.41.44/live.aishang.ctlcdn.com/00000110240130_1/playlist.m3u8?CONTENTID=00000110240130_1
+#EXTINF:-1 tvg-id="44" tvg-name="贵州卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/guizhou.png" group-title="电信爱上源",贵州卫视
+http://59.49.41.44/live.aishang.ctlcdn.com/00000110240318_1/playlist.m3u8?CONTENTID=00000110240318_1
+#EXTINF:-1 tvg-id="36" tvg-name="辽宁卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/liaoning.png" group-title="电信爱上源",辽宁卫视
+http://59.49.41.44/live.aishang.ctlcdn.com/00000110240255_1/playlist.m3u8?CONTENTID=00000110240255_1
+#EXTINF:-1 tvg-id="46" tvg-name="黑龙江卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/heilongjiang.png" group-title="电信爱上源",黑龙江卫视
+http://59.49.41.44/live.aishang.ctlcdn.com/00000110240131_1/playlist.m3u8?CONTENTID=00000110240131_1
+#EXTINF:-1 tvg-id="6245" tvg-name="CHC动作电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC1.jpg" group-title="电信爱上源",CHC动作电影
+http://59.49.41.44/live.aishang.ctlcdn.com/00000110240324_1/playlist.m3u8?CONTENTID=00000110240324_1
+#EXTINF:-1 tvg-id="6246" tvg-name="CHC家庭电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg" group-title="电信爱上源",CHC家庭影院
+http://59.49.41.44/live.aishang.ctlcdn.com/00000110240323_1/playlist.m3u8?CONTENTID=00000110240323_1
+#EXTINF:-1 tvg-id="6241" tvg-name="CHC高清电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg" group-title="电信爱上源",CHC高清电影
+http://59.49.41.44/live.aishang.ctlcdn.com/00000110240325_1/playlist.m3u8?CONTENTID=00000110240325_1
+#EXTINF:-1 tvg-id="2025" tvg-name="金鹰纪实" tvg-logo="http://n.ysyz.top:99/buyaolian/jinyingjishi.png" group-title="电信爱上源",湖南金鹰纪实
+http://59.49.41.44/live.aishang.ctlcdn.com/00000110240303_1/playlist.m3u8?CONTENTID=00000110240303_1
+
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv1.png" group-title="南昌移动",CCTV1
 http://117.169.121.162:6610/PLTV/88888910/224/3221225618/index.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="南昌移动",CCTV1
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv1.png" group-title="南昌移动",CCTV1
 http://117.169.121.162:6610/PLTV/88888910/224/3221225642/index.m3u8
-#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="南昌移动",CCTV2
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv2.png" group-title="南昌移动",CCTV2
 http://117.169.121.162:6610/PLTV/88888910/224/3221225619/index.m3u8
-#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="南昌移动",CCTV2
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv2.png" group-title="南昌移动",CCTV2
 http://117.169.121.162:6610/PLTV/88888910/224/3221225643/index.m3u8
-#EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="南昌移动",CCTV3
+#EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv3.png" group-title="南昌移动",CCTV3
 http://117.169.121.162:6610/PLTV/88888910/224/3221225647/index.m3u8
-#EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="南昌移动",CCTV3
+#EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv3.png" group-title="南昌移动",CCTV3
 http://117.169.121.162:6610/PLTV/88888910/224/3221225634/index.m3u8
-#EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="南昌移动",CCTV4
+#EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv4.png" group-title="南昌移动",CCTV4
 http://117.169.121.162:6610/PLTV/88888910/224/3221225621/index.m3u8
-#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="南昌移动",CCTV5
+#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv5.png" group-title="南昌移动",CCTV5
 http://117.169.121.162:6610/PLTV/88888910/224/3221225633/index.m3u8
-#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="南昌移动",CCTV5+
+#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv5+.png" group-title="南昌移动",CCTV5+
 http://117.169.121.162:6610/PLTV/88888910/224/3221225649/index.m3u8
-#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="南昌移动",CCTV5+
+#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv5+.png" group-title="南昌移动",CCTV5+
 http://117.169.121.162:6610/PLTV/88888910/224/3221225706/index.m3u8
-#EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="南昌移动",CCTV6
+#EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv6.png" group-title="南昌移动",CCTV6
 http://117.169.121.162:6610/PLTV/88888910/224/3221225650/index.m3u8
-#EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="南昌移动",CCTV6
+#EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv6.png" group-title="南昌移动",CCTV6
 http://117.169.121.162:6610/PLTV/88888910/224/3221225632/index.m3u8
-#EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="南昌移动",CCTV7
+#EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv7.png" group-title="南昌移动",CCTV7
 http://117.169.121.162:6610/PLTV/88888910/224/3221225624/index.m3u8
-#EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="南昌移动",CCTV7
+#EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv7.png" group-title="南昌移动",CCTV7
 http://117.169.121.162:6610/PLTV/88888910/224/3221225644/index.m3u8
-#EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="南昌移动",CCTV8
+#EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv8.png" group-title="南昌移动",CCTV8
 http://117.169.121.162:6610/PLTV/88888910/224/3221225635/index.m3u8
-#EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="南昌移动",CCTV8
+#EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv8.png" group-title="南昌移动",CCTV8
 http://117.169.121.162:6610/PLTV/88888910/224/3221225631/index.m3u8
-#EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" group-title="南昌移动",CCTV9
+#EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv9.png" group-title="南昌移动",CCTV9
 http://117.169.121.162:6610/PLTV/88888910/224/3221225626/index.m3u8
-#EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" group-title="南昌移动",CCTV9
+#EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv9.png" group-title="南昌移动",CCTV9
 http://117.169.121.162:6610/PLTV/88888910/224/3221225646/index.m3u8
-#EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" group-title="南昌移动",CCTV10
+#EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv10.png" group-title="南昌移动",CCTV10
 http://117.169.121.162:6610/PLTV/88888910/224/3221225627/index.m3u8
-#EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" group-title="南昌移动",CCTV10
+#EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv10.png" group-title="南昌移动",CCTV10
 http://117.169.121.162:6610/PLTV/88888910/224/3221225636/index.m3u8
-#EXTINF:-1 tvg-id="12" tvg-name="CCTV11" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png" group-title="南昌移动",CCTV11
+#EXTINF:-1 tvg-id="12" tvg-name="CCTV11" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv11.png" group-title="南昌移动",CCTV11
 http://117.169.121.162:6610/PLTV/88888910/224/3221225628/index.m3u8
-#EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" group-title="南昌移动",CCTV12
+#EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv12.png" group-title="南昌移动",CCTV12
 http://117.169.121.162:6610/PLTV/88888910/224/3221225629/index.m3u8
-#EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" group-title="南昌移动",CCTV12
+#EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv12.png" group-title="南昌移动",CCTV12
 http://117.169.121.162:6610/PLTV/88888910/224/3221225637/index.m3u8
-#EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="南昌移动",CCTV13
+#EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv13.png" group-title="南昌移动",CCTV13
 http://117.169.121.162:6610/PLTV/88888910/224/3221225638/index.m3u8
-#EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="南昌移动",CCTV14
+#EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv14.png" group-title="南昌移动",CCTV14
 http://117.169.121.162:6610/PLTV/88888910/224/3221225639/index.m3u8
-#EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="南昌移动",CCTV14
+#EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv14.png" group-title="南昌移动",CCTV14
 http://117.169.121.162:6610/PLTV/88888910/224/3221225640/index.m3u8
-#EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="南昌移动",CCTV15
+#EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv15.png" group-title="南昌移动",CCTV15
 http://117.169.121.162:6610/PLTV/88888910/224/3221225641/index.m3u8
-#EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="南昌移动",CCTV17
+#EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv17.png" group-title="南昌移动",CCTV17
 http://117.169.121.162:6610/PLTV/88888910/224/3221225908/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="南昌移动",纯享4K
 http://117.169.121.162:6610/PLTV/88888910/224/3221225786/index.m3u8
@@ -62,97 +143,97 @@ http://117.169.121.162:6610/PLTV/88888910/224/3221225786/index.m3u8
 http://117.169.121.162:6610/PLTV/88888910/224/3221225694/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="南昌移动",CNC英文
 http://117.169.121.162:6610/PLTV/88888910/224/3221225693/index.m3u8
-#EXTINF:-1 tvg-id="41" tvg-name="东南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongnan.png" group-title="南昌移动",东南卫视
+#EXTINF:-1 tvg-id="41" tvg-name="东南卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/dongnan.png" group-title="南昌移动",东南卫视
 http://117.169.121.162:6610/PLTV/88888910/224/3221225657/index.m3u8
-#EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="南昌移动",东方卫视
+#EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/dongfang.png" group-title="南昌移动",东方卫视
 http://117.169.121.162:6610/PLTV/88888910/224/3221225658/index.m3u8
-#EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="南昌移动",东方卫视
+#EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/dongfang.png" group-title="南昌移动",东方卫视
 http://117.169.121.162:6610/PLTV/88888910/224/3221225659/index.m3u8
-#EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="南昌移动",江苏卫视
+#EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/jiangsu.png" group-title="南昌移动",江苏卫视
 http://117.169.121.162:6610/PLTV/88888910/224/3221225743/index.m3u8
-#EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="南昌移动",江苏卫视
+#EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/jiangsu.png" group-title="南昌移动",江苏卫视
 http://117.169.121.162:6610/PLTV/88888910/224/3221225702/index.m3u8
-#EXTINF:-1 tvg-id="50" tvg-name="江西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangxi.png" group-title="南昌移动",江西卫视
+#EXTINF:-1 tvg-id="50" tvg-name="江西卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/jiangxi.png" group-title="南昌移动",江西卫视
 http://117.169.121.162:6610/PLTV/88888910/224/3221225746/index.m3u8
-#EXTINF:-1 tvg-id="50" tvg-name="江西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangxi.png" group-title="南昌移动",江西卫视
+#EXTINF:-1 tvg-id="50" tvg-name="江西卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/jiangxi.png" group-title="南昌移动",江西卫视
 http://117.169.121.162:6610/PLTV/88888910/224/3221225705/index.m3u8
-#EXTINF:-1 tvg-id="45" tvg-name="河北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hebei.png" group-title="南昌移动",河北卫视
+#EXTINF:-1 tvg-id="45" tvg-name="河北卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/hebei.png" group-title="南昌移动",河北卫视
 http://117.169.121.162:6610/PLTV/88888910/224/3221225732/index.m3u8
-#EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="南昌移动",浙江卫视
+#EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/zhejiang.png" group-title="南昌移动",浙江卫视
 http://117.169.121.162:6610/PLTV/88888910/224/3221225744/index.m3u8
-#EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="南昌移动",浙江卫视
+#EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/zhejiang.png" group-title="南昌移动",浙江卫视
 http://117.169.121.162:6610/PLTV/88888910/224/3221225703/index.m3u8
-#EXTINF:-1 tvg-id="34" tvg-name="深圳卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shenzhen.png" group-title="南昌移动",深圳卫视
+#EXTINF:-1 tvg-id="34" tvg-name="深圳卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/shenzhen.png" group-title="南昌移动",深圳卫视
 http://117.169.121.162:6610/PLTV/88888910/224/3221225741/index.m3u8
-#EXTINF:-1 tvg-id="34" tvg-name="深圳卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shenzhen.png" group-title="南昌移动",深圳卫视
+#EXTINF:-1 tvg-id="34" tvg-name="深圳卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/shenzhen.png" group-title="南昌移动",深圳卫视
 http://117.169.121.162:6610/PLTV/88888910/224/3221225700/index.m3u8
-#EXTINF:-1 tvg-id="48" tvg-name="湖北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hubei.png" group-title="南昌移动",湖北卫视
+#EXTINF:-1 tvg-id="48" tvg-name="湖北卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/hubei.png" group-title="南昌移动",湖北卫视
 http://117.169.121.162:6610/PLTV/88888910/224/3221225740/index.m3u8
-#EXTINF:-1 tvg-id="48" tvg-name="湖北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hubei.png" group-title="南昌移动",湖北卫视
+#EXTINF:-1 tvg-id="48" tvg-name="湖北卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/hubei.png" group-title="南昌移动",湖北卫视
 http://117.169.121.162:6610/PLTV/88888910/224/3221225699/index.m3u8
-#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="南昌移动",湖南卫视
+#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/hunan.png" group-title="南昌移动",湖南卫视
 http://117.169.121.162:6610/PLTV/88888910/224/3221225745/index.m3u8
-#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="南昌移动",湖南卫视
+#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/hunan.png" group-title="南昌移动",湖南卫视
 http://117.169.121.162:6610/PLTV/88888910/224/3221225704/index.m3u8
-#EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="南昌移动",北京卫视
+#EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/beijing.png" group-title="南昌移动",北京卫视
 http://117.169.121.162:6610/PLTV/88888910/224/3221225673/index.m3u8
-#EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="南昌移动",北京卫视
+#EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/beijing.png" group-title="南昌移动",北京卫视
 http://117.169.121.162:6610/PLTV/88888910/224/3221225674/index.m3u8
-#EXTINF:-1 tvg-id="56" tvg-name="四川卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sichuan.png" group-title="南昌移动",四川卫视
+#EXTINF:-1 tvg-id="56" tvg-name="四川卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/sichuan.png" group-title="南昌移动",四川卫视
 http://117.169.121.162:6610/PLTV/88888910/224/3221225733/index.m3u8
-#EXTINF:-1 tvg-id="39" tvg-name="天津卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/tianjin.png" group-title="南昌移动",天津卫视
+#EXTINF:-1 tvg-id="39" tvg-name="天津卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/tianjin.png" group-title="南昌移动",天津卫视
 http://117.169.121.162:6610/PLTV/88888910/224/3221225739/index.m3u8
-#EXTINF:-1 tvg-id="39" tvg-name="天津卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/tianjin.png" group-title="南昌移动",天津卫视
+#EXTINF:-1 tvg-id="39" tvg-name="天津卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/tianjin.png" group-title="南昌移动",天津卫视
 http://117.169.121.162:6610/PLTV/88888910/224/3221225698/index.m3u8
-#EXTINF:-1 tvg-id="32" tvg-name="安徽卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png" group-title="南昌移动",安徽卫视
+#EXTINF:-1 tvg-id="32" tvg-name="安徽卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/anhui.png" group-title="南昌移动",安徽卫视
 http://117.169.121.162:6610/PLTV/88888910/224/3221225737/index.m3u8
-#EXTINF:-1 tvg-id="32" tvg-name="安徽卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png" group-title="南昌移动",安徽卫视
+#EXTINF:-1 tvg-id="32" tvg-name="安徽卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/anhui.png" group-title="南昌移动",安徽卫视
 http://117.169.121.162:6610/PLTV/88888910/224/3221225691/index.m3u8
-#EXTINF:-1 tvg-id="38" tvg-name="山东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png" group-title="南昌移动",山东卫视
+#EXTINF:-1 tvg-id="38" tvg-name="山东卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/shandong.png" group-title="南昌移动",山东卫视
 http://117.169.121.162:6610/PLTV/88888910/224/3221225738/index.m3u8
-#EXTINF:-1 tvg-id="38" tvg-name="山东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png" group-title="南昌移动",山东卫视
+#EXTINF:-1 tvg-id="38" tvg-name="山东卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/shandong.png" group-title="南昌移动",山东卫视
 http://117.169.121.162:6610/PLTV/88888910/224/3221225697/index.m3u8
-#EXTINF:-1 tvg-id="54" tvg-name="山西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi_.png" group-title="南昌移动",山西卫视
+#EXTINF:-1 tvg-id="54" tvg-name="山西卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/shanxi_.png" group-title="南昌移动",山西卫视
 http://117.169.121.162:6610/PLTV/88888910/224/3221225730/index.m3u8
-#EXTINF:-1 tvg-id="33" tvg-name="广东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="南昌移动",广东卫视
+#EXTINF:-1 tvg-id="33" tvg-name="广东卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/guangdong.png" group-title="南昌移动",广东卫视
 http://117.169.121.162:6610/PLTV/88888910/224/3221225742/index.m3u8
-#EXTINF:-1 tvg-id="33" tvg-name="广东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="南昌移动",广东卫视
+#EXTINF:-1 tvg-id="33" tvg-name="广东卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/guangdong.png" group-title="南昌移动",广东卫视
 http://117.169.121.162:6610/PLTV/88888910/224/3221225701/index.m3u8
-#EXTINF:-1 tvg-id="43" tvg-name="广西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangxi.png" group-title="南昌移动",广西卫视
+#EXTINF:-1 tvg-id="43" tvg-name="广西卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/guangxi.png" group-title="南昌移动",广西卫视
 http://117.169.121.162:6610/PLTV/88888910/224/3221225731/index.m3u8
-#EXTINF:-1 tvg-id="40" tvg-name="重庆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png" group-title="南昌移动",重庆卫视
+#EXTINF:-1 tvg-id="40" tvg-name="重庆卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/chongqing.png" group-title="南昌移动",重庆卫视
 http://117.169.121.162:6610/PLTV/88888910/224/3221225734/index.m3u8
-#EXTINF:-1 tvg-id="40" tvg-name="重庆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png" group-title="南昌移动",重庆卫视
+#EXTINF:-1 tvg-id="40" tvg-name="重庆卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/chongqing.png" group-title="南昌移动",重庆卫视
 http://117.169.121.162:6610/PLTV/88888910/224/3221225692/index.m3u8
-#EXTINF:-1 tvg-id="51" tvg-name="吉林卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jilin.png" group-title="南昌移动",吉林卫视
+#EXTINF:-1 tvg-id="51" tvg-name="吉林卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/jilin.png" group-title="南昌移动",吉林卫视
 http://117.169.121.162:6610/PLTV/88888910/224/3221225680/index.m3u8
-#EXTINF:-1 tvg-id="58" tvg-name="云南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="南昌移动",云南卫视
+#EXTINF:-1 tvg-id="58" tvg-name="云南卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/yunnan.png" group-title="南昌移动",云南卫视
 http://117.169.121.162:6610/PLTV/88888910/224/3221225664/index.m3u8
-#EXTINF:-1 tvg-id="55" tvg-name="陕西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi.png" group-title="南昌移动",陕西卫视
+#EXTINF:-1 tvg-id="55" tvg-name="陕西卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/shanxi.png" group-title="南昌移动",陕西卫视
 http://117.169.121.162:6610/PLTV/88888910/224/3221225729/index.m3u8
-#EXTINF:-1 tvg-id="52" tvg-name="内蒙古卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/neimeng.png" group-title="南昌移动",内蒙古卫视
+#EXTINF:-1 tvg-id="52" tvg-name="内蒙古卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/neimeng.png" group-title="南昌移动",内蒙古卫视
 http://117.169.121.162:6610/PLTV/88888910/224/3221225667/index.m3u8
-#EXTINF:-1 tvg-id="59" tvg-name="青海卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/qinghai.png" group-title="南昌移动",青海卫视
+#EXTINF:-1 tvg-id="59" tvg-name="青海卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/qinghai.png" group-title="南昌移动",青海卫视
 http://117.169.121.162:6610/PLTV/88888910/224/3221225727/index.m3u8
-#EXTINF:-1 tvg-id="46" tvg-name="黑龙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png" group-title="南昌移动",黑龙江卫视
+#EXTINF:-1 tvg-id="46" tvg-name="黑龙江卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/heilongjiang.png" group-title="南昌移动",黑龙江卫视
 http://117.169.121.162:6610/PLTV/88888910/224/3221225736/index.m3u8
-#EXTINF:-1 tvg-id="46" tvg-name="黑龙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png" group-title="南昌移动",黑龙江卫视
+#EXTINF:-1 tvg-id="46" tvg-name="黑龙江卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/heilongjiang.png" group-title="南昌移动",黑龙江卫视
 http://117.169.121.162:6610/PLTV/88888910/224/3221225690/index.m3u8
-#EXTINF:-1 tvg-id="53" tvg-name="宁夏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/ningxia.png" group-title="南昌移动",宁夏卫视
+#EXTINF:-1 tvg-id="53" tvg-name="宁夏卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/ningxia.png" group-title="南昌移动",宁夏卫视
 http://117.169.121.162:6610/PLTV/88888910/224/3221225726/index.m3u8
-#EXTINF:-1 tvg-id="42" tvg-name="甘肃卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/gansu.png" group-title="南昌移动",甘肃卫视
+#EXTINF:-1 tvg-id="42" tvg-name="甘肃卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/gansu.png" group-title="南昌移动",甘肃卫视
 http://117.169.121.162:6610/PLTV/88888910/224/3221225724/index.m3u8
-#EXTINF:-1 tvg-id="71" tvg-name="西藏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xizang.png" group-title="南昌移动",西藏卫视
+#EXTINF:-1 tvg-id="71" tvg-name="西藏卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/xizang.png" group-title="南昌移动",西藏卫视
 http://117.169.121.162:6610/PLTV/88888910/224/3221225723/index.m3u8
-#EXTINF:-1 tvg-id="57" tvg-name="新疆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xinjiang.png" group-title="南昌移动",新疆卫视
+#EXTINF:-1 tvg-id="57" tvg-name="新疆卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/xinjiang.png" group-title="南昌移动",新疆卫视
 http://117.169.121.162:6610/PLTV/88888910/224/3221225725/index.m3u8
-#EXTINF:-1 tvg-id="37" tvg-name="旅游卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/lvyou.png" group-title="南昌移动",旅游卫视
+#EXTINF:-1 tvg-id="37" tvg-name="旅游卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/lvyou.png" group-title="南昌移动",旅游卫视
 http://117.169.121.162:6610/PLTV/88888910/224/3221225722/index.m3u8
-#EXTINF:-1 tvg-id="44" tvg-name="贵州卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guizhou.png" group-title="南昌移动",贵州卫视
+#EXTINF:-1 tvg-id="44" tvg-name="贵州卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/guizhou.png" group-title="南昌移动",贵州卫视
 http://117.169.121.162:6610/PLTV/88888910/224/3221225728/index.m3u8
-#EXTINF:-1 tvg-id="36" tvg-name="辽宁卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png" group-title="南昌移动",辽宁卫视
+#EXTINF:-1 tvg-id="36" tvg-name="辽宁卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/liaoning.png" group-title="南昌移动",辽宁卫视
 http://117.169.121.162:6610/PLTV/88888910/224/3221225735/index.m3u8
-#EXTINF:-1 tvg-id="36" tvg-name="辽宁卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png" group-title="南昌移动",辽宁卫视
+#EXTINF:-1 tvg-id="36" tvg-name="辽宁卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/liaoning.png" group-title="南昌移动",辽宁卫视
 http://117.169.121.162:6610/PLTV/88888910/224/3221225696/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="南昌移动",超级体育
 http://117.169.121.162:6610/PLTV/88888910/224/3221225622/index.m3u8
@@ -216,13 +297,13 @@ http://117.169.121.162:6610/PLTV/88888910/224/3221225764/index.m3u8
 http://117.169.121.162:6610/PLTV/88888910/224/3221225769/index.m3u8
 #EXTINF:-1 tvg-id="73" tvg-name="中国教育1台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png" group-title="南昌移动",中国教育-1
 http://117.169.121.162:6610/PLTV/88888910/224/3221225661/index.m3u8
-#EXTINF:-1 tvg-id="1872" tvg-name="北京纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png" group-title="南昌移动",北京纪实
+#EXTINF:-1 tvg-id="1872" tvg-name="北京纪实" tvg-logo="http://n.ysyz.top:99/buyaolian/beijingjishi.png" group-title="南昌移动",北京纪实
 http://117.169.121.162:6610/PLTV/88888910/224/3221225675/index.m3u8
-#EXTINF:-1 tvg-id="1872" tvg-name="北京纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png" group-title="南昌移动",北京纪实
+#EXTINF:-1 tvg-id="1872" tvg-name="北京纪实" tvg-logo="http://n.ysyz.top:99/buyaolian/beijingjishi.png" group-title="南昌移动",北京纪实
 http://117.169.121.162:6610/PLTV/88888910/224/3221225676/index.m3u8
-#EXTINF:-1 tvg-id="1988" tvg-name="上海纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png" group-title="南昌移动",上海纪实
+#EXTINF:-1 tvg-id="1988" tvg-name="上海纪实" tvg-logo="http://n.ysyz.top:99/buyaolian/shanghaijishi.png" group-title="南昌移动",上海纪实
 http://117.169.121.162:6610/PLTV/88888910/224/3221225654/index.m3u8
-#EXTINF:-1 tvg-id="1988" tvg-name="上海纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png" group-title="南昌移动",上海纪实
+#EXTINF:-1 tvg-id="1988" tvg-name="上海纪实" tvg-logo="http://n.ysyz.top:99/buyaolian/shanghaijishi.png" group-title="南昌移动",上海纪实
 http://117.169.121.162:6610/PLTV/88888910/224/3221225655/index.m3u8
 #EXTINF:-1 tvg-id="67" tvg-name="卡酷动画" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/kaku.png" group-title="南昌移动",卡酷少儿
 http://117.169.121.162:6610/PLTV/88888910/224/3221225677/index.m3u8
@@ -230,6 +311,7 @@ http://117.169.121.162:6610/PLTV/88888910/224/3221225677/index.m3u8
 http://117.169.121.162:6610/PLTV/88888910/224/3221225665/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="南昌移动",炫动卡通
 http://117.169.121.162:6610/PLTV/88888910/224/3221225720/index.m3u8
+
 
 #EXTINF:-1 catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" tvg-id="1" tvg-name="CCTV1" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv1.png" group-title="陕南IP",CCTV1
 http://111.20.33.93/TVOD/88888888/224/3221225804/index.m3u8
