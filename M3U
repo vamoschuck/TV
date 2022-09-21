@@ -1756,7 +1756,7 @@ https://4gtv.52sf.ga/channel2.m3u8?fid=4gtv-live072&hd=720
 https://4gtv.52sf.ga/channel2.m3u8?fid=4gtv-live019&hd=720
 #EXTINF:-1 tvg-chno="4gtv-4gtv074" tvg-id="4gtv-4gtv074" tvg-name="中视新闻" tvg-logo="https://4gtvimg.4gtv.tv/4gtv-Image/Production/Channel/Live/4gtv-4gtv074.jpg" group-title="JMS4GTV",中视新闻
 https://4gtv.52sf.ga/channel2.m3u8?fid=4gtv-4gtv074&d=720
-#EXTINF:-1 tvg-chno="4gtv-4gtv009" tvg-id="4gtv-4gtv009" tvg-name="中天新闻台" tvg-logo="https://4gtvimg.4gtv.tv/4gtv-Image/Production/Channel/Live/4gtv-4gtv009.jpg" group-title="JMS4GT",中天新闻台
+#EXTINF:-1 tvg-chno="4gtv-4gtv009" tvg-id="4gtv-4gtv009" tvg-name="中天新闻台" tvg-logo="https://4gtvimg.4gtv.tv/4gtv-Image/Production/Channel/Live/4gtv-4gtv009.jpg" group-title="JMS4GTV",中天新闻台
 https://4gtv.52sf.ga/channel2.m3u8?fid=4gtv-4gtv009&hd=720
 #EXTINF:-1 tvg-chno="litv-longturn14" tvg-id="litv-longturn14" tvg-name="寰宇新闻台" tvg-logo="https://4gtvimg.4gtv.tv/4gtv-Image/Production/Channel/Live/litv-longturn14.jpg" group-title="JMS4GTV",寰宇新闻台
 https://4gtv.52sf.ga/channel2.m3u8?fid=litv-longturn14&hd=720
