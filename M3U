@@ -2980,8 +2980,9 @@ http://61.143.45.150:9901/tsfile/live/1001_1.m3u8
 http://e59abdd420c65d43cc1550d493a88c71.v.smtcdns.net/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel34/2300.m3u8
 #EXTINF:-1 tvg-id="1987" tvg-name="五星体育频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/wuxingtiyu.png" group-title="体育-咪咕直播",五星体育 低码流畅
 http://111.40.196.25/PLTV/88888888/224/3221225503/index.m3u8
+#http://36.142.6.143/keonline.shanghai.liveplay.qq.com/live/program/live/ssty/4000000/mnf.m3u8
 #EXTINF:-1 tvg-id="1987" tvg-name="五星体育频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/wuxingtiyu.png" group-title="体育-咪咕直播",五星体育 高码
-http://140.207.241.3:8080/live/program/live/ssty/4000000/mnf.m3u8
+http://111.40.196.25:80/PLTV/88888888/224/3221225503/index.m3u8
 #http://112.25.48.69/live/program/live/ssty/4000000/mnf.m3u8
 #http://112.25.48.11/live/program/live/ssty/4000000/mnf.m3u8
 #EXTINF:-1 tvg-id="1987" tvg-name="五星体育频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/wuxingtiyu.png" group-title="体育-咪咕直播",五星体育 高码
@@ -3558,63 +3559,62 @@ https://tv-trtworld.live.trt.com.tr/master.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://n.ysyz.top:99/wuchixialiu/aiyx.png" group-title="iHOT系列",iHOT爱院线
-http://111.11.123.49:6610/000000001000/6000000006000030630/1.m3u8?Contentid=6000000006000030630&livemode=1&stbId=3&channel-id=wasusyt
+http://111.40.196.37/0000000000001000/1.m3u8?Contentid=6000000006000030630&livemode=1&stbId=3&channel-id=wasusyt
 #EXTINF:-1 tvg-logo="http://n.ysyz.top:99/wuchixialiu/aikh.png" group-title="iHOT系列",iHOT爱科幻
-http://111.11.123.49:6610/000000001000/6000000006000020630/1.m3u8?Contentid=6000000006000020630&livemode=1&stbId=3&channel-id=wasusyt
+http://111.40.196.37/0000000000001000/1.m3u8?Contentid=6000000006000020630&livemode=1&stbId=3&channel-id=wasusyt
 #EXTINF:-1 tvg-logo="http://n.ysyz.top:99/wuchixialiu/ailm.png" group-title="iHOT系列",iHOT爱浪漫
-http://111.11.123.49:6610/000000001000/6000000006000040630/1.m3u8?Contentid=6000000006000040630&livemode=1&stbId=3&channel-id=wasusyt
+http://111.40.196.37/0000000000001000/1.m3u8?Contentid=6000000006000040630&livemode=1&stbId=3&channel-id=wasusyt
 #EXTINF:-1 tvg-logo="http://n.ysyz.top:99/wuchixialiu/aixj.png" group-title="iHOT系列",iHOT爱喜剧
-http://111.11.123.49:6610/000000001000/6000000006000010630/1.m3u8?Contentid=6000000006000010630&livemode=1&stbId=3&channel-id=wasusyt
+http://111.40.196.37/0000000000001000/1.m3u8?Contentid=6000000006000010630&livemode=1&stbId=3&channel-id=wasusyt
 #EXTINF:-1 tvg-logo="http://n.ysyz.top:99/wuchixialiu/aixy.png" group-title="iHOT系列",iHOT爱悬疑
-http://111.11.123.49:6610/000000001000/6000000006000050630/1.m3u8?Contentid=6000000006000050630&livemode=1&stbId=3&channel-id=wasusyt
+
 #EXTINF:-1 tvg-logo="http://n.ysyz.top:99/wuchixialiu/aijd.png" group-title="iHOT系列",iHOT爱经典
-http://111.11.123.49:6610/000000001000/6000000006000060630/1.m3u8?Contentid=6000000006000060630&livemode=1&stbId=3&channel-id=wasusyt
+
 #EXTINF:-1 tvg-logo="http://n.ysyz.top:99/wuchixialiu/aijh.png" group-title="iHOT系列",iHOT爱江湖
-http://111.11.123.49:6610/000000001000/6000000006000110630/1.m3u8?Contentid=6000000006000110630&livemode=1&stbId=3&channel-id=wasusyt
+
 #EXTINF:-1 tvg-logo="http://n.ysyz.top:99/wuchixialiu/aisc.png" group-title="iHOT系列",iHOT爱赛车
-http://111.11.123.49:6610/000000001000/6000000006000240630/1.m3u8?Contentid=6000000006000240630&livemode=1&stbId=3&channel-id=wasusyt
+
 #EXTINF:-1 tvg-logo="http://n.ysyz.top:99/wuchixialiu/aity.png" group-title="iHOT系列",iHOT爱体育
-http://111.11.123.49:6610/000000001000/6000000006000290630/1.m3u8?Contentid=6000000006000290630&livemode=1&stbId=3&channel-id=wasusyt
+
 #EXTINF:-1 tvg-logo="http://n.ysyz.top:99/wuchixialiu/aits.png" group-title="iHOT系列",iHOT爱探索
-http://111.11.123.49:6610/000000001000/6000000006000300630/1.m3u8?Contentid=6000000006000300630&livemode=1&stbId=3&channel-id=wasusyt
+http://111.40.196.37/0000000000001000/1.m3u8?Contentid=6000000006000300630&livemode=1&stbId=3&channel-id=wasusyt
 #EXTINF:-1 tvg-logo="http://n.ysyz.top:99/wuchixialiu/aiqt.png" group-title="iHOT系列",iHOT爱奇谈
-http://111.11.123.49:6610/000000001000/6000000006000270630/1.m3u8?Contentid=6000000006000270630&livemode=1&stbId=3&channel-id=wasusyt
+http://111.40.196.37/0000000000001000/1.m3u8?Contentid=6000000006000270630&livemode=1&stbId=3&channel-id=wasusyt
 #EXTINF:-1 tvg-logo="http://n.ysyz.top:99/wuchixialiu/aiwj.png" group-title="iHOT系列",iHOT爱玩具
-http://111.11.123.49:6610/000000001000/6000000006000220630/1.m3u8?Contentid=6000000006000220630&livemode=1&stbId=3&channel-id=wasusyt
+
 #EXTINF:-1 tvg-logo="http://n.ysyz.top:99/wuchixialiu/aisj.png" group-title="iHOT系列",iHOT爱世界
-http://111.11.123.49:6610/000000001000/6000000006000210630/1.m3u8?Contentid=6000000006000210630&livemode=1&stbId=3&channel-id=wasusyt
+
 #EXTINF:-1 tvg-logo="http://n.ysyz.top:99/wuchixialiu/aihj.png" group-title="iHOT系列",iHOT爱怀旧
-http://111.11.123.49:6610/000000001000/6000000006000260630/1.m3u8?Contentid=6000000006000260630&livemode=1&stbId=3&channel-id=wasusyt
+http://111.40.196.37/0000000000001000/1.m3u8?Contentid=6000000006000260630&livemode=1&stbId=3&channel-id=wasusyt
 #EXTINF:-1 tvg-logo="http://n.ysyz.top:99/wuchixialiu/ailx.png" group-title="iHOT系列",iHOT爱旅行
-http://111.11.123.49:6610/000000001000/6000000006000250630/1.m3u8?Contentid=6000000006000250630&livemode=1&stbId=3&channel-id=wasusyt
+
 #EXTINF:-1 tvg-logo="http://n.ysyz.top:99/wuchixialiu/aijx.png" group-title="iHOT系列",iHOT爱极限
-http://111.11.123.49:6610/000000001000/6000000006000170630/1.m3u8?Contentid=6000000006000170630&livemode=1&stbId=3&channel-id=wasusyt
+http://111.40.196.37/0000000000001000/1.m3u8?Contentid=6000000006000170630&livemode=1&stbId=3&channel-id=wasusyt
 #EXTINF:-1 tvg-logo="http://n.ysyz.top:99/wuchixialiu/aiyj.png" group-title="iHOT系列",iHOT爱幼教
-http://111.11.123.49:6610/000000001000/6000000006000180630/1.m3u8?Contentid=6000000006000180630&livemode=1&stbId=3&channel-id=wasusyt
+
 #EXTINF:-1 tvg-logo="http://n.ysyz.top:99/wuchixialiu/aijm.png" group-title="iHOT系列",iHOT爱解密
-http://111.11.123.49:6610/000000001000/6000000006000200630/1.m3u8?Contentid=6000000006000200630&livemode=1&stbId=3&channel-id=wasusyt
+http://111.40.196.37/0000000000001000/1.m3u8?Contentid=6000000006000200630&livemode=1&stbId=3&channel-id=wasusyt
 #EXTINF:-1 tvg-logo="http://n.ysyz.top:99/wuchixialiu/aidz.png" group-title="iHOT系列",iHOT爱谍战
-http://111.11.123.49:6610/000000001000/6000000006000070630/1.m3u8?Contentid=6000000006000070630&livemode=1&stbId=3&channel-id=wasusyt
+http://111.40.196.37/0000000000001000/1.m3u8?Contentid=6000000006000070630&livemode=1&stbId=3&channel-id=wasusyt
 #EXTINF:-1 tvg-logo="http://n.ysyz.top:99/wuchixialiu/ails.png" group-title="iHOT系列",iHOT爱历史
-http://111.11.123.49:6610/000000001000/6000000006000150630/1.m3u8?Contentid=6000000006000150630&livemode=1&stbId=3&channel-id=wasusyt
+
 #EXTINF:-1 tvg-logo="http://n.ysyz.top:99/wuchixialiu/ailq.png" group-title="iHOT系列",iHOT爱猎奇
-http://111.11.123.49:6610/000000001000/6000000006000190630/1.m3u8?Contentid=6000000006000190630&livemode=1&stbId=3&channel-id=wasusyt
+
 #EXTINF:-1 tvg-logo="http://n.ysyz.top:99/wuchixialiu/aids.png" group-title="iHOT系列",iHOT爱都市
-http://111.11.123.49:6610/000000001000/6000000006000080630/1.m3u8?Contentid=6000000006000080630&livemode=1&stbId=3&channel-id=wasusyt
+
 #EXTINF:-1 tvg-logo="http://n.ysyz.top:99/wuchixialiu/aikx.png" group-title="iHOT系列",iHOT爱科学
-http://111.11.123.49:6610/000000001000/6000000006000160630/1.m3u8?Contentid=6000000006000160630&livemode=1&stbId=3&channel-id=wasusyt
+http://111.40.196.37/0000000000001000/1.m3u8?Contentid=6000000006000160630&livemode=1&stbId=3&channel-id=wasusyt
 #EXTINF:-1 tvg-logo="http://n.ysyz.top:99/wuchixialiu/aims.png" group-title="iHOT系列",iHOT爱美食
-http://111.11.123.49:6610/000000001000/6000000006000120630/1.m3u8?Contentid=6000000006000120630&livemode=1&stbId=3&channel-id=wasusyt
+
 #EXTINF:-1 tvg-logo="http://n.ysyz.top:99/wuchixialiu/aiss.png" group-title="iHOT系列",iHOT爱时尚
-http://111.11.123.49:6610/000000001000/6000000006000140630/1.m3u8?Contentid=6000000006000140630&livemode=1&stbId=3&channel-id=wasusyt
+
 #EXTINF:-1 tvg-logo="http://n.ysyz.top:99/wuchixialiu/aiqc.png" group-title="iHOT系列",iHOT爱青春
-http://111.11.123.49:6610/000000001000/6000000006000100630/1.m3u8?Contentid=6000000006000100630&livemode=1&stbId=3&channel-id=wasusyt
+
 #EXTINF:-1 tvg-logo="http://n.ysyz.top:99/wuchixialiu/aijt.png" group-title="iHOT系列",iHOT爱家庭
-http://111.11.123.49:6610/000000001000/6000000006000090630/1.m3u8?Contentid=6000000006000090630&livemode=1&stbId=3&channel-id=wasusyt
+
 #EXTINF:-1 tvg-logo="http://n.ysyz.top:99/wuchixialiu/aidm.png" group-title="iHOT系列",iHOT爱动漫
-http://111.11.123.49:6610/000000001000/6000000006000280630/1.m3u8?Contentid=6000000006000280630&livemode=1&stbId=3&channel-id=wasusyt
-#EXTINF:-1 tvg-logo="http://pix1.tvzhe.com/images/logo/channel/YJIATV/YJIATV.jpg?1" group-title="iHOT系列",iHOT Y+频道
-http://live.aikan.miguvideo.com/PLTV/88888888/224/3221230226/index.m3u8
+http://111.40.196.37/0000000000001000/1.m3u8?Contentid=6000000006000280630&livemode=1&stbId=3&channel-id=wasusyt
+
 
 
 
