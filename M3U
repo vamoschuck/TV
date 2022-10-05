@@ -1,79 +1,5 @@
 #EXTM3U url-tvg="http://epg.51zmt.top:8000/e.xml,https://epg.112114.xyz/pp.xml"
 
-#EXTINF:-1 tvg-logo="https://s1.ax1x.com/2022/10/04/xQgRG6.png" group-title="NBA Live Stream",ABC
-https://d3mzokty951c5w.cloudfront.net/hls/abc/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s1.ax1x.com/2022/10/04/xQgRG6.png" group-title="NBA Live Stream",ABC
-https://d3mzokty951c5w.cloudfront.net/hls/abc/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/15/HgKGR0.png" group-title="NBA Live Stream",ESPN
-https://d3mzokty951c5w.cloudfront.net/hls/espn/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/15/HgKGR0.png" group-title="NBA Live Stream",ESPN
-https://d3mzokty951c5w.cloudfront.net/hls/espn/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s1.ax1x.com/2022/03/19/qAojiT.png" group-title="NBA Live Stream",ESPN 2
-https://d3mzokty951c5w.cloudfront.net/hls/espn2/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://s1.ax1x.com/2022/10/04/xQgcI1.png" group-title="NBA Live Stream",TNT
-https://d3mzokty951c5w.cloudfront.net/hls/TNT/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s1.ax1x.com/2022/10/04/xQg2Px.png" group-title="NBA Live Stream",NBA TV
-https://d3mzokty951c5w.cloudfront.net/hls/nbatv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/12/HwQgRH.png" group-title="NBA Live Stream",雄鹿
-https://d3mzokty951c5w.cloudfront.net/hls/bucks/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/12/HwQdMR.png" group-title="NBA Live Stream",太阳
-https://d3mzokty951c5w.cloudfront.net/hls/suns/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/12/HwQws1.png" group-title="NBA Live Stream",魔术
-https://d3mzokty951c5w.cloudfront.net/hls/magic/playlist.m3u8?SBN
-#EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/12/HwQjLq.png" group-title="NBA Live Stream",黄蜂
-https://d3mzokty951c5w.cloudfront.net/hls/hornets/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/12/HwQHJg.png" group-title="NBA Live Stream",掘金
-https://d3mzokty951c5w.cloudfront.net/hls/nuggets/playlist.m3u8?SBN
-#EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/12/HwQqzj.png" group-title="NBA Live Stream",独行侠
-https://d3mzokty951c5w.cloudfront.net/hls/mavericks/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/12/HwQbWQ.png" group-title="NBA Live Stream",骑士
-https://d3mzokty951c5w.cloudfront.net/hls/cavaliers/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/12/HwQXyn.png" group-title="NBA Live Stream",篮网
-https://d3mzokty951c5w.cloudfront.net/hls/nets/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/12/HwQOQs.png" group-title="NBA Live Stream",公牛
-https://d3mzokty951c5w.cloudfront.net/hls/bulls/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/12/HwQ8aT.png" group-title="NBA Live Stream",马刺
-https://d3mzokty951c5w.cloudfront.net/hls/spurs/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/12/HwQNRJ.png" group-title="NBA Live Stream",开拓者
-https://d3mzokty951c5w.cloudfront.net/hls/blazers/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/12/HwQ0qx.png" group-title="NBA Live Stream",76人
-https://d3mzokty951c5w.cloudfront.net/hls/76ers/playlist.m3u8?SBN
-#EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/12/HwlSoT.png" group-title="NBA Live Stream",老鹰
-https://d3mzokty951c5w.cloudfront.net/hls/hawks/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s1.ax1x.com/2022/10/04/xQgyZ9.png" group-title="NBA Live Stream",热火
-https://d3mzokty951c5w.cloudfront.net/hls/heat/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/12/HwQxe0.png" group-title="NBA Live Stream",凯尔特人
-https://d3mzokty951c5w.cloudfront.net/hls/celtics/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/12/HwQtG4.png" group-title="NBA Live Stream",奇才
-https://d3mzokty951c5w.cloudfront.net/hls/wizards/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/12/HwQYiF.png" group-title="NBA Live Stream",猛龙
-https://d3mzokty951c5w.cloudfront.net/hls/raptors/playlist.m3u8 
-#EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/12/HwQoo8.png" group-title="NBA Live Stream",勇士
-https://d3mzokty951c5w.cloudfront.net/hls/warriors/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/12/HwQrdK.png" group-title="NBA Live Stream",尼克斯
-https://d3mzokty951c5w.cloudfront.net/hls/knicks/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/12/HwQIdf.png" group-title="NBA Live Stream",步行者
-https://d3mzokty951c5w.cloudfront.net/hls/pacers/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/12/HwQ7FS.png" group-title="NBA Live Stream",活塞
-https://d3mzokty951c5w.cloudfront.net/hls/pistons/playlist.m3u8 
-#EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/12/HwQ2zd.png" group-title="NBA Live Stream",灰熊
-https://d3mzokty951c5w.cloudfront.net/hls/grizzlies/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/12/HwQGIU.png" group-title="NBA Live Stream",爵士
-https://d3mzokty951c5w.cloudfront.net/hls/jazz/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/12/HwQsIO.png" group-title="NBA Live Stream",森林狼
-https://d3mzokty951c5w.cloudfront.net/hls/timberwolves/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/12/HwQfsI.png" group-title="NBA Live Stream",快艇
-https://d3mzokty951c5w.cloudfront.net/hls/clippers/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/12/HwQWQA.png" group-title="NBA Live Stream",湖人
-https://d3mzokty951c5w.cloudfront.net/hls/lakers/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/12/HwQ6iD.png" group-title="NBA Live Stream",鹈鹕
-https://d3mzokty951c5w.cloudfront.net/hls/pelicans/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/12/HwQDZ6.png" group-title="NBA Live Stream",雷霆
-https://d3mzokty951c5w.cloudfront.net/hls/thunder/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/12/HwQ3ZV.png" group-title="NBA Live Stream",国王
-https://d3mzokty951c5w.cloudfront.net/hls/kings/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s4.ax1x.com/2022/02/12/HwQhLt.png" group-title="NBA Live Stream",火箭
-https://d3mzokty951c5w.cloudfront.net/hls/rockets/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv1.png" group-title="电信爱上源",CCTV1
@@ -3281,13 +3207,16 @@ http://39.134.115.163:8080/PLTV/88888910/224/3221225786/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s4.ax1x.com/2022/02/22/bSzEyF.png" group-title="影视综艺记录",求索纪录4K
 
 #EXTINF:-1 tvg-id="6244" tvg-name="求索记录" tvg-logo="http://n.ysyz.top:99/buyaolian/qsjl.png" group-title="影视综艺记录",求索纪录
-http://111.40.196.9/0000000000001001/1/index.m3u8?Contentid=6000000002000032052&livemode=1&stbId=10&channel-id=wasusyt
+http://111.11.123.30:6610/000000001000/6000000002000032052/1.m3u8?Contentid=6000000002000032052&livemode=1&stbId=3&channel-id=wasusyt
+#http://111.40.196.9/0000000000001001/1/index.m3u8?Contentid=6000000002000032052&livemode=1&stbId=10&channel-id=wasusyt
 #EXTINF:-1 tvg-id="6242" tvg-name="求索动物" tvg-logo="http://n.ysyz.top:99/buyaolian/qsdw.png" group-title="影视综艺记录",求索动物
-
+http://111.11.123.30:6610/000000001000/6000000002000010046/1.m3u8?Contentid=6000000002000010046&livemode=1&stbId=3&channel-id=wasusyt
 #EXTINF:-1 tvg-id="6240" tvg-name="求索科学" tvg-logo="http://n.ysyz.top:99/buyaolian/qskx.png" group-title="影视综艺记录",求索科学
-http://111.40.196.9/0000000000001000/1/index.m3u8?Contentid=6000000002000032344&livemode=1&stbId=3&channel-id=wasusyt
+http://111.11.123.30:6610/000000001000/6000000002000032344/1.m3u8?Contentid=6000000002000032344&livemode=1&stbId=3&channel-id=wasusyt
+#http://111.40.196.9/0000000000001000/1/index.m3u8?Contentid=6000000002000032344&livemode=1&stbId=3&channel-id=wasusyt
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://n.ysyz.top:99/buyaolian/qssh.png" group-title="影视综艺记录",求索生活
-http://111.40.196.9/0000000000001000/1/index.m3u8?Contentid=6000000002000003382&livemode=1&stbId=3&channel-id=wasusyt
+http://111.11.123.30:6610/000000001000/6000000002000003382/1.m3u8?Contentid=6000000002000003382&livemode=1&stbId=3&channel-id=wasusyt
+#http://111.40.196.9/0000000000001000/1/index.m3u8?Contentid=6000000002000003382&livemode=1&stbId=3&channel-id=wasusyt
 #EXTINF:-1 tvg-id="1988" tvg-name="上海纪实" tvg-logo="http://n.ysyz.top:99/buyaolian/jishirenwen.png" group-title="影视综艺记录",纪实人文
 http://39.134.115.163:8080/PLTV/88888910/224/3221225655/index.m3u8
 #EXTINF:-1 tvg-id="1976" tvg-name="全纪实" tvg-logo="http://n.ysyz.top:99/buyaolian/qjs.png" group-title="影视综艺记录",全纪实
