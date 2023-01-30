@@ -47,7 +47,7 @@ https://live.v1.mk/api/bestv.php?id=jswshd8m/8000000/mnf.m3u8
 https://live.v1.mk/api/bestv.php?id=gxwshd8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="56" tvg-name="四川卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/sichuan.png" group-title="百事通",四川卫视
 https://live.v1.mk/api/bestv.php?id=scwshd/8000000/mnf.m3u8
-#EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/dongfang.png" group-title="百事通”,东方卫视
+#EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/dongfang.png" group-title="百事通",东方卫视
 https://live.v1.mk/api/bestv.php?id=dfwshd8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/hunan.png" group-title="百事通",湖南卫视
 https://live.v1.mk/api/bestv.php?id=hunanwshd8m/8000000/mnf.m3u8
