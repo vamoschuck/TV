@@ -281,60 +281,33 @@ http://39.136.172.2/hlsztemgsplive.miguvideo.com/wd_r2/cctv/cctv5hdnew/2500/inde
 http://39.136.172.2/hlsztemgsplive.miguvideo.com/wd_r2/cctv/cctv5plusnew/2500/index.m3u8?ProgramID=&encrypt=
 #EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv6.png" group-title="咪咕源",CCTV6电影HD
 http://39.136.172.2/hlsztemgsplive.miguvideo.com/wd_r2/2018/ocn/cctv6hd/2000/index.m3u8?ProgramID=&encrypt=
-#EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv7.png" group-title="咪咕源",CCTV7国防军事HD
-http://39.136.172.2/hlsztemgsplive.miguvideo.com/migu/kailu/20200324/cctv7hd/50/index.m3u8?ProgramID=&encrypt=
+
 #EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv7.png" group-title="咪咕源",CCTV7国防军事HD
 http://39.136.172.2/hlsztemgsplive.miguvideo.com/migu/kailu/20200324/cctv7hd/51/index.m3u8?ProgramID=&encrypt=
 #EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv8.png" group-title="咪咕源",CCTV8电视剧HD
 http://39.136.172.2/hlsztemgsplive.miguvideo.com/wd_r2/2018/ocn/cctv8hd/2000/index.m3u8?ProgramID=&encrypt=
-#EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv9.png" group-title="咪咕源",CCTV9纪录HD
-http://39.136.172.2/hlsztemgsplive.miguvideo.com/migu/kailu/20200324/cctv9hd/50/index.m3u8?ProgramID=&encrypt=
+
 #EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv9.png" group-title="咪咕源",CCTV9纪录HD
 http://39.136.172.2/hlsztemgsplive.miguvideo.com/migu/kailu/20200324/cctv9hd/51/index.m3u8?ProgramID=&encrypt=
 #EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv10.png" group-title="咪咕源",CCTV10科教HD
 http://39.136.172.2/hlsztemgsplive.miguvideo.com/wd_r2/2018/ocn/cctv10hd/2000/index.m3u8?ProgramID=&encrypt=
-#EXTINF:-1 tvg-id="12" tvg-name="CCTV11" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv11.png" group-title="咪咕源",CCTV11戏曲HD
-http://39.136.172.2/hlsztemgsplive.miguvideo.com/migu/kailu/cctv11hd/50/20200103/index.m3u8?ProgramID=&encrypt=
+
 #EXTINF:-1 tvg-id="12" tvg-name="CCTV11" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv11.png" group-title="咪咕源",CCTV11戏曲HD
 http://39.136.172.2/hlsztemgsplive.miguvideo.com/migu/kailu/cctv11hd/51/20200103/index.m3u8?ProgramID=&encrypt=
-#EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv12.png" group-title="咪咕源",CCTV12社会与法HD
-http://39.136.172.2/hlsztemgsplive.miguvideo.com/migu/kailu/20200324/cctv12hd/50/index.m3u8?ProgramID=&encrypt=
+
 #EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv12.png" group-title="咪咕源",CCTV12社会与法HD
 http://39.136.172.2/hlsztemgsplive.miguvideo.com/migu/kailu/20200324/cctv12hd/51/index.m3u8?ProgramID=&encrypt=
 #EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv13.png" group-title="咪咕源",CCTV13新闻
 http://39.136.172.2/hlsztemgsplive.miguvideo.com/envivo_x/2018/SD/cctv13/2000/index.m3u8?ProgramID=&encrypt=
 #EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv14.png" group-title="咪咕源",CCTV14少儿HD
 http://39.136.172.2/hlsztemgsplive.miguvideo.com/wd_r2/2018/ocn/cctv14hd/2000/index.m3u8?ProgramID=&encrypt=
-#EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv15.png" group-title="咪咕源",CCTV15音乐HD
-http://39.136.172.2/hlsztemgsplive.miguvideo.com/migu/kailu/20200324/cctv15hd/50/index.m3u8?&ProgramID=&encrypt=
+
 #EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv15.png" group-title="咪咕源",CCTV15音乐HD
 http://39.136.172.2/hlsztemgsplive.miguvideo.com/migu/kailu/20200324/cctv15hd/51/index.m3u8?&ProgramID=&encrypt=
-#EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv17.png" group-title="咪咕源",CCTV17农村农业HD
-http://39.136.172.2/hlsztemgsplive.miguvideo.com/migu/kailu/20200324/cctv17hd/50/index.m3u8?ProgramID=&encrypt=
+
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv17.png" group-title="咪咕源",CCTV17农村农业HD
 http://39.136.172.2/hlsztemgsplive.miguvideo.com/migu/kailu/20200324/cctv17hd/51/index.m3u8?ProgramID=&encrypt=
-#EXTINF:-1 tvg-id="6563" tvg-name="兵器科技" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE8.jpg" group-title="咪咕源",CCTV兵器科技
-http://39.136.172.2/hlsztemgsplive.miguvideo.com/ws_v/2018/gfjs/gfjs711/1000/index.m3u8?ProgramID=&encrypt=
-#EXTINF:-1 tvg-id="6562" tvg-name="怀旧剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE7.jpg" group-title="咪咕源",CCTV怀旧剧场
-http://39.136.172.2/hlsztemgsplive.miguvideo.com/ws_v/2018/hjjc/hjjc711/1000/index.m3u8?ProgramID=&encrypt=
-#EXTINF:-1 tvg-id="6559" tvg-name="风云剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTBfengyun.png" group-title="咪咕源",CCTV风云剧场
-http://39.136.172.2/hlsztemgsplive.miguvideo.com/ws_v/2018/fyjc/fyjc711/1000/index.m3u8?ProgramID=&encrypt=
-#EXTINF:-1 tvg-id="6557" tvg-name="风云音乐" tvg-logo="http://n.ysyz.top:99/buyaolian/cctvfengyunyinyue.png" group-title="咪咕源",CCTV风云音乐
-http://39.136.172.2/hlsztemgsplive.miguvideo.com/ws_v/2018/fyyy/fyyy711/1000/index.m3u8?ProgramID=&encrypt=
-#EXTINF:-1 tvg-id="6560" tvg-name="世界地理" tvg-logo="http://n.ysyz.top:99/buyaolian/cctvshijiedili.png" group-title="咪咕源",CCTV世界地理
-http://39.136.172.2/hlsztemgsplive.miguvideo.com/ws_v/2018/sjdl/sjdl711/1000/index.m3u8?ProgramID=&encrypt=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕源",文化精品
-http://39.136.172.2/hlsztemgsplive.miguvideo.com/ws_v/2018/ysjp/ysjp711/1000/index.m3u8?ProgramID=&encrypt=
-#EXTINF:-1 tvg-id="6000" tvg-name="风云足球" tvg-logo="http://n.ysyz.top:99/buyaolian/cctvfengyunzuqiu.png" group-title="咪咕源",CCTV风云足球
-http://39.136.172.2/hlsztemgsplive.miguvideo.com/ws_v/2018/fyzq/fyzq711/1000/index.m3u8?ProgramID=&encrypt=
-#EXTINF:-1 tvg-id="6584" tvg-name="央视台球" tvg-logo="http://n.ysyz.top:99/buyaolian/cctvtaiqiu.png" group-title="咪咕源",CCTV央视台球
-http://39.136.172.2/hlsztemgsplive.miguvideo.com/ws_v/2018/ystq/ystq711/1000/index.m3u8?ProgramID=&encrypt=
-#EXTINF:-1 tvg-id="6568" tvg-name="高尔夫网球" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE13.jpg" group-title="咪咕源",CCTV高尔夫网球
-http://39.136.172.2/hlsztemgsplive.miguvideo.com/ws_v/2018/gefwq/gefwq711/1000/index.m3u8?ProgramID=&encrypt=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://n.ysyz.top:99/buyaolian/cctvnvxing.png" group-title="咪咕源",CCTV时尚
-http://39.136.172.2/hlsztemgsplive.miguvideo.com/ws_v/2018/nxss/nxss711/1000/index.m3u8?ProgramID=&encrypt=
-#EXTINF:-1 tvg-id="6558" tvg-name="第一剧场" tvg-logo="http://n.ysyz.top:99/buyaolian/cctvdiyijuchang.png" group-title="咪咕源",CCTV第一剧场
-http://39.136.172.2/hlsztemgsplive.miguvideo.com/ws_v/2018/dyjc/dyjc711/1000/index.m3u8?ProgramID=&encrypt=
+
 #EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="咪咕源",CGTN
 http://39.136.172.2/hlsztemgsplive.miguvideo.com/envivo_x/2018/SD/cctvnews/1000/index.m3u8?ProgramID=&encrypt=
 #EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="咪咕源",CGTN纪录
@@ -445,306 +418,9 @@ http://39.136.172.2/hlsztemgsplive.miguvideo.com/wd_r2/2018/ocn/fztd/1000/index.
 http://39.136.172.2/hlsztemgsplive.miguvideo.com/wd_r2/ocn/youxifengyunhd/600/index.m3u8?ProgramID=&encrypt=
 #EXTINF:-1 tvg-id="1976" tvg-name="全纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/quanjishi.png" group-title="咪咕源",全纪实HD
 http://39.136.172.2/hlsztemgsplive.miguvideo.com/wd_r2/ocn/quanjishihd/3000/index.m3u8?ProgramID=&encrypt=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕源",黄金剧场
-http://39.136.172.2/hlsztemgsplive.miguvideo.com/wd_r3/virtuallive/5100172024/50/index.m3u8?ProgramID=&encrypt=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕源",黄金剧场
-http://39.136.172.2/hlsztemgsplive.miguvideo.com/wd_r3/virtuallive/5100172024/75/index.m3u8?ProgramID=&encrypt=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕源",军旅剧场
-http://39.136.172.2/hlsztemgsplive.miguvideo.com/wd_r2/virtuallive/5100180303/50/index.m3u8?ProgramID=&encrypt=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕源",军旅剧场
-http://39.136.172.2/hlsztemgsplive.miguvideo.com/wd_r2/virtuallive/5100180303/75/index.m3u8?ProgramID=&encrypt=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕源",抗战老片
-http://39.136.172.2/hlsztemgsplive.miguvideo.com/wd_r3/virtuallive/5100179384/50/index.m3u8?ProgramID=&encrypt=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕源",抗战老片
-http://39.136.172.2/hlsztemgsplive.miguvideo.com/wd_r3/virtuallive/5100179384/75/index.m3u8?ProgramID=&encrypt=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕源",少林剧场
-http://39.136.172.2/hlsztemgsplive.miguvideo.com/wd_r3/virtuallive/5100179213/50/index.m3u8?ProgramID=&encrypt=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕源",少林剧场
-http://39.136.172.2/hlsztemgsplive.miguvideo.com/wd_r3/virtuallive/5100179213/75/index.m3u8?ProgramID=&encrypt=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕源",喜剧联盟
-http://39.136.172.2/hlsztemgsplive.miguvideo.com/wd_r2/virtuallive/5101097468/50/index.m3u8?ProgramID=&encrypt=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕源",喜剧联盟
-http://39.136.172.2/hlsztemgsplive.miguvideo.com/wd_r2/virtuallive/5101097468/75/index.m3u8?ProgramID=&encrypt=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕源",情感剧场
-http://39.136.172.2/hlsztemgsplive.miguvideo.com/wd_r3/virtuallive/5100179837/50/index.m3u8?ProgramID=&encrypt=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕源",情感剧场
-http://39.136.172.2/hlsztemgsplive.miguvideo.com/wd_r3/virtuallive/5100179837/75/index.m3u8?ProgramID=&encrypt=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕源",精英剧场
-http://39.136.172.2/hlsztemgsplive.miguvideo.com/wd_r3/virtuallive/5102354627/50/index.m3u8?ProgramID=&encrypt=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕源",精英剧场
-http://39.136.172.2/hlsztemgsplive.miguvideo.com/wd_r3/virtuallive/5102354627/75/index.m3u8?ProgramID=&encrypt=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕源",热剧联播
-http://39.136.172.2/hlsztemgsplive.miguvideo.com/wd_r3/cctv/rejulianbo/350/index.m3u8?ProgramID=&encrypt=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕源",热剧联播
-http://39.136.172.2/hlsztemgsplive.miguvideo.com/wd_r3/cctv/rejulianbo/600/index.m3u8?ProgramID=&encrypt=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕源",高清大片
-http://39.136.172.2/hlsztemgsplive.miguvideo.com/wd_r3/cctv/gaoqingdapian/350/index.m3u8?ProgramID=&encrypt=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕源",高清大片
-http://39.136.172.2/hlsztemgsplive.miguvideo.com/wd_r3/cctv/gaoqingdapian/600/index.m3u8?ProgramID=&encrypt=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕源",僵尸剧场
-http://39.136.172.2/hlsztemgsplive.miguvideo.com/wd_r2/virtuallive/5100192783/50/index.m3u8?ProgramID=&encrypt=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕源",僵尸剧场
-http://39.136.172.2/hlsztemgsplive.miguvideo.com/wd_r2/virtuallive/5100192783/75/index.m3u8?ProgramID=&encrypt=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕源",深夜失眠剧场
-http://39.136.172.2/hlsztemgsplive.miguvideo.com/wd_r2/virtuallive/5100181674/50/index.m3u8?ProgramID=&encrypt=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕源",深夜失眠剧场
-http://39.136.172.2/hlsztemgsplive.miguvideo.com/wd_r2/virtuallive/5100181674/75/index.m3u8?ProgramID=&encrypt=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕源",红色谍战剧场
-http://39.136.172.2/hlsztemgsplive.miguvideo.com/wd_r3/virtuallive/5101079524/50/index.m3u8?ProgramID=&encrypt=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕源",红色谍战剧场
-http://39.136.172.2/hlsztemgsplive.miguvideo.com/wd_r3/virtuallive/5101079524/75/index.m3u8?ProgramID=&encrypt=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕源",华视浪漫影院
-http://39.136.172.2/hlsztemgsplive.miguvideo.com/wd_r3/virtuallive/5100172368/50/index.m3u8?ProgramID=&encrypt=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕源",华视浪漫影院
-http://39.136.172.2/hlsztemgsplive.miguvideo.com/wd_r3/virtuallive/5100172368/75/index.m3u8?ProgramID=&encrypt=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕源",每日科幻电影
-http://39.136.172.2/hlsztemgsplive.miguvideo.com/wd_r3/virtuallive/5100172731/50/index.m3u8?ProgramID=&encrypt=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕源",每日科幻电影
-http://39.136.172.2/hlsztemgsplive.miguvideo.com/wd_r3/virtuallive/5100172731/75/index.m3u8?ProgramID=&encrypt=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕源",追剧少女
-http://39.136.172.2/hlsztemgsplive.miguvideo.com/wd-virtuallive5100002089-50/index.m3u8?ProgramID=&encrypt=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕源",追剧少女
-http://39.136.172.2/hlsztemgsplive.miguvideo.com/wd-virtuallive5100002089-75/index.m3u8?ProgramID=&encrypt=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕源",怀旧老片
-http://39.136.172.2/hlsztemgsplive.miguvideo.com/wd_r3/virtuallive/5100074916/50/index.m3u8?ProgramID=&encrypt=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕源",怀旧老片
-http://39.136.172.2/hlsztemgsplive.miguvideo.com/wd_r3/virtuallive/5100074916/75/index.m3u8?ProgramID=&encrypt=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕源",武侠剧场
-http://39.136.172.2/hlsztemgsplive.miguvideo.com/wd_r1/virtuallive/5101000755/50/index.m3u8?ProgramID=&encrypt=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕源",武侠剧场
-http://39.136.172.2/hlsztemgsplive.miguvideo.com/wd_r1/virtuallive/5101000755/75/index.m3u8?ProgramID=&encrypt=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕源",精品网剧
-http://39.136.172.2/hlsztemgsplive.miguvideo.com/wd_r1/virtuallive/5101000751/50/index.m3u8?ProgramID=&encrypt=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕源",精品网剧
-http://39.136.172.2/hlsztemgsplive.miguvideo.com/wd_r1/virtuallive/5101000751/75/index.m3u8?ProgramID=&encrypt=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕源",假期剧场
-http://39.136.172.2/hlsztemgsplive.miguvideo.com/wd_r1/virtuallive/5101000747/50/index.m3u8?ProgramID=&encrypt=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕源",假期剧场
-http://39.136.172.2/hlsztemgsplive.miguvideo.com/wd_r1/virtuallive/5101000747/75/index.m3u8?ProgramID=&encrypt=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕源",国际剧场
-http://39.136.172.2/hlsztemgsplive.miguvideo.com/wd_r3/virtuallive/5100179386/50/index.m3u8?ProgramID=&encrypt=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕源",国际剧场
-http://39.136.172.2/hlsztemgsplive.miguvideo.com/wd_r3/virtuallive/5100179386/75/index.m3u8?ProgramID=&encrypt=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕源",经典频道
-http://39.136.172.2/hlsztemgsplive.miguvideo.com/wd_r3/virtuallive/5100179383/50/index.m3u8?ProgramID=&encrypt=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕源",经典频道
-http://39.136.172.2/hlsztemgsplive.miguvideo.com/wd_r3/virtuallive/5100179383/75/index.m3u8?ProgramID=&encrypt=
-#EXTINF:-1 tvg-id="6638" tvg-name="精品剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/HSJPJC.jpg" group-title="咪咕源",精品剧场
-http://39.136.172.2/hlsztemgsplive.miguvideo.com/wd_r1/2018/wasu/jpjc/350/index.m3u8?ProgramID=&encrypt=
-#EXTINF:-1 tvg-id="6638" tvg-name="精品剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/HSJPJC.jpg" group-title="咪咕源",精品剧场
-http://39.136.172.2/hlsztemgsplive.miguvideo.com/wd_r1/2018/wasu/jpjc/1000/index.m3u8?ProgramID=&encrypt=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕源",高分影院
-http://39.136.172.2/hlsztemgsplive.miguvideo.com/wd_r1/virtuallive/5101000708/50/index.m3u8?ProgramID=&encrypt=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕源",高分影院
-http://39.136.172.2/hlsztemgsplive.miguvideo.com/wd_r1/virtuallive/5101000708/75/index.m3u8?ProgramID=&encrypt=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕源",新片放映厅
-http://39.136.172.2/hlsztemgsplive.miguvideo.com/wd-virtuallive5100030975-50/index.m3u8?ProgramID=&encrypt=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕源",新片放映厅
-http://39.136.172.2/hlsztemgsplive.miguvideo.com/wd-virtuallive5100030975-75/index.m3u8?ProgramID=&encrypt=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕源",华视火爆劲片
-http://39.136.172.2/hlsztemgsplive.miguvideo.com/wd_r3/virtuallive/5100168805/50/index.m3u8?ProgramID=&encrypt=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕源",华视火爆劲片
-http://39.136.172.2/hlsztemgsplive.miguvideo.com/wd_r3/virtuallive/5100168805/75/index.m3u8?ProgramID=&encrypt=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕源",成龙作品集
-http://39.136.172.2/hlsztemgsplive.miguvideo.com/wd_r2/virtuallive/5102010211/50/index.m3u8?ProgramID=&encrypt=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕源",成龙作品集
-http://39.136.172.2/hlsztemgsplive.miguvideo.com/wd_r2/virtuallive/5102010211/75/index.m3u8?ProgramID=&encrypt=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕源",周星驰影院
-http://39.136.172.2/hlsztemgsplive.miguvideo.com/wd_r3/virtuallive/5100144102/50/index.m3u8?ProgramID=&encrypt=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕源",周星驰影院
-http://39.136.172.2/hlsztemgsplive.miguvideo.com/wd_r3/virtuallive/5100144102/75/index.m3u8?ProgramID=&encrypt=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕源",吴京作品集
-http://39.136.172.2/hlsztemgsplive.miguvideo.com/wd_r2/virtuallive/5100180867/50/index.m3u8?ProgramID=&encrypt=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕源",吴京作品集
-http://39.136.172.2/hlsztemgsplive.miguvideo.com/wd_r2/virtuallive/5100180867/75/index.m3u8?ProgramID=&encrypt=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕源",刘德华影院
-http://39.136.172.2/hlsztemgsplive.miguvideo.com/wd_r3/virtuallive/5102354855/50/index.m3u8?&ProgramID=&encrypt=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕源",刘德华影院
-http://39.136.172.2/hlsztemgsplive.miguvideo.com/wd_r3/virtuallive/5102354855/75/index.m3u8?&ProgramID=&encrypt=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕源",经典贺岁片
-http://39.136.172.2/hlsztemgsplive.miguvideo.com/wd_r2/virtuallive/5100181836/50/index.m3u8?ProgramID=&encrypt=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕源",经典贺岁片
-http://39.136.172.2/hlsztemgsplive.miguvideo.com/wd_r2/virtuallive/5100181836/75/index.m3u8?ProgramID=&encrypt=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕源",古天乐影院
-http://39.136.172.2/hlsztemgsplive.miguvideo.com/wd_r1/virtuallive/5101000744/50/index.m3u8?ProgramID=&encrypt=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕源",古天乐影院
-http://39.136.172.2/hlsztemgsplive.miguvideo.com/wd_r1/virtuallive/5101000744/75/index.m3u8?ProgramID=&encrypt=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕源",郭富城影院
-http://39.136.172.2/hlsztemgsplive.miguvideo.com/wd_r2/virtuallive/5102010220/50/index.m3u8?ProgramID=&encrypt=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕源",郭富城影院
-http://39.136.172.2/hlsztemgsplive.miguvideo.com/wd_r2/virtuallive/5102010220/75/index.m3u8?ProgramID=&encrypt=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕源",刘亦菲影视展播
-http://39.136.172.2/hlsztemgsplive.miguvideo.com/wd_r2/virtuallive/5102010221/50/index.m3u8?ProgramID=&encrypt=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕源",刘亦菲影视展播
-http://39.136.172.2/hlsztemgsplive.miguvideo.com/wd_r2/virtuallive/5102010221/75/index.m3u8?ProgramID=&encrypt=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕源",高圆圆影视展播
-http://39.136.172.2/hlsztemgsplive.miguvideo.com/wd-virtuallive5100002172-50/index.m3u8?ProgramID=&encrypt=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕源",高圆圆影视展播
-http://39.136.172.2/hlsztemgsplive.miguvideo.com/wd-virtuallive5100002172-75/index.m3u8?ProgramID=&encrypt=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕源",古力娜扎影视展播
-http://39.136.172.2/hlsztemgsplive.miguvideo.com/wd_r3/virtuallive/5100170828/50/index.m3u8?ProgramID=&encrypt=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕源",古力娜扎影视展播
-http://39.136.172.2/hlsztemgsplive.miguvideo.com/wd_r3/virtuallive/5100170828/75/index.m3u8?ProgramID=&encrypt=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕源",葛优作品集
-http://39.136.172.2/hlsztemgsplive.miguvideo.com/wd_r3/virtuallive/5102354660/50/index.m3u8?ProgramID=&encrypt=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕源",葛优作品集
-http://39.136.172.2/hlsztemgsplive.miguvideo.com/wd_r3/virtuallive/5102354660/75/index.m3u8?ProgramID=&encrypt=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕源",金庸频道
-http://39.136.172.2/hlsztemgsplive.miguvideo.com/wd_r2/virtuallive/5100181876/50/index.m3u8?ProgramID=&encrypt=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕源",金庸频道
-http://39.136.172.2/hlsztemgsplive.miguvideo.com/wd_r2/virtuallive/5100181876/75/index.m3u8?ProgramID=&encrypt=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕源",刘涛作品集
-http://39.136.172.2/hlsztemgsplive.miguvideo.com/wd_r3/virtuallive/5100178547/50/index.m3u8?ProgramID=&encrypt=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕源",刘涛作品集
-http://39.136.172.2/hlsztemgsplive.miguvideo.com/wd_r3/virtuallive/5100178547/75/index.m3u8?ProgramID=&encrypt=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕源",张国荣影院
-http://39.136.172.2/hlsztemgsplive.miguvideo.com/wd_r3/virtuallive/5102354727/50/index.m3u8?ProgramID=&encrypt=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕源",张国荣影院
-http://39.136.172.2/hlsztemgsplive.miguvideo.com/wd_r3/virtuallive/5102354727/75/index.m3u8?ProgramID=&encrypt=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕源",神探狄仁杰
-http://39.136.172.2/hlsztemgsplive.miguvideo.com/wd_r3/virtuallive/5100179816/50/index.m3u8?ProgramID=&encrypt=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕源",神探狄仁杰
-http://39.136.172.2/hlsztemgsplive.miguvideo.com/wd_r3/virtuallive/5100179816/75/index.m3u8?ProgramID=&encrypt=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕源",红楼剧场
-http://39.136.172.2/hlsztemgsplive.miguvideo.com/wd_r3/virtuallive/5100178536/50/index.m3u8?ProgramID=&encrypt=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕源",红楼剧场
-http://39.136.172.2/hlsztemgsplive.miguvideo.com/wd_r3/virtuallive/5100178536/75/index.m3u8?ProgramID=&encrypt=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕源",爱情公寓
-http://39.136.172.2/hlsztemgsplive.miguvideo.com/wd_r2/virtuallive/5100180868/50/index.m3u8?ProgramID=&encrypt=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕源",爱情公寓
-http://39.136.172.2/hlsztemgsplive.miguvideo.com/wd_r2/virtuallive/5100180868/75/index.m3u8?ProgramID=&encrypt=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕源",包青天
-http://39.136.172.2/hlsztemgsplive.miguvideo.com/wd_r3/virtuallive/5100179054/50/index.m3u8?ProgramID=&encrypt=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕源",包青天
-http://39.136.172.2/hlsztemgsplive.miguvideo.com/wd_r3/virtuallive/5100179054/75/index.m3u8?ProgramID=&encrypt=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕源",天龙八部集
-http://39.136.172.2/hlsztemgsplive.miguvideo.com/wd_r2/virtuallive/5100180869/50/index.m3u8?ProgramID=&encrypt=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕源",天龙八部集
-http://39.136.172.2/hlsztemgsplive.miguvideo.com/wd_r2/virtuallive/5100180869/75/index.m3u8?ProgramID=&encrypt=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕源",盗墓方法论
-http://39.136.172.2/hlsztemgsplive.miguvideo.com/wd_r3/virtuallive/5100179159/50/index.m3u8?ProgramID=&encrypt=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕源",盗墓方法论
-http://39.136.172.2/hlsztemgsplive.miguvideo.com/wd_r3/virtuallive/5100179159/75/index.m3u8?ProgramID=&encrypt=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕源",咪咕24小时体育台
-http://39.136.172.2/hlsztemgsplive.miguvideo.com/wd_r2/virtuallive/tysy201903/50/index.m3u8?ProgramID=&encrypt=
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕源",咪咕24小时体育台
 http://39.136.172.2/hlsztemgsplive.miguvideo.com/wd_r2/virtuallive/tysy201903/75/index.m3u8?ProgramID=&encrypt=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕源",综艺现场
-http://39.136.172.2/hlsztemgsplive.miguvideo.com/wd_r3/virtuallive/5100074920/50/index.m3u8?ProgramID=&encrypt=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕源",综艺现场
-http://39.136.172.2/hlsztemgsplive.miguvideo.com/wd_r3/virtuallive/5100074920/75/index.m3u8?ProgramID=&encrypt=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕源",SNH48剧场公演
-http://39.136.172.2/hlsztemgsplive.miguvideo.com/wd-virtuallive5100002043-50/index.m3u8?ProgramID=&encrypt=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕源",SNH48剧场公演
-http://39.136.172.2/hlsztemgsplive.miguvideo.com/wd-virtuallive5100002043-75/index.m3u8?ProgramID=&encrypt=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕源",风尚音乐
-http://39.136.172.2/hlsztemgsplive.miguvideo.com/wd_r1/2018/wasu/fsyy/350/index.m3u8?ProgramID=&encrypt=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕源",风尚音乐
-http://39.136.172.2/hlsztemgsplive.miguvideo.com/wd_r1/2018/wasu/fsyy/1000/index.m3u8?ProgramID=&encrypt=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕源",高清娱乐
-http://39.136.172.2/hlsztemgsplive.miguvideo.com/wd_r1/2018/wasu/zhpd/350/index.m3u8?ProgramID=&encrypt=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕源",高清娱乐
-http://39.136.172.2/hlsztemgsplive.miguvideo.com/wd_r1/2018/wasu/zhpd/1000/index.m3u8?ProgramID=&encrypt=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕源",超级飞侠
-http://39.136.172.2/hlsztemgsplive.miguvideo.com/wd_r2/virtuallive/5102010213/50/index.m3u8?ProgramID=&encrypt=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕源",超级飞侠
-http://39.136.172.2/hlsztemgsplive.miguvideo.com/wd_r2/virtuallive/5102010213/75/index.m3u8?ProgramID=&encrypt=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕源",小猪佩奇
-http://39.136.172.2/hlsztemgsplive.miguvideo.com/wd_r2/virtuallive/5102010216/50/index.m3u8?ProgramID=&encrypt=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕源",小猪佩奇
-http://39.136.172.2/hlsztemgsplive.miguvideo.com/wd_r2/virtuallive/5102010216/75/index.m3u8?ProgramID=&encrypt=
-#EXTINF:-1 tvg-id="6639" tvg-name="少儿动漫" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/HSSEDM.jpg" group-title="咪咕源",少儿动漫
-http://39.136.172.2/hlsztemgsplive.miguvideo.com/wd_r1/2018/wasu/sedm/350/index.m3u8?ProgramID=&encrypt=
-#EXTINF:-1 tvg-id="6639" tvg-name="少儿动漫" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/HSSEDM.jpg" group-title="咪咕源",少儿动漫
-http://39.136.172.2/hlsztemgsplive.miguvideo.com/wd_r1/2018/wasu/sedm/1000/index.m3u8?ProgramID=&encrypt=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕源",快乐儿歌
-http://39.136.172.2/hlsztemgsplive.miguvideo.com/migu/gunbo/5102439680/50/20190827/index.m3u8?ProgramID=&encrypt=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕源",快乐儿歌
-http://39.136.172.2/hlsztemgsplive.miguvideo.com/migu/gunbo/5102439680/51/20190827/index.m3u8?ProgramID=&encrypt=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕源",益智学堂
-http://39.136.172.2/hlsztemgsplive.miguvideo.com/migu/gunbo/5102440005/50/20190827/index.m3u8?ProgramID=&encrypt=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕源",益智学堂
-http://39.136.172.2/hlsztemgsplive.miguvideo.com/migu/gunbo/5102440005/51/20190827/index.m3u8?ProgramID=&encrypt=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕源",梦幻童话
-http://39.136.172.2/hlsztemgsplive.miguvideo.com/migu/gunbo/5102439963/50/20190827/index.m3u8?ProgramID=&encrypt=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕源",梦幻童话
-http://39.136.172.2/hlsztemgsplive.miguvideo.com/migu/gunbo/5102439963/51/20190827/index.m3u8?ProgramID=&encrypt=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕源",英语启蒙
-http://39.136.172.2/hlsztemgsplive.miguvideo.com/migu/gunbo/5102440001/50/20190827/index.m3u8?ProgramID=&encrypt=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕源",英语启蒙
-http://39.136.172.2/hlsztemgsplive.miguvideo.com/migu/gunbo/5102440001/51/20190827/index.m3u8?ProgramID=&encrypt=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕源",BBC独家
-http://39.136.172.2/hlsztemgsplive.miguvideo.com/wd_r3/virtuallive/5101074616/50/index.m3u8?ProgramID=&encrypt=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕源",BBC独家
-http://39.136.172.2/hlsztemgsplive.miguvideo.com/wd_r3/virtuallive/5101074616/75/index.m3u8?ProgramID=&encrypt=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕源",探索纪录
-http://39.136.172.2/hlsztemgsplive.miguvideo.com/wd_r1/2018/wasu/tsjl/350/index.m3u8?ProgramID=&encrypt=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕源",探索纪录
-http://39.136.172.2/hlsztemgsplive.miguvideo.com/wd_r1/2018/wasu/tsjl/1000/index.m3u8?ProgramID=&encrypt=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕源",Discovery王牌节目展播
-http://39.136.172.2/hlsztemgsplive.miguvideo.com/wd_r2/virtuallive/5101098146/50/index.m3u8?ProgramID=&encrypt=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕源",Discovery王牌节目展播
-http://39.136.172.2/hlsztemgsplive.miguvideo.com/wd_r2/virtuallive/5101098146/75/index.m3u8?ProgramID=&encrypt=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕源",CIBN电影综合
-http://39.136.172.2/hlsztemgsplive.miguvideo.com/ws_v/2018/cnbn/cnbn450/350/index.m3u8?ProgramID=&encrypt=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕源",CIBN电影综合
-http://39.136.172.2/hlsztemgsplive.miguvideo.com/ws_v/2018/cnbn/cnbn711/1000/index.m3u8?ProgramID=&encrypt=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕源",CIBN院线大片
-http://39.136.172.2/hlsztemgsplive.miguvideo.com/wd_r4/peoplecn/yuanxiandapian/350/index.m3u8?ProgramID=&encrypt=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕源",CIBN院线大片
-http://39.136.172.2/hlsztemgsplive.miguvideo.com/wd_r4/peoplecn/yuanxiandapian/600/index.m3u8?ProgramID=&encrypt=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕源",CIBN综合
-http://39.136.172.2/hlsztemgsplive.miguvideo.com/wd_r4/peoplecn/xinqidian/350/index.m3u8?ProgramID=&encrypt=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕源",CIBN综合
-http://39.136.172.2/hlsztemgsplive.miguvideo.com/wd_r4/peoplecn/xinqidian/600/index.m3u8?ProgramID=&encrypt=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕源",CIBN文旅中国
-http://39.136.172.2/hlsztemgsplive.miguvideo.com/wd_r4/peoplecn/cibnlvyou/350/index.m3u8?ProgramID=&encrypt=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕源",CIBN文旅中国
-http://39.136.172.2/hlsztemgsplive.miguvideo.com/wd_r4/peoplecn/cibnlvyou/600/index.m3u8?ProgramID=&encrypt=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕源",CIBN真人秀
-http://39.136.172.2/hlsztemgsplive.miguvideo.com/wd_r3/peoplecn/cibnzhenrenxiu/350/index.m3u8?ProgramID=&encrypt=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕源",CIBN真人秀
-http://39.136.172.2/hlsztemgsplive.miguvideo.com/wd_r3/peoplecn/cibnzhenrenxiu/600/index.m3u8?ProgramID=&encrypt=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕源",CIBN艺术院线
-http://39.136.172.2/hlsztemgsplive.miguvideo.com/wd_r3/2018/peoplecn/cibnteadjpd/350/index.m3u8?ProgramID=&encrypt=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕源",CIBN艺术院线
-http://39.136.172.2/hlsztemgsplive.miguvideo.com/wd_r3/2018/peoplecn/cibnteadjpd/1000/index.m3u8?ProgramID=&encrypt=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕源",CIBN纪录片
-http://39.136.172.2/hlsztemgsplive.miguvideo.com/wd_r3/2018/peoplecn/cibnjlpd/350/index.m3u8?ProgramID=&encrypt=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕源",CIBN纪录片
-http://39.136.172.2/hlsztemgsplive.miguvideo.com/wd_r3/2018/peoplecn/cibnjlpd/1000/index.m3u8?ProgramID=&encrypt=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕源",CIBN炫佳动漫
-http://39.136.172.2/hlsztemgsplive.miguvideo.com/wd_r3/2018/peoplecn/cibndmpd/350/index.m3u8?ProgramID=&encrypt=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕源",CIBN炫佳动漫
-http://39.136.172.2/hlsztemgsplive.miguvideo.com/wd_r3/2018/peoplecn/cibndmpd/1000/index.m3u8?ProgramID=&encrypt=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕源",CIBN童学世界
-http://39.136.172.2/hlsztemgsplive.miguvideo.com/wd_r3/2018/peoplecn/cibnrbjc/350/index.m3u8?ProgramID=&encrypt=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕源",CIBN童学世界
-http://39.136.172.2/hlsztemgsplive.miguvideo.com/wd_r3/2018/peoplecn/cibnrbjc/1000/index.m3u8?ProgramID=&encrypt=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕源",CIBN流金岁月
-http://39.136.172.2/hlsztemgsplive.miguvideo.com/wd_r4/peoplecn/cibnshoucang/350/index.m3u8?ProgramID=&encrypt=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕源",CIBN流金岁月
-http://39.136.172.2/hlsztemgsplive.miguvideo.com/wd_r4/peoplecn/cibnshoucang/600/index.m3u8?ProgramID=&encrypt=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕源",CIBN风尚运动
-http://39.136.172.2/hlsztemgsplive.miguvideo.com/migu/kailu/cibnfsyd/50/20191029/index.m3u8?ProgramID=&encrypt=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕源",CIBN风尚运动
-http://39.136.172.2/hlsztemgsplive.miguvideo.com/migu/kailu/cibnfsyd/51/20191029/index.m3u8?ProgramID=&encrypt=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕源",CIBN经典剧场
-http://39.136.172.2/hlsztemgsplive.miguvideo.com/wd_r3/peoplecn/cibnjingdianjuchang/350/index.m3u8?ProgramID=&encrypt=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕源",CIBN经典剧场
-http://39.136.172.2/hlsztemgsplive.miguvideo.com/wd_r3/peoplecn/cibnjingdianjuchang/600/index.m3u8?ProgramID=&encrypt=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕源",CIBN斗牛财经
-http://39.136.172.2/hlsztemgsplive.miguvideo.com/migu/kailu/cibndncj/50/20191029/index.m3u8?ProgramID=&encrypt=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕源",CIBN斗牛财经
-http://39.136.172.2/hlsztemgsplive.miguvideo.com/migu/kailu/cibndncj/51/20191029/index.m3u8?ProgramID=&encrypt=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕源",CIBN微电影
-http://39.136.172.2/hlsztemgsplive.miguvideo.com/wd_r4/peoplecn/cibnweimovie/350/index.m3u8?ProgramID=&encrypt=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕源",CIBN微电影
-http://39.136.172.2/hlsztemgsplive.miguvideo.com/wd_r4/peoplecn/cibnweimovie/600/index.m3u8?ProgramID=&encrypt=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕源",CIBN骄阳剧场
-http://39.136.172.2/hlsztemgsplive.miguvideo.com/ws_v/2018/cibnjdjc/cibnjdjc450/350/index.m3u8?ProgramID=&encrypt=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕源",CIBN骄阳剧场
-http://39.136.172.2/hlsztemgsplive.miguvideo.com/ws_v/2018/cibnjdjc/cibnjdjc711/1000/index.m3u8?ProgramID=&encrypt=
 
 
 
@@ -4143,7 +3819,5 @@ https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_ea
 https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_channel_islands/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
 #EXTINF:-1 tvg-id="BBCOne.uk" tvg-logo="https://s1.ax1x.com/2022/03/20/qVDkjO.png" group-title="英国IP观看",BBC One West Midlands
 https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_west_midlands/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
-
-
 
 
